@@ -3,113 +3,141 @@
 	"**Map by: Hannibal [SPA] (Rafuron)**"
 	{
 		"default"		"**Map by: Hannibal [SPA] (Rafuron)**"
+		"ru"		"**Карта создана: Hannibal [SPA] (Rafuron) | Русский перевод от Broccoli**"
 	}
 	"**Bring the ring to Khazad-Dum bridge to win easily**"
 	{
 		"default"		"**Bring the ring to Khazad-Dum bridge to win easily**"
+		"ru"		"**Принесите кольцо на мост Казад-Дум, чтобы облегчить победу**"
 	}
 	"**The ring has been picked!**"
 	{
 		"default"		"**The ring has been picked!**"
+		"ru"		"**Кольцо подобрано!**"
 	}
 	"**Gandalf staff has been picked!**"
 	{
 		"default"		"**Gandalf staff has been picked!**"
+		"ru"		"**Посох Гэндальфа подобран!**"
 	}
 	"**Saruman staff has been picked!**"
 	{
 		"default"		"**Saruman staff has been picked!**"
+		"ru"		"**Посох Сарумана подобран!**"
 	}
 	"**Humans have reached Balin's tomb! Resist 55 s**"
 	{
 		"default"		"**Humans have reached Balin's tomb! Resist 55 s**"
+		"ru"		"**Люди добрались до могилы Балина! Продержитесь 55 секунд**"
 	}
 	"**Balin's door closing in 10 s**"
 	{
 		"default"		"**Balin's door closing in 10 s**"
+		"ru"		"**Дверь к могиле Балина закроется через 10 секунд**"
 	}
 	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
 	{
 		"default"		"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+		"ru"		"**Первая антиАФК система активируется через 15сек**"
 	}
 	"**Resist 30 s**"
 	{
 		"default"		"**Resist 30 s**"
+		"ru"		"**Обороняйтесь 30 секунд**"
 	}
 	"**Resist 15 s**"
 	{
 		"default"		"**Resist 15 s**"
+		"ru"		"**Обороняйтесь 15 секунд**"
 	}
 	"**Go to the Khazad-Dum bridge!**"
 	{
 		"default"		"**Go to the Khazad-Dum bridge!**"
+		"ru"		"**Бегите к мосту Казад-Дум!**"
 	}
 	"**Stay in the circle! Zombies can't go in!**"
 	{
 		"default"		"**Stay in the circle! Zombies can't go in!**"
+		"ru"		"**Стойте в круге! Зомби не смогут туда войти!**"
 	}
 	"** Protection ring will close in 15 s **"
 	{
 		"default"		"** Protection ring will close in 15 s **"
+		"ru"		"** Защитное кольцо закроется через 15 секунд **"
 	}
 	"** ... **"
 	{
 		"default"		"** ... **"
+		"ru"		"** ... **"
 	}
 	"** Moria is unstable! Run towards the stairs in  **"
 	{
 		"default"		"** Moria is unstable! Run towards the stairs in  **"
+		"ru"		"** Мория нестабильна! Бегите к лестнице **"
 	}
 	"**5**"
 	{
 		"default"		"**5**"
+		"ru"		"**5**"
 	}
 	"**4**"
 	{
 		"default"		"**4**"
+		"ru"		"**4**"
 	}
 	"**3**"
 	{
 		"default"		"**3**"
+		"ru"		"**3**"
 	}
 	"**2**"
 	{
 		"default"		"**2**"
+		"ru"		"**2**"
 	}
 	"**1**"
 	{
 		"default"		"**1**"
+		"ru"		"**1**"
 	}
 	"**Go!**"
 	{
 		"default"		"**Go!**"
+		"ru"		"**Бегите!**"
 	}
 	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
 	{
 		"default"		"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+		"ru"		"**Вторая антиАФК система активируется через 15сек**"
 	}
 	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
 	{
 		"default"		"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+		"ru"		"**Поздравляем! Кольцо достигло Казад-Дума! Деревянные мосты разрушены**"
 	}
 	"**(Zombies) The door to Khazad-Dum bridge is now open**"
 	{
 		"default"		"**(Zombies) The door to Khazad-Dum bridge is now open**"
+		"ru"		"**(Зомби) Дверь к мосту Казад-Дум теперь открыта.**"
 	}
 	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
 	{
 		"default"		"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+		"ru"		"**Последняя антиАФК система активируется через 15сек**"
 	}
 	"**Gandalf in the middle**"
 	{
 		"default"		"**Gandalf in the middle**"
+		"ru"		"**Гэндальф в центре моста**"
 	}
 	"**Protect Gandalf during 35s! He must break the bridge! **"
 	{
 		"default"		"**Protect Gandalf during 35s! He must break the bridge! **"
+		"ru"		"**Защищайте Гэндальфа в течение 35сек! Он должен уничтожить мост! **"
 	}
 	"**Gandalf is dead!**"
 	{
 		"default"		"**Gandalf is dead!**"
+		"ru"		"**Гэндальф мертв!**"
 	}
 }
