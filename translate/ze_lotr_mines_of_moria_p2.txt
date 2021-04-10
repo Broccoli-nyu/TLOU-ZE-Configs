@@ -38,7 +38,7 @@
 	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
 	{
 		"default"		"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
-		"ru"		"**Первая антиАФК система активируется через 15сек**"
+		"ru"		"**Балрог прибудет на спавн и на зону лестниц через 15сек**"
 	}
 	"**Resist 30 s**"
 	{
@@ -108,7 +108,7 @@
 	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
 	{
 		"default"		"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
-		"ru"		"**Вторая антиАФК система активируется через 15сек**"
+		"ru"		"**Балрог прибудет к могиле Балина и к зоне Колонн через 15сек**"
 	}
 	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
 	{
@@ -123,7 +123,7 @@
 	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
 	{
 		"default"		"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
-		"ru"		"**Последняя антиАФК система активируется через 15сек**"
+		"ru"		"**Балрог прибудет к зоне главной лестницы через 15сек**"
 	}
 	"**Gandalf in the middle**"
 	{
