@@ -3,10 +3,12 @@
 	"*** STAGE I ***"
 	{
 		"default"		"*** STAGE I ***"
+		"ru"		"*** УРОВЕНЬ I ***"
 	}
 	"*** Defend for 30 seconds! ***"
 	{
 		"default"		"*** Defend for 30 seconds! ***"
+		"ru"		"*** Держите оборону в течение 30 секунд! ***"
 	}
 	"*** 5 seconds left ***"
 	{
@@ -16,141 +18,176 @@
 	"*** Sacrificial Orb has been acquired ***"
 	{
 		"default"		"*** Sacrificial Orb has been acquired ***"
+		"ru"		"*** Жертвенная Сфера была получена ***"
 	}
 	"*** Eye of the Storm has been acquired ***"
 	{
 		"default"		"*** Eye of the Storm has been acquired ***"
+		"ru"		"*** Глаз Бури был получен ***"
 	}
 	"*** Lift is leaving in 30 seconds ***"
 	{
 		"default"		"*** Lift is leaving in 30 seconds ***"
+		"ru"		"*** Лифт отправляется через 30 секунд ***"
 	}
 	"*** Defend for 20 seconds! ***"
 	{
 		"default"		"*** Defend for 20 seconds! ***"
+		"ru"		"*** Защищайте позицию в течение 20 секунд! ***"
 	}
 	"*** Orange Launcher has been acquired ***"
 	{
 		"default"		"*** Orange Launcher has been acquired ***"
+		"ru"		"*** Апельсиномёт был получен ***"
 	}
 	"*** Melon Launcher has been acquired ***"
 	{
 		"default"		"*** Melon Launcher has been acquired ***"
+		"ru"		"*** Арбузомёт был получен ***"
 	}
 	"*** Nuke in 1 minute ***"
 	{
 		"default"		"*** Nuke in 1 minute ***"
+		"ru"		"*** Взрыв через 1 минуту ***"	
 	}
 	"*** Final door is opening in 10 seconds ***"
 	{
 		"default"		"*** Final door is opening in 10 seconds ***"
+		"ru"		"*** Финальная дверь откроется через 10 секунд ***"
 	}
 	"*** Nuke in 10 seconds ***"
 	{
 		"default"		"*** Nuke in 10 seconds ***"
+		"ru"		"*** Взрыв через 10 секунд ***"
 	}
 	"*** Stage failed! ***"
 	{
 		"default"		"*** Stage failed! ***"
+                "ru"		"*** Уровень провален! ***"
 	}
 	"*** Stage completed! ***"
 	{
 		"default"		"*** Stage completed! ***"
+	        "ru"		"*** Уровень пройден! ***"
 	}
 	"*** STAGE II ***"
 	{
 		"default"		"*** STAGE II ***"
+                "ru"		"*** УРОВЕНЬ II ***"
 	}
 	"*** Defend for 25 seconds! ***"
 	{
 		"default"		"*** Defend for 25 seconds! ***"
+		"ru"		"*** Держите оборону в течение 25 секунд! ***"
 	}
 	"*** Defend for 35 seconds! ***"
 	{
 		"default"		"*** Defend for 35 seconds! ***"
+		"ru"		"*** Держите оборону в течение 35 секунд! ***"
 	}
 	"*** Defend while one person calls the lift! ***"
 	{
 		"default"		"*** Defend while one person calls the lift! ***"
+		"ru"		"*** Обороняйтесь пока один человек активирует лифт! ***"
 	}
 	"*** Lift is leaving in 10 seconds ***"
 	{
 		"default"		"*** Lift is leaving in 10 seconds ***"
+		"ru"		"*** Лифт отправляется через 10 секунд ***"
 	}
 	"*** STAGE III ***"
 	{
 		"default"		"*** STAGE III ***"
+		"ru"		"*** УРОВЕНЬ III ***"
 	}
 	"*** Defend for 45 seconds! ***"
 	{
 		"default"		"*** Defend for 45 seconds! ***"
+		"ru"		"*** Обороняйтесь в течение 45 секунд! ***"
 	}
 	"*** Water is rising in 10 seconds ***"
 	{
 		"default"		"*** Water is rising in 10 seconds ***"
+		"ru"		"*** Вода поднимется через 10 секунд ***"
 	}
 	"*** Nuke in 2 minutes ***"
 	{
 		"default"		"*** Nuke in 2 minutes ***"
+                "ru"		"*** Взрыв через 2 минуты ***"
 	}
 	"*** Zombies have been teleported. Prepare to charge! ***"
 	{
 		"default"		"*** Zombies have been teleported. Prepare to charge! ***"
+		"ru"		"*** Зомби были телепортированы. Приготовьтесь стрелять! ***"
 	}
 	"*** STAGE IV ***"
 	{
 		"default"		"*** STAGE IV ***"
+		"ru"		"*** УРОВЕНЬ IV ***"
 	}
 	"*** Top door is breaking in 20 seconds ***"
 	{
 		"default"		"*** Top door is breaking in 20 seconds ***"
+		"ru"		"*** Верхняя дверь сломается через 20 секунд ***"
 	}
 	"*** Bottom door is breaking in 10 seconds ***"
 	{
 		"default"		"*** Bottom door is breaking in 10 seconds ***"
+		"ru"		"*** Нижняя дверь сломается через 10 секунд ***"
 	}
 	"*** Defend for 60 seconds! ***"
 	{
 		"default"		"*** Defend for 60 seconds! ***"
+		"ru"		"*** Обороняйтесь в течение 60 секунд! ***"
 	}
 	"*** The dragon has been defeated. Keep defending the bridge! ***"
 	{
 		"default"		"*** The dragon has been defeated. Keep defending the bridge! ***"
+		"ru"		"*** Дракон побежден. Продолжайте защищать мост! ***"
 	}
 	"*** STAGE V ***"
 	{
 		"default"		"*** STAGE V ***"
+		"ru"		"*** УРОВЕНЬ V ***"
 	}
 	"*** Teleporting humans in 10 seconds ***"
 	{
 		"default"		"*** Teleporting humans in 10 seconds ***"
+		"ru"		"*** Телепортация людей через 10 секунд ***"
 	}
 	"*** Defend all 3 statues. Do not let zombies near! ***"
 	{
 		"default"		"*** Defend all 3 statues. Do not let zombies near! ***"
+		"ru"		"*** Защитите все 3 статуи. Не подпускайте к ним зомби! ***"
 	}
 	"*** Teleporting zombies in 10 seconds ***"
 	{
 		"default"		"*** Teleporting zombies in 10 seconds ***"
+		"ru"		"*** Телепортация зомби через 10 секунд ***"
 	}
 	"*** 3 minutes left ***"
 	{
 		"default"		"*** 3 minutes left ***"
+		"ru"		"*** Осталось 3 минуты ***"
 	}
 	"*** 2 minutes left ***"
 	{
 		"default"		"*** 2 minutes left ***"
+		"ru"		"*** Осталось 2 минуты ***"
 	}
 	"*** 1 minute left ***"
 	{
 		"default"		"*** 1 minute left ***"
+		"ru"		"*** Осталась 1 минута ***"
 	}
 	"*** 10 seconds left ***"
 	{
 		"default"		"*** 10 seconds left ***"
+		"ru"		"*** Осталось 10 секунд ***"
 	}
 	"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
 	{
 		"default"		"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
+		"ru"		"*** Поздравляю! Вы прошли ZE_SUNLIGHT! | Русский перевод от Broccoli ***"
 	}
 }
