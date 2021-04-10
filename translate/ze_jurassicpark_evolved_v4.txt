@@ -3,41 +3,51 @@
 	"** The gate will open in 35 seconds **"
 	{
 		"default"		"** The gate will open in 35 seconds **"
+		"ru"		"** Ворота откроются через 35 секунд **"
 	}
 	"** Get Ready **"
 	{
 		"default"		"** Get Ready **"
+		"ru"		"** Приготовьтесь **"
 	}
 	"** Run! **"
 	{
 		"default"		"** Run! **"
+		"ru"		"** Бегите! **"
 	}
 	"** Looks like the Van is broken **"
 	{
 		"default"		"** Looks like the Van is broken **"
+		"ru"		"** Похоже, фургон сломан **"
 	}
 	"** Generator override enabled **"
 	{
 		"default"		"** Generator override enabled **"
+		"ru"		"** Включено переопределение генератора **"
 	}
 	"** Power has been lost to Jurassic Park **"
 	{
 		"default"		"** Power has been lost to Jurassic Park **"
+		"ru"		"** Отключилось электричество в Парке Юрского Периода **"
 	}
 	"** Call the mainland - Tell them to send the damn helicopter! **"
 	{
 		"default"		"** Call the mainland - Tell them to send the damn helicopter! **"
+		"ru"		"** Позвони на материк - скажи, чтобы прислали чертов вертолет! **"
 	}
 	"** SECURE THE AREA ** "
 	{
 		"default"		"** SECURE THE AREA ** "
+		"ru"		"** Защищайте эту позицию ** "
 	}
 	"** Get ready to move! **"
 	{
 		"default"		"** Get ready to move! **"
+		"ru"		"** Приготовьтесь к оступлению! **"
 	}
 	"** Nerve gas released ** "
 	{
 		"default"		"** Nerve gas released ** "
+		"ru"		"** Нервно-паралитический газ выпущен ** "
 	}
 }
