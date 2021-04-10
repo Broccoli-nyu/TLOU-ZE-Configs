@@ -3,17 +3,21 @@
 	"*** BOAT EVACUATION ***"
 	{
 		"default"		"*** BOAT EVACUATION ***"
+		"ru"		"*** ЭВАКУАЦИЯ НА ЛОДКЕ ***"
 	}
 	"*** HELICOPTER EVACUATION ***"
 	{
 		"default"		"*** HELICOPTER EVACUATION ***"
+		"ru"		"*** ЭВАКУАЦИЯ НА ВЕРТОЛЕТЕ ***"
 	}
 	"*** TRAIN EVACUATION ***"
 	{
 		"default"		"*** TRAIN EVACUATION ***"
+		"ru"		"*** ЭВАКУАЦИЯ НА ПОЕЗДЕ ***"
 	}
 	"*** TRUCK EVACUATION ***"
 	{
 		"default"		"*** TRUCK EVACUATION ***"
+		"ru"		"*** ЭВАКУАЦИЯ НА ГРУЗОВИКЕ ***"
 	}
 }
