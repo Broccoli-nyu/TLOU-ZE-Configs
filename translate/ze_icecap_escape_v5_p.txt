@@ -3,109 +3,136 @@
 	"***Tram leaving in 10secs.***"
 	{
 		"default"		"***Tram leaving in 10secs.***"
+		"ru"		"***Трамвайчик отправляется через 10 сек.***"
 	}
 	"***Boat 1 leaving in 10secs.***"
 	{
 		"default"		"***Boat 1 leaving in 10secs.***"
+		"ru"		"***Лодка 1 отправляется через 10 сек.***"
 	}
 	"***Boat 2 leaving in 5secs.***"
 	{
 		"default"		"***Boat 2 leaving in 5secs.***"
+		"ru"		"***Лодка 2 отправляется через 5 сек.***"
 	}
 	"***Bobsled leaving in 5secs.***"
 	{
 		"default"		"***Bobsled leaving in 5secs.***"
+		"ru"		"***Бобслей отправляется через 5сек.***"
 	}
 	"***Boat 3 leaving in 10secs.***"
 	{
 		"default"		"***Boat 3 leaving in 10secs.***"
+		"ru"		"***Лодка 3 отправляется через 10сек.***"
 	}
 	"***Boat 4 leaving in 10secs.***"
 	{
 		"default"		"***Boat 4 leaving in 10secs.***"
+		"ru"		"***Лодка 4 отправляется через 10сек.***"
 	}
 	"***First shortcuts opening in 15secs.***"
 	{
 		"default"		"***First shortcuts opening in 15secs.***"
+		"ru"		"***Первый короткий путь откроется через 15сек.***"
 	}
 	"***Ice Wall breaking in 10secs.***"
 	{
 		"default"		"***Ice Wall breaking in 10secs.***"
+		"ru"		"***Ледяная Стена сломается через 10 сек.***"
 	}
 	"***...WashTub leaving in 3secs...***"
 	{
 		"default"		"***...WashTub leaving in 3secs...***"
+		"ru"		"***...Корыто отправляется через 3 сек...***"
 	}
 	"***Final Boat leaving in 75secs.***"
 	{
 		"default"		"***Final Boat leaving in 75secs.***"
+		"ru"		"***Последняя Лодка отправляется через 75 сек.***"
 	}
 	"***WashTub leaving in 65secs.***"
 	{
 		"default"		"***WashTub leaving in 65secs.***"
+		"ru"		"***Корыто отправляется через 65 сек.***"
 	}
 	"***Second shortcuts opening in 15secs.***"
 	{
 		"default"		"***Second shortcuts opening in 15secs.***"
+		"ru"		"***Второй короткий путь откроется через 15 сек.***"
 	}
 	"***WashTub leaving in 30secs.***"
 	{
 		"default"		"***WashTub leaving in 30secs.***"
+		"ru"		"***Корыто отправляется через 30 сек.***"
 	}
 	"***Final Boat leaving in 30secs.***"
 	{
 		"default"		"***Final Boat leaving in 30secs.***"
+		"ru"		"***Последняя Лодка отправляется через 30 сек.***"
 	}
 	"***Gate opening in 75secs.***"
 	{
 		"default"		"***Gate opening in 75secs.***"
+		"ru"		"***Ворота откроются через 75 сек.***"
 	}
 	"***WashTub leaving in 5secs.***"
 	{
 		"default"		"***WashTub leaving in 5secs.***"
+		"ru"		"***Корыто отправляется через 5 сек.***"
 	}
 	"***Final Boat leaving in 5secs.***"
 	{
 		"default"		"***Final Boat leaving in 5secs.***"
+		"ru"		"***Последняя Лодка отправляется через 5 сек.***"
 	}
 	"***Gate opening in 30secs.***"
 	{
 		"default"		"***Gate opening in 30secs.***"
+		"ru"		"***Ворота откроются через 30 сек.***"
 	}
 	"***Nuke in 10secs.***"
 	{
 		"default"		"***Nuke in 10secs.***"
+		"ru"		"***Взрыв через 10 сек.***"
 	}
 	"***Helicopter leaving in 5secs.***"
 	{
 		"default"		"***Helicopter leaving in 5secs.***"
+		"ru"		"***Вертолет отправляется через 5 сек.***"
 	}
 	"***Gate opening in 5secs.***"
 	{
 		"default"		"***Gate opening in 5secs.***"
+		"ru"		"***Ворота откроются через 5 сек.***"
 	}
 	"***5***"
 	{
 		"default"		"***5***"
+		"ru"		"***5***"
 	}
 	"***4***"
 	{
 		"default"		"***4***"
+		"ru"		"***4***"
 	}
 	"***3***"
 	{
 		"default"		"***3***"
+		"ru"		"***3***"
 	}
 	"***2***"
 	{
 		"default"		"***2***"
+		"ru"		"***2***"
 	}
 	"***Start up the Helicopter.***"
 	{
 		"default"		"***Start up the Helicopter.***"
+		"ru"		"***Запустите Вертолет.***"
 	}
 	"***1***"
 	{
 		"default"		"***1***"
+		"ru"		"***1***"
 	}
 }
