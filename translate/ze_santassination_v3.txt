@@ -1,0 +1,1079 @@
+"Chat"
+{
+	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	{
+		"default"		"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	}
+	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	{
+		"default"		"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	}
+	"***TRUMP IS PROUD OF YOU***"
+	{
+		"default"		"***TRUMP IS PROUD OF YOU***"
+	}
+	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
+	{
+		"default"		"***ROCK WALL WILL BREAK IN 15 SECONDS***"
+	}
+	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
+	{
+		"default"		"***ROCK WALL WILL BREAK IN 5 SECONDS***"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"***FALL BACK***"
+	}
+	"***PLAYER PICKED UP ITEM - SPEEDER***"
+	{
+		"default"		"***PLAYER PICKED UP ITEM - SPEEDER***"
+	}
+	"***SOMETHING IS COMING...***"
+	{
+		"default"		"***SOMETHING IS COMING...***"
+	}
+	"***RUN***"
+	{
+		"default"		"***RUN***"
+	}
+	"***GET UP ON THAT ROCK***"
+	{
+		"default"		"***GET UP ON THAT ROCK***"
+	}
+	"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	{
+		"default"		"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	}
+	"***SKIPPING CUTSCENE***"
+	{
+		"default"		"***SKIPPING CUTSCENE***"
+	}
+	"***YOU SICK BASTARDS...***"
+	{
+		"default"		"***YOU SICK BASTARDS...***"
+	}
+	"***PROLOGUE COMPLETE***"
+	{
+		"default"		"***PROLOGUE COMPLETE***"
+	}
+	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
+	{
+		"default"		"***SNOW WALL WILL BREAK IN 10 SECONDS***"
+	}
+	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
+	{
+		"default"		"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
+	}
+	"***DRAWBRIDGE IS DRAWING***"
+	{
+		"default"		"***DRAWBRIDGE IS DRAWING***"
+	}
+	"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
+	{
+		"default"		"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
+	}
+	"***DRAWBRIDGE HAS BEEN DRAWED***"
+	{
+		"default"		"***DRAWBRIDGE HAS BEEN DRAWED***"
+	}
+	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
+	{
+		"default"		"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
+	}
+	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"default"		"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
+	}
+	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
+	{
+		"default"		"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
+	}
+	"***SEWER BLASTDOOR IS OPENING***"
+	{
+		"default"		"***SEWER BLASTDOOR IS OPENING***"
+	}
+	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
+	{
+		"default"		"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
+	}
+	"U WOT M8"
+	{
+		"default"		"U WOT M8"
+	}
+	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"default"		"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	}
+	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"default"		"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	}
+	"***INCEST***"
+	{
+		"default"		"***INCEST***"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"default"		"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	}
+	"***WINCEST***"
+	{
+		"default"		"***WINCEST***"
+	}
+	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
+	{
+		"default"		"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"default"		"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"default"		"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"default"		"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
+	}
+	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"default"		"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
+	}
+	"***STEELWORKS DOOR IS OPENING***"
+	{
+		"default"		"***STEELWORKS DOOR IS OPENING***"
+	}
+	"***PLAYER PICKED UP ITEM - MINI CANNON***"
+	{
+		"default"		"***PLAYER PICKED UP ITEM - MINI CANNON***"
+	}
+	"***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***"
+	{
+		"default"		"***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***"
+	}
+	"***STEELWORKS DOOR IS CLOSING***"
+	{
+		"default"		"***STEELWORKS DOOR IS CLOSING***"
+	}
+	"***THE BEAVERS ARE COMING***"
+	{
+		"default"		"***THE BEAVERS ARE COMING***"
+	}
+	"***THE BEAVERS ARE AGRESSIVE***"
+	{
+		"default"		"***THE BEAVERS ARE AGRESSIVE***"
+	}
+	"***THAT SEEMS TO BE THE LAST OF THEM***"
+	{
+		"default"		"***THAT SEEMS TO BE THE LAST OF THEM***"
+	}
+	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"default"		"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
+	}
+	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"default"		"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
+	}
+	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
+	{
+		"default"		"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
+	}
+	"***LASER SHUTDOWN IN 20 SECONDS***"
+	{
+		"default"		"***LASER SHUTDOWN IN 20 SECONDS***"
+	}
+	"***LASER SHUTDOWN IN 5 SECONDS***"
+	{
+		"default"		"***LASER SHUTDOWN IN 5 SECONDS***"
+	}
+	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
+	{
+		"default"		"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
+	}
+	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"default"		"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	}
+	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"default"		"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	}
+	"***ELEVATOR OPENS IN 15 SECONDS***"
+	{
+		"default"		"***ELEVATOR OPENS IN 15 SECONDS***"
+	}
+	"***ELEVATOR DOOR IS OPEN***"
+	{
+		"default"		"***ELEVATOR DOOR IS OPEN***"
+	}
+	"***ELEVATOR LEAVES IN 5 SECONDS***"
+	{
+		"default"		"***ELEVATOR LEAVES IN 5 SECONDS***"
+	}
+	"***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***"
+	{
+		"default"		"***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***"
+	}
+	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
+	{
+		"default"		"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
+	}
+	"***FINAL ELEVATOR DOOR IS CLOSING***"
+	{
+		"default"		"***FINAL ELEVATOR DOOR IS CLOSING***"
+	}
+	"***ACT 1 COMPLETE***"
+	{
+		"default"		"***ACT 1 COMPLETE***"
+	}
+	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"default"		"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	}
+	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
+	{
+		"default"		"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
+	}
+	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
+	{
+		"default"		"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
+	}
+	"***LEFT PRIMAL ELEVATOR IS LEAVING***"
+	{
+		"default"		"***LEFT PRIMAL ELEVATOR IS LEAVING***"
+	}
+	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"default"		"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	}
+	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"default"		"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
+	}
+	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
+	{
+		"default"		"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
+	}
+	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"default"		"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"default"		"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***"
+	}
+	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
+	{
+		"default"		"***PLAYER PICKED UP ITEM - BEAM CANNON***"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
+	{
+		"default"		"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
+	}
+	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS*** "
+	{
+		"default"		"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS*** "
+	}
+	"***SECRET SANTA CHAPEL DOOR IS OPENING*** "
+	{
+		"default"		"***SECRET SANTA CHAPEL DOOR IS OPENING*** "
+	}
+	"***THE PIZZA IS AGGRESSIVE***"
+	{
+		"default"		"***THE PIZZA IS AGGRESSIVE***"
+	}
+	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
+	{
+		"default"		"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
+	}
+	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
+	{
+		"default"		"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
+	}
+	"***GOOD LUCK***"
+	{
+		"default"		"***GOOD LUCK***"
+	}
+	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
+	{
+		"default"		"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
+	}
+	"***YOU MAY NOW ENTER***"
+	{
+		"default"		"***YOU MAY NOW ENTER***"
+	}
+	"***HEAD TOWARDS SANTA'S FACTORY***"
+	{
+		"default"		"***HEAD TOWARDS SANTA'S FACTORY***"
+	}
+	"***BE PREPARED FOR ANYTHING***"
+	{
+		"default"		"***BE PREPARED FOR ANYTHING***"
+	}
+	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"default"		"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
+	}
+	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
+	}
+	"***SANTA FACTORY DOOR IS OPENING***"
+	{
+		"default"		"***SANTA FACTORY DOOR IS OPENING***"
+	}
+	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"default"		"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
+	}
+	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
+	{
+		"default"		"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
+	}
+	"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
+	{
+		"default"		"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
+	}
+	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***MAJOR FACE WALL WENT BOOM***"
+	{
+		"default"		"***MAJOR FACE WALL WENT BOOM***"
+	}
+	"***SMELL THE DANK MIXTAPE***"
+	{
+		"default"		"***SMELL THE DANK MIXTAPE***"
+	}
+	"***MAIN ELEVATOR IS LEAVING***"
+	{
+		"default"		"***MAIN ELEVATOR IS LEAVING***"
+	}
+	"***THE MIXTAPE IS OUT OF CONTROL***"
+	{
+		"default"		"***THE MIXTAPE IS OUT OF CONTROL***"
+	}
+	"***HITLERS TEETH ARE NOW BROKEN***"
+	{
+		"default"		"***HITLERS TEETH ARE NOW BROKEN***"
+	}
+	"***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
+	{
+		"default"		"***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
+	}
+	"***NAZI NIPPLE***"
+	{
+		"default"		"***NAZI NIPPLE***"
+	}
+	"***BLACK HOLE***"
+	{
+		"default"		"***BLACK HOLE***"
+	}
+	"***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***"
+	{
+		"default"		"***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***"
+	}
+	"***GLASS WILL BREAK IN 5 SECONDS***"
+	{
+		"default"		"***GLASS WILL BREAK IN 5 SECONDS***"
+	}
+	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
+	{
+		"default"		"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
+	}
+	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
+	{
+		"default"		"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
+	}
+	"***20 SECONDS UNTIL DEPARTURE***"
+	{
+		"default"		"***20 SECONDS UNTIL DEPARTURE***"
+	}
+	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
+	{
+		"default"		"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
+	}
+	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
+	{
+		"default"		"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
+	}
+	"***5 SECONDS UNTIL DEPARTURE***"
+	{
+		"default"		"***5 SECONDS UNTIL DEPARTURE***"
+	}
+	"***THE BURRITO SHITTER IS DEPARTING***"
+	{
+		"default"		"***THE BURRITO SHITTER IS DEPARTING***"
+	}
+	"***NEXT STOP - ILLEGALITY***"
+	{
+		"default"		"***NEXT STOP - ILLEGALITY***"
+	}
+	"***PUNISHING EDGERS WITH BURRITO LOVE***"
+	{
+		"default"		"***PUNISHING EDGERS WITH BURRITO LOVE***"
+	}
+	"***MAGIC ZOMBIE PUSH IS DISABLED***"
+	{
+		"default"		"***MAGIC ZOMBIE PUSH IS DISABLED***"
+	}
+	"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
+	{
+		"default"		"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
+	}
+	"***FACTORY DOOR OPENS IN 10 SECONDS***"
+	{
+		"default"		"***FACTORY DOOR OPENS IN 10 SECONDS***"
+	}
+	"***FACTORY DOOR OPENS IN 5 SECONDS***"
+	{
+		"default"		"***FACTORY DOOR OPENS IN 5 SECONDS***"
+	}
+	"***FACTORY DOOR OPENS IN 4 SECONDS***"
+	{
+		"default"		"***FACTORY DOOR OPENS IN 4 SECONDS***"
+	}
+	"***FACTORY DOOR OPENS IN 3 SECONDS***"
+	{
+		"default"		"***FACTORY DOOR OPENS IN 3 SECONDS***"
+	}
+	"***FACTORY DOOR OPENS IN 2 SECONDS***"
+	{
+		"default"		"***FACTORY DOOR OPENS IN 2 SECONDS***"
+	}
+	"***FACTORY DOOR OPENS IN 1 SECOND***"
+	{
+		"default"		"***FACTORY DOOR OPENS IN 1 SECOND***"
+	}
+	"***OPENING DOORS IN 10 SECONDS***"
+	{
+		"default"		"***OPENING DOORS IN 10 SECONDS***"
+	}
+	"***OPENING DOORS IN 5 SECONDS***"
+	{
+		"default"		"***OPENING DOORS IN 5 SECONDS***"
+	}
+	"***OPENING DOORS***"
+	{
+		"default"		"***OPENING DOORS***"
+	}
+	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
+	{
+		"default"		"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
+	}
+	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
+	{
+		"default"		"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
+	}
+	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
+	{
+		"default"		"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
+	}
+	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
+	}
+	"***SEXY VENT GATE IS OPENING***"
+	{
+		"default"		"***SEXY VENT GATE IS OPENING***"
+	}
+	"***OPENING BASE SOCRATES ELEVATOR GATE***"
+	{
+		"default"		"***OPENING BASE SOCRATES ELEVATOR GATE***"
+	}
+	"***TIP - YOU CAN BREAK THE RUSTY METAL***"
+	{
+		"default"		"***TIP - YOU CAN BREAK THE RUSTY METAL***"
+	}
+	"***FIND THE BUTTONS***"
+	{
+		"default"		"***FIND THE BUTTONS***"
+	}
+	"***BUTTON 1 PRESSED***"
+	{
+		"default"		"***BUTTON 1 PRESSED***"
+	}
+	"***BUTTON 2 PRESSED***"
+	{
+		"default"		"***BUTTON 2 PRESSED***"
+	}
+	"***BUTTON 3 PRESSED***"
+	{
+		"default"		"***BUTTON 3 PRESSED***"
+	}
+	"***YOU CAN NOW ADVANCE***"
+	{
+		"default"		"***YOU CAN NOW ADVANCE***"
+	}
+	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
+	{
+		"default"		"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
+	}
+	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
+	{
+		"default"		"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
+	}
+	"***OPENING UPPER CHAPEL DOOR***"
+	{
+		"default"		"***OPENING UPPER CHAPEL DOOR***"
+	}
+	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
+	{
+		"default"		"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
+	}
+	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
+	}
+	"***SEXY REINDEER IS SPREADING***"
+	{
+		"default"		"***SEXY REINDEER IS SPREADING***"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
+	{
+		"default"		"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
+	}
+	"***BRIDGE EXIT GATE IS OPENING***"
+	{
+		"default"		"***BRIDGE EXIT GATE IS OPENING***"
+	}
+	"***HEAD TOWARD SANTAS LAIR***"
+	{
+		"default"		"***HEAD TOWARD SANTAS LAIR***"
+	}
+	"***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***"
+	{
+		"default"		"***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***"
+	}
+	"***GET INSIDE SANTAS LAIR***"
+	{
+		"default"		"***GET INSIDE SANTAS LAIR***"
+	}
+	"***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***"
+	{
+		"default"		"***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***"
+	}
+	"***SANTA'S LAIR GATE IS CLOSING***"
+	{
+		"default"		"***SANTA'S LAIR GATE IS CLOSING***"
+	}
+	"***ACT 2 COMPLETE***"
+	{
+		"default"		"***ACT 2 COMPLETE***"
+	}
+	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
+	{
+		"default"		"***TRAM 1 IS LEAVING IN 20 SECONDS***"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"default"		"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***TRAM 1 IS LEAVING***"
+	{
+		"default"		"***TRAM 1 IS LEAVING***"
+	}
+	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***TRAM 2 IS LEAVING IN 10 SECONDS***"
+	}
+	"***LOWER ELEVATOR IS LEAVING***"
+	{
+		"default"		"***LOWER ELEVATOR IS LEAVING***"
+	}
+	"***OUTER GATE IS OPENING IN 50 SECONDS***"
+	{
+		"default"		"***OUTER GATE IS OPENING IN 50 SECONDS***"
+	}
+	"***TRAM 2 IS LEAVING***"
+	{
+		"default"		"***TRAM 2 IS LEAVING***"
+	}
+	"***CENTER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"default"		"***CENTER GATE IS OPENING IN 30 SECONDS***"
+	}
+	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
+	{
+		"default"		"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
+	}
+	"***CENTER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***CENTER GATE IS OPENING IN 5 SECONDS***"
+	}
+	"***LOWER GATE IS OPENING IN 35 SECONDS***"
+	{
+		"default"		"***LOWER GATE IS OPENING IN 35 SECONDS***"
+	}
+	"***CENTER GATE IS OPENING***"
+	{
+		"default"		"***CENTER GATE IS OPENING***"
+	}
+	"***OUTER GATE IS OPENING IN 10 SECONDS***"
+	{
+		"default"		"***OUTER GATE IS OPENING IN 10 SECONDS***"
+	}
+	"***OUTER GATE IS OPENING***"
+	{
+		"default"		"***OUTER GATE IS OPENING***"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
+	{
+		"default"		"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
+	{
+		"default"		"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
+	}
+	"***SIMBA IS PRAYING FOR THE TRUTH***"
+	{
+		"default"		"***SIMBA IS PRAYING FOR THE TRUTH***"
+	}
+	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
+	}
+	"***LOWER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***LOWER GATE IS OPENING IN 5 SECONDS***"
+	}
+	"***INNER UPPER GATE IS OPENING***"
+	{
+		"default"		"***INNER UPPER GATE IS OPENING***"
+	}
+	"***LOWER GATE IS OPENING***"
+	{
+		"default"		"***LOWER GATE IS OPENING***"
+	}
+	"***ZAZU IS PRAYING FOR THE TRUTH***"
+	{
+		"default"		"***ZAZU IS PRAYING FOR THE TRUTH***"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING***"
+	{
+		"default"		"***ELEVATOR SHAFT GATE IS OPENING***"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***OUTER ELEVATOR IS LEAVING***"
+	{
+		"default"		"***OUTER ELEVATOR IS LEAVING***"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
+	{
+		"default"		"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
+	{
+		"default"		"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING***"
+	{
+		"default"		"***OUTER WALL ENTRANCE IS OPENING***"
+	}
+	"***UPPER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"default"		"***UPPER GATE IS OPENING IN 30 SECONDS***"
+	}
+	"***LOWER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"default"		"***LOWER GATE IS OPENING IN 30 SECONDS***"
+	}
+	"***UPPER GATE IS OPENING***"
+	{
+		"default"		"***UPPER GATE IS OPENING***"
+	}
+	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
+	{
+		"default"		"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
+	}
+	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
+	{
+		"default"		"***OUTER GATE WILL OPEN IN 20 SECONDS***"
+	}
+	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
+	{
+		"default"		"***OUTER GATE WILL OPEN IN 5 SECONDS***"
+	}
+	"***MOVE IT***"
+	{
+		"default"		"***MOVE IT***"
+	}
+	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"default"		"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
+	}
+	"***SANTA'S DOOR IS OPENING***"
+	{
+		"default"		"***SANTA'S DOOR IS OPENING***"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
+	{
+		"default"		"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
+	{
+		"default"		"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
+	{
+		"default"		"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
+	{
+		"default"		"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
+	{
+		"default"		"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
+	}
+	"***SANTA'S DOOR IS CLOSING***"
+	{
+		"default"		"***SANTA'S DOOR IS CLOSING***"
+	}
+	"*** - SANTA - ***"
+	{
+		"default"		"*** - SANTA - ***"
+	}
+	"***YOU HAVE DEFEATED SANTA***"
+	{
+		"default"		"***YOU HAVE DEFEATED SANTA***"
+	}
+	"***FOR NOW... IT SEEMS***"
+	{
+		"default"		"***FOR NOW... IT SEEMS***"
+	}
+	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"default"		"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
+	{
+		"default"		"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
+	}
+	"***UPPER TOWER DOOR IS OPENING***"
+	{
+		"default"		"***UPPER TOWER DOOR IS OPENING***"
+	}
+	"***MUFASA IS PRAYING FOR THE TRUTH***"
+	{
+		"default"		"***MUFASA IS PRAYING FOR THE TRUTH***"
+	}
+	"***THE TRUE PATH IS CLEAR NOW***"
+	{
+		"default"		"***THE TRUE PATH IS CLEAR NOW***"
+	}
+	"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
+	{
+		"default"		"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
+	}
+	"***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***"
+	{
+		"default"		"***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***"
+	}
+	"***YOU DO NOT WANT TO DO THIS ANYMORE...***"
+	{
+		"default"		"***YOU DO NOT WANT TO DO THIS ANYMORE...***"
+	}
+	"***YOU WANT TO STOP...***"
+	{
+		"default"		"***YOU WANT TO STOP...***"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"default"		"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING***"
+	{
+		"default"		"***THE FINAL ELEVATOR IS LEAVING***"
+	}
+	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
+	{
+		"default"		"***FINAL GATE IS CLOSING IN 15 SECONDS***"
+	}
+	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
+	{
+		"default"		"***FINAL GATE IS CLOSING IN 5 SECONDS***"
+	}
+	"***FINAL GATE IS CLOSING***"
+	{
+		"default"		"***FINAL GATE IS CLOSING***"
+	}
+	"*** - BIG SANTA - ***"
+	{
+		"default"		"*** - BIG SANTA - ***"
+	}
+	"***YOU HAVE DEFEATED SANTA CLAUS***"
+	{
+		"default"		"***YOU HAVE DEFEATED SANTA CLAUS***"
+	}
+	"***MUFASAS DEATH HAS BEEN AVENGED***"
+	{
+		"default"		"***MUFASAS DEATH HAS BEEN AVENGED***"
+	}
+	"***PEACE WILL NOW SPREAD THROUGH THE LANDS***"
+	{
+		"default"		"***PEACE WILL NOW SPREAD THROUGH THE LANDS***"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"default"		"***THANK YOU FOR PLAYING***"
+	}
+	"***MAP MADE BY - LUFFAREN***"
+	{
+		"default"		"***MAP MADE BY - LUFFAREN***"
+	}
+	"***THIS IS WRONG...***"
+	{
+		"default"		"***THIS IS WRONG...***"
+	}
+	"***THIS.. IS THE TRUTH***"
+	{
+		"default"		"***THIS.. IS THE TRUTH***"
+	}
+	"***SOCRATES IS JUDGING YOU***"
+	{
+		"default"		"***SOCRATES IS JUDGING YOU***"
+	}
+	"***SOCRATES HAS TO CLEANSE YOU***"
+	{
+		"default"		"***SOCRATES HAS TO CLEANSE YOU***"
+	}
+	"***SOCRATES IMAGINES***"
+	{
+		"default"		"***SOCRATES IMAGINES***"
+	}
+	"***SOCRATES DESPISES YOU***"
+	{
+		"default"		"***SOCRATES DESPISES YOU***"
+	}
+	"***SOCRATES PONDERS***"
+	{
+		"default"		"***SOCRATES PONDERS***"
+	}
+	"***SOCRATES CRIES***"
+	{
+		"default"		"***SOCRATES CRIES***"
+	}
+	"***SOCRATES ERECTS***"
+	{
+		"default"		"***SOCRATES ERECTS***"
+	}
+	"***SOCRATES IS BLOSSOMING***"
+	{
+		"default"		"***SOCRATES IS BLOSSOMING***"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
+	{
+		"default"		"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
+	}
+	"***THE TRUE TRAM IS LEAVING***"
+	{
+		"default"		"***THE TRUE TRAM IS LEAVING***"
+	}
+	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
+	{
+		"default"		"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***UNO***"
+	{
+		"default"		"***UNO***"
+	}
+	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	{
+		"default"		"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	}
+	"***DON'T TELL HIM I SAID THAT***"
+	{
+		"default"		"***DON'T TELL HIM I SAID THAT***"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"default"		"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"default"		"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING***"
+	{
+		"default"		"***THE TRUE ELEVATOR IS LEAVING***"
+	}
+	"***SOCRATES WISHES SILENTLY***"
+	{
+		"default"		"***SOCRATES WISHES SILENTLY***"
+	}
+	"***SOCRATES FEELS YOU***"
+	{
+		"default"		"***SOCRATES FEELS YOU***"
+	}
+	"***SOCRATES CRAVES***"
+	{
+		"default"		"***SOCRATES CRAVES***"
+	}
+	"***SOCRATES PLAYS NINTENDO 64***"
+	{
+		"default"		"***SOCRATES PLAYS NINTENDO 64***"
+	}
+	"***SOCRATES REGRETS YOUR DEEDS***"
+	{
+		"default"		"***SOCRATES REGRETS YOUR DEEDS***"
+	}
+	"***SOCRATES CARES FOR NO MAN***"
+	{
+		"default"		"***SOCRATES CARES FOR NO MAN***"
+	}
+	"***SOCRATES IS***"
+	{
+		"default"		"***SOCRATES IS***"
+	}
+	"***SOCRATES FEEDS***"
+	{
+		"default"		"***SOCRATES FEEDS***"
+	}
+	"***SOCRATES NEEDS BENDER***"
+	{
+		"default"		"***SOCRATES NEEDS BENDER***"
+	}
+	"***SOCRATES IS ALL***"
+	{
+		"default"		"***SOCRATES IS ALL***"
+	}
+	"***SOCRATES IS NOTHING***"
+	{
+		"default"		"***SOCRATES IS NOTHING***"
+	}
+	"***SOCRATES IS NOTHING AT ALL***"
+	{
+		"default"		"***SOCRATES IS NOTHING AT ALL***"
+	}
+	"***SOCRATES DOES NOT EXIST***"
+	{
+		"default"		"***SOCRATES DOES NOT EXIST***"
+	}
+	"***SOCRATES IS AWAKENED***"
+	{
+		"default"		"***SOCRATES IS AWAKENED***"
+	}
+	"***SOCRATES CANNOT KEEP***"
+	{
+		"default"		"***SOCRATES CANNOT KEEP***"
+	}
+	"***SOCRATES RUMBLES YOUR WILL***"
+	{
+		"default"		"***SOCRATES RUMBLES YOUR WILL***"
+	}
+	"***SOCRATES SELLS GASOLINE***"
+	{
+		"default"		"***SOCRATES SELLS GASOLINE***"
+	}
+	"***SOCRATES WILL ARRIVE***"
+	{
+		"default"		"***SOCRATES WILL ARRIVE***"
+	}
+	"***SOCRATES WILL CLEANSE***"
+	{
+		"default"		"***SOCRATES WILL CLEANSE***"
+	}
+	"***SOCRATES WILL DESTROY***"
+	{
+		"default"		"***SOCRATES WILL DESTROY***"
+	}
+	"***SOCRATES IS NEAR***"
+	{
+		"default"		"***SOCRATES IS NEAR***"
+	}
+	"***SOCRATES WELCOMES YOU***"
+	{
+		"default"		"***SOCRATES WELCOMES YOU***"
+	}
+	"***SOCRATES IS SANTA***"
+	{
+		"default"		"***SOCRATES IS SANTA***"
+	}
+	"***PLAYER PICKED UP ITEM - HERDER***"
+	{
+		"default"		"***PLAYER PICKED UP ITEM - HERDER***"
+	}
+	"*** - TRUE SANTA - ***"
+	{
+		"default"		"*** - TRUE SANTA - ***"
+	}
+	"***SPEEDER ITEMS ACTIVATED***"
+	{
+		"default"		"***SPEEDER ITEMS ACTIVATED***"
+	}
+	"***YOU HAVE DONE IT!***"
+	{
+		"default"		"***YOU HAVE DONE IT!***"
+	}
+	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
+	{
+		"default"		"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
+	}
+	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
+	{
+		"default"		"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
+	}
+	"***THE END***"
+	{
+		"default"		"***THE END***"
+	}
+	"***THE ETERNAL TRUTH LOOMS***"
+	{
+		"default"		"***THE ETERNAL TRUTH LOOMS***"
+	}
+	"^That was the stupidest thing i've ever heard as a map"
+	{
+		"default"		"^That was the stupidest thing i've ever heard as a map"
+	}
+	"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
+	{
+		"default"		"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
+	}
+}

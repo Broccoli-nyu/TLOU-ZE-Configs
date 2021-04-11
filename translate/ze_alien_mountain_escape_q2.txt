@@ -52,4 +52,8 @@
 	{
 		"default"		"Extra Hard LVL!"
 	}
+	"** Grenade Maker has been picked up. **"
+	{
+		"default"		"** Grenade Maker has been picked up. **"
+	}
 }

@@ -1,0 +1,59 @@
+"Chat"
+{
+	"++ Ze Floating Rocks Survival ++"
+	{
+		"default"		"++ Ze Floating Rocks Survival ++"
+	}
+	"++ Map by Matias-TM ++"
+	{
+		"default"		"++ Map by Matias-TM ++"
+	}
+	"++ Sky by komaokc ++"
+	{
+		"default"		"++ Sky by komaokc ++"
+	}
+	"++ Teleport in 30 seconds ++"
+	{
+		"default"		"++ Teleport in 30 seconds ++"
+	}
+	"++ Teleport in 5 seconds ++"
+	{
+		"default"		"++ Teleport in 5 seconds ++"
+	}
+	"++ Stage 01 : House ++"
+	{
+		"default"		"++ Stage 01 : House ++"
+	}
+	"++ Defend 120 seconds ++"
+	{
+		"default"		"++ Defend 120 seconds ++"
+	}
+	"++ Here comes the zombies! ++"
+	{
+		"default"		"++ Here comes the zombies! ++"
+	}
+	"++ Defend 5 seconds ++"
+	{
+		"default"		"++ Defend 5 seconds ++"
+	}
+	"++ Stage 02 : Storage ++"
+	{
+		"default"		"++ Stage 02 : Storage ++"
+	}
+	"++ Stage 03 : Train Station +"
+	{
+		"default"		"++ Stage 03 : Train Station +"
+	}
+	"++ Go to the roof! ++"
+	{
+		"default"		"++ Go to the roof! ++"
+	}
+	"++ Stage 04 : Storage House +"
+	{
+		"default"		"++ Stage 04 : Storage House +"
+	}
+	"++ Tram leaves in 40 seconds ++"
+	{
+		"default"		"++ Tram leaves in 40 seconds ++"
+	}
+}

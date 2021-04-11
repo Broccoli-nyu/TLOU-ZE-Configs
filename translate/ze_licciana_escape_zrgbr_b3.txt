@@ -32,4 +32,124 @@
 	{
 		"default"		"+++ HOLD FOR 20 SECONDS +++"
 	}
+	"+++ THE BOAT IS LEAVING +++"
+	{
+		"default"		"+++ THE BOAT IS LEAVING +++"
+	}
+	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	{
+		"default"		"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	}
+	"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 ARRIVED ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 ARRIVED ++"
+	}
+	"++ LIFT DOOR 1 OPENING UP ++"
+	{
+		"default"		"++ LIFT DOOR 1 OPENING UP ++"
+	}
+	"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	{
+		"default"		"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 ARRIVED ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 ARRIVED ++"
+	}
+	"++ LIFT DOOR 2 OPENING UP ++"
+	{
+		"default"		"++ LIFT DOOR 2 OPENING UP ++"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	}
+	"++ TOXIC MINE GAS IN AIR !! ++"
+	{
+		"default"		"++ TOXIC MINE GAS IN AIR !! ++"
+	}
+	"YOU WON LEVEL EASY"
+	{
+		"default"		"YOU WON LEVEL EASY"
+	}
+	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	}
+	"LEVEL: MEDIUM"
+	{
+		"default"		"LEVEL: MEDIUM"
+	}
+	"YOU WON LEVEL MEDIUM"
+	{
+		"default"		"YOU WON LEVEL MEDIUM"
+	}
+	"LEVEL: HARD"
+	{
+		"default"		"LEVEL: HARD"
+	}
+	"YOU WON LEVEL HARD"
+	{
+		"default"		"YOU WON LEVEL HARD"
+	}
+	"+++Heal picked up+++"
+	{
+		"default"		"+++Heal picked up+++"
+	}
+	"++ 15 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	{
+		"default"		"++ 15 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	}
+	"YOU W..."
+	{
+		"default"		"YOU W..."
+	}
+	"+++ WAIT, WTF IS THIS? +++"
+	{
+		"default"		"+++ WAIT, WTF IS THIS? +++"
+	}
+	"+++ THE HARU APPEARED! KILL HIM +++"
+	{
+		"default"		"+++ THE HARU APPEARED! KILL HIM +++"
+	}
+	"+++ PUT THE PENIS IN HIS ASS +++"
+	{
+		"default"		"+++ PUT THE PENIS IN HIS ASS +++"
+	}
+	"+++ HURRY UP! 5 SECONDS LEFT! +++"
+	{
+		"default"		"+++ HURRY UP! 5 SECONDS LEFT! +++"
+	}
+	"YOU WON LEVEL EXTREME"
+	{
+		"default"		"YOU WON LEVEL EXTREME"
+	}
+	"CONGRATULATIONS, YOU WON ALL THE LEVELS!"
+	{
+		"default"		"CONGRATULATIONS, YOU WON ALL THE LEVELS!"
+	}
 }

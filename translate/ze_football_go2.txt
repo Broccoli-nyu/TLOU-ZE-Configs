@@ -1,0 +1,71 @@
+"Chat"
+{
+	"***Welcome to ze_football***"
+	{
+		"default"		"***Welcome to ze_football***"
+	}
+	"***Map by DarkerZ [RUS]***"
+	{
+		"default"		"***Map by DarkerZ [RUS]***"
+	}
+	"***WARMUP***"
+	{
+		"default"		"***WARMUP***"
+	}
+	"[Trigger] Invert Control in 5 secs. (5 secs. duration)"
+	{
+		"default"		"[Trigger] Invert Control in 5 secs. (5 secs. duration)"
+	}
+	"[Trigger] Jumpers in 5 secs. (5 secs. duration)"
+	{
+		"default"		"[Trigger] Jumpers in 5 secs. (5 secs. duration)"
+	}
+	"[Trigger] Retarded jumps in 5 secs. (5 secs. duration)"
+	{
+		"default"		"[Trigger] Retarded jumps in 5 secs. (5 secs. duration)"
+	}
+	"[Trigger] Friction in 5 secs. (5 secs. duration)"
+	{
+		"default"		"[Trigger] Friction in 5 secs. (5 secs. duration)"
+	}
+	"[Trigger] Total Darkness in 5 secs. (5 secs. duration)"
+	{
+		"default"		"[Trigger] Total Darkness in 5 secs. (5 secs. duration)"
+	}
+	"[Trigger] Drug in 5 secs. (5 secs. duration)"
+	{
+		"default"		"[Trigger] Drug in 5 secs. (5 secs. duration)"
+	}
+	"Times up. Get ready for Stabbing"
+	{
+		"default"		"Times up. Get ready for Stabbing"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***Fight***"
+	{
+		"default"		"***Fight***"
+	}
+	"***Zombies Win***"
+	{
+		"default"		"***Zombies Win***"
+	}
+	"[Trigger] LSD in 5 secs. (15 secs. duration)"
+	{
+		"default"		"[Trigger] LSD in 5 secs. (15 secs. duration)"
+	}
+	"***Humans Win***"
+	{
+		"default"		"***Humans Win***"
+	}
+}

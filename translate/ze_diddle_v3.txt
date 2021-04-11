@@ -1,0 +1,99 @@
+"Chat"
+{
+	"***WARMUP***"
+	{
+		"default"		"***WARMUP***"
+	}
+	"*****ROUND END*****"
+	{
+		"default"		"*****ROUND END*****"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	{
+		"default"		"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	}
+	"defend"
+	{
+		"default"		"defend"
+	}
+	"*boss fight imminent*"
+	{
+		"default"		"*boss fight imminent*"
+	}
+	"*get in the hole*"
+	{
+		"default"		"*get in the hole*"
+	}
+	"oooh... look at those cute digletts"
+	{
+		"default"		"oooh... look at those cute digletts"
+	}
+	"defend here untill the wall breaks"
+	{
+		"default"		"defend here untill the wall breaks"
+	}
+	"hold 15sec"
+	{
+		"default"		"hold 15sec"
+	}
+	"go..."
+	{
+		"default"		"go..."
+	}
+	"shoot the floor"
+	{
+		"default"		"shoot the floor"
+	}
+	"!!shoot the zombies to the side!!"
+	{
+		"default"		"!!shoot the zombies to the side!!"
+	}
+	"hold here"
+	{
+		"default"		"hold here"
+	}
+	"*Pull attack*"
+	{
+		"default"		"*Pull attack*"
+	}
+	"*ground attack*"
+	{
+		"default"		"*ground attack*"
+	}
+	"*The digletts died*"
+	{
+		"default"		"*The digletts died*"
+	}
+	"now defend untill the door is fully opened"
+	{
+		"default"		"now defend untill the door is fully opened"
+	}
+	"***FIND YOUR LOVE***"
+	{
+		"default"		"***FIND YOUR LOVE***"
+	}
+	"GIT OUT OF MI HOUUUUUSE"
+	{
+		"default"		"GIT OUT OF MI HOUUUUUSE"
+	}
+	"***SURPRISE YOUR LOVE***"
+	{
+		"default"		"***SURPRISE YOUR LOVE***"
+	}
+	"i love you"
+	{
+		"default"		"i love you"
+	}
+	"***BLESS YOUR LOVE***"
+	{
+		"default"		"***BLESS YOUR LOVE***"
+	}
+	"***FEED YOUR LOVE***"
+	{
+		"default"		"***FEED YOUR LOVE***"
+	}
+	"***SACRIFICE YOUR LOVE***"
+	{
+		"default"		"***SACRIFICE YOUR LOVE***"
+	}
+}

@@ -472,4 +472,48 @@
 	{
 		"default"		"### PRESS W PLEASE THANKS YOU ###"
 	}
+	"### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###"
+	{
+		"default"		"### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###"
+	}
+	"### SOMETHING SCARY INS COMING ###"
+	{
+		"default"		"### SOMETHING SCARY INS COMING ###"
+	}
+	"### THE HOLY CROSSES HAVE DISAPPEARED ###"
+	{
+		"default"		"### THE HOLY CROSSES HAVE DISAPPEARED ###"
+	}
+	"### AUUU I'M SO SORRY HAHHAA ###"
+	{
+		"default"		"### AUUU I'M SO SORRY HAHHAA ###"
+	}
+	"### YOU CAN BE SURE ###"
+	{
+		"default"		"### YOU CAN BE SURE ###"
+	}
+	"### I'LL BE BACK AGAIN ###"
+	{
+		"default"		"### I'LL BE BACK AGAIN ###"
+	}
+	"### YOUR DEATH INCOMINGG SHOOT AND NADE HIM ###"
+	{
+		"default"		"### YOUR DEATH INCOMINGG SHOOT AND NADE HIM ###"
+	}
+	"### HOLD THIS LAST POSTION FOR 30 SECONDS ###"
+	{
+		"default"		"### HOLD THIS LAST POSTION FOR 30 SECONDS ###"
+	}
+	"### GOOD JOB BUT THIS NOT THE END ###"
+	{
+		"default"		"### GOOD JOB BUT THIS NOT THE END ###"
+	}
+	"### DONT LET ZOMBIES ON THE PLATFORM !!! ###"
+	{
+		"default"		"### DONT LET ZOMBIES ON THE PLATFORM !!! ###"
+	}
+	"### NOW PREPARE TO FACE YOUR INEVITABLE DEATH  ###"
+	{
+		"default"		"### NOW PREPARE TO FACE YOUR INEVITABLE DEATH  ###"
+	}
 }

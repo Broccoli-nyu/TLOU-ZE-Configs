@@ -1,0 +1,23 @@
+"Chat"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"default"		"**The door will open in 45 seconds. Cover!!**"
+	}
+	"**Door is open 10 sec**"
+	{
+		"default"		"**Door is open 10 sec**"
+	}
+	"**Elevator is leaving in 35s**"
+	{
+		"default"		"**Elevator is leaving in 35s**"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"default"		"**Elevator is leaving in 5s**"
+	}
+	"**Boat will arrive in 30 seconds**"
+	{
+		"default"		"**Boat will arrive in 30 seconds**"
+	}
+}

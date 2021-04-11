@@ -36,4 +36,16 @@
 	{
 		"default"		"10 Second - Defend The Truck"
 	}
+	"60 Second - Defend The Places"
+	{
+		"default"		"60 Second - Defend The Places"
+	}
+	"30 Second - Defend The Hotel"
+	{
+		"default"		"30 Second - Defend The Hotel"
+	}
+	"10 Second - Humans Win"
+	{
+		"default"		"10 Second - Humans Win"
+	}
 }

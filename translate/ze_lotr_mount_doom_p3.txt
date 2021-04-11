@@ -96,4 +96,8 @@
 	{
 		"default"		"***Resist 30 s!!***"
 	}
+	"***The Ring has been destroyed! Escape from Mordor!***"
+	{
+		"default"		"***The Ring has been destroyed! Escape from Mordor!***"
+	}
 }

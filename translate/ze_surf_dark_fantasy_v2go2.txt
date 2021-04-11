@@ -1,0 +1,399 @@
+"Chat"
+{
+	"***Welcome to ze_surf_dark_fantasy***"
+	{
+		"default"		"***Welcome to ze_surf_dark_fantasy***"
+	}
+	"***Map by DarkerZ [RUS]***"
+	{
+		"default"		"***Map by DarkerZ [RUS]***"
+	}
+	"***Special Thanks to Moltard and Headsh***"
+	{
+		"default"		"***Special Thanks to Moltard and Headsh***"
+	}
+	"***Thanks to NiceShot for help port CSGO***"
+	{
+		"default"		"***Thanks to NiceShot for help port CSGO***"
+	}
+	"***Humans will be teleported after 10 seconds***"
+	{
+		"default"		"***Humans will be teleported after 10 seconds***"
+	}
+	"***Zombies will be teleported after 15 seconds***"
+	{
+		"default"		"***Zombies will be teleported after 15 seconds***"
+	}
+	"***Hold for 75 seconds***"
+	{
+		"default"		"***Hold for 75 seconds***"
+	}
+	"***Humans picked up Wind***"
+	{
+		"default"		"***Humans picked up Wind***"
+	}
+	"***Afk will be teleported after 5 seconds***"
+	{
+		"default"		"***Afk will be teleported after 5 seconds***"
+	}
+	"***Hold for 30 seconds***"
+	{
+		"default"		"***Hold for 30 seconds***"
+	}
+	"***10 seconds left***"
+	{
+		"default"		"***10 seconds left***"
+	}
+	"***Hold the First Sector for 25 seconds***"
+	{
+		"default"		"***Hold the First Sector for 25 seconds***"
+	}
+	"***5 seconds left***"
+	{
+		"default"		"***5 seconds left***"
+	}
+	"***Hold the Second Sector for 20 seconds***"
+	{
+		"default"		"***Hold the Second Sector for 20 seconds***"
+	}
+	"***Hold the Third Sector for 15 seconds***"
+	{
+		"default"		"***Hold the Third Sector for 15 seconds***"
+	}
+	"***Hold the Fourth Sector for 10 seconds***"
+	{
+		"default"		"***Hold the Fourth Sector for 10 seconds***"
+	}
+	"***Hold the Final Sector for 5 seconds***"
+	{
+		"default"		"***Hold the Final Sector for 5 seconds***"
+	}
+	"***Zombies will be teleported after 20 seconds***"
+	{
+		"default"		"***Zombies will be teleported after 20 seconds***"
+	}
+	"***Hold for 60 seconds***"
+	{
+		"default"		"***Hold for 60 seconds***"
+	}
+	"***Afk will be teleported after 10 seconds***"
+	{
+		"default"		"***Afk will be teleported after 10 seconds***"
+	}
+	"***Humans picked up Gravity***"
+	{
+		"default"		"***Humans picked up Gravity***"
+	}
+	"***Doors will open in 30 seconds***"
+	{
+		"default"		"***Doors will open in 30 seconds***"
+	}
+	"***Doors will close in 10 seconds***"
+	{
+		"default"		"***Doors will close in 10 seconds***"
+	}
+	"***Fight***"
+	{
+		"default"		"***Fight***"
+	}
+	"***CreeperGirl is healed for 110 HP***"
+	{
+		"default"		"***CreeperGirl is healed for 110 HP***"
+	}
+	"***CreeperGirl is using Push Attack***"
+	{
+		"default"		"***CreeperGirl is using Push Attack***"
+	}
+	"***CreeperGirl is using Fire Attack***"
+	{
+		"default"		"***CreeperGirl is using Fire Attack***"
+	}
+	"***Doors will open in 20 seconds***"
+	{
+		"default"		"***Doors will open in 20 seconds***"
+	}
+	"***You have 60 seconds to kill CreeperGirl***"
+	{
+		"default"		"***You have 60 seconds to kill CreeperGirl***"
+	}
+	"***Humans picked up Heal***"
+	{
+		"default"		"***Humans picked up Heal***"
+	}
+	"***Random path will open in 30 seconds***"
+	{
+		"default"		"***Random path will open in 30 seconds***"
+	}
+	"***Zombies picked up Heal***"
+	{
+		"default"		"***Zombies picked up Heal***"
+	}
+	"***Zombies picked up Fire***"
+	{
+		"default"		"***Zombies picked up Fire***"
+	}
+	"***Big Doors will open in 40 seconds***"
+	{
+		"default"		"***Big Doors will open in 40 seconds***"
+	}
+	"***Doors will open in 10 seconds***"
+	{
+		"default"		"***Doors will open in 10 seconds***"
+	}
+	"***Doors will open in 15 seconds***"
+	{
+		"default"		"***Doors will open in 15 seconds***"
+	}
+	"***Doors will open in 5 seconds***"
+	{
+		"default"		"***Doors will open in 5 seconds***"
+	}
+	"***Humans picked up Electro***"
+	{
+		"default"		"***Humans picked up Electro***"
+	}
+	"***Elevator will leave in 20 seconds***"
+	{
+		"default"		"***Elevator will leave in 20 seconds***"
+	}
+	"***Hatch will collapse in 5 seconds***"
+	{
+		"default"		"***Hatch will collapse in 5 seconds***"
+	}
+	"***Wall will collapse in 10 seconds***"
+	{
+		"default"		"***Wall will collapse in 10 seconds***"
+	}
+	"***Gate will open in 5 seconds***"
+	{
+		"default"		"***Gate will open in 5 seconds***"
+	}
+	"***Bridge will appear in 20 seconds***"
+	{
+		"default"		"***Bridge will appear in 20 seconds***"
+	}
+	"***Hold this position for 20 seconds***"
+	{
+		"default"		"***Hold this position for 20 seconds***"
+	}
+	"***Gate will open in 10 seconds***"
+	{
+		"default"		"***Gate will open in 10 seconds***"
+	}
+	"***Gate will open in 20 seconds***"
+	{
+		"default"		"***Gate will open in 20 seconds***"
+	}
+	"***Gate will open in 15 seconds***"
+	{
+		"default"		"***Gate will open in 15 seconds***"
+	}
+	"***Afk will be teleported after 20 seconds***"
+	{
+		"default"		"***Afk will be teleported after 20 seconds***"
+	}
+	"***You ended up in the dungeon of demons***"
+	{
+		"default"		"***You ended up in the dungeon of demons***"
+	}
+	"***This dungeon contains 4 levels of difficulty***"
+	{
+		"default"		"***This dungeon contains 4 levels of difficulty***"
+	}
+	"***To exit the dungeon you need to complete all tasks***"
+	{
+		"default"		"***To exit the dungeon you need to complete all tasks***"
+	}
+	"***On the first level it is necessary to destroy the bloodstone***"
+	{
+		"default"		"***On the first level it is necessary to destroy the bloodstone***"
+	}
+	"***On the second level you need to defeat all the demons***"
+	{
+		"default"		"***On the second level you need to defeat all the demons***"
+	}
+	"***At the third level you need to knock out the seal***"
+	{
+		"default"		"***At the third level you need to knock out the seal***"
+	}
+	"***This Taros had NO Seal***"
+	{
+		"default"		"***This Taros had NO Seal***"
+	}
+	"***You Found a Seal***"
+	{
+		"default"		"***You Found a Seal***"
+	}
+	"***On the fourth level you have to defeat Charon***"
+	{
+		"default"		"***On the fourth level you have to defeat Charon***"
+	}
+	"***BuyZone activated for 8 seconds***"
+	{
+		"default"		"***BuyZone activated for 8 seconds***"
+	}
+	"***Charon used Gravity***"
+	{
+		"default"		"***Charon used Gravity***"
+	}
+	"***Charon used The Call of Death***"
+	{
+		"default"		"***Charon used The Call of Death***"
+	}
+	"***Charon used The Fire of Death***"
+	{
+		"default"		"***Charon used The Fire of Death***"
+	}
+	"***Charon used Scythe***"
+	{
+		"default"		"***Charon used Scythe***"
+	}
+	"***Zombies will be teleported after 10 seconds***"
+	{
+		"default"		"***Zombies will be teleported after 10 seconds***"
+	}
+	"***To go further you must solve the riddle***"
+	{
+		"default"		"***To go further you must solve the riddle***"
+	}
+	"***The order | 1-Shield 2-Bow 3-Sword 4-Spear***"
+	{
+		"default"		"***The order | 1-Shield 2-Bow 3-Sword 4-Spear***"
+	}
+	"***Item Accepted***"
+	{
+		"default"		"***Item Accepted***"
+	}
+	"***Door will open in 15 sec***"
+	{
+		"default"		"***Door will open in 15 sec***"
+	}
+	"***Gate will open in 30 seconds***"
+	{
+		"default"		"***Gate will open in 30 seconds***"
+	}
+	"***[Boss] CatGirl Boss appeared***"
+	{
+		"default"		"***[Boss] CatGirl Boss appeared***"
+	}
+	"***CatGirl is using Laser***"
+	{
+		"default"		"***CatGirl is using Laser***"
+	}
+	"***CatGirl is using Drop Weapon Attack***"
+	{
+		"default"		"***CatGirl is using Drop Weapon Attack***"
+	}
+	"***CatGirl is using Crystal***"
+	{
+		"default"		"***CatGirl is using Crystal***"
+	}
+	"***CatGirl can be Cured by 180 HP***"
+	{
+		"default"		"***CatGirl can be Cured by 180 HP***"
+	}
+	"***CatGirl is using Pressure***"
+	{
+		"default"		"***CatGirl is using Pressure***"
+	}
+	"***CatGirl is using Electro***"
+	{
+		"default"		"***CatGirl is using Electro***"
+	}
+	"***You killed the CatGirl Boss***"
+	{
+		"default"		"***You killed the CatGirl Boss***"
+	}
+	"***[Boss] Stage 1 completed***"
+	{
+		"default"		"***[Boss] Stage 1 completed***"
+	}
+	"***[Boss] ErrorGirl Boss appeared***"
+	{
+		"default"		"***[Boss] ErrorGirl Boss appeared***"
+	}
+	"***You killed the ErrorGirl Boss***"
+	{
+		"default"		"***You killed the ErrorGirl Boss***"
+	}
+	"***[Boss] Stage 2 completed***"
+	{
+		"default"		"***[Boss] Stage 2 completed***"
+	}
+	"***[Boss] Queen Boss appeared***"
+	{
+		"default"		"***[Boss] Queen Boss appeared***"
+	}
+	"***Queen Throws Lasers***"
+	{
+		"default"		"***Queen Throws Lasers***"
+	}
+	"***Queen Calls Reverse Uganda***"
+	{
+		"default"		"***Queen Calls Reverse Uganda***"
+	}
+	"***Queen Calls Rain from Uganda***"
+	{
+		"default"		"***Queen Calls Rain from Uganda***"
+	}
+	"***Queen Calls Uganda***"
+	{
+		"default"		"***Queen Calls Uganda***"
+	}
+	"***You killed the Queen Boss***"
+	{
+		"default"		"***You killed the Queen Boss***"
+	}
+	"***[Boss] Stage 3 completed***"
+	{
+		"default"		"***[Boss] Stage 3 completed***"
+	}
+	"***Human will be teleported after 5 seconds***"
+	{
+		"default"		"***Human will be teleported after 5 seconds***"
+	}
+	"***Zombie will be teleported after 10 seconds***"
+	{
+		"default"		"***Zombie will be teleported after 10 seconds***"
+	}
+	"***Afk will be teleported after 15 seconds***"
+	{
+		"default"		"***Afk will be teleported after 15 seconds***"
+	}
+	"***150 seconds left***"
+	{
+		"default"		"***150 seconds left***"
+	}
+	"***120 seconds left***"
+	{
+		"default"		"***120 seconds left***"
+	}
+	"***90 seconds left***"
+	{
+		"default"		"***90 seconds left***"
+	}
+	"***60 seconds left***"
+	{
+		"default"		"***60 seconds left***"
+	}
+	"***30 seconds left***"
+	{
+		"default"		"***30 seconds left***"
+	}
+	"***15 seconds left***"
+	{
+		"default"		"***15 seconds left***"
+	}
+	"***You killed the boss of the True Ending***"
+	{
+		"default"		"***You killed the boss of the True Ending***"
+	}
+	"***Congratulations You have passed the map***"
+	{
+		"default"		"***Congratulations You have passed the map***"
+	}
+	"***Nuke***"
+	{
+		"default"		"***Nuke***"
+	}
+}

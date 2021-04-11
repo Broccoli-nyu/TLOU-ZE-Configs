@@ -1,0 +1,231 @@
+"Chat"
+{
+	"> ZE UT2004 CONVOY"
+	{
+		"default"		"> ZE UT2004 CONVOY"
+	}
+	"> NOVICE DIFFICULTY"
+	{
+		"default"		"> NOVICE DIFFICULTY"
+	}
+	"> Map by SubDelt@"
+	{
+		"default"		"> Map by SubDelt@"
+	}
+	"> Thanks to"
+	{
+		"default"		"> Thanks to"
+	}
+	"> Cuniczek and Kaemon - helping with Propper"
+	{
+		"default"		"> Cuniczek and Kaemon - helping with Propper"
+	}
+	"> Kaesar - providing UT2004 models"
+	{
+		"default"		"> Kaesar - providing UT2004 models"
+	}
+	"> JorisCeoen - modeling help"
+	{
+		"default"		"> JorisCeoen - modeling help"
+	}
+	"> Enviolinador - lots of general help"
+	{
+		"default"		"> Enviolinador - lots of general help"
+	}
+	">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+	{
+		"default"		">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+	}
+	"> BERSERK COMBO has been acquired"
+	{
+		"default"		"> BERSERK COMBO has been acquired"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+	{
+		"default"		">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	{
+		"default"		">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	{
+		"default"		">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+	}
+	">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	{
+		"default"		">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+	}
+	">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"default"		">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+	}
+	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	{
+		"default"		">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+	}
+	">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	{
+		"default"		">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+	}
+	">>> EXPLOSION IN 40 SECONDS <<<"
+	{
+		"default"		">>> EXPLOSION IN 40 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 20 SECONDS <<<"
+	{
+		"default"		">>> EXPLOSION IN 20 SECONDS <<<"
+	}
+	">>> EXPLOSION IN 5 SECONDS <<<"
+	{
+		"default"		">>> EXPLOSION IN 5 SECONDS <<<"
+	}
+	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	{
+		"default"		">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+	}
+	"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	{
+		"default"		"> Tip - You can do this by standing near the lever at the rear part of the vessel"
+	}
+	">>> THE REAR DOOR HAS BEEN OPENED <<<"
+	{
+		"default"		">>> THE REAR DOOR HAS BEEN OPENED <<<"
+	}
+	">>> REINFORCEMENTS ARE ON THE WAY! <<<"
+	{
+		"default"		">>> REINFORCEMENTS ARE ON THE WAY! <<<"
+	}
+	">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+	{
+		"default"		">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+	}
+	">>> WARNING! INBOUND AIRSTRIKE! <<<"
+	{
+		"default"		">>> WARNING! INBOUND AIRSTRIKE! <<<"
+	}
+	">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+	{
+		"default"		">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+	}
+	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+	{
+		"default"		">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+	}
+	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+	{
+		"default"		">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+	}
+	">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+	{
+		"default"		">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+	}
+	">>> SIDE DOORS ARE OPENING <<<"
+	{
+		"default"		">>> SIDE DOORS ARE OPENING <<<"
+	}
+	">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+	{
+		"default"		">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+	{
+		"default"		">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+	{
+		"default"		">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+	{
+		"default"		">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+	}
+	">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+	{
+		"default"		">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+	}
+	">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+	{
+		"default"		">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+	}
+	">>> WE ARE LEAVING IN 10 SECONDS! <<<"
+	{
+		"default"		">>> WE ARE LEAVING IN 10 SECONDS! <<<"
+	}
+	">>> 5 <<<"
+	{
+		"default"		">>> 5 <<<"
+	}
+	">>> 4 <<<"
+	{
+		"default"		">>> 4 <<<"
+	}
+	">>> 3 <<<"
+	{
+		"default"		">>> 3 <<<"
+	}
+	">>> 2 <<<"
+	{
+		"default"		">>> 2 <<<"
+	}
+	">>> 1 <<<"
+	{
+		"default"		">>> 1 <<<"
+	}
+	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	{
+		"default"		">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+	}
+	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	{
+		"default"		">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+	}
+	"> EXPERIENCED DIFFICULTY"
+	{
+		"default"		"> EXPERIENCED DIFFICULTY"
+	}
+	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+	{
+		"default"		">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+	}
+	"> MASTERFUL DIFFICULTY"
+	{
+		"default"		"> MASTERFUL DIFFICULTY"
+	}
+	"> ROCKET LAUNCHER has been acquired"
+	{
+		"default"		"> ROCKET LAUNCHER has been acquired"
+	}
+	"> LIGHTNING RIFLE has been acquired"
+	{
+		"default"		"> LIGHTNING RIFLE has been acquired"
+	}
+	">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
+	{
+		"default"		">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
+	}
+	"> GODLIKE DIFFICULTY"
+	{
+		"default"		"> GODLIKE DIFFICULTY"
+	}
+	"> FLAK CANNON has been acquired"
+	{
+		"default"		"> FLAK CANNON has been acquired"
+	}
+	">>> DREADNOUGHT DETECTED! <<<"
+	{
+		"default"		">>> DREADNOUGHT DETECTED! <<<"
+	}
+	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
+	{
+		"default"		">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
+	}
+	">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
+	{
+		"default"		">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
+	}
+	"> REDEEMER has been acquired"
+	{
+		"default"		"> REDEEMER has been acquired"
+	}
+}

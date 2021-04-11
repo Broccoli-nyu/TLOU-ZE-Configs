@@ -68,4 +68,32 @@
 	{
 		"default"		"** GET TO THE HOLY CHURCH - DEFEND LEVEL 2**"
 	}
+	"** DEFEND LEVEL 2 FOR 60 SECONDS **"
+	{
+		"default"		"** DEFEND LEVEL 2 FOR 60 SECONDS **"
+	}
+	"** RESIST 30 SECONDS **"
+	{
+		"default"		"** RESIST 30 SECONDS **"
+	}
+	"** RESIST 20 SECONDS **"
+	{
+		"default"		"** RESIST 20 SECONDS **"
+	}
+	"** RESIST 10 SECONDS! **"
+	{
+		"default"		"** RESIST 10 SECONDS! **"
+	}
+	"** RESIST 5 SECONDS ** "
+	{
+		"default"		"** RESIST 5 SECONDS ** "
+	}
+	"** RUN UP THE STAIRS! APOCALYPSE IMMINENT!!!!**"
+	{
+		"default"		"** RUN UP THE STAIRS! APOCALYPSE IMMINENT!!!!**"
+	}
+	"** ZOMBIES CAN NOW CLIMB UP FROM THE BOTTOM LEVEL! **"
+	{
+		"default"		"** ZOMBIES CAN NOW CLIMB UP FROM THE BOTTOM LEVEL! **"
+	}
 }

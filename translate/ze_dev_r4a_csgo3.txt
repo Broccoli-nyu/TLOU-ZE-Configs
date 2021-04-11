@@ -1,0 +1,31 @@
+"Chat"
+{
+	"Level 1"
+	{
+		"default"		"Level 1"
+	}
+	"Map by j0ueurnul"
+	{
+		"default"		"Map by j0ueurnul"
+	}
+	"Hold here 25 seconds"
+	{
+		"default"		"Hold here 25 seconds"
+	}
+	"Hold here 20 seconds"
+	{
+		"default"		"Hold here 20 seconds"
+	}
+	"Hold here 30 seconds"
+	{
+		"default"		"Hold here 30 seconds"
+	}
+	"Hold here 40 seconds"
+	{
+		"default"		"Hold here 40 seconds"
+	}
+	"Hold here 15 seconds"
+	{
+		"default"		"Hold here 15 seconds"
+	}
+}

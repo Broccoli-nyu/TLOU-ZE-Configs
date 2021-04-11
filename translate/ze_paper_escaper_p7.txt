@@ -492,4 +492,32 @@
 	{
 		"default"		"*Zombies detected on Elevator Nr. 1. Sealing door.*"
 	}
+	"*Zombies detected on Elevator Nr. 2. Sealing door.*"
+	{
+		"default"		"*Zombies detected on Elevator Nr. 2. Sealing door.*"
+	}
+	"** PLANE ENDING: GET TO THE PAPER PLANE **"
+	{
+		"default"		"** PLANE ENDING: GET TO THE PAPER PLANE **"
+	}
+	"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	{
+		"default"		"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
+	}
+	"*Door opening in 5 seconds. RESIST!*"
+	{
+		"default"		"*Door opening in 5 seconds. RESIST!*"
+	}
+	"*Last offensive module activated: Plasma cannon module loaded*"
+	{
+		"default"		"*Last offensive module activated: Plasma cannon module loaded*"
+	}
+	"*Annihilator mode activated. Unloading offensive modules.*"
+	{
+		"default"		"*Annihilator mode activated. Unloading offensive modules.*"
+	}
+	"*He's going to use his more powerfull attack and wipe us out!*"
+	{
+		"default"		"*He's going to use his more powerfull attack and wipe us out!*"
+	}
 }

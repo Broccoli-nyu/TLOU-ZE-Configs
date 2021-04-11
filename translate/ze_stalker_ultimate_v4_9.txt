@@ -1,0 +1,418 @@
+"Chat"
+{
+	"**This is a map based on the game STALKER**"
+	{
+		"default"		"**This is a map based on the game STALKER**"
+	}
+	"**STAGE 1**ROAD TO CHERNOBYL"
+	{
+		"default"		"**STAGE 1**ROAD TO CHERNOBYL"
+	}
+	"Map by Headshooter.SC "
+	{
+		" Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
+		{
+			"default"		"Map by Headshooter.SC / Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
+		}
+	}
+	"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	{
+		"default"		"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	}
+	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+	{
+		"default"		"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+	}
+	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	{
+		"default"		"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	}
+	"**Lab door 1 will open in 11 seconds**"
+	{
+		"default"		"**Lab door 1 will open in 11 seconds**"
+	}
+	"**Lab door 2 will open in 13 seconds**"
+	{
+		"default"		"**Lab door 2 will open in 13 seconds**"
+	}
+	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	{
+		"default"		"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	}
+	"**Lab door 1 will open for zombies in 18 seconds**"
+	{
+		"default"		"**Lab door 1 will open for zombies in 18 seconds**"
+	}
+	"**Lab door 2 will open for zombies in 18 seconds**"
+	{
+		"default"		"**Lab door 2 will open for zombies in 18 seconds**"
+	}
+	"**Zombie shield is activated. You have 15 seconds**"
+	{
+		"default"		"**Zombie shield is activated. You have 15 seconds**"
+	}
+	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	{
+		"default"		"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	}
+	"***The control panel seems without power. Maybe using the lever will help***"
+	{
+		"default"		"***The control panel seems without power. Maybe using the lever will help***"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"default"		"**The gates will open in 30 seconds**"
+	}
+	"***Seems that works. Try to use the control panel to open the gates***"
+	{
+		"default"		"***Seems that works. Try to use the control panel to open the gates***"
+	}
+	"**Zombie shield is disabled**"
+	{
+		"default"		"**Zombie shield is disabled**"
+	}
+	"**Hold this position for 10 seconds**"
+	{
+		"default"		"**Hold this position for 10 seconds**"
+	}
+	"The Chernobyl gate will open in 20 seconds."
+	{
+		"default"		"The Chernobyl gate will open in 20 seconds."
+	}
+	"Hold this position for 10 seconds!!"
+	{
+		"default"		"Hold this position for 10 seconds!!"
+	}
+	"Zombie sheld is activated for 30 seconds!!"
+	{
+		"default"		"Zombie sheld is activated for 30 seconds!!"
+	}
+	"**Survive for 70 seconds**"
+	{
+		"default"		"**Survive for 70 seconds**"
+	}
+	"**UNKNOWN ARTEFACT** +50% COMPLETE"
+	{
+		"default"		"**UNKNOWN ARTEFACT** +50% COMPLETE"
+	}
+	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	{
+		"default"		"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	}
+	"**15 SECONDS LEFT**"
+	{
+		"default"		"**15 SECONDS LEFT**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"default"		"**5 SECONDS LEFT**"
+	}
+	"**STAGE 1 is beaten. Moving on STAGE 2**"
+	{
+		"default"		"**STAGE 1 is beaten. Moving on STAGE 2**"
+	}
+	"**STAGE 2**POLTERGEIST FIGHT"
+	{
+		"default"		"**STAGE 2**POLTERGEIST FIGHT"
+	}
+	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	{
+		"default"		"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	}
+	"**Hold for 5 seconds before the gates open**"
+	{
+		"default"		"**Hold for 5 seconds before the gates open**"
+	}
+	"**Hold the place for 25 seconds**"
+	{
+		"default"		"**Hold the place for 25 seconds**"
+	}
+	"**UNKNOWN ARTEFACT**+50% COMPLETE"
+	{
+		"default"		"**UNKNOWN ARTEFACT**+50% COMPLETE"
+	}
+	"***Break the spheres to escape***"
+	{
+		"default"		"***Break the spheres to escape***"
+	}
+	"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	{
+		"default"		"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	}
+	"**Wait for others for 5 more seconds**"
+	{
+		"default"		"**Wait for others for 5 more seconds**"
+	}
+	"**Hold 25 seconds**"
+	{
+		"default"		"**Hold 25 seconds**"
+	}
+	"**Hurry! Fall back to the right side!!**"
+	{
+		"default"		"**Hurry! Fall back to the right side!!**"
+	}
+	"**This is the last hold point**Hold them 25 seconds until door closes**"
+	{
+		"default"		"**This is the last hold point**Hold them 25 seconds until door closes**"
+	}
+	"**STAGE 2 is beaten. Moving on STAGE 3**"
+	{
+		"default"		"**STAGE 2 is beaten. Moving on STAGE 3**"
+	}
+	"**STAGE 3**ROAD TO PRIPYAT"
+	{
+		"default"		"**STAGE 3**ROAD TO PRIPYAT"
+	}
+	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+	{
+		"default"		"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+	}
+	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	{
+		"default"		"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	}
+	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	{
+		"default"		"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	}
+	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	{
+		"default"		"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	}
+	"**We got a bomb. But whats this?**"
+	{
+		"default"		"**We got a bomb. But whats this?**"
+	}
+	"**Bloodsucker have been defeated**"
+	{
+		"default"		"**Bloodsucker have been defeated**"
+	}
+	"**Your items got more power**"
+	{
+		"default"		"**Your items got more power**"
+	}
+	"**The bomb is planted. Wait until the debris break**"
+	{
+		"default"		"**The bomb is planted. Wait until the debris break**"
+	}
+	"**Bloodsucker was picked up**"
+	{
+		"default"		"**Bloodsucker was picked up**"
+	}
+	"**OPENING THE GATES (10 SECONDS)**"
+	{
+		"default"		"**OPENING THE GATES (10 SECONDS)**"
+	}
+	"**The door wil open in 10 seconds**"
+	{
+		"default"		"**The door wil open in 10 seconds**"
+	}
+	"**THE SEPARATION POINT - Some guys go forward for documents**"
+	{
+		"default"		"**THE SEPARATION POINT - Some guys go forward for documents**"
+	}
+	"**THE SEPARATION POINT - Others will go to the left for holding the end point**"
+	{
+		"default"		"**THE SEPARATION POINT - Others will go to the left for holding the end point**"
+	}
+	"**Hold this way for 10 seconds**"
+	{
+		"default"		"**Hold this way for 10 seconds**"
+	}
+	"**It's dead. Good job**"
+	{
+		"default"		"**It's dead. Good job**"
+	}
+	"**1 PLAYER have to go to the command room to take documents**"
+	{
+		"default"		"**1 PLAYER have to go to the command room to take documents**"
+	}
+	"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+	{
+		"default"		"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+	}
+	"**The documents are here!**We are too close!**"
+	{
+		"default"		"**The documents are here!**We are too close!**"
+	}
+	"**Defend a bit**The door will explode in a few seconds!**"
+	{
+		"default"		"**Defend a bit**The door will explode in a few seconds!**"
+	}
+	"**RUN RUN RUN!!!**"
+	{
+		"default"		"**RUN RUN RUN!!!**"
+	}
+	"**STAGE 3 is beaten. Moving on STAGE 4**"
+	{
+		"default"		"**STAGE 3 is beaten. Moving on STAGE 4**"
+	}
+	"**STAGE 4**PRIPYAT"
+	{
+		"default"		"**STAGE 4**PRIPYAT"
+	}
+	"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
+	{
+		"default"		"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
+	}
+	"**THE DOOR WILL OPEN IN 30 SECONDS**"
+	{
+		"default"		"**THE DOOR WILL OPEN IN 30 SECONDS**"
+	}
+	"**HOLD HERE FOR 20 SECONDS**"
+	{
+		"default"		"**HOLD HERE FOR 20 SECONDS**"
+	}
+	"**GO INTO THE TELEPORTER***"
+	{
+		"default"		"**GO INTO THE TELEPORTER***"
+	}
+	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	{
+		"default"		"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	}
+	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	{
+		"default"		"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	}
+	"**Wait for others for 5 seconds**"
+	{
+		"default"		"**Wait for others for 5 seconds**"
+	}
+	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	{
+		"default"		"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	}
+	"**NOW WE ARE READY TO GO**"
+	{
+		"default"		"**NOW WE ARE READY TO GO**"
+	}
+	"**Hold here for 25 seconds**"
+	{
+		"default"		"**Hold here for 25 seconds**"
+	}
+	"**And then go to the pool**"
+	{
+		"default"		"**And then go to the pool**"
+	}
+	"**..We founded something unusial..**"
+	{
+		"default"		"**..We founded something unusial..**"
+	}
+	"**.. Is it a new anomaly?!..**"
+	{
+		"default"		"**.. Is it a new anomaly?!..**"
+	}
+	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	{
+		"default"		"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	}
+	"He escaped...We will try to get him next time..."
+	{
+		"default"		"He escaped...We will try to get him next time..."
+	}
+	"**Now go away to the coast**"
+	{
+		"default"		"**Now go away to the coast**"
+	}
+	"**The blowout is comming**"
+	{
+		"default"		"**The blowout is comming**"
+	}
+	"**Prepare to survive. You need to find the spot and defend it **"
+	{
+		"default"		"**Prepare to survive. You need to find the spot and defend it **"
+	}
+	"**SPIKEBALL GOT MAXIMUM POWER**"
+	{
+		"default"		"**SPIKEBALL GOT MAXIMUM POWER**"
+	}
+	"**1m 00s before blowout**"
+	{
+		"default"		"**1m 00s before blowout**"
+	}
+	"**50s before blowout**"
+	{
+		"default"		"**50s before blowout**"
+	}
+	"**40s before blowout**"
+	{
+		"default"		"**40s before blowout**"
+	}
+	"**30s before blowout**"
+	{
+		"default"		"**30s before blowout**"
+	}
+	"**20s before blowout**"
+	{
+		"default"		"**20s before blowout**"
+	}
+	"**10s before blowout**"
+	{
+		"default"		"**10s before blowout**"
+	}
+	"**5s before blowout**"
+	{
+		"default"		"**5s before blowout**"
+	}
+	"**4s before blowout**"
+	{
+		"default"		"**4s before blowout**"
+	}
+	"**3s before blowout**"
+	{
+		"default"		"**3s before blowout**"
+	}
+	"**2s before blowout**"
+	{
+		"default"		"**2s before blowout**"
+	}
+	"**1s before blowout**"
+	{
+		"default"		"**1s before blowout**"
+	}
+	"**BLOWOUT HAPPENNED**"
+	{
+		"default"		"**BLOWOUT HAPPENNED**"
+	}
+	"**STAGE 4 is beaten. Moving on STAGE 5**"
+	{
+		"default"		"**STAGE 4 is beaten. Moving on STAGE 5**"
+	}
+	"**STAGE 5**WIN OR DIE"
+	{
+		"default"		"**STAGE 5**WIN OR DIE"
+	}
+	"**CURRENT MISSION: Kill that strange mutant and evacuate from the Exclusion Zone**  "
+	{
+		"default"		"**CURRENT MISSION: Kill that strange mutant and evacuate from the Exclusion Zone**  "
+	}
+	"**Seems like the controller if finally dead! Good job**"
+	{
+		"default"		"**Seems like the controller if finally dead! Good job**"
+	}
+	"**Controller was picked up**"
+	{
+		"default"		"**Controller was picked up**"
+	}
+	"**This seems not to be good**"
+	{
+		"default"		"**This seems not to be good**"
+	}
+	"**The strong blowout is comming. Choppers can not come here**"
+	{
+		"default"		"**The strong blowout is comming. Choppers can not come here**"
+	}
+	"**Prepare to FIGHT! Now you are only for yourselves**"
+	{
+		"default"		"**Prepare to FIGHT! Now you are only for yourselves**"
+	}
+	"**The strange energy made your items overpowered. Try to use when nesessary**"
+	{
+		"default"		"**The strange energy made your items overpowered. Try to use when nesessary**"
+	}
+	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+	{
+		"default"		"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+	}
+}

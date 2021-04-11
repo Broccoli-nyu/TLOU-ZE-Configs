@@ -44,4 +44,212 @@
 	{
 		"default"		"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
 	}
+	"||| ZOMBIES TAKE THE STAIRS |||"
+	{
+		"default"		"||| ZOMBIES TAKE THE STAIRS |||"
+	}
+	"||| RUN BACK OUT THE FACILITY |||"
+	{
+		"default"		"||| RUN BACK OUT THE FACILITY |||"
+	}
+	"||| SHOOT THE SECOND DOOR OPEN |||"
+	{
+		"default"		"||| SHOOT THE SECOND DOOR OPEN |||"
+	}
+	"||| CHAPTER 2 => SECURE |||"
+	{
+		"default"		"||| CHAPTER 2 => SECURE |||"
+	}
+	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	{
+		"default"		"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	}
+	"||| FIND A WAY OUT OF THIS CAVE |||"
+	{
+		"default"		"||| FIND A WAY OUT OF THIS CAVE |||"
+	}
+	"||| A PLAYER HAS PICKED UP C4 |||"
+	{
+		"default"		"||| A PLAYER HAS PICKED UP C4 |||"
+	}
+	"||| C4 EXPLODE IN 15 SECONDS |||"
+	{
+		"default"		"||| C4 EXPLODE IN 15 SECONDS |||"
+	}
+	"||| C4 EXPLODE IN 5 SECONDS |||"
+	{
+		"default"		"||| C4 EXPLODE IN 5 SECONDS |||"
+	}
+	"||| C4 EXPLODE IN 10 SECONDS |||"
+	{
+		"default"		"||| C4 EXPLODE IN 10 SECONDS |||"
+	}
+	"||| BRIDGE EXTEND IN 20 SECONDS |||"
+	{
+		"default"		"||| BRIDGE EXTEND IN 20 SECONDS |||"
+	}
+	"||| HOLD FOR 15 SECONDS |||"
+	{
+		"default"		"||| HOLD FOR 15 SECONDS |||"
+	}
+	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	{
+		"default"		"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	}
+	"||| DEFEND THE ABOVE THE TRAINS |||"
+	{
+		"default"		"||| DEFEND THE ABOVE THE TRAINS |||"
+	}
+	"||| STAGE 2 FINISHED |||"
+	{
+		"default"		"||| STAGE 2 FINISHED |||"
+	}
+	"||| CHAPTER 3 => AWAKENING |||"
+	{
+		"default"		"||| CHAPTER 3 => AWAKENING |||"
+	}
+	"||| ELEVATOR LEAVING IN 20 SECONDS |||"
+	{
+		"default"		"||| ELEVATOR LEAVING IN 20 SECONDS |||"
+	}
+	"||| ELEVATOR LEAVING IN 5 SECONDS |||"
+	{
+		"default"		"||| ELEVATOR LEAVING IN 5 SECONDS |||"
+	}
+	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	{
+		"default"		"||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	}
+	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+	{
+		"default"		"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+	}
+	"||| SHOOT THE CONTAINER |||"
+	{
+		"default"		"||| SHOOT THE CONTAINER |||"
+	}
+	"||| CORE EXPLODES IN 170 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 170 SECONDS |||"
+	}
+	"||| DOOR OPENS IN 20 SECONDS |||"
+	{
+		"default"		"||| DOOR OPENS IN 20 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 100 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 100 SECONDS |||"
+	}
+	"||| DOOR IS OPENING |||"
+	{
+		"default"		"||| DOOR IS OPENING |||"
+	}
+	"||| CORE EXPLODES IN 80 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 80 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 60 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 60 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 40 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 40 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 20 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 20 SECONDS |||"
+	}
+	"||| HOLD THE BRIDGE |||"
+	{
+		"default"		"||| HOLD THE BRIDGE |||"
+	}
+	"||| CORE EXPLODES IN 10 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 10 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 5 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 5 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 4 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 4 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 3 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 3 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 2 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 2 SECONDS |||"
+	}
+	"||| CORE EXPLODES IN 1 SECONDS |||"
+	{
+		"default"		"||| CORE EXPLODES IN 1 SECONDS |||"
+	}
+	"||| STAGE 3 FINISHED |||"
+	{
+		"default"		"||| STAGE 3 FINISHED |||"
+	}
+	"||| CHAPTER 4 => SHOWDOWN |||"
+	{
+		"default"		"||| CHAPTER 4 => SHOWDOWN |||"
+	}
+	"||| HOLD THIS POSITION FOR 30 SECONDS |||"
+	{
+		"default"		"||| HOLD THIS POSITION FOR 30 SECONDS |||"
+	}
+	"||| PREPARE TO FALL BACK |||"
+	{
+		"default"		"||| PREPARE TO FALL BACK |||"
+	}
+	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	{
+		"default"		"||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	}
+	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	{
+		"default"		"||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	}
+	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
+	{
+		"default"		"||| !!!WARNING!!! DANGER FROM ABOVE |||"
+	}
+	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
+	{
+		"default"		"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
+	}
+	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
+	{
+		"default"		"||| POWER IS RESTORED... DOORS OPEN SOON |||"
+	}
+	"||| THE DOORS ARE OPENING |||"
+	{
+		"default"		"||| THE DOORS ARE OPENING |||"
+	}
+	"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
+	{
+		"default"		"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
+	}
+	"||| AIRSTRIKE INCOMING |||"
+	{
+		"default"		"||| AIRSTRIKE INCOMING |||"
+	}
+	"||| YOU WIN |||"
+	{
+		"default"		"||| YOU WIN |||"
+	}
+	"||| CHAPTER 5 => DESTRUCTION |||"
+	{
+		"default"		"||| CHAPTER 5 => DESTRUCTION |||"
+	}
+	"||| DOOR OPENS IN 30 SECONDS |||"
+	{
+		"default"		"||| DOOR OPENS IN 30 SECONDS |||"
+	}
+	"||| NIGHTMARE COMPLETE |||"
+	{
+		"default"		"||| NIGHTMARE COMPLETE |||"
+	}
 }

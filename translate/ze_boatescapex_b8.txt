@@ -312,4 +312,24 @@
 	{
 		"default"		"*** Invert controls in 3 seconds... ***"
 	}
+	"*** MODE: REVERSE ***"
+	{
+		"default"		"*** MODE: REVERSE ***"
+	}
+	"*** Make your way from the end to start! Run! Zombies are coming! ***"
+	{
+		"default"		"*** Make your way from the end to start! Run! Zombies are coming! ***"
+	}
+	"*** Final first boat is leaving! Get in!!!***"
+	{
+		"default"		"*** Final first boat is leaving! Get in!!!***"
+	}
+	"*** REVERSE PATH OPEN! ***"
+	{
+		"default"		"*** REVERSE PATH OPEN! ***"
+	}
+	"*** 45 SECONDS TO GET TO THE SAFETY ZONE ***"
+	{
+		"default"		"*** 45 SECONDS TO GET TO THE SAFETY ZONE ***"
+	}
 }

@@ -72,4 +72,8 @@
 	{
 		"default"		">>LADDERS BREAK<<"
 	}
+	">>BYE BYE<<"
+	{
+		"default"		">>BYE BYE<<"
+	}
 }

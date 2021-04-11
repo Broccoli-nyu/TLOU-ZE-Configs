@@ -1,0 +1,166 @@
+"Chat"
+{
+	">>> Bug Fixes From DarkerZ [RUS] and NiceShot (updated 21 January 2020) with SaveLevel <<<"
+	{
+		"default"		">>> Bug Fixes From DarkerZ [RUS] and NiceShot (updated 21 January 2020) with SaveLevel <<<"
+	}
+	">>> WARMUP ROUND <<<"
+	{
+		"default"		">>> WARMUP ROUND <<<"
+	}
+	">>> MAP CREATED BY SKULLZ AND DEVIOUS <<<"
+	{
+		"default"		">>> MAP CREATED BY SKULLZ AND DEVIOUS <<<"
+	}
+	">>> THE MAP IS WARMING UP <<<"
+	{
+		"default"		">>> THE MAP IS WARMING UP <<<"
+	}
+	">>> STARTING THE MAP - HAVE FUN <<<"
+	{
+		"default"		">>> STARTING THE MAP - HAVE FUN <<<"
+	}
+	">>> STAGE 1"
+	{
+		"12 - NORMAL MODE <<<"
+		{
+			"default"		">>> STAGE 1/12 - NORMAL MODE <<<"
+		}
+	}
+	">>> GATE BREAKING IN 6 SECONDS <<<"
+	{
+		"default"		">>> GATE BREAKING IN 6 SECONDS <<<"
+	}
+	">>> STAGE TELEPORT ENABLED IN 5 SECONDS <<<"
+	{
+		"default"		">>> STAGE TELEPORT ENABLED IN 5 SECONDS <<<"
+	}
+	">>> SPAWN TELEPORT ENABLED IN 30 SECONDS <<<"
+	{
+		"default"		">>> SPAWN TELEPORT ENABLED IN 30 SECONDS <<<"
+	}
+	">>> DOORS OPENING IN 15 SECONDS <<<"
+	{
+		"default"		">>> DOORS OPENING IN 15 SECONDS <<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"default"		">>> 5 SECONDS LEFT <<<"
+	}
+	">>> BARRELS EXPLODING IN 20 SECONDS <<<"
+	{
+		"default"		">>> BARRELS EXPLODING IN 20 SECONDS <<<"
+	}
+	">>> DOOR BREAKING IN 10 SECONDS <<<"
+	{
+		"default"		">>> DOOR BREAKING IN 10 SECONDS <<<"
+	}
+	">>> ITS A DEATHEATER - KILL HIM <<<"
+	{
+		"default"		">>> ITS A DEATHEATER - KILL HIM <<<"
+	}
+	">>> DEATHEATER IS CHARGING WIND ATTACK <<<"
+	{
+		"default"		">>> DEATHEATER IS CHARGING WIND ATTACK <<<"
+	}
+	">>> DEATHEATER IS CHARGING FIRE ATTACK <<<"
+	{
+		"default"		">>> DEATHEATER IS CHARGING FIRE ATTACK <<<"
+	}
+	">>> THE DEATHEATER IS DEAD - FALL BACK <<<"
+	{
+		"default"		">>> THE DEATHEATER IS DEAD - FALL BACK <<<"
+	}
+	">>> DOOR WILL BREAK IN 15 SECONDS <<<"
+	{
+		"default"		">>> DOOR WILL BREAK IN 15 SECONDS <<<"
+	}
+	">>> BOXES BREAKING IN 10 SECONDS <<<"
+	{
+		"default"		">>> BOXES BREAKING IN 10 SECONDS <<<"
+	}
+	">>> BOXES BREAKING IN 5 SECONDS <<<"
+	{
+		"default"		">>> BOXES BREAKING IN 5 SECONDS <<<"
+	}
+	">>> SHOOT THE WHITE CHESS PIECES <<<"
+	{
+		"default"		">>> SHOOT THE WHITE CHESS PIECES <<<"
+	}
+	">>> ONE OF THEM WILL OPEN THE NEXT DOOR <<<"
+	{
+		"default"		">>> ONE OF THEM WILL OPEN THE NEXT DOOR <<<"
+	}
+	">>> WE FOUND THE CHESS PIECE <<<"
+	{
+		"default"		">>> WE FOUND THE CHESS PIECE <<<"
+	}
+	">>> DOOR OPENING IN 10 SECONDS <<<"
+	{
+		"default"		">>> DOOR OPENING IN 10 SECONDS <<<"
+	}
+	">>> DOOR OPENING <<<"
+	{
+		"default"		">>> DOOR OPENING <<<"
+	}
+	">>> KEEP DEFENDING THE DOORWAY UNTIL THE DOOR CLOSES <<<"
+	{
+		"default"		">>> KEEP DEFENDING THE DOORWAY UNTIL THE DOOR CLOSES <<<"
+	}
+	">>> DOOR CLOSING IN 5 SECONDS <<<"
+	{
+		"default"		">>> DOOR CLOSING IN 5 SECONDS <<<"
+	}
+	">>> ITS VOLDEMORT - DEFEAT HIM <<<"
+	{
+		"default"		">>> ITS VOLDEMORT - DEFEAT HIM <<<"
+	}
+	">>> SHOOT AND BREAK THE WALL <<<"
+	{
+		"default"		">>> SHOOT AND BREAK THE WALL <<<"
+	}
+	">>> DEATHEATER IS HEALING <<<"
+	{
+		"default"		">>> DEATHEATER IS HEALING <<<"
+	}
+	">>> DEATHEATER IS CHARGING POISON ATTACK <<<"
+	{
+		"default"		">>> DEATHEATER IS CHARGING POISON ATTACK <<<"
+	}
+	">>> DEATHEATER IS CHARGING GRAVITY ATTACK <<<"
+	{
+		"default"		">>> DEATHEATER IS CHARGING GRAVITY ATTACK <<<"
+	}
+	">>> VOLDEMORT IS CHARGING AVADA ATTACK <<<"
+	{
+		"default"		">>> VOLDEMORT IS CHARGING AVADA ATTACK <<<"
+	}
+	">>> VOLDEMORT IS CHARGING GRAVITY ATTACK <<<"
+	{
+		"default"		">>> VOLDEMORT IS CHARGING GRAVITY ATTACK <<<"
+	}
+	">>> VOLDEMORT IS CHARGING FIRE ATTACK <<<"
+	{
+		"default"		">>> VOLDEMORT IS CHARGING FIRE ATTACK <<<"
+	}
+	">>> NADES HAVE NO EFFECT <<<"
+	{
+		"default"		">>> NADES HAVE NO EFFECT <<<"
+	}
+	">>> VOLDEMORT IS DEFEATED - FALL BACK <<<"
+	{
+		"default"		">>> VOLDEMORT IS DEFEATED - FALL BACK <<<"
+	}
+	">>> FINAL DOORS OPENING IN 20 SECONDS <<<"
+	{
+		"default"		">>> FINAL DOORS OPENING IN 20 SECONDS <<<"
+	}
+	">>> FINAL DOORS OPENING IN 10 SECONDS <<<"
+	{
+		"default"		">>> FINAL DOORS OPENING IN 10 SECONDS <<<"
+	}
+	">>> FINAL DOORS CLOSING IN 10 SECONDS <<<"
+	{
+		"default"		">>> FINAL DOORS CLOSING IN 10 SECONDS <<<"
+	}
+}

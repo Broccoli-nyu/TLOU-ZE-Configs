@@ -56,4 +56,28 @@
 	{
 		"default"		"** Boss Fight in 5s **"
 	}
+	">>>Boss is dead!<<<"
+	{
+		"default"		">>>Boss is dead!<<<"
+	}
+	">>>The door opens in 20 seconds<<<"
+	{
+		"default"		">>>The door opens in 20 seconds<<<"
+	}
+	">>>The teleporter is activated after 20 seconds<<<"
+	{
+		"default"		">>>The teleporter is activated after 20 seconds<<<"
+	}
+	">>>Teleport is activated!<<<"
+	{
+		"default"		">>>Teleport is activated!<<<"
+	}
+	">>>Laser Alien is dead!<<<"
+	{
+		"default"		">>>Laser Alien is dead!<<<"
+	}
+	">>>The helicopter flies to you! hold on!!!<<<"
+	{
+		"default"		">>>The helicopter flies to you! hold on!!!<<<"
+	}
 }

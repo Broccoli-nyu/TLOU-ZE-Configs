@@ -1,0 +1,411 @@
+"Chat"
+{
+	"***WARMUP ROUND***"
+	{
+		"default"		"***WARMUP ROUND***"
+	}
+	"***MAP STARTING IN 30 SEC***"
+	{
+		"default"		"***MAP STARTING IN 30 SEC***"
+	}
+	"***MAP BY RAPHI***"
+	{
+		"default"		"***MAP BY RAPHI***"
+	}
+	"***MAP STARTING IN 20 SEC***"
+	{
+		"default"		"***MAP STARTING IN 20 SEC***"
+	}
+	"***YOUR MISSION WILL BE TO BRING THE 2 ARTIFACTS***"
+	{
+		"default"		"***YOUR MISSION WILL BE TO BRING THE 2 ARTIFACTS***"
+	}
+	"***YOU WILL START BY THE CHRISTMAS ONE***"
+	{
+		"default"		"***YOU WILL START BY THE CHRISTMAS ONE***"
+	}
+	"***MAP STARTING IN 5 SEC***"
+	{
+		"default"		"***MAP STARTING IN 5 SEC***"
+	}
+	"***Christmas LEVEL***"
+	{
+		"default"		"***Christmas LEVEL***"
+	}
+	"***UPPER DOOR OPENING IN 20 SEC***"
+	{
+		"default"		"***UPPER DOOR OPENING IN 20 SEC***"
+	}
+	"***WALL WILL BREAK IN 20 SEC***"
+	{
+		"default"		"***WALL WILL BREAK IN 20 SEC***"
+	}
+	"***UPPER DOOR OPENING IN 5 SEC***"
+	{
+		"default"		"***UPPER DOOR OPENING IN 5 SEC***"
+	}
+	"***WALL WILL BREAK IN 5 SEC***"
+	{
+		"default"		"***WALL WILL BREAK IN 5 SEC***"
+	}
+	"***SOMEONE HAS TO CALL THE ELEVATOR***"
+	{
+		"default"		"***SOMEONE HAS TO CALL THE ELEVATOR***"
+	}
+	"***ELEVATOR GOING DOWN***"
+	{
+		"default"		"***ELEVATOR GOING DOWN***"
+	}
+	"***ELEVATOR LEAVING IN 10 SEC***"
+	{
+		"default"		"***ELEVATOR LEAVING IN 10 SEC***"
+	}
+	"***Downer Button Pressed***"
+	{
+		"default"		"***Downer Button Pressed***"
+	}
+	"***Upper Button Pressed***"
+	{
+		"default"		"***Upper Button Pressed***"
+	}
+	"***Both button pressed***"
+	{
+		"default"		"***Both button pressed***"
+	}
+	"***DOOR WILL OPEN IN 30 SEC***"
+	{
+		"default"		"***DOOR WILL OPEN IN 30 SEC***"
+	}
+	"***MINE PICKED UP***"
+	{
+		"default"		"***MINE PICKED UP***"
+	}
+	"***CAN BE USED EVERY 20 SEC***"
+	{
+		"default"		"***CAN BE USED EVERY 20 SEC***"
+	}
+	"***DOOR WILL OPEN IN 10 SEC***"
+	{
+		"default"		"***DOOR WILL OPEN IN 10 SEC***"
+	}
+	"***HEAL PICKED UP***"
+	{
+		"default"		"***HEAL PICKED UP***"
+	}
+	"***ONLY 1 USE***"
+	{
+		"default"		"***ONLY 1 USE***"
+	}
+	"***Left Button Pressed***"
+	{
+		"default"		"***Left Button Pressed***"
+	}
+	"***Right Button Pressed***"
+	{
+		"default"		"***Right Button Pressed***"
+	}
+	"***DOOR OPENING IN 20 SEC***"
+	{
+		"default"		"***DOOR OPENING IN 20 SEC***"
+	}
+	"***DOOR OPENING IN 5 SEC***"
+	{
+		"default"		"***DOOR OPENING IN 5 SEC***"
+	}
+	"***DOOR OPEN IN 20 SEC***"
+	{
+		"default"		"***DOOR OPEN IN 20 SEC***"
+	}
+	"***DOOR OPEN IN 5 SEC***"
+	{
+		"default"		"***DOOR OPEN IN 5 SEC***"
+	}
+	"***DOOR CLOSE IN 5 SEC***"
+	{
+		"default"		"***DOOR CLOSE IN 5 SEC***"
+	}
+	"***GET IN THE TRAINS***"
+	{
+		"default"		"***GET IN THE TRAINS***"
+	}
+	"***DOOR CLOSING IN 10 SEC***"
+	{
+		"default"		"***DOOR CLOSING IN 10 SEC***"
+	}
+	"***TELEPORTING ZM IN 5 SEC***"
+	{
+		"default"		"***TELEPORTING ZM IN 5 SEC***"
+	}
+	"***SOLVE THE ENIGMA***"
+	{
+		"default"		"***SOLVE THE ENIGMA***"
+	}
+	"***ENIGMA SOLVED***"
+	{
+		"default"		"***ENIGMA SOLVED***"
+	}
+	"***DOOR OPENS IN 20 SEC***"
+	{
+		"default"		"***DOOR OPENS IN 20 SEC***"
+	}
+	"***DOOR OPENS IN 5 SEC***"
+	{
+		"default"		"***DOOR OPENS IN 5 SEC***"
+	}
+	"***DEFEND 45 SEC***"
+	{
+		"default"		"***DEFEND 45 SEC***"
+	}
+	"SANTA: WHY DID YOU COME ON MY ISLAND"
+	{
+		"default"		"SANTA: WHY DID YOU COME ON MY ISLAND"
+	}
+	"SANTA: Oh I see... You came for my artefact"
+	{
+		"default"		"SANTA: Oh I see... You came for my artefact"
+	}
+	"SANTA: You will pay for the damage you have already done!"
+	{
+		"default"		"SANTA: You will pay for the damage you have already done!"
+	}
+	"SANTA: I AM A HALF GOD. BE READY FOR INCREDIBLE POWER"
+	{
+		"default"		"SANTA: I AM A HALF GOD. BE READY FOR INCREDIBLE POWER"
+	}
+	"***CLOSING DOOR IN 10 SEC***"
+	{
+		"default"		"***CLOSING DOOR IN 10 SEC***"
+	}
+	"***PICK UP THE ARTEFACT AND RUN AWAY***"
+	{
+		"default"		"***PICK UP THE ARTEFACT AND RUN AWAY***"
+	}
+	"***ARTIFACT TAKEN***"
+	{
+		"default"		"***ARTIFACT TAKEN***"
+	}
+	"***A PORTAIL HAS BEEN OPENED AT THE ENTRANCE***"
+	{
+		"default"		"***A PORTAIL HAS BEEN OPENED AT THE ENTRANCE***"
+	}
+	"***RELEASING ZOMBIES IN 5 SEC***"
+	{
+		"default"		"***RELEASING ZOMBIES IN 5 SEC***"
+	}
+	"***YOU WON CHRISTMAS LEVEL***"
+	{
+		"default"		"***YOU WON CHRISTMAS LEVEL***"
+	}
+	"***Halloween LEVEL***"
+	{
+		"default"		"***Halloween LEVEL***"
+	}
+	"***CHRISTMAS ARTIFACT PICKED UP***"
+	{
+		"default"		"***CHRISTMAS ARTIFACT PICKED UP***"
+	}
+	"***CAN BE USED EVERY 60 SEC***"
+	{
+		"default"		"***CAN BE USED EVERY 60 SEC***"
+	}
+	"***SLOW DOWN THE ZOMBIES***"
+	{
+		"default"		"***SLOW DOWN THE ZOMBIES***"
+	}
+	"***PRESS THE BUTTON TO OPEN THE DOORS***"
+	{
+		"default"		"***PRESS THE BUTTON TO OPEN THE DOORS***"
+	}
+	"***DOORS WILL OPEN IN 20 SEC***"
+	{
+		"default"		"***DOORS WILL OPEN IN 20 SEC***"
+	}
+	"***OPENNING IN 5 SEC***"
+	{
+		"default"		"***OPENNING IN 5 SEC***"
+	}
+	"***DOORS OPENING IN 30 SEC***"
+	{
+		"default"		"***DOORS OPENING IN 30 SEC***"
+	}
+	"***DOORS OPENING IN 10 SEC***"
+	{
+		"default"		"***DOORS OPENING IN 10 SEC***"
+	}
+	"***DOOR OPENNING IN 20 SEC***"
+	{
+		"default"		"***DOOR OPENNING IN 20 SEC***"
+	}
+	"***DOORS OPENING IN 20 SEC***"
+	{
+		"default"		"***DOORS OPENING IN 20 SEC***"
+	}
+	"***DOOR OPENING IN 30 SEC***"
+	{
+		"default"		"***DOOR OPENING IN 30 SEC***"
+	}
+	"***DOOR OPENING IN 10 SEC***"
+	{
+		"default"		"***DOOR OPENING IN 10 SEC***"
+	}
+	"***WAIT 20 SECONDS***"
+	{
+		"default"		"***WAIT 20 SECONDS***"
+	}
+	"***CIRCLES HAVE BEEN TRIGGERED***"
+	{
+		"default"		"***CIRCLES HAVE BEEN TRIGGERED***"
+	}
+	"***ENABLING TELEPORT IN 10 SEC***"
+	{
+		"default"		"***ENABLING TELEPORT IN 10 SEC***"
+	}
+	"***Button Pressed***"
+	{
+		"default"		"***BUTTON PRESSED***"
+	}
+	"***TELEPORT ENABLE IN 40 SEC***"
+	{
+		"default"		"***TELEPORT ENABLE IN 40 SEC***"
+	}
+	"***ELEVATOR LEAVING IN 30 SEC***"
+	{
+		"default"		"***ELEVATOR LEAVING IN 30 SEC***"
+	}
+	"***DOOR CLOSING IN 30 SECONDS***"
+	{
+		"default"		"***DOOR CLOSING IN 30 SECONDS***"
+	}
+	"***DOOR CLOSING IN 10 SECONDS***"
+	{
+		"default"		"***DOOR CLOSING IN 10 SECONDS***"
+	}
+	"***YOU DEFEATED HIM***"
+	{
+		"default"		"***YOU DEFEATED HIM***"
+	}
+	"***PICK UP THE ARTIFACT***"
+	{
+		"default"		"***PICK UP THE ARTIFACT***"
+	}
+	"***YOU WON HALLOWEEN LEVEL***"
+	{
+		"default"		"***YOU WON HALLOWEEN LEVEL***"
+	}
+	"***Final LEVEL***"
+	{
+		"default"		"***Final LEVEL***"
+	}
+	"***HALLOWEEN ARTIFACT PICKED UP***"
+	{
+		"default"		"***HALLOWEEN ARTIFACT PICKED UP***"
+	}
+	"***PUSH THE ZOMBIES AWAY***"
+	{
+		"default"		"***PUSH THE ZOMBIES AWAY***"
+	}
+	"***WALL BREAKING IN 20 SEC***"
+	{
+		"default"		"***WALL BREAKING IN 20 SEC***"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"***FALL BACK***"
+	}
+	"***ELEVATOR ENABLED***"
+	{
+		"default"		"***ELEVATOR ENABLED***"
+	}
+	"***WALL BREAKING IN 30 SEC***"
+	{
+		"default"		"***WALL BREAKING IN 30 SEC***"
+	}
+	"***TEMPLE WILL OPEN IN 20 SEC***"
+	{
+		"default"		"***TEMPLE WILL OPEN IN 20 SEC***"
+	}
+	"***LEFT LEVER PRESSED***"
+	{
+		"default"		"***LEFT LEVER PRESSED***"
+	}
+	"***RIGHT LEVER PRESSED***"
+	{
+		"default"		"***RIGHT LEVER PRESSED***"
+	}
+	"***FALLBACK***"
+	{
+		"default"		"***FALLBACK***"
+	}
+	"***WAIT 30 SEC***"
+	{
+		"default"		"***WAIT 30 SEC***"
+	}
+	"***TELEPORTING ZOMBIES ON THE SIDES IN 5 SEC***"
+	{
+		"default"		"***TELEPORTING ZOMBIES ON THE SIDES IN 5 SEC***"
+	}
+	"***DOOR OPENING IN 40 SEC***"
+	{
+		"default"		"***DOOR OPENING IN 40 SEC***"
+	}
+	"***YOU CAN NOW TAKE HIS ARTIFACT***"
+	{
+		"default"		"***YOU CAN NOW TAKE HIS ARTIFACT***"
+	}
+	"***WAIT SOMEONE IS COMING***"
+	{
+		"default"		"***WAIT SOMEONE IS COMING***"
+	}
+	"***HE IS STEALING THE ARTIFACT***"
+	{
+		"default"		"***HE IS STEALING THE ARTIFACT***"
+	}
+	"***THIS TRAITOR RAN AWAY***"
+	{
+		"default"		"***THIS TRAITOR RAN AWAY***"
+	}
+	"***WE HAVE TO KILL HIM NOW***"
+	{
+		"default"		"***WE HAVE TO KILL HIM NOW***"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"default"		"***30 SECONDS LEFT***"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"default"		"***10 SECONDS LEFT***"
+	}
+	"***YOU FINALLY DEFEATED HIM!!!***"
+	{
+		"default"		"***YOU FINALLY DEFEATED HIM!!!***"
+	}
+	"***TELEPORT SPAWNING IN 10 SEC***"
+	{
+		"default"		"***TELEPORT SPAWNING IN 10 SEC***"
+	}
+	"***KEEP DEFENDING***"
+	{
+		"default"		"***KEEP DEFENDING***"
+	}
+	"***GET OUT OF THE TEMPLE***"
+	{
+		"default"		"***GET OUT OF THE TEMPLE***"
+	}
+	"***TEMPLE CLOSING IN 40 SEC***"
+	{
+		"default"		"***TEMPLE CLOSING IN 40 SEC***"
+	}
+	"***YOU JUST BEAT THE MAP***"
+	{
+		"default"		"***YOU JUST BEAT THE MAP***"
+	}
+	"***CONGRATZ***"
+	{
+		"default"		"***CONGRATZ***"
+	}
+	"***MADE BY RAPHI***"
+	{
+		"default"		"***MADE BY RAPHI***"
+	}
+}

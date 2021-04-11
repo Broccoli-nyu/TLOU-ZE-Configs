@@ -80,4 +80,84 @@
 	{
 		"default"		"***Cockpit & Cargo door closing in 5s***"
 	}
+	"***Hold the cave for 30 seconds!***"
+	{
+		"default"		"***Hold the cave for 30 seconds!***"
+	}
+	"***Don't let the zombies come inside or we're doomed!***"
+	{
+		"default"		"***Don't let the zombies come inside or we're doomed!***"
+	}
+	"***Hold the cave for 15 seconds!***"
+	{
+		"default"		"***Hold the cave for 15 seconds!***"
+	}
+	"***...4...***"
+	{
+		"default"		"***...4...***"
+	}
+	"***...3...***"
+	{
+		"default"		"***...3...***"
+	}
+	"***...2...***"
+	{
+		"default"		"***...2...***"
+	}
+	"***...1...***"
+	{
+		"default"		"***...1...***"
+	}
+	"***Ruuuuun!***"
+	{
+		"default"		"***Ruuuuun!***"
+	}
+	"**Keep zombies on a distance! Shoot between the bars!"
+	{
+		"default"		"**Keep zombies on a distance! Shoot between the bars!"
+	}
+	"**Arc door 4 opening!"
+	{
+		"default"		"**Arc door 4 opening!"
+	}
+	"**Only a few persons can pass to break what is jamming the gears!***"
+	{
+		"default"		"**Only a few persons can pass to break what is jamming the gears!***"
+	}
+	"**Stay fucking defending untill the gears are broken!***"
+	{
+		"default"		"**Stay fucking defending untill the gears are broken!***"
+	}
+	"***Don't let zombies break the bars!***"
+	{
+		"default"		"***Don't let zombies break the bars!***"
+	}
+	"***Cross the metal ropes!***"
+	{
+		"default"		"***Cross the metal ropes!***"
+	}
+	"**Stay fucking defending untill you are told to run in !***"
+	{
+		"default"		"**Stay fucking defending untill you are told to run in !***"
+	}
+	"[Clear whatever is jamming the gears first!]"
+	{
+		"default"		"[Clear whatever is jamming the gears first!]"
+	}
+	"**You got 60 Damn seconds to close the arkdoor!"
+	{
+		"default"		"**You got 60 Damn seconds to close the arkdoor!"
+	}
+	"***RUN into the ark! Hurry!***"
+	{
+		"default"		"***RUN into the ark! Hurry!***"
+	}
+	"***Go close the ark! Hurry!***"
+	{
+		"default"		"***Go close the ark! Hurry!***"
+	}
+	"[Ark door is closing!]"
+	{
+		"default"		"[Ark door is closing!]"
+	}
 }

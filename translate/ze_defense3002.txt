@@ -1,0 +1,11 @@
+"Chat"
+{
+	"You will be teleported in 2 minutes."
+	{
+		"default"		"You will be teleported in 2 minutes."
+	}
+	"Map created by warluthy."
+	{
+		"default"		"Map created by warluthy."
+	}
+}

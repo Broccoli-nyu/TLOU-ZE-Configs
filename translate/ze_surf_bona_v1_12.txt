@@ -1,0 +1,107 @@
+"Chat"
+{
+	"<< ze_surf_bona >>"
+	{
+		"default"		"<< ze_surf_bona >>"
+	}
+	"<< map create by : kulu >>"
+	{
+		"default"		"<< map create by : kulu >>"
+	}
+	"<< Test server : Possesion Server >>"
+	{
+		"default"		"<< Test server : Possesion Server >>"
+	}
+	"<< Laser fix : Lishang >>"
+	{
+		"default"		"<< Laser fix : Lishang >>"
+	}
+	"<< Open Path at 5 sec >>"
+	{
+		"default"		"<< Open Path at 5 sec >>"
+	}
+	"<< Thanks to kulu for giving the stripper to TLOU server! >>"
+	{
+		"default"		"<< Thanks to kulu for giving the stripper to TLOU server! >>"
+	}
+	"<< Teleport Activate >>"
+	{
+		"default"		"<< Teleport Activate >>"
+	}
+	"<< Defend for 30 sec >>"
+	{
+		"default"		"<< Defend for 30 sec >>"
+	}
+	"<< Pick Music ... >>"
+	{
+		"default"		"<< Pick Music ... >>"
+	}
+	"<< D8 >>"
+	{
+		"default"		"<< D8 >>"
+	}
+	"<< Zombie jail break : 10 >>"
+	{
+		"default"		"<< Zombie jail break : 10 >>"
+	}
+	"<< Survive for 65 seconds !!! >>"
+	{
+		"default"		"<< Survive for 65 seconds !!! >>"
+	}
+	"++ Zgravity ready : OK ++"
+	{
+		"default"		"++ Zgravity ready : OK ++"
+	}
+	"<< Survive for 100 seconds !!! >>"
+	{
+		"default"		"<< Survive for 100 seconds !!! >>"
+	}
+	"++ Zspeedup ready : OK ++"
+	{
+		"default"		"++ Zspeedup ready : OK ++"
+	}
+	"<< Time Limit : 30 >>"
+	{
+		"default"		"<< Time Limit : 30 >>"
+	}
+	"<< Good >>"
+	{
+		"default"		"<< Good >>"
+	}
+	"<< Watch out Lasers >> "
+	{
+		"default"		"<< Watch out Lasers >> "
+	}
+	"<< Shoooooooot !!!! >> "
+	{
+		"default"		"<< Shoooooooot !!!! >> "
+	}
+	"<< ZERO >>"
+	{
+		"default"		"<< ZERO >>"
+	}
+	"<< Mimyu help pressed >>"
+	{
+		"default"		"<< Mimyu help pressed >>"
+	}
+	"<< Oh No !! Stage Fail !!! >>"
+	{
+		"default"		"<< Oh No !! Stage Fail !!! >>"
+	}
+	"<< Dead >>"
+	{
+		"default"		"<< Dead >>"
+	}
+	"<< Last Surf open at 20 sec >>"
+	{
+		"default"		"<< Last Surf open at 20 sec >>"
+	}
+	"<< Open >>"
+	{
+		"default"		"<< Open >>"
+	}
+	"<< Nuke Enable >>"
+	{
+		"default"		"<< Nuke Enable >>"
+	}
+}

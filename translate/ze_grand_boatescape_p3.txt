@@ -1,0 +1,71 @@
+"Chat"
+{
+	"****Spawn will open up within 20 seconds****"
+	{
+		"default"		"****Spawn will open up within 20 seconds****"
+	}
+	"****We need to get off this island before the Zombie Infestation takes the whole Island****"
+	{
+		"default"		"****We need to get off this island before the Zombie Infestation takes the whole Island****"
+	}
+	"****Created By GrandOp****"
+	{
+		"default"		"****Created By GrandOp****"
+	}
+	"****Boat will be leaving in 10 seconds****"
+	{
+		"default"		"****Boat will be leaving in 10 seconds****"
+	}
+	"****There must be a way to get off this Island****"
+	{
+		"default"		"****There must be a way to get off this Island****"
+	}
+	"****We need to escape the blazing sun that will destroy this island****"
+	{
+		"default"		"****We need to escape the blazing sun that will destroy this island****"
+	}
+	"****It will kill this virus for good****"
+	{
+		"default"		"****It will kill this virus for good****"
+	}
+	"****The distant island ahead of us should be safe from it****"
+	{
+		"default"		"****The distant island ahead of us should be safe from it****"
+	}
+	"****Tram will be leaving in 5 seconds****"
+	{
+		"default"		"****Tram will be leaving in 5 seconds****"
+	}
+	"****Defend the front walls****"
+	{
+		"default"		"****Defend the front walls****"
+	}
+	"****Dont retreat unless told****"
+	{
+		"default"		"****Dont retreat unless told****"
+	}
+	"****Rocket is ready to go!****"
+	{
+		"default"		"****Rocket is ready to go!****"
+	}
+	"****Retreat to the rocket or wait for the balloon!****"
+	{
+		"default"		"****Retreat to the rocket or wait for the balloon!****"
+	}
+	"**** The rails down the water path have been broken! ****"
+	{
+		"default"		"**** The rails down the water path have been broken! ****"
+	}
+	"**** Don't let zombies into the balloon! ****"
+	{
+		"default"		"**** Don't let zombies into the balloon! ****"
+	}
+	"****Hot air balloon is ready to go!****"
+	{
+		"default"		"****Hot air balloon is ready to go!****"
+	}
+	"****Retreat to the balloon! Hurry!****"
+	{
+		"default"		"****Retreat to the balloon! Hurry!****"
+	}
+}

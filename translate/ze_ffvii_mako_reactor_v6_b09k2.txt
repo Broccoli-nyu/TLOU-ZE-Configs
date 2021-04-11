@@ -1,0 +1,71 @@
+"Chat"
+{
+	"<<< EASY >>>"
+	{
+		"default"		"<<< EASY >>>"
+	}
+	"** Round failed! Zombies have reached the objective! **"
+	{
+		"default"		"** Round failed! Zombies have reached the objective! **"
+	}
+	"< CITY DOOR OPENS IN 40 SECONDS >"
+	{
+		"default"		"< CITY DOOR OPENS IN 40 SECONDS >"
+	}
+	"< CITY DOOR OPENS IN 5 SECONDS >"
+	{
+		"default"		"< CITY DOOR OPENS IN 5 SECONDS >"
+	}
+	"< CARGO LIFT STARTS IN 5 SECONDS >"
+	{
+		"default"		"< CARGO LIFT STARTS IN 5 SECONDS >"
+	}
+	"** WIND Materia has been found. **"
+	{
+		"default"		"** WIND Materia has been found. **"
+	}
+	"** BIO Materia has been found. **"
+	{
+		"default"		"** BIO Materia has been found. **"
+	}
+	"** MIMIC Materia has been found. **"
+	{
+		"default"		"** MIMIC Materia has been found. **"
+	}
+	"** AQUA Materia has been found. **"
+	{
+		"default"		"** AQUA Materia has been found. **"
+	}
+	"** EARTH Materia has been found. **"
+	{
+		"default"		"** EARTH Materia has been found. **"
+	}
+	"** FIRE Materia has been found. **"
+	{
+		"default"		"** FIRE Materia has been found. **"
+	}
+	"** ELECTRO Materia has been found. **"
+	{
+		"default"		"** ELECTRO Materia has been found. **"
+	}
+	"** HEAL Materia has been found. **"
+	{
+		"default"		"** HEAL Materia has been found. **"
+	}
+	"** ICE Materia has been found. **"
+	{
+		"default"		"** ICE Materia has been found. **"
+	}
+	"** Congratulations! You have beaten [EASY] **"
+	{
+		"default"		"** Congratulations! You have beaten [EASY] **"
+	}
+	"<<< NORMAL >>>"
+	{
+		"default"		"<<< NORMAL >>>"
+	}
+	"** GRAVITY Materia has been found. **"
+	{
+		"default"		"** GRAVITY Materia has been found. **"
+	}
+}

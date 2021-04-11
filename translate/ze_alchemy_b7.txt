@@ -84,4 +84,460 @@
 	{
 		"default"		"**Laser wall will go down in 30 seconds**"
 	}
+	"***ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"default"		"***ELEVATOR IS LEAVING IN 30 SECONDS***"
+	}
+	"***Zombie TP in 8 seconds***"
+	{
+		"default"		"***Zombie TP in 8 seconds***"
+	}
+	"**Break the glass**"
+	{
+		"default"		"**Break the glass**"
+	}
+	"***PROTECT THIS PLATFORM FOR 30 SECONDS***"
+	{
+		"default"		"***PROTECT THIS PLATFORM FOR 30 SECONDS***"
+	}
+	"**DON'T EDGE ON THE PLATFORM**"
+	{
+		"default"		"**DON'T EDGE ON THE PLATFORM**"
+	}
+	"***Zombie shortcut opens in 5 seconds***"
+	{
+		"default"		"***Zombie shortcut opens in 5 seconds***"
+	}
+	"***Gates will break in 15 seconds***"
+	{
+		"default"		"***Gates will break in 15 seconds***"
+	}
+	"***AFK tele in 15 seconds***"
+	{
+		"default"		"***AFK tele in 15 seconds***"
+	}
+	"**Gates will break in 30 seconds**"
+	{
+		"default"		"**Gates will break in 30 seconds**"
+	}
+	"**Main door closes in 15 seconds**"
+	{
+		"default"		"**Main door closes in 15 seconds**"
+	}
+	"**Side doors close in 15 seconds**"
+	{
+		"default"		"**Side doors close in 15 seconds**"
+	}
+	"**STAGE 1 COMPLETE**"
+	{
+		"default"		"**STAGE 1 COMPLETE**"
+	}
+	"***STAGE 2***"
+	{
+		"default"		"***STAGE 2***"
+	}
+	"***PLAYER PICKED UP GRAVITY AXE***"
+	{
+		"default"		"***PLAYER PICKED UP GRAVITY AXE***"
+	}
+	"**Wait till the door opens,...**"
+	{
+		"default"		"**Wait till the door opens,...**"
+	}
+	"**Path will open in 15 seconds**"
+	{
+		"default"		"**Path will open in 15 seconds**"
+	}
+	"***Hold here for 25 seconds***"
+	{
+		"default"		"***Hold here for 25 seconds***"
+	}
+	"**HALF THE TEAM GOES UP, HALF THE TEAM GOES DOWN**"
+	{
+		"default"		"**HALF THE TEAM GOES UP, HALF THE TEAM GOES DOWN**"
+	}
+	"**Doors will open in 20 seconds**"
+	{
+		"default"		"**Doors will open in 20 seconds**"
+	}
+	"***PLAYER PICKED UP ZOMBIE LURE***"
+	{
+		"default"		"***PLAYER PICKED UP ZOMBIE LURE***"
+	}
+	"***PLAYER PICKED UP ZOMBIE WARP***"
+	{
+		"default"		"***PLAYER PICKED UP ZOMBIE WARP***"
+	}
+	"**Above path opens in 10 seconds**"
+	{
+		"default"		"**Above path opens in 10 seconds**"
+	}
+	"**Under path opens in 10 seconds**"
+	{
+		"default"		"**Under path opens in 10 seconds**"
+	}
+	"**White path glass breaks in 10 seconds**"
+	{
+		"default"		"**White path glass breaks in 10 seconds**"
+	}
+	"**Black path glass breaks in 15 seconds**"
+	{
+		"default"		"**Black path glass breaks in 15 seconds**"
+	}
+	"**LEFT side has been reached**"
+	{
+		"default"		"**LEFT side has been reached**"
+	}
+	"**RIGHT side has been reached**"
+	{
+		"default"		"**RIGHT side has been reached**"
+	}
+	"**GREAT, HOLD HERE FOR A BIT, THE GLASSES WILL BREAK**"
+	{
+		"default"		"**GREAT, HOLD HERE FOR A BIT, THE GLASSES WILL BREAK**"
+	}
+	"**JUMP JUMP JUMP JUMP**"
+	{
+		"default"		"**JUMP JUMP JUMP JUMP**"
+	}
+	"***Hold here for 10 seconds***"
+	{
+		"default"		"***Hold here for 10 seconds***"
+	}
+	"**AFK teleport in 5 seconds**"
+	{
+		"default"		"**AFK teleport in 5 seconds**"
+	}
+	"*** Only one CT needs to do the parkour ***"
+	{
+		"default"		"*** Only one CT needs to do the parkour ***"
+	}
+	"***Hold here for 35 seconds***"
+	{
+		"default"		"***Hold here for 35 seconds***"
+	}
+	"***Zombie teleport advancing  in 15 seconds***"
+	{
+		"default"		"***Zombie teleport advancing  in 15 seconds***"
+	}
+	"***Boss fight in 40 seconds***"
+	{
+		"default"		"***Boss fight in 40 seconds***"
+	}
+	"***BOSS DOOR IS CLOSING IN 10 SECONDS***"
+	{
+		"default"		"***BOSS DOOR IS CLOSING IN 10 SECONDS***"
+	}
+	"You must defeat the illuminarts to proceed"
+	{
+		"default"		"You must defeat the illuminarts to proceed"
+	}
+	"**DEATH ARROW**"
+	{
+		"default"		"**DEATH ARROW**"
+	}
+	"**LANDSLIDE**"
+	{
+		"default"		"**LANDSLIDE**"
+	}
+	"**OMNI PUSH**"
+	{
+		"default"		"**OMNI PUSH**"
+	}
+	"ILLUMINARTS HAS BEEN DEFEATED"
+	{
+		"default"		"ILLUMINARTS HAS BEEN DEFEATED"
+	}
+	"***ZOMBIES ARE RELEASED IN 5 SECONDS***"
+	{
+		"default"		"***ZOMBIES ARE RELEASED IN 5 SECONDS***"
+	}
+	"***Final door will close in 30 seconds***"
+	{
+		"default"		"***Final door will close in 30 seconds***"
+	}
+	"***STAGE 2 COMPLETE***"
+	{
+		"default"		"***STAGE 2 COMPLETE***"
+	}
+	"***STAGE 3***"
+	{
+		"default"		"***STAGE 3***"
+	}
+	"***PLAYER PICKED UP BURNING AXE***"
+	{
+		"default"		"***PLAYER PICKED UP BURNING AXE***"
+	}
+	"**Shortcut opens in 10 seconds**"
+	{
+		"default"		"**Shortcut opens in 10 seconds**"
+	}
+	"***ELEVATOR LEAVES IN 25 SECONDS***"
+	{
+		"default"		"***ELEVATOR LEAVES IN 25 SECONDS***"
+	}
+	"**Zombie push enabled in 5 seconds**"
+	{
+		"default"		"**Zombie push enabled in 5 seconds**"
+	}
+	"***FOUNTAIN PUSH STARTS IN 30 SECONDS***"
+	{
+		"default"		"***FOUNTAIN PUSH STARTS IN 30 SECONDS***"
+	}
+	"**Zombies must jump**"
+	{
+		"default"		"**Zombies must jump**"
+	}
+	"**TIP: both sides reach the end**"
+	{
+		"default"		"**TIP: both sides reach the end**"
+	}
+	"**AFK teleport in 10 seconds**"
+	{
+		"default"		"**AFK teleport in 10 seconds**"
+	}
+	"***BRIDGE DOOR OPENS IN 20 SECONDS***"
+	{
+		"default"		"***BRIDGE DOOR OPENS IN 20 SECONDS***"
+	}
+	"***UNDER PATH OPENS IN 20 SECONDS***"
+	{
+		"default"		"***UNDER PATH OPENS IN 20 SECONDS***"
+	}
+	"***PATH OPENS IN 25 SECONDS***"
+	{
+		"default"		"***PATH OPENS IN 25 SECONDS***"
+	}
+	"**Shortcut opens in 15 seconds**"
+	{
+		"default"		"**Shortcut opens in 15 seconds**"
+	}
+	"***FIRST GATE OPENS IN 30 SECONDS***"
+	{
+		"default"		"***FIRST GATE OPENS IN 30 SECONDS***"
+	}
+	"***PATH WILL BE CLEAR IN 25 SECONDS***"
+	{
+		"default"		"***PATH WILL BE CLEAR IN 25 SECONDS***"
+	}
+	"**Zombie teleport advancing in 5 seconds**"
+	{
+		"default"		"**Zombie teleport advancing in 5 seconds**"
+	}
+	"***We must find the totem and destroy it in order to proceed***"
+	{
+		"default"		"***We must find the totem and destroy it in order to proceed***"
+	}
+	"**STATUE HAS BEEN BROKEN, HEAD FOR THE GATE**"
+	{
+		"default"		"**STATUE HAS BEEN BROKEN, HEAD FOR THE GATE**"
+	}
+	"**Main gate opens in 30 seconds**"
+	{
+		"default"		"**Main gate opens in 30 seconds**"
+	}
+	"**Door to the alchemist opens in 30 seconds**"
+	{
+		"default"		"**Door to the alchemist opens in 30 seconds**"
+	}
+	"**Door closes in 10 seconds**"
+	{
+		"default"		"**Door closes in 10 seconds**"
+	}
+	"**Is this... the alchemist?**"
+	{
+		"default"		"**Is this... the alchemist?**"
+	}
+	"**It's his spirit!"
+	{
+		"default"		"**It's his spirit!"
+	}
+	"***TIP: Nades do more damage!***"
+	{
+		"default"		"***TIP: Nades do more damage!***"
+	}
+	"**WALL OF SORROW**"
+	{
+		"default"		"**WALL OF SORROW**"
+	}
+	"**BREAK THE WALLS**"
+	{
+		"default"		"**BREAK THE WALLS**"
+	}
+	"**SHOOT THOSE WALLS!**"
+	{
+		"default"		"**SHOOT THOSE WALLS!**"
+	}
+	"**SOUL EATER**"
+	{
+		"default"		"**SOUL EATER**"
+	}
+	"ALCHEMIST HAS BEEN DEFEATED"
+	{
+		"default"		"ALCHEMIST HAS BEEN DEFEATED"
+	}
+	"**RETURN TO THE START**"
+	{
+		"default"		"**RETURN TO THE START**"
+	}
+	"**ZOMBIES ARE RELEASED IN 10 SECONDS**"
+	{
+		"default"		"**ZOMBIES ARE RELEASED IN 10 SECONDS**"
+	}
+	"**Teleport enables in 45 seconds**"
+	{
+		"default"		"**Teleport enables in 45 seconds**"
+	}
+	"**TELEPORTING ALL ZOMBIES TO CORRIDOR IN 10 SECONDS**"
+	{
+		"default"		"**TELEPORTING ALL ZOMBIES TO CORRIDOR IN 10 SECONDS**"
+	}
+	"**Final door opens in 30 seconds**"
+	{
+		"default"		"**Final door opens in 30 seconds**"
+	}
+	"**Door closes in 20 seconds**"
+	{
+		"default"		"**Door closes in 20 seconds**"
+	}
+	"**STAGE 3 COMPLETE**"
+	{
+		"default"		"**STAGE 3 COMPLETE**"
+	}
+	"***STAGE 4***"
+	{
+		"default"		"***STAGE 4***"
+	}
+	"**GATE BREAKS IN 20 SECONDS**"
+	{
+		"default"		"**GATE BREAKS IN 20 SECONDS**"
+	}
+	"**MIDDLE route gate breaks in 15 seconds**"
+	{
+		"default"		"**MIDDLE route gate breaks in 15 seconds**"
+	}
+	"**LEFT route gate breaks in 15 seconds**"
+	{
+		"default"		"**LEFT route gate breaks in 15 seconds**"
+	}
+	"**RIGHT route gate breaks in 15 seconds**"
+	{
+		"default"		"**RIGHT route gate breaks in 15 seconds**"
+	}
+	"**HEAD TO THE STATUE, THERE WILL BE A TELEPORT THERE!**"
+	{
+		"default"		"**HEAD TO THE STATUE, THERE WILL BE A TELEPORT THERE!**"
+	}
+	"**Statue tp enables in 20 seconds**"
+	{
+		"default"		"**Statue tp enables in 20 seconds**"
+	}
+	"**stay close to the statue!**"
+	{
+		"default"		"**stay close to the statue!**"
+	}
+	"**SPLIT THE TEAM UP, BOTH SIDES MUST BE ACTIVATED IN ORDER TO PROCEED**"
+	{
+		"default"		"**SPLIT THE TEAM UP, BOTH SIDES MUST BE ACTIVATED IN ORDER TO PROCEED**"
+	}
+	"**DOORS OPEN IN 20 SECONDS**"
+	{
+		"default"		"**DOORS OPEN IN 20 SECONDS**"
+	}
+	"**DOORS OPEN IN 30 SECONDS**"
+	{
+		"default"		"**DOORS OPEN IN 30 SECONDS**"
+	}
+	"*** Zombie shortcuts open in 10 seconds ***"
+	{
+		"default"		"*** Zombie shortcuts open in 10 seconds ***"
+	}
+	"**The doors will open in 20 seconds**"
+	{
+		"default"		"**The doors will open in 20 seconds**"
+	}
+	"**TIP: the iron gates are shortcuts**"
+	{
+		"default"		"**TIP: the iron gates are shortcuts**"
+	}
+	"**Great, stay splitted and activate both side levers**"
+	{
+		"default"		"**Great, stay splitted and activate both side levers**"
+	}
+	"**ZOMBIE DETECTED IN ONE OF THE TRIGGERS, MAKE HASTE OR YOU WILL SUFFER**"
+	{
+		"default"		"**ZOMBIE DETECTED IN ONE OF THE TRIGGERS, MAKE HASTE OR YOU WILL SUFFER**"
+	}
+	"**Lever B has been activated**"
+	{
+		"default"		"**Lever B has been activated**"
+	}
+	"**Lever A has been activated**"
+	{
+		"default"		"**Lever A has been activated**"
+	}
+	"**Nice, keep holding your rooms, the doors will open**"
+	{
+		"default"		"**Nice, keep holding your rooms, the doors will open**"
+	}
+	"**zombie shortcut opens in 15 seconds**"
+	{
+		"default"		"**zombie shortcut opens in 15 seconds**"
+	}
+	"**so... how does it feel?**"
+	{
+		"default"		"**so... how does it feel?**"
+	}
+	"**say goodbye**"
+	{
+		"default"		"**say goodbye**"
+	}
+	"**TIP: Nades do more damage!**"
+	{
+		"default"		"**TIP: Nades do more damage!**"
+	}
+	"**PULLING TOWARDS BLACK WALL**"
+	{
+		"default"		"**PULLING TOWARDS BLACK WALL**"
+	}
+	"**PULLING TOWARDS ZOMBIE WALL**"
+	{
+		"default"		"**PULLING TOWARDS ZOMBIE WALL**"
+	}
+	"***MULTI LANDSLIDE***"
+	{
+		"default"		"***MULTI LANDSLIDE***"
+	}
+	"X HAS BEEN DEFEATED"
+	{
+		"default"		"X HAS BEEN DEFEATED"
+	}
+	"**Zombie vents open in 10 seconds**"
+	{
+		"default"		"**Zombie vents open in 10 seconds**"
+	}
+	"**FOUNTAIN TELEPORT ENABLES IN 15 SECONDS**"
+	{
+		"default"		"**FOUNTAIN TELEPORT ENABLES IN 15 SECONDS**"
+	}
+	"*** TP IN 10 SEC ***"
+	{
+		"default"		"*** TP IN 10 SEC ***"
+	}
+	"*** SOMETHING HAPPENS IN 15 SECONDS ***"
+	{
+		"default"		"*** SOMETHING HAPPENS IN 15 SECONDS ***"
+	}
+	"*** THE GUARDIAN IS BACK! ***"
+	{
+		"default"		"*** THE GUARDIAN IS BACK! ***"
+	}
+	"*** KILL HIM BEFORE HE KILLS YOU!! ***"
+	{
+		"default"		"*** KILL HIM BEFORE HE KILLS YOU!! ***"
+	}
+	"*** NADES DO MORE DAMAGE OK ***"
+	{
+		"default"		"*** NADES DO MORE DAMAGE OK ***"
+	}
 }

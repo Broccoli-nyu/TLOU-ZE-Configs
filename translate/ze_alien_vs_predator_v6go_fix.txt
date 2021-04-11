@@ -1,0 +1,223 @@
+"Chat"
+{
+	"**level 1**"
+	{
+		"default"		"**level 1**"
+	}
+	"**Map By Batnik_Reference.smd and ShotT **"
+	{
+		"default"		"**Map By Batnik_Reference.smd and ShotT **"
+	}
+	"**Use 2 button**"
+	{
+		"default"		"**Use 2 button**"
+	}
+	"**button1 on**"
+	{
+		"default"		"**button1 on**"
+	}
+	"**Weapon activation a push gun works in 20 seconds**"
+	{
+		"default"		"**Weapon activation a push gun works in 20 seconds**"
+	}
+	"**button2 on**"
+	{
+		"default"		"**button2 on**"
+	}
+	"**Open Door 5sec**"
+	{
+		"default"		"**Open Door 5sec**"
+	}
+	"**The weapon is unblocked**"
+	{
+		"default"		"**The weapon is unblocked**"
+	}
+	"**Open door 10 sec**"
+	{
+		"default"		"**Open door 10 sec**"
+	}
+	"**Teleporting Zombi 25 sec**"
+	{
+		"default"		"**Teleporting Zombi 25 sec**"
+	}
+	"**Hold 25 sec**"
+	{
+		"default"		"**Hold 25 sec**"
+	}
+	"**Open a tomb pressing E=use**"
+	{
+		"default"		"**Open a tomb pressing E=use**"
+	}
+	"**Teleporting Zombi 17 sec**"
+	{
+		"default"		"**Teleporting Zombi 17 sec**"
+	}
+	"**Activate the gold weapon of the Predator while pressing E=use**"
+	{
+		"default"		"**Activate the gold weapon of the Predator while pressing E=use**"
+	}
+	"**Teleporting Zombi**"
+	{
+		"default"		"**Teleporting Zombi**"
+	}
+	"**Open door**"
+	{
+		"default"		"**Open door**"
+	}
+	"**Run Run**"
+	{
+		"default"		"**Run Run**"
+	}
+	"**CT activated the gold weapon**"
+	{
+		"default"		"**CT activated the gold weapon**"
+	}
+	"**Predator**"
+	{
+		"default"		"**Predator**"
+	}
+	"**Teleporting Zombi 9sec**"
+	{
+		"default"		"**Teleporting Zombi 9sec**"
+	}
+	"**defense 15 sec**"
+	{
+		"default"		"**defense 15 sec**"
+	}
+	"**Teleporting Zombi 11sec**"
+	{
+		"default"		"**Teleporting Zombi 11sec**"
+	}
+	"**Wait 13 seconds and the scene of murder of the Predator will start working**"
+	{
+		"default"		"**Wait 13 seconds and the scene of murder of the Predator will start working**"
+	}
+	"**Xenomorph Alien Attacks the Predator**"
+	{
+		"default"		"**Xenomorph Alien Attacks the Predator**"
+	}
+	"**alien IS DEAD**"
+	{
+		"default"		"**alien IS DEAD**"
+	}
+	"**predalien IS DEAD**"
+	{
+		"default"		"**predalien IS DEAD**"
+	}
+	"**Hold 20 sec**"
+	{
+		"default"		"**Hold 20 sec**"
+	}
+	"**Activate the gold weapon of the Predator and the Predator will take away the weapon and won't kill you**"
+	{
+		"default"		"**Activate the gold weapon of the Predator and the Predator will take away the weapon and won't kill you**"
+	}
+	"**Human Win**"
+	{
+		"default"		"**Human Win**"
+	}
+	"**level 2**"
+	{
+		"default"		"**level 2**"
+	}
+	"**The Alien Queen attacks 2 Predators**"
+	{
+		"default"		"**The Alien Queen attacks 2 Predators**"
+	}
+	"**Hold 15s**"
+	{
+		"default"		"**Hold 15s**"
+	}
+	"**Hold 23s**"
+	{
+		"default"		"**Hold 23s**"
+	}
+	"**Teleporting Zombi 5sec**"
+	{
+		"default"		"**Teleporting Zombi 5sec**"
+	}
+	"**Run**"
+	{
+		"default"		"**Run**"
+	}
+	"**defenc**"
+	{
+		"default"		"**defenc**"
+	}
+	"**Find a bomb which kills at emergence of the Predator**"
+	{
+		"default"		"**Find a bomb which kills at emergence of the Predator**"
+	}
+	"**Reprogramming of the program of the weapon of the Predator**"
+	{
+		"default"		"**Reprogramming of the program of the weapon of the Predator**"
+	}
+	"**To activate a bomb when the Predator will appear on the arena**"
+	{
+		"default"		"**To activate a bomb when the Predator will appear on the arena**"
+	}
+	"**use only in case of fight with a predator**"
+	{
+		"default"		"**use only in case of fight with a predator**"
+	}
+	"**Close Door**"
+	{
+		"default"		"**Close Door**"
+	}
+	"**Teleporting Zombi 6sec**"
+	{
+		"default"		"**Teleporting Zombi 6sec**"
+	}
+	"**defenc 25sec**"
+	{
+		"default"		"**defenc 25sec**"
+	}
+	"**defenc 20sec**"
+	{
+		"default"		"**defenc 20sec**"
+	}
+	"**teleport 5sec**"
+	{
+		"default"		"**teleport 5sec**"
+	}
+	"**Alien spawn 10sec**"
+	{
+		"default"		"**Alien spawn 10sec**"
+	}
+	"**2 Alien spawn 8sec**"
+	{
+		"default"		"**2 Alien spawn 8sec**"
+	}
+	"**Activate Bomb**"
+	{
+		"default"		"**Activate Bomb**"
+	}
+	"**In 17 seconds the Predator will die**"
+	{
+		"default"		"**In 17 seconds the Predator will die**"
+	}
+	"**In 8 seconds the Predator will die**"
+	{
+		"default"		"**In 8 seconds the Predator will die**"
+	}
+	"**In 4 seconds the Predator will die**"
+	{
+		"default"		"**In 4 seconds the Predator will die**"
+	}
+	"**In 2 seconds the Predator will die**"
+	{
+		"default"		"**In 2 seconds the Predator will die**"
+	}
+	"**Predator IS DEAD**"
+	{
+		"default"		"**Predator IS DEAD**"
+	}
+	"**The door will be closed in 1min 40 seconds**"
+	{
+		"default"		"**The door will be closed in 1min 40 seconds**"
+	}
+	"**The door will be closed in 60 seconds**"
+	{
+		"default"		"**The door will be closed in 60 seconds**"
+	}
+}

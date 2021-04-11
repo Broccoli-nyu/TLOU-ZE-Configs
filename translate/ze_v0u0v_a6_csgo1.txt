@@ -1,0 +1,267 @@
+"Chat"
+{
+	">>> STAGE 1 : SEA VILLAGE MODE <<<"
+	{
+		"default"		">>> STAGE 1 : SEA VILLAGE MODE <<<"
+	}
+	">>> SUNNY LEVEL <<<"
+	{
+		"default"		">>> SUNNY LEVEL <<<"
+	}
+	">>> Map made by Moray <<<"
+	{
+		"default"		">>> Map made by Moray <<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"default"		">>> HOLD 25 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP AMMO <<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP HEAL <<<"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"default"		">>> HOLD 20 SECONDS <<<"
+	}
+	">>> FREEZER SOLDIER IS COMING <<<"
+	{
+		"default"		">>> FREEZER SOLDIER IS COMING <<<"
+	}
+	">>> MINIGUN SOLDIER IS COMING <<<"
+	{
+		"default"		">>> MINIGUN SOLDIER IS COMING <<<"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP PUSH <<<"
+	}
+	">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
+	}
+	">>> FLAMETHROWER SOLDIER IS COMING <<<"
+	{
+		"default"		">>> FLAMETHROWER SOLDIER IS COMING <<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"default"		">>> HOLD 30 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
+	}
+	">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
+	}
+	">>> PLAYER HAS PICKED UP WATER TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP WATER TOILET <<<"
+	}
+	">>> ITEM SHOP DOOR OPENING IN 5 SECONDS <<<"
+	{
+		"default"		">>> ITEM SHOP DOOR OPENING IN 5 SECONDS <<<"
+	}
+	">>> BLOOPER IS COMING <<<"
+	{
+		"default"		">>> BLOOPER IS COMING <<<"
+	}
+	">>> BLOOPER USED INK <<<"
+	{
+		"default"		">>> BLOOPER USED INK <<<"
+	}
+	">>> BLOOPER USED BUBBLE BEAM <<<"
+	{
+		"default"		">>> BLOOPER USED BUBBLE BEAM <<<"
+	}
+	">>> BLOOPER USED WATER BREATH <<<"
+	{
+		"default"		">>> BLOOPER USED WATER BREATH <<<"
+	}
+	">>> BLOOPER USED PUSH <<<"
+	{
+		"default"		">>> BLOOPER USED PUSH <<<"
+	}
+	">>> BLOOPER USED SPLASH <<<"
+	{
+		"default"		">>> BLOOPER USED SPLASH <<<"
+	}
+	">>> BLOOPER IS DEFEATED <<<"
+	{
+		"default"		">>> BLOOPER IS DEFEATED <<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"default"		">>> HOLD 15 SECONDS <<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"default"		">>> STAGE 1 COMPLETED <<<"
+	}
+	">>> STAGE 2 : GREEN HILL MODE <<<"
+	{
+		"default"		">>> STAGE 2 : GREEN HILL MODE <<<"
+	}
+	">>> ROUTE 1 : HOLD 25 SECONDS <<<"
+	{
+		"default"		">>> ROUTE 1 : HOLD 25 SECONDS <<<"
+	}
+	">>> ROUTE 2 : HOLD 25 SECONDS <<<"
+	{
+		"default"		">>> ROUTE 2 : HOLD 25 SECONDS <<<"
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"default"		">>> AFK TELEPORT IN 10 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
+	}
+	">>> ROUTE 2 : HOLD 5 SECONDS <<<"
+	{
+		"default"		">>> ROUTE 2 : HOLD 5 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"default"		">>> HOLD 10 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
+	}
+	">>> PLAYER HAS PICKED UP ICE TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP ICE TOILET <<<"
+	}
+	">>> SAITAMA IS COMING <<<"
+	{
+		"default"		">>> SAITAMA IS COMING <<<"
+	}
+	">>> SAITAMA IS DEFEATED <<<"
+	{
+		"default"		">>> SAITAMA IS DEFEATED <<<"
+	}
+	">>> DON'T FORGET TO CROUCH <<<"
+	{
+		"default"		">>> DON'T FORGET TO CROUCH <<<"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"default"		">>> STAGE 2 COMPLETED <<<"
+	}
+	">>> STAGE 3 : DIRTY TOWN MODE <<<"
+	{
+		"default"		">>> STAGE 3 : DIRTY TOWN MODE <<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"default"		">>> HOLD 35 SECONDS <<<"
+	}
+	">>> PERSUADING UNBABA <<<"
+	{
+		"default"		">>> PERSUADING UNBABA <<<"
+	}
+	">>> PERSUADE WAS SUCCESSFUL  KEEP RUNNING <<<"
+	{
+		"default"		">>> PERSUADE WAS SUCCESSFUL  KEEP RUNNING <<<"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"default"		">>> HOLD 5 SECONDS <<<"
+	}
+	">>> PLAYER HAS PICKED UP WIND TOILET <<<"
+	{
+		"default"		">>> PLAYER HAS PICKED UP WIND TOILET <<<"
+	}
+	">>> WATCH OUT FOR TAEPODONG <<<"
+	{
+		"default"		">>> WATCH OUT FOR TAEPODONG <<<"
+	}
+	">>> PERSUADING YOSHI <<<"
+	{
+		"default"		">>> PERSUADING YOSHI <<<"
+	}
+	">>> PRIEST IS COMING  SHOOT HIM <<<"
+	{
+		"default"		">>> PRIEST IS COMING  SHOOT HIM <<<"
+	}
+	">>> PRIEST CASTED WEB SLASH <<<"
+	{
+		"default"		">>> PRIEST CASTED WEB SLASH <<<"
+	}
+	">>> PRIEST WAS DEFEATED <<<"
+	{
+		"default"		">>> PRIEST WAS DEFEATED <<<"
+	}
+	">>> SANIC IS COMING <<<"
+	{
+		"default"		">>> SANIC IS COMING <<<"
+	}
+	">>> SANIC SPAWNED BABY SANIC <<<"
+	{
+		"default"		">>> SANIC SPAWNED BABY SANIC <<<"
+	}
+	">>> BREAK THE BLOCK <<<"
+	{
+		"default"		">>> BREAK THE BLOCK <<<"
+	}
+	">>> SANIC WAS HURT <<<"
+	{
+		"default"		">>> SANIC WAS HURT <<<"
+	}
+	">>> BUT HE HASN'T DEFEATED  GET AWAY FROM HIM <<<"
+	{
+		"default"		">>> BUT HE HASN'T DEFEATED  GET AWAY FROM HIM <<<"
+	}
+	">>> SANIC GOT POWER <<<"
+	{
+		"default"		">>> SANIC GOT POWER <<<"
+	}
+	">>> WATCH OUT <<<"
+	{
+		"default"		">>> WATCH OUT <<<"
+	}
+	">>> SANIC WAS DEFEATED <<<"
+	{
+		"default"		">>> SANIC WAS DEFEATED <<<"
+	}
+	">>> EXIT DOOR OPENING IN 100 SECONDS <<<"
+	{
+		"default"		">>> EXIT DOOR OPENING IN 100 SECONDS <<<"
+	}
+	">>> 60 SECONDS LEFT <<<"
+	{
+		"default"		">>> 60 SECONDS LEFT <<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"default"		">>> 5 SECONDS LEFT <<<"
+	}
+	">>> TIME TO AVOID CANCER LAZERS <<<"
+	{
+		"default"		">>> TIME TO AVOID CANCER LAZERS <<<"
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"default"		">>> DOOR CLOSING <<<"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"default"		">>> STAGE 3 COMPLETED <<<"
+	}
+}

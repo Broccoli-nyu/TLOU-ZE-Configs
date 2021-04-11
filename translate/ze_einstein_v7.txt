@@ -1,0 +1,121 @@
+"Chat"
+{
+	"<> WARNING: Zombies Teleport in 10 Seconds! <>"
+	{
+		"default"		"<> WARNING: Zombies Teleport in 10 Seconds! <>"
+	}
+	"<> DANGER: Lava is Rising! <>"
+	{
+		"default"		"<> DANGER: Lava is Rising! <>"
+	}
+	"<> NOTICE: Defend the Bridge! <>"
+	{
+		"default"		"<> NOTICE: Defend the Bridge! <>"
+	}
+	"<> NOTICE: Button 1"
+	{
+		"2 Pressed! <>"
+		{
+			"default"		"<> NOTICE: Button 1/2 Pressed! <>"
+		}
+	}
+	"<> NOTICE: Trigger 2 Buttons for Elevator! <>"
+	{
+		"default"		"<> NOTICE: Trigger 2 Buttons for Elevator! <>"
+	}
+	"<> NOTICE: Button 2"
+	{
+		"2 Pressed! <>"
+		{
+			"default"		"<> NOTICE: Button 2/2 Pressed! <>"
+		}
+	}
+	"<> NOTICE: Elevator Leaves in 20 Seconds! <>"
+	{
+		"default"		"<> NOTICE: Elevator Leaves in 20 Seconds! <>"
+	}
+	"<> DANGER: Walls Shuffle in 5 Seconds! <>"
+	{
+		"default"		"<> DANGER: Walls Shuffle in 5 Seconds! <>"
+	}
+	"<> DANGER: Walls Shuffle in 4 Seconds! <>"
+	{
+		"default"		"<> DANGER: Walls Shuffle in 4 Seconds! <>"
+	}
+	"<> DANGER: Walls Shuffle in 3 Seconds! <>"
+	{
+		"default"		"<> DANGER: Walls Shuffle in 3 Seconds! <>"
+	}
+	"<> DANGER: Walls Shuffle in 2 Seconds! <>"
+	{
+		"default"		"<> DANGER: Walls Shuffle in 2 Seconds! <>"
+	}
+	"<> DANGER: Walls Shuffle in 1 Seconds! <>"
+	{
+		"default"		"<> DANGER: Walls Shuffle in 1 Seconds! <>"
+	}
+	"<> NOTICE: Meat Mincer Picked Up! <>"
+	{
+		"default"		"<> NOTICE: Meat Mincer Picked Up! <>"
+	}
+	"<> NOTICE: Wait For Your Teammates! <>"
+	{
+		"default"		"<> NOTICE: Wait For Your Teammates! <>"
+	}
+	"<> NOTICE: Barricade Final Room! <>"
+	{
+		"default"		"<> NOTICE: Barricade Final Room! <>"
+	}
+	"<> FINALE: Defend for 60 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 60 Seconds! <>"
+	}
+	"<> FINALE: Defend for 30 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 30 Seconds! <>"
+	}
+	"<> FINALE: Defend for 20 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 20 Seconds! <>"
+	}
+	"<> FINALE: Defend for 10 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 10 Seconds! <>"
+	}
+	"<> FINALE: Defend for 09 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 09 Seconds! <>"
+	}
+	"<> FINALE: Defend for 08 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 08 Seconds! <>"
+	}
+	"<> FINALE: Defend for 07 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 07 Seconds! <>"
+	}
+	"<> FINALE: Defend for 06 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 06 Seconds! <>"
+	}
+	"<> FINALE: Defend for 05 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 05 Seconds! <>"
+	}
+	"<> FINALE: Defend for 04 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 04 Seconds! <>"
+	}
+	"<> FINALE: Defend for 03 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 03 Seconds! <>"
+	}
+	"<> FINALE: Defend for 02 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 02 Seconds! <>"
+	}
+	"<> FINALE: Defend for 01 Seconds! <>"
+	{
+		"default"		"<> FINALE: Defend for 01 Seconds! <>"
+	}
+}

@@ -148,7 +148,7 @@
 	{
 		"default"		"*** Hold 20 seconds. ***"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"default"		"*** 5 seconds left ***"
 	}
@@ -171,5 +171,9 @@
 	">>> STAGE 4<<<"
 	{
 		"default"		">>> STAGE 4<<<"
+	}
+	"||| ZOMBIE ESCAPED! STAGE FAILED! |||"
+	{
+		"default"		"||| ZOMBIE ESCAPED! STAGE FAILED! |||"
 	}
 }
