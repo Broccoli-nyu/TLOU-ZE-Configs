@@ -3,178 +3,222 @@
 	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
 	{
 		"default"		">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+		"ru"		">>> ZE PORTAL STORY - НОРМАЛЬНАЯ СЛОЖНОСТЬ <<<"
 	}
 	"> Map by SubDelt@"
 	{
 		"default"		"> Map by SubDelt@"
+		"ru"		"> Карта сделана SubDelt@ | Русский перевод от Broccoli"
 	}
 	"> Thanks to"
 	{
 		"default"		"> Thanks to"
+		"ru"		"> Благодарности"
 	}
 	"> Enviolinador - multiple things help"
 	{
 		"default"		"> Enviolinador - multiple things help"
+		"ru"		"> Enviolinador - помощь со множеством вещей"
 	}
 	"> (RMG) Synopsis [pF] - special items help"
 	{
 		"default"		"> (RMG) Synopsis [pF] - special items help"
+		"ru"		"> (RMG) Synopsis [pF] - помощь с материями"
 	}
 	"> JorisCeoen - models help"
 	{
 		"default"		"> JorisCeoen - models help"
+		"ru"		"> JorisCeoen - помощь с моделями"
 	}
 	"> Luffaren - particles help"
 	{
 		"default"		"> Luffaren - particles help"
+		"ru"		"> Luffaren - помощь с партиклями"
 	}
 	">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
 	{
 		"default"		">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ ЭТУ КАМЕРУ. ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 25 СЕК <<<"
 	}
 	">>> DOOR IS OPENING IN 5 SECS <<<"
 	{
 		"default"		">>> DOOR IS OPENING IN 5 SECS <<<"
+		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 5 СЕК <<<"
 	}
 	">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
 	{
 		"default"		">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+		"ru"		">>> ДВЕРЬ ОТКРЫТА. ЛИФТ УЕДЕТ ЧЕРЕЗ 10 СЕК <<<"
 	}
 	">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
 	{
 		"default"		">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ ЛЕСТНИЦУ, ПОКА ОСТАЛЬНЫЕ ИЩУТ РЕШЕНИЕ <<<"
 	}
 	">>> SOLUTION FOUND <<<"
 	{
 		"default"		">>> SOLUTION FOUND <<<"
+		"ru"		">>> РЕШЕНИЕ НАЙДЕНО <<<"
 	}
 	">>> HOLD THE ENTRANCE <<<"
 	{
 		"default"		">>> HOLD THE ENTRANCE <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ ВХОД <<<"
 	}
 	">>> 30 SECS <<<"
 	{
 		"default"		">>> 30 SECS <<<"
+		"ru"		">>> 30 СЕК <<<"
 	}
 	">>> 20 SECS <<<"
 	{
 		"default"		">>> 20 SECS <<<"
+		"ru"		">>> 20 СЕК <<<"
 	}
 	">>> 10 SECS <<<"
 	{
 		"default"		">>> 10 SECS <<<"
+		"ru"		">>> 10 СЕК <<<"
 	}
 	">>> ZOMBIES USE THE CIRCLE WAY <<<"
 	{
 		"default"		">>> ZOMBIES USE THE CIRCLE WAY <<<"
+		"ru"		">>> ЗОМБИ ИCПОЛЬЗУЮТ ОБХОДНОЙ ПУТЬ <<<"
 	}
 	">>> Propulsion gel has been aquired <<<"
 	{
 		"default"		">>> Propulsion gel has been aquired <<<"
+		"ru"		">>> Подобран Ускоряющий гель <<<"
 	}
 	">>> It has a 40 Second cooldown and speeds humans up <<<"
 	{
 		"default"		">>> It has a 40 Second cooldown and speeds humans up <<<"
+		"ru"		">>> Он ускоряет людей и имеет время перезарядки в 40 секунд<<<"
 	}
 	">>> HOLD THIS PLACE FOR 35 SECS <<<"
 	{
 		"default"		">>> HOLD THIS PLACE FOR 35 SECS <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ ЭТУ ПОЗИЦИЮ В ТЕЧЕНИЕ 35 СЕК <<<"
 	}
 	">>> 15 SECS <<<"
 	{
 		"default"		">>> 15 SECS <<<"
+		"ru"		">>> 15 СЕК <<<"
 	}
 	">>> 5 SECS <<<"
 	{
 		"default"		">>> 5 SECS <<<"
+		"ru"		">>> 5 СЕК <<<"
 	}
 	">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
 	{
 		"default"		">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+		"ru"		">>> ЗОМБИ ЖДУТ ПОКА МОСТ НЕ ВЕРНЕТСЯ <<<"
 	}
 	">>> DESTROY THE TURRETS <<<"
 	{
 		"default"		">>> DESTROY THE TURRETS <<<"
+		"ru"		">>> УНИЧТОЖЬТЕ ТУРЕЛИ <<<"
 	}
 	">>> TURRETS DESTROYED <<<"
 	{
 		"default"		">>> TURRETS DESTROYED <<<"
+		"ru"		">>> ТУРЕЛИ УНИЧТОЖЕНЫ <<<"
 	}
 	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
 	{
 		"default"		">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ КОМНАТУ ГЛаДОС В ТЕЧЕНИЕ 25 СЕК <<<"
 	}
 	">>> DOOR IS CLOSING IN 5 SECS <<<"
 	{
 		"default"		">>> DOOR IS CLOSING IN 5 SECS <<<"
+		"ru"		">>> ДВЕРЬ ЗАКРОЕТСЯ ЧЕРЕЗ 5 СЕК <<<"
 	}
 	">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
 	{
 		"default"		">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 2 MINUTES! <<<"
+		"ru"		">>> СИСТЕМА НЕЙРОТОКСИНА ВКЛЮЧЕНА! НЕЙРОТОКСИН РАСПЫЛИТЬСЯ ЧЕРЕЗ 2 МИНУТЫ! <<<"
 	}
 	">>> NEUROTOXIN IN 1 MINUTE! <<<"
 	{
 		"default"		">>> NEUROTOXIN IN 1 MINUTE! <<<"
+		"ru"		">>> НЕЙРОТОКСИН РАСПЫЛИТЬСЯ ЧЕРЕЗ 1 МИНУТУ! <<<"
 	}
 	">>> GLaDOS IS DEAD <<<"
 	{
 		"default"		">>> GLaDOS IS DEAD <<<"
+		"ru"		">>> ГЛаДОС МЕРТВА <<<"
 	}
 	">>> NORMAL MODE COMPLETED <<<"
 	{
 		"default"		">>> NORMAL MODE COMPLETED <<<"
+		"ru"		">>> НОРМАЛЬНАЯ СЛОЖНОСТЬ ЗАВЕРШЕНА <<<"
 	}
 	">>> MOVING ON TO HARD MODE <<<"
 	{
 		"default"		">>> MOVING ON TO HARD MODE <<<"
+		"ru"		">>> ПЕРЕХОДИМ К ТЯЖЕЛОЙ СЛОЖНОСТИ <<<"
 	}
 	">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
 	{
 		"default"		">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+		"ru"		">>> ZE PORTAL STORY - ТЯЖЕЛАЯ СЛОЖНОСТЬ <<<"
 	}
 	">>> Repulsion gel has been aquired <<<"
 	{
 		"default"		">>> Repulsion gel has been aquired <<<"
+		"ru"		">>> Подобран Отталкивающий гель <<<"
 	}
 	">>> It has a 50 second cooldown and slow zombies down <<<"
 	{
 		"default"		">>> It has a 50 second cooldown and slow zombies down <<<"
+		"ru"		">>> Он замедляет зомби и имеет время перезарядки в 50 секунд <<<"
 	}
 	">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
 	{
 		"default"		">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+		"ru"		">>> УДЕРЖИВАЙТЕ КАНАЛИЗАЦИЮ ДО ТЕХ ПОР, ПОКА РЕШЕТКА НЕ ОПУСТИТСЯ <<<"
 	}
 	">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
 	{
 		"default"		">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ КОМНАТУ ДО ОТКРЫТИЯ ДВЕРИ <<<"
 	}
 	">>> HARD MODE COMPLETED <<<"
 	{
 		"default"		">>> HARD MODE COMPLETED <<<"
+		"ru"		">>> ТЯЖЕЛАЯ СЛОЖНОСТЬ ЗАВЕРШЕНА <<<"
 	}
 	">>> MOVING ON TO EXTREME MODE <<<"
 	{
 		"default"		">>> MOVING ON TO EXTREME MODE <<<"
+		"ru"		">>> ПЕРЕХОДИМ К ЭСТРЕМАЛЬНОЙ СЛОЖНОСТИ <<<"
 	}
 	">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
 	{
 		"default"		">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+		"ru"		">>> ZE PORTAL STORY - ЭКСТРИМАЛЬНАЯ СЛОЖНОСТЬ <<<"
 	}
 	">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
 	{
 		"default"		">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ ВХОД, ПОКА ОСТАЛЬНЫЕ ИЩУТ РЕШЕНИЕ <<<"
 	}
 	">>> NEUROTOXIN IN 30 SECS! <<<"
 	{
 		"default"		">>> NEUROTOXIN IN 30 SECS! <<<"
+		"ru"		">>> НЕЙРОТОКСИН РАСПЫЛИТЬСЯ ЧЕРЕЗ 30 СЕК! <<<"
 	}
 	">>> NEUROTOXIN IN 15 SECS! <<<"
 	{
 		"default"		">>> NEUROTOXIN IN 15 SECS! <<<"
+		"ru"		">>> НЕЙРОТОКСИН РАСПЫЛИТЬСЯ ЧЕРЕЗ 15 СЕК! <<<"
 	}
 	">>> NEUROTOXIN IN 5 SECS! <<<"
 	{
 		"default"		">>> NEUROTOXIN IN 5 SECS! <<<"
+		"ru"		">>> НЕЙРОТОКСИН РАСПЫЛИТЬСЯ ЧЕРЕЗ 5 СЕК! <<<"
 	}
 	">>> 4 <<<"
 	{
@@ -195,17 +239,21 @@
 	">>> NEUROTOXIN RELEASED! <<<"
 	{
 		"default"		">>> NEUROTOXIN RELEASED! <<<"
+		"ru"		">>> НЕЙРОТОКСИН ВЫПУЩЕН! <<<"
 	}
 	">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
 	{
 		"default"		">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+		"ru"		">>> ОБОРОНЯЙТЕ ВХОД В ТЕЧЕНИЕ 35 СЕК <<<"
 	}
 	">>> EXTREME MODE COMPLETED <<<"
 	{
 		"default"		">>> EXTREME MODE COMPLETED <<<"
+		"ru"		">>> ЭКСТРИМАЛЬНАЯ СЛОЖНОСТЬ ЗАВЕРШЕНА <<<"
 	}
 	">>> MOVING BACK TO NORMAL MODE <<<"
 	{
 		"default"		">>> MOVING BACK TO NORMAL MODE <<<"
+		"ru"		">>> ВОЗВРАЩАЕМСЯ К НОРМАЛЬНОЙ СЛОЖНОСТИ <<<"
 	}
 }
