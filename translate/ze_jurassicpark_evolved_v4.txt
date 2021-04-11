@@ -43,7 +43,7 @@
 	"** Get ready to move! **"
 	{
 		"default"		"** Get ready to move! **"
-		"ru"		"** Приготовьтесь к оступлению! **"
+		"ru"		"** Приготовьтесь к отступлению! **"
 	}
 	"** Nerve gas released ** "
 	{
