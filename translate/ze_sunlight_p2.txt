@@ -18,12 +18,12 @@
 	"*** Sacrificial Orb has been acquired ***"
 	{
 		"default"		"*** Sacrificial Orb has been acquired ***"
-		"ru"		"*** Жертвенная Сфера была получена ***"
+		"ru"		"*** Подобрана Жертвенная Сфера ***"
 	}
 	"*** Eye of the Storm has been acquired ***"
 	{
 		"default"		"*** Eye of the Storm has been acquired ***"
-		"ru"		"*** Глаз Бури был получен ***"
+		"ru"		"*** Подобран Глаз Бури ***"
 	}
 	"*** Lift is leaving in 30 seconds ***"
 	{
@@ -38,12 +38,12 @@
 	"*** Orange Launcher has been acquired ***"
 	{
 		"default"		"*** Orange Launcher has been acquired ***"
-		"ru"		"*** Апельсиномёт был получен ***"
+		"ru"		"*** Подобран Апельсиномёт ***"
 	}
 	"*** Melon Launcher has been acquired ***"
 	{
 		"default"		"*** Melon Launcher has been acquired ***"
-		"ru"		"*** Арбузомёт был получен ***"
+		"ru"		"*** Подобран Арбузомёт ***"
 	}
 	"*** Nuke in 1 minute ***"
 	{
