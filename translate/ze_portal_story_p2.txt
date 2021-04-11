@@ -83,7 +83,7 @@
 	">>> ZOMBIES USE THE CIRCLE WAY <<<"
 	{
 		"default"		">>> ZOMBIES USE THE CIRCLE WAY <<<"
-		"ru"		">>> ЗОМБИ ИCПОЛЬЗУЮТ ОБХОДНОЙ ПУТЬ <<<"
+		"ru"		">>> ЗОМБИ ИCПОЛЬЗУЙТЕ ОБХОДНОЙ ПУТЬ <<<"
 	}
 	">>> Propulsion gel has been aquired <<<"
 	{
@@ -113,7 +113,7 @@
 	">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
 	{
 		"default"		">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
-		"ru"		">>> ЗОМБИ ЖДУТ ПОКА МОСТ НЕ ВЕРНЕТСЯ <<<"
+		"ru"		">>> ЗОМБИ ЖДИТЕ ПОКА МОСТ НЕ ВЕРНЕТСЯ <<<"
 	}
 	">>> DESTROY THE TURRETS <<<"
 	{
