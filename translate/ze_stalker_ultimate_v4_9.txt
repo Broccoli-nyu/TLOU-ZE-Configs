@@ -3,416 +3,519 @@
 	"**This is a map based on the game STALKER**"
 	{
 		"default"		"**This is a map based on the game STALKER**"
+		"ru"		"**Эта карта по мотивам игры СТАЛКЕР**"
 	}
 	"**STAGE 1**ROAD TO CHERNOBYL"
 	{
 		"default"		"**STAGE 1**ROAD TO CHERNOBYL"
+		"ru"		"**УРОВЕНЬ 1**ДОРОГА В ЧЕРНОБЫЛЬ"
 	}
 	"Map by Headshooter.SC "
 	{
 		" Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
 		{
 			"default"		"Map by Headshooter.SC / Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
+	        "ru"		"Карта создана Headshooter.SC / Headsh Отдельная благодарность HaRyDe POMKA Said Z-O-M-B-I-E Kaemon | Русский перевод от Broccoli"
 		}
 	}
 	"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
 	{
 		"default"		"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
+        "ru"		"**Спасибо Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. за помощь в портировании**"
 	}
 	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
 	{
 		"default"		"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
+		"ru"		"**ТЕКУЩАЯ МИССИЯ: Доберитесь до ЧАЭС и найдите вход в секретную лабораторию**  "
 	}
 	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
 	{
-		"default"		"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	    "default"      "**The map isn't eazy. It needs good ZE skills and good teamplay**"
+		"ru"		"**Карта не из легких. Нужны навыки игры на ZE и хорошая командная игра**"
 	}
 	"**Lab door 1 will open in 11 seconds**"
 	{
 		"default"		"**Lab door 1 will open in 11 seconds**"
+		"ru"		"**Лабораторная дверь 1 откроется через 11 секунд**"
 	}
 	"**Lab door 2 will open in 13 seconds**"
 	{
 		"default"		"**Lab door 2 will open in 13 seconds**"
+		"ru"		"**Лабораторная дверь 2 откроется через 13 секунд**"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
 		"default"		"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+		"ru"		"ЛИФТ 1 УЕДЕТ ЧЕРЕЗ 4 СЕКУНДЫ"
 	}
 	"**Lab door 1 will open for zombies in 18 seconds**"
 	{
 		"default"		"**Lab door 1 will open for zombies in 18 seconds**"
+		"ru"		"**Лабораторная дверь 1 откроется для зомби через 18 секунд**"
 	}
 	"**Lab door 2 will open for zombies in 18 seconds**"
 	{
 		"default"		"**Lab door 2 will open for zombies in 18 seconds**"
+		"ru"		"**Лабораторная дверь 2 откроется для зомби через 18 секунд**"
 	}
 	"**Zombie shield is activated. You have 15 seconds**"
 	{
 		"default"		"**Zombie shield is activated. You have 15 seconds**"
+		"ru"		"**Зомби щит активирован. У вас есть 15 секунд**"
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
 		"default"		"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+		"ru"		"ЛИФТ 2 УЕДЕТ ЧЕРЕЗ 9 СЕКУНД"
 	}
 	"***The control panel seems without power. Maybe using the lever will help***"
 	{
 		"default"		"***The control panel seems without power. Maybe using the lever will help***"
+		"ru"		"***Панель управления кажется обесточенной. Может быть, использование рычага поможет***"
 	}
 	"**The gates will open in 30 seconds**"
 	{
 		"default"		"**The gates will open in 30 seconds**"
+		"ru"		"**Ворота откроются через 30 секунд**"
 	}
 	"***Seems that works. Try to use the control panel to open the gates***"
 	{
 		"default"		"***Seems that works. Try to use the control panel to open the gates***"
+		"ru"		"***Кажется, это работает. Попробуйте использовать панель управления, чтобы открыть ворота***"
 	}
 	"**Zombie shield is disabled**"
 	{
 		"default"		"**Zombie shield is disabled**"
+		"ru"		"**Зомби щит отключен**"
 	}
 	"**Hold this position for 10 seconds**"
 	{
 		"default"		"**Hold this position for 10 seconds**"
+		"ru"		"**Удерживайте эту позицию в течение 10 секунд**"
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
 		"default"		"The Chernobyl gate will open in 20 seconds."
+		"ru"		"Ворота Чернобыля откроются через 20 секунд."
 	}
 	"Hold this position for 10 seconds!!"
 	{
 		"default"		"Hold this position for 10 seconds!!"
+		"ru"		"Удерживайте эту позицию ещё 10 секунд!!"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
 		"default"		"Zombie sheld is activated for 30 seconds!!"
+		"ru"		"Зомби щит активирован на 30 секунд!!"
 	}
 	"**Survive for 70 seconds**"
 	{
 		"default"		"**Survive for 70 seconds**"
+		"ru"		"**Выживайте в течение 70 секунд**"
 	}
 	"**UNKNOWN ARTEFACT** +50% COMPLETE"
 	{
 		"default"		"**UNKNOWN ARTEFACT** +50% COMPLETE"
+		"ru"		"**НЕИЗВЕСТНЫЙ АРТЕФАКТ** ВЫПОЛНЕНО +50%"
 	}
 	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
 	{
 		"default"		"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+		"ru"		"**Выброс будет через 50 секунд. Доберитесь до бункера и защитите его**"
 	}
 	"**15 SECONDS LEFT**"
 	{
 		"default"		"**15 SECONDS LEFT**"
+		"ru"		"**ОСТАЛОСЬ 15 СЕКУНД**"
 	}
 	"**5 SECONDS LEFT**"
 	{
 		"default"		"**5 SECONDS LEFT**"
+		"ru"		"**ОСТАЛОСЬ 5 СЕКУНД**"
 	}
 	"**STAGE 1 is beaten. Moving on STAGE 2**"
 	{
 		"default"		"**STAGE 1 is beaten. Moving on STAGE 2**"
+		"ru"		"**УРОВЕНЬ 1 пройден. Переходим к УРОВНЮ 2**"
 	}
 	"**STAGE 2**POLTERGEIST FIGHT"
 	{
 		"default"		"**STAGE 2**POLTERGEIST FIGHT"
+		"ru"		"**УРОВЕНЬ 2**СРАЖЕНИЕ С ПОЛТЕРГЕЙСТОМ"
 	}
 	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
 	{
 		"default"		"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+		"ru"		"**ТЕКУЩАЯ МИССИЯ: Отправляйтесь в тайную лабораторию и найдите причину странных помех**  "
 	}
 	"**Hold for 5 seconds before the gates open**"
 	{
 		"default"		"**Hold for 5 seconds before the gates open**"
+		"ru"		"**Обороняйтесь в течение 5 секунд, пока ворота не откроются**"
 	}
 	"**Hold the place for 25 seconds**"
 	{
 		"default"		"**Hold the place for 25 seconds**"
+		"ru"		"**Удерживайте это место в течение 25 секунд**"
 	}
 	"**UNKNOWN ARTEFACT**+50% COMPLETE"
 	{
 		"default"		"**UNKNOWN ARTEFACT**+50% COMPLETE"
+		"ru"		"**НЕИЗВЕСТНЫЙ АРТЕФАКТ**ВЫПОЛНЕНО +50%"
 	}
 	"***Break the spheres to escape***"
 	{
 		"default"		"***Break the spheres to escape***"
+		"ru"		"***Разбейте сферы, чтобы сбежать***"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
 		"default"		"***OH NO WHO IS IT? WE MUST KILL IT!***"
+		"ru"		"***О НЕТ, КТО ЭТО? МЫ ДОЛЖНЫ УБИТЬ ЕГО!***"
 	}
 	"**Wait for others for 5 more seconds**"
 	{
 		"default"		"**Wait for others for 5 more seconds**"
+		"ru"		"**Подождите остальных еще 5 секунд**"
 	}
 	"**Hold 25 seconds**"
 	{
 		"default"		"**Hold 25 seconds**"
+		"ru"		"**Обороняйтесь 25 секунд**"
 	}
 	"**Hurry! Fall back to the right side!!**"
 	{
 		"default"		"**Hurry! Fall back to the right side!!**"
+		"ru"		"**Быстрее! Отходим направо!!**"
 	}
 	"**This is the last hold point**Hold them 25 seconds until door closes**"
 	{
 		"default"		"**This is the last hold point**Hold them 25 seconds until door closes**"
+		"ru"		"**Это последняя точка обороны**Задержите их ещё на 25 секунд, пока двери не закроются**"
 	}
 	"**STAGE 2 is beaten. Moving on STAGE 3**"
 	{
 		"default"		"**STAGE 2 is beaten. Moving on STAGE 3**"
+		"ru"		"**УРОВЕНЬ 2 пройден. Переходим к УРОВНЮ 3**"
 	}
 	"**STAGE 3**ROAD TO PRIPYAT"
 	{
 		"default"		"**STAGE 3**ROAD TO PRIPYAT"
+		"ru"		"**УРОВЕНЬ 3**ДОРОГА В ПРИПЯТЬ"
 	}
 	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
 	{
 		"default"		"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+		"ru"		"**НЕИЗВЕСТНЫЙ АРТЕФАКТ** КВЕСТ ВЫПОЛНЕН"
 	}
 	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
 	{
 		"default"		"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+		"ru"		"**НАГРАДА**ВЫ ПОЛУЧИЛИ ЕЩЁ ОДНУ МАТЕРИЮ НА ЭТОМ УРОВНЕ"
 	}
 	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
 	{
 		"default"		"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+		"ru"		"**ТЕКУЩАЯ МИССИЯ: Доберитесь до лаборатории Х18 и найдите информацию о том, как добраться до Припяти**  "
 	}
 	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
 	{
 		"default"		"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+		"ru"		"**МИССИЯ ОБНОВЛЕНА: Сталкеры оставили бомбу возле диспетчерской. Используйте ее, чтобы проложить путь к X18**  "
 	}
 	"**We got a bomb. But whats this?**"
 	{
 		"default"		"**We got a bomb. But whats this?**"
+		"ru"		"**Бомба у нас. Но... что это?**"
 	}
 	"**Bloodsucker have been defeated**"
 	{
 		"default"		"**Bloodsucker have been defeated**"
+		"ru"		"**Кровосос побежден**"
 	}
 	"**Your items got more power**"
 	{
 		"default"		"**Your items got more power**"
+		"ru"		"**Ваши материи стали мощнее**"
 	}
 	"**The bomb is planted. Wait until the debris break**"
 	{
 		"default"		"**The bomb is planted. Wait until the debris break**"
+		"ru"		"**Бомба заложена. Подождите, пока обломки не разобьются**"
 	}
 	"**Bloodsucker was picked up**"
 	{
 		"default"		"**Bloodsucker was picked up**"
+		"ru"		"**Кровосос подобран**"
 	}
 	"**OPENING THE GATES (10 SECONDS)**"
 	{
 		"default"		"**OPENING THE GATES (10 SECONDS)**"
+		"ru"		"**ВОРОТА ОТКРЫВАЮТСЯ (10 СЕКУНД)**"
 	}
 	"**The door wil open in 10 seconds**"
 	{
 		"default"		"**The door wil open in 10 seconds**"
+		"ru"		"**Дверь откроется через 10 секунд**"
 	}
 	"**THE SEPARATION POINT - Some guys go forward for documents**"
 	{
 		"default"		"**THE SEPARATION POINT - Some guys go forward for documents**"
+		"ru"		"**ТОЧКА РАЗДЕЛЕНИЯ - Несколько человек идите вперед за документами**"
 	}
 	"**THE SEPARATION POINT - Others will go to the left for holding the end point**"
 	{
 		"default"		"**THE SEPARATION POINT - Others will go to the left for holding the end point**"
+		"ru"		"**ТОЧКА РАЗДЕЛЕНИЯ - Остальные идите налево для удержания конечной точки**"
 	}
 	"**Hold this way for 10 seconds**"
 	{
 		"default"		"**Hold this way for 10 seconds**"
+		"ru"		"**Обороняйте здесь в течение 10 секунд**"
 	}
 	"**It's dead. Good job**"
 	{
 		"default"		"**It's dead. Good job**"
+		"ru"		"**Она мертва. Отличная работа**"
 	}
 	"**1 PLAYER have to go to the command room to take documents**"
 	{
 		"default"		"**1 PLAYER have to go to the command room to take documents**"
+		"ru"		"**1 ИГРОК должен пойти в командную комнату, чтобы взять документы**"
 	}
 	"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
 	{
 		"default"		"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+		"ru"		"**УРОВЕНЬ ПРОВАЛЕН** ЗОМБИ ДОБРАЛИСЬ ДО ВТОРОГО ПУТИ**"
 	}
 	"**The documents are here!**We are too close!**"
 	{
 		"default"		"**The documents are here!**We are too close!**"
+		"ru"		"**Документы здесь!**Мы очень близко!**"
 	}
 	"**Defend a bit**The door will explode in a few seconds!**"
 	{
 		"default"		"**Defend a bit**The door will explode in a few seconds!**"
+		"ru"		"**Немного обороняйтесь**Дверь взорвется через несколько секунд!**"
 	}
 	"**RUN RUN RUN!!!**"
 	{
 		"default"		"**RUN RUN RUN!!!**"
+		"ru"		"**БЕЖИМ БЕЖИМ БЕЖИМ!!!**"
 	}
 	"**STAGE 3 is beaten. Moving on STAGE 4**"
 	{
 		"default"		"**STAGE 3 is beaten. Moving on STAGE 4**"
+		"ru"		"**УРОВЕНЬ 3 пройден. Переходим к УРОВНЮ 4**"
 	}
 	"**STAGE 4**PRIPYAT"
 	{
 		"default"		"**STAGE 4**PRIPYAT"
+		"ru"		"**УРОВЕНЬ 4**ПРИПЯТЬ"
 	}
 	"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
 	{
 		"default"		"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
+		"ru"		"**ТЕКУЩАЯ МИССИЯ: Доберитесь до Припяти и найдите причину пропажи сталкеров в бассейне**  "
 	}
 	"**THE DOOR WILL OPEN IN 30 SECONDS**"
 	{
 		"default"		"**THE DOOR WILL OPEN IN 30 SECONDS**"
+		"ru"		"**ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 30 СЕКУНД**"
 	}
 	"**HOLD HERE FOR 20 SECONDS**"
 	{
 		"default"		"**HOLD HERE FOR 20 SECONDS**"
+		"ru"		"**ОБОРОНЯЙТЕСЬ ЗДЕСЬ В ТЕЧЕНИЕ 20 СЕКУНД**"
 	}
 	"**GO INTO THE TELEPORTER***"
 	{
 		"default"		"**GO INTO THE TELEPORTER***"
+		"ru"		"**ИДИТЕ В ТЕЛЕПОРТ***"
 	}
 	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
 	{
 		"default"		"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+		"ru"		"***У ВАС ЕСТЬ ВРЕМЯ НА ПОИСК НЕКОТОРЫХ СКРЫТЫХ МАТЕРИЙ***"
 	}
 	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
 	{
 		"default"		"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+		"ru"		"***А ЗАТЕМ ОТСТУПИТЬ И ЖДАТЬ, ПОКА НЕ ОТКРОЕТСЯ БАРЬЕР**"
 	}
 	"**Wait for others for 5 seconds**"
 	{
 		"default"		"**Wait for others for 5 seconds**"
+		"ru"		"**Подождите остальных ещё 5 секунд**"
 	}
 	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
 	{
 		"default"		"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+		"ru"		"**ВСЕ МЕДЛЕННЫЕ ИГРОКИ И АФКшники БЫЛИ ТЕЛЕПОРТИРОВАНЫ**"
 	}
 	"**NOW WE ARE READY TO GO**"
 	{
 		"default"		"**NOW WE ARE READY TO GO**"
+		"ru"		"**ТЕПЕРЬ МЫ ГОТОВЫ ИДТИ**"
 	}
 	"**Hold here for 25 seconds**"
 	{
 		"default"		"**Hold here for 25 seconds**"
+		"ru"		"**Обороняйте здесь в течение 25 секунд**"
 	}
 	"**And then go to the pool**"
 	{
 		"default"		"**And then go to the pool**"
+		"ru"		"**Потом идите к бассейну**"
 	}
 	"**..We founded something unusial..**"
 	{
 		"default"		"**..We founded something unusial..**"
+		"ru"		"**..Мы нашли что-то необычное..**"
 	}
 	"**.. Is it a new anomaly?!..**"
 	{
 		"default"		"**.. Is it a new anomaly?!..**"
+		"ru"		"**.. Это новая аномалия?!..**"
 	}
 	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
 	{
 		"default"		"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+		"ru"		"**БОСС КОНТРОЛИРУЕТ ВАШИ МОЗГИ!!ЭТО МЕСТО НЕ НАСТОЯЩЕЕ!!**"
 	}
 	"He escaped...We will try to get him next time..."
 	{
 		"default"		"He escaped...We will try to get him next time..."
+		"ru"		"Он сбежал...Мы постараемся достать его в следующий раз..."
 	}
 	"**Now go away to the coast**"
 	{
 		"default"		"**Now go away to the coast**"
+		"ru"		"**А теперь идите к берегу**"
 	}
 	"**The blowout is comming**"
 	{
 		"default"		"**The blowout is comming**"
+		"ru"		"**Надвигается выброс**"
 	}
 	"**Prepare to survive. You need to find the spot and defend it **"
 	{
 		"default"		"**Prepare to survive. You need to find the spot and defend it **"
+		"ru"		"**Приготовьтесь выживать. Вам нужно найти место и защитить его **"
 	}
 	"**SPIKEBALL GOT MAXIMUM POWER**"
 	{
 		"default"		"**SPIKEBALL GOT MAXIMUM POWER**"
+		"ru"		"**ШИПАСТЫЙ ШАР ПОЛУЧИЛ МАКСИМАЛЬНУЮ МОЩНОСТЬ**"
 	}
 	"**1m 00s before blowout**"
 	{
 		"default"		"**1m 00s before blowout**"
+		"ru"		"**До выброса 1м 00с**"
 	}
 	"**50s before blowout**"
 	{
 		"default"		"**50s before blowout**"
+		"ru"		"**До выброса 50с**"
 	}
 	"**40s before blowout**"
 	{
 		"default"		"**40s before blowout**"
+		"ru"		"**До выброса 40с**"
 	}
 	"**30s before blowout**"
 	{
 		"default"		"**30s before blowout**"
+		"ru"		"**До выброса 30с**"
 	}
 	"**20s before blowout**"
 	{
 		"default"		"**20s before blowout**"
+		"ru"		"**До выброса 20с**"
 	}
 	"**10s before blowout**"
 	{
 		"default"		"**10s before blowout**"
+		"ru"		"**До выброса 10с**"
 	}
 	"**5s before blowout**"
 	{
 		"default"		"**5s before blowout**"
+		"ru"		"**До выброса 5с**"
 	}
 	"**4s before blowout**"
 	{
 		"default"		"**4s before blowout**"
+		"ru"		"**До выброса 4с**"
 	}
 	"**3s before blowout**"
 	{
 		"default"		"**3s before blowout**"
+		"ru"		"**До выброса 3с**"
 	}
 	"**2s before blowout**"
 	{
 		"default"		"**2s before blowout**"
+		"ru"		"**До выброса 2с**"
 	}
 	"**1s before blowout**"
 	{
 		"default"		"**1s before blowout**"
+		"ru"		"**До выброса 1с**"
 	}
 	"**BLOWOUT HAPPENNED**"
 	{
 		"default"		"**BLOWOUT HAPPENNED**"
+		"ru"		"**ПРОИЗОШЕЛ ВЫБРОС**"
 	}
 	"**STAGE 4 is beaten. Moving on STAGE 5**"
 	{
 		"default"		"**STAGE 4 is beaten. Moving on STAGE 5**"
+		"ru"		"**УРОВЕНЬ 4 пройден. Переходим к УРОВНЮ 5**"
 	}
 	"**STAGE 5**WIN OR DIE"
 	{
 		"default"		"**STAGE 5**WIN OR DIE"
+		"ru"		"**УРОВЕНЬ 5**ВЫИГРАЙ ИЛИ УМРИ"
 	}
 	"**CURRENT MISSION: Kill that strange mutant and evacuate from the Exclusion Zone**  "
 	{
 		"default"		"**CURRENT MISSION: Kill that strange mutant and evacuate from the Exclusion Zone**  "
+		"ru"		"**ТЕКУЩАЯ МИССИЯ: Убейте этого странного мутанта и эвакуируйтесь из зоны отчуждения**  "
 	}
 	"**Seems like the controller if finally dead! Good job**"
 	{
 		"default"		"**Seems like the controller if finally dead! Good job**"
+		"ru"		"**Похоже, контроллер наконец-то мертв! Хорошая работа**"
 	}
 	"**Controller was picked up**"
 	{
 		"default"		"**Controller was picked up**"
+		"ru"		"**Контроллер подобран**"
 	}
 	"**This seems not to be good**"
 	{
 		"default"		"**This seems not to be good**"
+		"ru"		"**Кажется, это нехорошо**"
 	}
 	"**The strong blowout is comming. Choppers can not come here**"
 	{
 		"default"		"**The strong blowout is comming. Choppers can not come here**"
+		"ru"		"**Грядет сильный выброс. Вертолеты не смогут прилететь сюда**"
 	}
 	"**Prepare to FIGHT! Now you are only for yourselves**"
 	{
 		"default"		"**Prepare to FIGHT! Now you are only for yourselves**"
+		"ru"		"**Приготовьтесь к БОЮ! Теперь вы сами за себя**"
 	}
 	"**The strange energy made your items overpowered. Try to use when nesessary**"
 	{
 		"default"		"**The strange energy made your items overpowered. Try to use when nesessary**"
+		"ru"		"**Странная энергия сделала ваши материи мощными. Используйте их при необходимости**"
 	}
 	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
 	{
 		"default"		"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+		"ru"		"**ВЫ ПРОШЛИ КАРТУ!!ВЫ НАСТОЯЩИЕ СТАЛКЕРЫ!!!**"
 	}
 }
