@@ -130,4 +130,8 @@
 	{
 		"default"		"***1***"
 	}
+	"***Armory open.***"
+	{
+		"default"		"***Armory open.***"
+	}
 }

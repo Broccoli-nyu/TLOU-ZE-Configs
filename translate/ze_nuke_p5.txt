@@ -80,4 +80,8 @@
 	{
 		"default"		"Contact me at obscuri@obsmail.tk"
 	}
+	"Second way open !"
+	{
+		"default"		"Second way open !"
+	}
 }

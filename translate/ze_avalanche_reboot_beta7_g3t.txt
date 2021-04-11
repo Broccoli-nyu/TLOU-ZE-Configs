@@ -136,4 +136,72 @@
 	{
 		"default"		">>> STAGE 2 COMPLETED <<<"
 	}
+	">>> Stage 3 - Normal <<<"
+	{
+		"default"		">>> Stage 3 - Normal <<<"
+	}
+	">>> TELEPORT ACTIVATING IN 25 SECONDS <<<"
+	{
+		"default"		">>> TELEPORT ACTIVATING IN 25 SECONDS <<<"
+	}
+	">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<"
+	{
+		"default"		">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<"
+	}
+	">>> BOTH ELEVATOR LEAVING IN 35 SECONDS <<<"
+	{
+		"default"		">>> BOTH ELEVATOR LEAVING IN 35 SECONDS <<<"
+	}
+	">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<"
+	{
+		"default"		">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<"
+	}
+	">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<"
+	{
+		"default"		">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<"
+	}
+	">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
+	{
+		"default"		">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
+	}
+	">>> REPAIR SHIELD ENABLED   DON'T SHOOT <<<"
+	{
+		"default"		">>> REPAIR SHIELD ENABLED   DON'T SHOOT <<<"
+	}
+	">>> ELECTRIC WAVE ENABLED <<<"
+	{
+		"default"		">>> ELECTRIC WAVE ENABLED <<<"
+	}
+	">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
+	{
+		"default"		">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
+	}
+	">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
+	{
+		"default"		">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
+	}
+	">>> BOSS DEFEATED <<<"
+	{
+		"default"		">>> BOSS DEFEATED <<<"
+	}
+	">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
+	{
+		"default"		">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
+	}
+	">>> DEFEND UNTIL RESCUE COMES <<<"
+	{
+		"default"		">>> DEFEND UNTIL RESCUE COMES <<<"
+	}
+	">>> DEFEND MORE <<<"
+	{
+		"default"		">>> DEFEND MORE <<<"
+	}
+	">>> HELICOPTER IS LEAVING <<<"
+	{
+		"default"		">>> HELICOPTER IS LEAVING <<<"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"default"		">>> FAIL ROUND <<<"
+	}
 }

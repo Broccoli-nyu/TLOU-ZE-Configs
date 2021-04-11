@@ -1,0 +1,619 @@
+"Chat"
+{
+	"**Level 1**"
+	{
+		"default"		"**Level 1**"
+	}
+	"**Reach the Battle Tower**"
+	{
+		"default"		"**Reach the Battle Tower**"
+	}
+	"**Defend for 45 seconds**"
+	{
+		"default"		"**Defend for 45 seconds**"
+	}
+	"**10 Seconds left**"
+	{
+		"default"		"**10 Seconds left**"
+	}
+	"**Security building open**"
+	{
+		"default"		"**Security building open**"
+	}
+	"**Battle Tower doors will open in 60 seconds**"
+	{
+		"default"		"**Battle Tower doors will open in 60 seconds**"
+	}
+	"**10 Seconds remaining**"
+	{
+		"default"		"**10 Seconds remaining**"
+	}
+	"**Go inside the Battle Tower**"
+	{
+		"default"		"**Go inside the Battle Tower**"
+	}
+	"**TELEPORTING EVERYONE INSIDE IN 5 SECONDS**"
+	{
+		"default"		"**TELEPORTING EVERYONE INSIDE IN 5 SECONDS**"
+	}
+	"**Trainer Wally wants to fight**"
+	{
+		"default"		"**Trainer Wally wants to fight**"
+	}
+	"**Wally: Go, Kirlia!**"
+	{
+		"default"		"**Wally: Go, Kirlia!**"
+	}
+	"**Wally: Kirlia, use Shock Wave!**"
+	{
+		"default"		"**Wally: Kirlia, use Shock Wave!**"
+	}
+	"**We must defeat Kirlia before we die**"
+	{
+		"default"		"**We must defeat Kirlia before we die**"
+	}
+	"**Kirlia has fainted**"
+	{
+		"default"		"**Kirlia has fainted**"
+	}
+	"**Wally: NO! IMPOSSIBLE**"
+	{
+		"default"		"**Wally: NO! IMPOSSIBLE**"
+	}
+	"**Wally: I WILL BE BACK!**"
+	{
+		"default"		"**Wally: I WILL BE BACK!**"
+	}
+	"**LEVEL 1 Completed**"
+	{
+		"default"		"**LEVEL 1 Completed**"
+	}
+	"**Level 2**"
+	{
+		"default"		"**Level 2**"
+	}
+	"**Go to Violet City**"
+	{
+		"default"		"**Go to Violet City**"
+	}
+	"**PATH IS BLOCKED, HOLD FOR 30 SECONDS**"
+	{
+		"default"		"**PATH IS BLOCKED, HOLD FOR 30 SECONDS**"
+	}
+	"**10 seconds**"
+	{
+		"default"		"**10 seconds**"
+	}
+	"**ROCK DESTROYED, GO TO VIOLET CITY**"
+	{
+		"default"		"**ROCK DESTROYED, GO TO VIOLET CITY**"
+	}
+	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 40 SECONDS**"
+	{
+		"default"		"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 40 SECONDS**"
+	}
+	"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 10 SECONDS**"
+	{
+		"default"		"**VIOLET CITY ENTRANCE WILL BE AVAIBLE IN 10 SECONDS**"
+	}
+	"**Welcome to Violet City**"
+	{
+		"default"		"**Welcome to Violet City**"
+	}
+	"**Head to the Gym**"
+	{
+		"default"		"**Head to the Gym**"
+	}
+	"**Teleport will be enabled in 15 seconds"
+	{
+		"default"		"**Teleport will be enabled in 15 seconds"
+	}
+	"**Falkner: Hello challengers..."
+	{
+		"default"		"**Falkner: Hello challengers..."
+	}
+	"**Falkner: I'm Falkner, The Violet Pokemon Gym leader!**"
+	{
+		"default"		"**Falkner: I'm Falkner, The Violet Pokemon Gym leader!**"
+	}
+	"**Falkner: People say you can clip flying-type Pokemon's wings with a jolt of electricity... **"
+	{
+		"default"		"**Falkner: People say you can clip flying-type Pokemon's wings with a jolt of electricity... **"
+	}
+	"**Falkner: I wont allow such insult to bird Pokemon.**"
+	{
+		"default"		"**Falkner: I wont allow such insult to bird Pokemon.**"
+	}
+	"**Falkner: I'll show you the real power of the magnificent bird Pokemon!**"
+	{
+		"default"		"**Falkner: I'll show you the real power of the magnificent bird Pokemon!**"
+	}
+	"**Gym Leader Falkner wants to fight!**"
+	{
+		"default"		"**Gym Leader Falkner wants to fight!**"
+	}
+	"**Falkner: Go Noctowl!**"
+	{
+		"default"		"**Falkner: Go Noctowl!**"
+	}
+	"**NO COWARDS ALLOWED**"
+	{
+		"default"		"**NO COWARDS ALLOWED**"
+	}
+	"**TELEPORTER WILL BREAK IN 5 SECONDS**"
+	{
+		"default"		"**TELEPORTER WILL BREAK IN 5 SECONDS**"
+	}
+	"**Falkner: Noctowl, use Whirlwind"
+	{
+		"default"		"**Falkner: Noctowl, use Whirlwind"
+	}
+	"**Falkner: Noctowl, Roost!"
+	{
+		"default"		"**Falkner: Noctowl, Roost!"
+	}
+	"**Noctowl has fainted!**"
+	{
+		"default"		"**Noctowl has fainted!**"
+	}
+	"**Falkner: Noctowl, get back.**"
+	{
+		"default"		"**Falkner: Noctowl, get back.**"
+	}
+	"**Falkner: Go, Pidgeot!"
+	{
+		"default"		"**Falkner: Go, Pidgeot!"
+	}
+	"**Falkner: Pidgeot, use Whirlwind**"
+	{
+		"default"		"**Falkner: Pidgeot, use Whirlwind**"
+	}
+	"**Falkner: Pidgeot, Roost!"
+	{
+		"default"		"**Falkner: Pidgeot, Roost!"
+	}
+	"**Pidgeot has fainted!**"
+	{
+		"default"		"**Pidgeot has fainted!**"
+	}
+	"**Falkner: Pidgeot, get back!**"
+	{
+		"default"		"**Falkner: Pidgeot, get back!**"
+	}
+	"**Falkner: Well, I didn't expected that...**"
+	{
+		"default"		"**Falkner: Well, I didn't expected that...**"
+	}
+	"**Falkner: As a token of your victory, take the Zehpyr Badge**"
+	{
+		"default"		"**Falkner: As a token of your victory, take the Zehpyr Badge**"
+	}
+	"**Falkner: The Zephyr Badge will allow you to Cut the tree path down violet city**"
+	{
+		"default"		"**Falkner: The Zephyr Badge will allow you to Cut the tree path down violet city**"
+	}
+	"**Falkner: Take the teleporter and go to Goldenrod City**"
+	{
+		"default"		"**Falkner: Take the teleporter and go to Goldenrod City**"
+	}
+	"**Falkner: Whitney is waiting for you there**"
+	{
+		"default"		"**Falkner: Whitney is waiting for you there**"
+	}
+	"**Defend here for 60 Seconds**"
+	{
+		"default"		"**Defend here for 60 Seconds**"
+	}
+	"**Defend here for 10 Seconds**"
+	{
+		"default"		"**Defend here for 10 Seconds**"
+	}
+	"**ZOMBIES TRAPPED**"
+	{
+		"default"		"**ZOMBIES TRAPPED**"
+	}
+	"**GO INSIDE OF UNION CAVE**"
+	{
+		"default"		"**GO INSIDE OF UNION CAVE**"
+	}
+	"**Welcome to Azalea Town**"
+	{
+		"default"		"**Welcome to Azalea Town**"
+	}
+	"**Head towards the security building**"
+	{
+		"default"		"**Head towards the security building**"
+	}
+	"**It will open in 15 seconds"
+	{
+		"default"		"**It will open in 15 seconds"
+	}
+	"**You can heal by standing near the doors of the PKMN Center**"
+	{
+		"default"		"**You can heal by standing near the doors of the PKMN Center**"
+	}
+	"**Illex Forest exit is unavaible.**"
+	{
+		"default"		"**Illex Forest exit is unavaible.**"
+	}
+	"**Defend for 60 seconds**"
+	{
+		"default"		"**Defend for 60 seconds**"
+	}
+	"**Defend for 30 seconds**"
+	{
+		"default"		"**Defend for 30 seconds**"
+	}
+	"**Defend for 10 seconds**"
+	{
+		"default"		"**Defend for 10 seconds**"
+	}
+	"**Falkner: Noctowl, use Zen Headbutt!"
+	{
+		"default"		"**Falkner: Noctowl, use Zen Headbutt!"
+	}
+	"**Go to Goldenrod City!**"
+	{
+		"default"		"**Go to Goldenrod City!**"
+	}
+	"**Welcome to GoldenRod City**"
+	{
+		"default"		"**Welcome to GoldenRod City**"
+	}
+	"**Whitney: Hi! I'm Whitney!**"
+	{
+		"default"		"**Whitney: Hi! I'm Whitney!**"
+	}
+	"**Whitney: Everyone was into Pok?mon, so I got into it, too!**"
+	{
+		"default"		"**Whitney: Everyone was into Pok?mon, so I got into it, too!**"
+	}
+	"**Whitney: You want to battle?**"
+	{
+		"default"		"**Whitney: You want to battle?**"
+	}
+	"**Whitney: I'm warning you, I'm good!**"
+	{
+		"default"		"**Whitney: I'm warning you, I'm good!**"
+	}
+	"**Gym Leader Whitney wants to fight!**"
+	{
+		"default"		"**Gym Leader Whitney wants to fight!**"
+	}
+	"**Whitney: Go, Miltank!**"
+	{
+		"default"		"**Whitney: Go, Miltank!**"
+	}
+	"**PLAYERS NOT INSIDE THE BATTLE FIELD WILL TP IN 10 SECONDS**"
+	{
+		"default"		"**PLAYERS NOT INSIDE THE BATTLE FIELD WILL TP IN 10 SECONDS**"
+	}
+	"**Whitney: Miltank, use Attract!**"
+	{
+		"default"		"**Whitney: Miltank, use Attract!**"
+	}
+	"**Whitney: Miltank, use Body Slam!**"
+	{
+		"default"		"**Whitney: Miltank, use Body Slam!**"
+	}
+	"**Whitney: Miltank, use Milk Drink!**"
+	{
+		"default"		"**Whitney: Miltank, use Milk Drink!**"
+	}
+	"**Miltank has restored 150HP**"
+	{
+		"default"		"**Miltank has restored 150HP**"
+	}
+	"**Miltank has fainted.**"
+	{
+		"default"		"**Miltank has fainted.**"
+	}
+	"**You've defeated Gym Leader Whitney!**"
+	{
+		"default"		"**You've defeated Gym Leader Whitney!**"
+	}
+	"**Whitney: Waaaah! Waaaah!"
+	{
+		"default"		"**Whitney: Waaaah! Waaaah!"
+	}
+	"**Whitney: ...**"
+	{
+		"default"		"**Whitney: ...**"
+	}
+	"**Whitney: Sniff.. Oh yeah the badge!**"
+	{
+		"default"		"**Whitney: Sniff.. Oh yeah the badge!**"
+	}
+	"**Whitney: Here, take the Plain Badge**"
+	{
+		"default"		"**Whitney: Here, take the Plain Badge**"
+	}
+	"**Level 2 Completed!**"
+	{
+		"default"		"**Level 2 Completed!**"
+	}
+	"**Map by Lv. 100 Crobat**"
+	{
+		"default"		"**Map by Lv. 100 Crobat**"
+	}
+	"**Level 3**"
+	{
+		"default"		"**Level 3**"
+	}
+	"WELCOME TO SLATEPORT CITY"
+	{
+		"default"		"WELCOME TO SLATEPORT CITY"
+	}
+	"GO TO THE BICYCLE ROAD"
+	{
+		"default"		"GO TO THE BICYCLE ROAD"
+	}
+	"TREES WILL BREAK IN 60 SECONDS"
+	{
+		"default"		"TREES WILL BREAK IN 60 SECONDS"
+	}
+	"TREES WILL BREAK IN 30 SECONDS"
+	{
+		"default"		"TREES WILL BREAK IN 30 SECONDS"
+	}
+	"***A wild Gastly is comming***"
+	{
+		"default"		"***A wild Gastly is comming***"
+	}
+	"TREES WILL BREAK IN 10 SECONDS"
+	{
+		"default"		"TREES WILL BREAK IN 10 SECONDS"
+	}
+	"ESCAPE FROM SLATEPORT!"
+	{
+		"default"		"ESCAPE FROM SLATEPORT!"
+	}
+	"GO INSIDE THE HOUSE TO GO TO THE BIKE ROAD"
+	{
+		"default"		"GO INSIDE THE HOUSE TO GO TO THE BIKE ROAD"
+	}
+	"***Player has picked Chansey! (HEAL)***"
+	{
+		"default"		"***Player has picked Chansey! (HEAL)***"
+	}
+	"***Recharge: 45 seconds.***"
+	{
+		"default"		"***Recharge: 45 seconds.***"
+	}
+	"LET'S SEE WHICH PATH WILL BE AVAIBLE"
+	{
+		"default"		"LET'S SEE WHICH PATH WILL BE AVAIBLE"
+	}
+	"***Player has picked Buizel! (WATER)***"
+	{
+		"default"		"***Player has picked Buizel! (WATER)***"
+	}
+	"***Recharge: 80 seconds.***"
+	{
+		"default"		"***Recharge: 80 seconds.***"
+	}
+	"Don't stay here for too long."
+	{
+		"default"		"Don't stay here for too long."
+	}
+	"***Player has picked Gardevoir! (WALL)***"
+	{
+		"default"		"***Player has picked Gardevoir! (WALL)***"
+	}
+	"***Recharge: 60 Seconds.**"
+	{
+		"default"		"***Recharge: 60 Seconds.**"
+	}
+	"LEFT PATH OPEN"
+	{
+		"default"		"LEFT PATH OPEN"
+	}
+	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
+	{
+		"default"		"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
+	}
+	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
+	{
+		"default"		"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
+	}
+	"DEFEND THIS AREA FOR 60 SECONDS"
+	{
+		"default"		"DEFEND THIS AREA FOR 60 SECONDS"
+	}
+	"DEFEND THIS AREA FOR 30 SECONDS"
+	{
+		"default"		"DEFEND THIS AREA FOR 30 SECONDS"
+	}
+	"DEFEND THIS AREA FOR 10 SECONDS"
+	{
+		"default"		"DEFEND THIS AREA FOR 10 SECONDS"
+	}
+	"PKMN Trainer Wally wants to fight"
+	{
+		"default"		"PKMN Trainer Wally wants to fight"
+	}
+	"Wally: GO KIRLIA"
+	{
+		"default"		"Wally: GO KIRLIA"
+	}
+	"Wally: GO KIRLIA!"
+	{
+		"default"		"Wally: GO KIRLIA!"
+	}
+	"Wally: KIRLIA USE SHOCK WAVE!"
+	{
+		"default"		"Wally: KIRLIA USE SHOCK WAVE!"
+	}
+	"Wally: KIRLIA, RETURN!"
+	{
+		"default"		"Wally: KIRLIA, RETURN!"
+	}
+	"Wally: GO CROBAT!"
+	{
+		"default"		"Wally: GO CROBAT!"
+	}
+	"**Zombie Ladders Spawned**"
+	{
+		"default"		"**Zombie Ladders Spawned**"
+	}
+	"Wally: CROBAT USE TOXIC!"
+	{
+		"default"		"Wally: CROBAT USE TOXIC!"
+	}
+	"Wally: CROBAT, RETURN"
+	{
+		"default"		"Wally: CROBAT, RETURN"
+	}
+	"**Wally: I've been defeated again.**"
+	{
+		"default"		"**Wally: I've been defeated again.**"
+	}
+	"**Wally: Today I couldn't beat you, but next time..**"
+	{
+		"default"		"**Wally: Today I couldn't beat you, but next time..**"
+	}
+	"**Wally: Next time will be harder.**"
+	{
+		"default"		"**Wally: Next time will be harder.**"
+	}
+	"DEFEND HERE FOR 20 SECONDS"
+	{
+		"default"		"DEFEND HERE FOR 20 SECONDS"
+	}
+	"DEFEND HERE FOR 10 SECONDS"
+	{
+		"default"		"DEFEND HERE FOR 10 SECONDS"
+	}
+	"DEFEND HERE FOR 5 SECONDS"
+	{
+		"default"		"DEFEND HERE FOR 5 SECONDS"
+	}
+	"Let's take a rest before we continue"
+	{
+		"default"		"Let's take a rest before we continue"
+	}
+	"**SHOOT GROUDON!**"
+	{
+		"default"		"**SHOOT GROUDON!**"
+	}
+	"**Groudon used Fissure!**"
+	{
+		"default"		"**Groudon used Fissure!**"
+	}
+	"**Get on the side platforms**"
+	{
+		"default"		"**Get on the side platforms**"
+	}
+	"**Groudon is rising up platforms!**"
+	{
+		"default"		"**Groudon is rising up platforms!**"
+	}
+	"**Groudon used Roar!**"
+	{
+		"default"		"**Groudon used Roar!**"
+	}
+	"RIGHT PATH OPEN!"
+	{
+		"default"		"RIGHT PATH OPEN!"
+	}
+	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
+	{
+		"default"		"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
+	}
+	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
+	{
+		"default"		"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
+	}
+	"Wally: KIRLIA USE TELEPORT"
+	{
+		"default"		"Wally: KIRLIA USE TELEPORT"
+	}
+	"GROUDON HAS FAINTED, LET'S GO"
+	{
+		"default"		"GROUDON HAS FAINTED, LET'S GO"
+	}
+	"IT'S WALLY!?"
+	{
+		"default"		"IT'S WALLY!?"
+	}
+	"Wally: IT'S NOT OVER YET GUYS."
+	{
+		"default"		"Wally: IT'S NOT OVER YET GUYS."
+	}
+	"Wally: KIRLIA, USE BARRIER!"
+	{
+		"default"		"Wally: KIRLIA, USE BARRIER!"
+	}
+	"SHOOT KIRLIA"
+	{
+		"default"		"SHOOT KIRLIA"
+	}
+	"Wally: I'LL BE BACK!"
+	{
+		"default"		"Wally: I'LL BE BACK!"
+	}
+	"DEFEND HERE FOR 35 SECONDS"
+	{
+		"default"		"DEFEND HERE FOR 35 SECONDS"
+	}
+	"20 SECONDS!"
+	{
+		"default"		"20 SECONDS!"
+	}
+	"10 SECONDS!"
+	{
+		"default"		"10 SECONDS!"
+	}
+	"5"
+	{
+		"default"		"5"
+	}
+	"4"
+	{
+		"default"		"4"
+	}
+	"3"
+	{
+		"default"		"3"
+	}
+	"2"
+	{
+		"default"		"2"
+	}
+	"1"
+	{
+		"default"		"1"
+	}
+	"**IT'S PRIMAL GROUDON**"
+	{
+		"default"		"**IT'S PRIMAL GROUDON**"
+	}
+	"**Primal Groudon used Eruption**"
+	{
+		"default"		"**Primal Groudon used Eruption**"
+	}
+	"**We have 25 seconds to defeat him**"
+	{
+		"default"		"**We have 25 seconds to defeat him**"
+	}
+	"**Or we will die**"
+	{
+		"default"		"**Or we will die**"
+	}
+	"MIDDLE PATH OPEN"
+	{
+		"default"		"MIDDLE PATH OPEN"
+	}
+	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
+	{
+		"default"		"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
+	}
+	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
+	{
+		"default"		"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
+	}
+	"**STAGE FAILED**"
+	{
+		"default"		"**STAGE FAILED**"
+	}
+}

@@ -164,4 +164,48 @@
 	{
 		"default"		"** Teleport active! **"
 	}
+	"A player has aquired the megasphere powerup!"
+	{
+		"default"		"A player has aquired the megasphere powerup!"
+	}
+	"Megasphere powerup has one charge!"
+	{
+		"default"		"Megasphere powerup has one charge!"
+	}
+	"Megasphere only usable 30 seconds after pikcup!"
+	{
+		"default"		"Megasphere only usable 30 seconds after pikcup!"
+	}
+	"Megasphere now usable!"
+	{
+		"default"		"Megasphere now usable!"
+	}
+	"Megasphere used!"
+	{
+		"default"		"Megasphere used!"
+	}
+	"Megasphere power depleted!"
+	{
+		"default"		"Megasphere power depleted!"
+	}
+	"** Humans have 2 minutes to deafet the boss! **"
+	{
+		"default"		"** Humans have 2 minutes to deafet the boss! **"
+	}
+	"** Boss defeated! **"
+	{
+		"default"		"** Boss defeated! **"
+	}
+	"** Exit door closing in 40 seconds! **"
+	{
+		"default"		"** Exit door closing in 40 seconds! **"
+	}
+	"** Zombies have been released! **"
+	{
+		"default"		"** Zombies have been released! **"
+	}
+	"** Exit door closing in 10 seconds! **"
+	{
+		"default"		"** Exit door closing in 10 seconds! **"
+	}
 }

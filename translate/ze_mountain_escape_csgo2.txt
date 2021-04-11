@@ -136,4 +136,52 @@
 	{
 		"default"		"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 5 SECONDS ! ***"
 	}
+	"***!?***"
+	{
+		"default"		"***!?***"
+	}
+	"***What's that sound?***"
+	{
+		"default"		"***What's that sound?***"
+	}
+	"***Warning: The train is coming.***"
+	{
+		"default"		"***Warning: The train is coming.***"
+	}
+	"*** Grenades fly! ***"
+	{
+		"default"		"*** Grenades fly! ***"
+	}
+	"***Warning: Sephiroth has appeared.***"
+	{
+		"default"		"***Warning: Sephiroth has appeared.***"
+	}
+	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"default"		"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	}
+	"***Warning: Tornados approaching***"
+	{
+		"default"		"***Warning: Tornados approaching***"
+	}
+	"*** ZOMBIES HAVE BROKEN OUR BARRIER SEALING THE BEAST! ***"
+	{
+		"default"		"*** ZOMBIES HAVE BROKEN OUR BARRIER SEALING THE BEAST! ***"
+	}
+	"*** Horn has been blown! Nuke inbound. ***"
+	{
+		"default"		"*** Horn has been blown! Nuke inbound. ***"
+	}
+	"*** DOOR 2 HAS BEEN BROKEN! ***"
+	{
+		"default"		"*** DOOR 2 HAS BEEN BROKEN! ***"
+	}
+	"*** DOOR 1 HAS BEEN BROKEN! ***"
+	{
+		"default"		"*** DOOR 1 HAS BEEN BROKEN! ***"
+	}
+	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
+	{
+		"default"		"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
+	}
 }

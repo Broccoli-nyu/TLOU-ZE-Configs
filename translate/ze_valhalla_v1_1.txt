@@ -60,4 +60,12 @@
 	{
 		"default"		"**There are no humans in the final area,Stage1 Fail**"
 	}
+	"**Zombie Escape,Stage1 Fail**"
+	{
+		"default"		"**Zombie Escape,Stage1 Fail**"
+	}
+	"**Stage1 complete**"
+	{
+		"default"		"**Stage1 complete**"
+	}
 }

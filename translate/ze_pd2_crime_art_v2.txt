@@ -60,4 +60,28 @@
 	{
 		"default"		"** DOOR IS OPENING **"
 	}
+	"** HOLD THE BEDROOM **"
+	{
+		"default"		"** HOLD THE BEDROOM **"
+	}
+	"** MAKE YOUR WAY TO THE OFFICE **"
+	{
+		"default"		"** MAKE YOUR WAY TO THE OFFICE **"
+	}
+	"** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **"
+	{
+		"default"		"** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **"
+	}
+	"** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **"
+	{
+		"default"		"** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **"
+	}
+	"** 30 SECONDS TO UNLOCK THE DOOR **"
+	{
+		"default"		"** 30 SECONDS TO UNLOCK THE DOOR **"
+	}
+	"** GET IN THE CHOPPA! **"
+	{
+		"default"		"** GET IN THE CHOPPA! **"
+	}
 }

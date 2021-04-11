@@ -1,0 +1,223 @@
+"Chat"
+{
+	"***WARMUP***"
+	{
+		"default"		"***WARMUP***"
+	}
+	"***45***"
+	{
+		"default"		"***45***"
+	}
+	"***30***"
+	{
+		"default"		"***30***"
+	}
+	"***15***"
+	{
+		"default"		"***15***"
+	}
+	"***10***"
+	{
+		"default"		"***10***"
+	}
+	"***5***"
+	{
+		"default"		"***5***"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"***WARMUP OVER***"
+	{
+		"default"		"***WARMUP OVER***"
+	}
+	"***DOORS OPENING***"
+	{
+		"default"		"***DOORS OPENING***"
+	}
+	"***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***"
+	{
+		"default"		"***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***"
+	}
+	"***MOVING ZOMBIES FORWARD***"
+	{
+		"default"		"***MOVING ZOMBIES FORWARD***"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"default"		"***DEFEND FOR 20 SECONDS***"
+	}
+	"***ZOMBIE SHORTCUT OPEN***"
+	{
+		"default"		"***ZOMBIE SHORTCUT OPEN***"
+	}
+	"***DOOR OPENING***"
+	{
+		"default"		"***DOOR OPENING***"
+	}
+	"***FALLBACK THROUGH THE PORTAL***"
+	{
+		"default"		"***FALLBACK THROUGH THE PORTAL***"
+	}
+	"***BRIDGES BREAKING IN 15 SECONDS***"
+	{
+		"default"		"***BRIDGES BREAKING IN 15 SECONDS***"
+	}
+	"***TRAIN CALLED, PLEASE STANDBY***"
+	{
+		"default"		"***TRAIN CALLED, PLEASE STANDBY***"
+	}
+	"***TRAIN WILL ARRIVE IN 35 SECONDS***"
+	{
+		"default"		"***TRAIN WILL ARRIVE IN 35 SECONDS***"
+	}
+	"***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***"
+	{
+		"default"		"***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***"
+	}
+	"***TRAIN APPROACHING***"
+	{
+		"default"		"***TRAIN APPROACHING***"
+	}
+	"***FALLBACK ONTO THE TRAIN***"
+	{
+		"default"		"***FALLBACK ONTO THE TRAIN***"
+	}
+	"***TRAIN DEPARTS IN 15 SECONDS***"
+	{
+		"default"		"***TRAIN DEPARTS IN 15 SECONDS***"
+	}
+	"***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***"
+	{
+		"default"		"***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***"
+	}
+	"***NETHER PORTAL CLOSES IN 10 SECONDS***"
+	{
+		"default"		"***NETHER PORTAL CLOSES IN 10 SECONDS***"
+	}
+	"***PORTAL CLOSED***"
+	{
+		"default"		"***PORTAL CLOSED***"
+	}
+	"***THE NETHER***"
+	{
+		"default"		"***THE NETHER***"
+	}
+	"***DEFEND FOR 20 MORE SECONDS***"
+	{
+		"default"		"***DEFEND FOR 20 MORE SECONDS***"
+	}
+	"***[@: Raising Zombie Bridges]***"
+	{
+		"default"		"***[@: Raising Zombie Bridges]***"
+	}
+	"***[@: Activating Teleport Beam]***"
+	{
+		"default"		"***[@: Activating Teleport Beam]***"
+	}
+	"***[@: Spawning Wind Entity]***"
+	{
+		"default"		"***[@: Spawning Wind Entity]***"
+	}
+	"***[@: Spawning Fire Entity]***"
+	{
+		"default"		"***[@: Spawning Fire Entity]***"
+	}
+	"***DOOR OPENS IN 35 SECONDS***"
+	{
+		"default"		"***DOOR OPENS IN 35 SECONDS***"
+	}
+	"***BOSS HAS BEEN DEFEATED***"
+	{
+		"default"		"***BOSS HAS BEEN DEFEATED***"
+	}
+	"***NETHER PORTAL CLOSING IN 10 SECONDS***"
+	{
+		"default"		"***NETHER PORTAL CLOSING IN 10 SECONDS***"
+	}
+	"***WHERE ARE WE?***"
+	{
+		"default"		"***WHERE ARE WE?***"
+	}
+	"***TITAN ENGINE TEST IN PROGRESS***"
+	{
+		"default"		"***TITAN ENGINE TEST IN PROGRESS***"
+	}
+	"***TITAN ENGINE COOLING DOWN***"
+	{
+		"default"		"***TITAN ENGINE COOLING DOWN***"
+	}
+	"***ATTEMPTING TO OPEN FACILITY DOOR***"
+	{
+		"default"		"***ATTEMPTING TO OPEN FACILITY DOOR***"
+	}
+	"***ERROR, UNABLE TO IDENTIFY USER***"
+	{
+		"default"		"***ERROR, UNABLE TO IDENTIFY USER***"
+	}
+	"***OPENING SERVICE PANEL, SHOOT THE WIRES INSIDE***"
+	{
+		"default"		"***OPENING SERVICE PANEL, SHOOT THE WIRES INSIDE***"
+	}
+	"***WIRES CUT, ATTEMPTING TO OPEN DOOR***"
+	{
+		"default"		"***WIRES CUT, ATTEMPTING TO OPEN DOOR***"
+	}
+	"***ACCESS GRANTED, OPENING FACILITY DOOR***"
+	{
+		"default"		"***ACCESS GRANTED, OPENING FACILITY DOOR***"
+	}
+	"***ELEVATOR LEAVING IN 20 SECONDS***"
+	{
+		"default"		"***ELEVATOR LEAVING IN 20 SECONDS***"
+	}
+	"***ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"default"		"***ELEVATOR LEAVING IN 10 SECONDS***"
+	}
+	"***TELEPORTING ZOMBIES***"
+	{
+		"default"		"***TELEPORTING ZOMBIES***"
+	}
+	"***OPENING SERVER ROOM DOOR IN 10 SECONDS***"
+	{
+		"default"		"***OPENING SERVER ROOM DOOR IN 10 SECONDS***"
+	}
+	"***OPENING SERVER ROOM EXIT IN 20 SECONDS***"
+	{
+		"default"		"***OPENING SERVER ROOM EXIT IN 20 SECONDS***"
+	}
+	"***OPENING SERVER ROOM EXIT IN 10 SECONDS***"
+	{
+		"default"		"***OPENING SERVER ROOM EXIT IN 10 SECONDS***"
+	}
+	"***CLOSING SERVER ROOM EXIT IN 10 SECONDS***"
+	{
+		"default"		"***CLOSING SERVER ROOM EXIT IN 10 SECONDS***"
+	}
+	"***ELEVATOR MALFUNCTION***"
+	{
+		"default"		"***ELEVATOR MALFUNCTION***"
+	}
+	"***ERROR***"
+	{
+		"default"		"***ERROR***"
+	}
+	"***ONLY A FEW PEOPLE NEED TO CLIMB THE ELEVATOR SHAFT AND TRIGGER A BUTTON AT THE TOP TO OPEN THE DOOR***"
+	{
+		"default"		"***ONLY A FEW PEOPLE NEED TO CLIMB THE ELEVATOR SHAFT AND TRIGGER A BUTTON AT THE TOP TO OPEN THE DOOR***"
+	}
+}

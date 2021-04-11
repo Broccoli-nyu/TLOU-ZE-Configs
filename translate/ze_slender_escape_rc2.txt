@@ -168,7 +168,7 @@
 	{
 		"default"		"** SLENDERZOMBIE -FIRE- WOKE UP **"
 	}
-	"** 10 SECONDS LEFT **"
+	"** 10 seconds left **"
 	{
 		"default"		"** 10 SECONDS LEFT **"
 	}
@@ -316,7 +316,7 @@
 	{
 		"default"		"** All drains have been closed - Water is lowering ** "
 	}
-	"** 5 SECONDS LEFT **"
+	"** 5 seconds left **"
 	{
 		"default"		"** 5 SECONDS LEFT **"
 	}

@@ -1,0 +1,119 @@
+"Chat"
+{
+	">>>Map by Saddong<<<"
+	{
+		"default"		">>>Map by Saddong<<<"
+	}
+	">>>Warm Up<<<"
+	{
+		"default"		">>>Warm Up<<<"
+	}
+	">>>Stage 1 - Moko Temple<<<"
+	{
+		"default"		">>>Stage 1 - Moko Temple<<<"
+	}
+	">>> Player Has Picked up Staff of Keemstar<<<"
+	{
+		"default"		">>> Player Has Picked up Staff of Keemstar<<<"
+	}
+	"Uganda Knuckles: My Bruddah"
+	{
+		"default"		"Uganda Knuckles: My Bruddah"
+	}
+	"Uganda Knuckles: I Will Teach you da Wey"
+	{
+		"default"		"Uganda Knuckles: I Will Teach you da Wey"
+	}
+	">>>Defend for 20 Seconds<<<"
+	{
+		"default"		">>>Defend for 20 Seconds<<<"
+	}
+	">>> Player Has Picked up Staff of Woah<<<"
+	{
+		"default"		">>> Player Has Picked up Staff of Woah<<<"
+	}
+	">>>Fallback<<<"
+	{
+		"default"		">>>Fallback<<<"
+	}
+	">>>Defend for 18 Seconds<<<"
+	{
+		"default"		">>>Defend for 18 Seconds<<<"
+	}
+	">>>Defend for 12 Seconds<<<"
+	{
+		"default"		">>>Defend for 12 Seconds<<<"
+	}
+	">>>Van Darkholme Calls His Slave Boy<<<"
+	{
+		"default"		">>>Van Darkholme Calls His Slave Boy<<<"
+	}
+	">>>Van Darkholme uses Gachi Flame<<<"
+	{
+		"default"		">>>Van Darkholme uses Gachi Flame<<<"
+	}
+	">>>Van Darkholme Uses Gachi Push<<<"
+	{
+		"default"		">>>Van Darkholme Uses Gachi Push<<<"
+	}
+	">>>Van Darkholme Uses Gachi Beam<<<"
+	{
+		"default"		">>>Van Darkholme Uses Gachi Beam<<<"
+	}
+	">>>Uganda Knuckles Will Lead us de way<<<"
+	{
+		"default"		">>>Uganda Knuckles Will Lead us de way<<<"
+	}
+	">>> Player Has Picked up Staff of Mlg Horn<<<"
+	{
+		"default"		">>> Player Has Picked up Staff of Mlg Horn<<<"
+	}
+	">>>Hold Here for 40 seconds<<<"
+	{
+		"default"		">>>Hold Here for 40 seconds<<<"
+	}
+	">>>Keep Holding<<<"
+	{
+		"default"		">>>Keep Holding<<<"
+	}
+	">>>Door Will Break Soon<<<"
+	{
+		"default"		">>>Door Will Break Soon<<<"
+	}
+	">>>Teleport will Activate in 5 seconds<<<"
+	{
+		"default"		">>>Teleport will Activate in 5 seconds<<<"
+	}
+	">>> Player Has Picked up Staff of F12<<<"
+	{
+		"default"		">>> Player Has Picked up Staff of F12<<<"
+	}
+	">>>Get Ready For Sum Lasers<<<"
+	{
+		"default"		">>>Get Ready For Sum Lasers<<<"
+	}
+	">>>Its Not Over yet<<<"
+	{
+		"default"		">>>Its Not Over yet<<<"
+	}
+	">>>Keep Going<<<"
+	{
+		"default"		">>>Keep Going<<<"
+	}
+	"**A player has picked up ULTIMA materia**"
+	{
+		"default"		"**A player has picked up ULTIMA materia**"
+	}
+	">>>Helicopter will arrive soon<<<"
+	{
+		"default"		">>>Helicopter will arrive soon<<<"
+	}
+	">>>Get on the Choppa<<<"
+	{
+		"default"		">>>Get on the Choppa<<<"
+	}
+	">>>You Beat Moko Temple<<<"
+	{
+		"default"		">>>You Beat Moko Temple<<<"
+	}
+}

@@ -1,0 +1,119 @@
+"Chat"
+{
+	"Map by Tsubasa"
+	{
+		"default"		"Map by Tsubasa"
+	}
+	"Custom textures by TopHATTwaffle"
+	{
+		"default"		"Custom textures by TopHATTwaffle"
+	}
+	"*** Upper Path ***"
+	{
+		"default"		"*** Upper Path ***"
+	}
+	">>> Transistor  OST Copr. 2011 Supergiant Games, LLC - Mine, Windbag, Mine <<<"
+	{
+		"default"		">>> Transistor  OST Copr. 2011 Supergiant Games, LLC - Mine, Windbag, Mine <<<"
+	}
+	"*** Elevator Activating in 25 Seconds ***"
+	{
+		"default"		"*** Elevator Activating in 25 Seconds ***"
+	}
+	"*** Elevator Activating in 5 Seconds ***"
+	{
+		"default"		"*** Elevator Activating in 5 Seconds ***"
+	}
+	"*** Door Opening in 30 Seconds ***"
+	{
+		"default"		"*** Door Opening in 30 Seconds ***"
+	}
+	"*** Activate the Main Elevator ***"
+	{
+		"default"		"*** Activate the Main Elevator ***"
+	}
+	"*** Side Elevator Activating in 10 Seconds ***"
+	{
+		"default"		"*** Side Elevator Activating in 10 Seconds ***"
+	}
+	"*** Main Elevator Activating in 35 Seconds ***"
+	{
+		"default"		"*** Main Elevator Activating in 35 Seconds ***"
+	}
+	"*** Elevator Activated ***"
+	{
+		"default"		"*** Elevator Activated ***"
+	}
+	"*** Jump Down! ***"
+	{
+		"default"		"*** Jump Down! ***"
+	}
+	"*** Railings Breaking in 15 Seconds ***"
+	{
+		"default"		"*** Railings Breaking in 15 Seconds ***"
+	}
+	"*** Railings Breaking in 5 Seconds ***"
+	{
+		"default"		"*** Railings Breaking in 5 Seconds ***"
+	}
+	"*** Vent Breaking in 45 Seconds ***"
+	{
+		"default"		"*** Vent Breaking in 45 Seconds ***"
+	}
+	"*** Vent Breaking in 5 Seconds ***"
+	{
+		"default"		"*** Vent Breaking in 5 Seconds ***"
+	}
+	"*** Final Doors Closing in 45 Seconds ***"
+	{
+		"default"		"*** Final Doors Closing in 45 Seconds ***"
+	}
+	"*** Final Doors Closing in 10 Seconds ***"
+	{
+		"default"		"*** Final Doors Closing in 10 Seconds ***"
+	}
+	"*** Normal Mode Cleared! ***"
+	{
+		"default"		"*** Normal Mode Cleared! ***"
+	}
+	"*** Lower Path ***"
+	{
+		"default"		"*** Lower Path ***"
+	}
+	">>> NieR Automata OST Copr. Square Enix - Alien Manifestation <<<"
+	{
+		"default"		">>> NieR Automata OST Copr. Square Enix - Alien Manifestation <<<"
+	}
+	"*** Elevator Activating in 30 Seconds ***"
+	{
+		"default"		"*** Elevator Activating in 30 Seconds ***"
+	}
+	"*** Railings Breaking in 25 Seconds ***"
+	{
+		"default"		"*** Railings Breaking in 25 Seconds ***"
+	}
+	"*** Route : Upper Elevator ***"
+	{
+		"default"		"*** Route : Upper Elevator ***"
+	}
+	"*** Elevator Activating in 40 Seconds ***"
+	{
+		"default"		"*** Elevator Activating in 40 Seconds ***"
+	}
+	">>> NieR Automata OST Copr. Square Enix - Wretched Weaponry <<<"
+	{
+		"default"		">>> NieR Automata OST Copr. Square Enix - Wretched Weaponry <<<"
+	}
+	"*** Activate the Next Elevator ***"
+	{
+		"default"		"*** Activate the Next Elevator ***"
+	}
+	">>> NieR Automata OST Copr. Square Enix - Bipolar Nightmare [ Remix ] <<<"
+	{
+		"default"		">>> NieR Automata OST Copr. Square Enix - Bipolar Nightmare [ Remix ] <<<"
+	}
+	"*** Elevator Leaving in 35 Seconds ***"
+	{
+		"default"		"*** Elevator Leaving in 35 Seconds ***"
+	}
+}

@@ -74,4 +74,12 @@
 	{
 		"default"		"< Lasers >"
 	}
+	"< Extreme mode - completed >"
+	{
+		"default"		"< Extreme mode - completed >"
+	}
+	"< Insane mode >"
+	{
+		"default"		"< Insane mode >"
+	}
 }

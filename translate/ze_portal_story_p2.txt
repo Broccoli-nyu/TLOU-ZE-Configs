@@ -196,4 +196,16 @@
 	{
 		"default"		">>> NEUROTOXIN RELEASED! <<<"
 	}
+	">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+	{
+		"default"		">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+	}
+	">>> EXTREME MODE COMPLETED <<<"
+	{
+		"default"		">>> EXTREME MODE COMPLETED <<<"
+	}
+	">>> MOVING BACK TO NORMAL MODE <<<"
+	{
+		"default"		">>> MOVING BACK TO NORMAL MODE <<<"
+	}
 }

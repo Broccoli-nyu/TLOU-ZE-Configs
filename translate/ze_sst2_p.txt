@@ -1,0 +1,71 @@
+"Chat"
+{
+	">>>Map Created By: Bill Smauz<<<"
+	{
+		"default"		">>>Map Created By: Bill Smauz<<<"
+	}
+	"Thanks: Kaemon and Struki and Jazzman"
+	{
+		"default"		"Thanks: Kaemon and Struki and Jazzman"
+	}
+	"Thanks To: The SteamGamers Community"
+	{
+		"default"		"Thanks To: The SteamGamers Community"
+	}
+	"***Lift Returning Across Canyon***"
+	{
+		"default"		"***Lift Returning Across Canyon***"
+	}
+	"***Lift Departing in 5 Seconds***"
+	{
+		"default"		"***Lift Departing in 5 Seconds***"
+	}
+	"***Second Cave Wall Will Collapse in 20 Seconds***"
+	{
+		"default"		"***Second Cave Wall Will Collapse in 20 Seconds***"
+	}
+	"***Defend This Location***"
+	{
+		"default"		"***Defend This Location***"
+	}
+	"***Cave Wall Will Collapse in 18 Seconds***"
+	{
+		"default"		"***Cave Wall Will Collapse in 18 Seconds***"
+	}
+	"***APC Starting in 5 Seconds***"
+	{
+		"default"		"***APC Starting in 5 Seconds***"
+	}
+	"***Stay Within the APC's Interior***"
+	{
+		"default"		"***Stay Within the APC's Interior***"
+	}
+	"***12 Seconds to Enter the Outpost***"
+	{
+		"default"		"***12 Seconds to Enter the Outpost***"
+	}
+	"***Dropship Arrival in 60 Seconds***"
+	{
+		"default"		"***Dropship Arrival in 60 Seconds***"
+	}
+	"***Nuking Planet Surface in 60 Seconds***"
+	{
+		"default"		"***Nuking Planet Surface in 60 Seconds***"
+	}
+	"***Dropship Arrival in 30 Seconds***"
+	{
+		"default"		"***Dropship Arrival in 30 Seconds***"
+	}
+	"***BugHole has Opened in Center of Outpost***"
+	{
+		"default"		"***BugHole has Opened in Center of Outpost***"
+	}
+	"***Dropship Arrival in 10 Seconds***"
+	{
+		"default"		"***Dropship Arrival in 10 Seconds***"
+	}
+	"***Dropship has Arrived***"
+	{
+		"default"		"***Dropship has Arrived***"
+	}
+}

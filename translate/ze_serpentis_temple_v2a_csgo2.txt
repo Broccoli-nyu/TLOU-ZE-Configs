@@ -1,0 +1,170 @@
+"Chat"
+{
+	"*** Map By Nostar & Moltard ***"
+	{
+		"default"		"*** Map By Nostar & Moltard ***"
+	}
+	">>> Stripper made by Koen <<<"
+	{
+		"default"		">>> Stripper made by Koen <<<"
+	}
+	">>> Please report any bugs to discord or koen"
+	{
+		"memories <<<"
+		{
+			"default"		">>> Please report any bugs to discord or koen/memories <<<"
+		}
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"default"		"*** WARMUP ROUND (60 sec) ***"
+	}
+	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
+	{
+		"default"		"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
+	}
+	"*** Many assets from the original map were used ***"
+	{
+		"default"		"*** Many assets from the original map were used ***"
+	}
+	"*** WARMUP ROUND (50 sec) ***"
+	{
+		"default"		"*** WARMUP ROUND (50 sec) ***"
+	}
+	"*** WARMUP ROUND (40 sec) ***"
+	{
+		"default"		"*** WARMUP ROUND (40 sec) ***"
+	}
+	"*** WARMUP ROUND (30 sec) ***"
+	{
+		"default"		"*** WARMUP ROUND (30 sec) ***"
+	}
+	"*** WARMUP ROUND (20 sec) ***"
+	{
+		"default"		"*** WARMUP ROUND (20 sec) ***"
+	}
+	"*** WARMUP ROUND (10 sec) ***"
+	{
+		"default"		"*** WARMUP ROUND (10 sec) ***"
+	}
+	"*** Stage 1 loaded ***"
+	{
+		"default"		"*** Stage 1 loaded ***"
+	}
+	"*** STAGE 1 ***"
+	{
+		"default"		"*** STAGE 1 ***"
+	}
+	"*** Find a way to reach the temple ***"
+	{
+		"default"		"*** Find a way to reach the temple ***"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"default"		"*** DOOR OPEN IN 25 SECONDS ***"
+	}
+	"*** DOOR OPEN IN 20 SECONDS ***"
+	{
+		"default"		"*** DOOR OPEN IN 20 SECONDS ***"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"default"		"*** AFK TELEPORT IN 5 SECONDS ***"
+	}
+	"*** AFK Teleport in 15 seconds ***"
+	{
+		"default"		"*** AFK TELEPORT IN 15 SECONDS ***"
+	}
+	"*** DOORS OPEN IN 30 SECONDS ***"
+	{
+		"default"		"*** DOORS OPEN IN 30 SECONDS ***"
+	}
+	"*** TELEPORT IN 30 SECONDS ***"
+	{
+		"default"		"*** TELEPORT IN 30 SECONDS ***"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"default"		"*** ZM TELEPORT IN 10 SECONDS ***"
+	}
+	"*** A sacrifice is necessary to open this passage ***"
+	{
+		"default"		"*** A sacrifice is necessary to open this passage ***"
+	}
+	"*** The passage will be open in 10 seconds ***"
+	{
+		"default"		"*** The passage will be open in 10 seconds ***"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"default"		"*** ZM TELEPORT IN 5 SECONDS ***"
+	}
+	"*** DOOR OPEN IN 10 SECONDS ***"
+	{
+		"default"		"*** DOOR OPEN IN 10 SECONDS ***"
+	}
+	"*** DOOR CLOSE IN 5 SECONDS ! ***"
+	{
+		"default"		"*** DOOR CLOSE IN 5 SECONDS ! ***"
+	}
+	"*** YOU WON STAGE 1 ! ***"
+	{
+		"default"		"*** YOU WON STAGE 1 ! ***"
+	}
+	"*** STAGE 2 LOADED ***"
+	{
+		"default"		"*** STAGE 2 LOADED ***"
+	}
+	"*** STAGE 2 ***"
+	{
+		"default"		"*** STAGE 2 ***"
+	}
+	"*** HOLD 25 SECONDS ***"
+	{
+		"default"		"*** HOLD 25 SECONDS ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"default"		"*** FALL BACK ***"
+	}
+	"*** Snake come in 20 seconds ***"
+	{
+		"default"		"*** Snake come in 20 seconds ***"
+	}
+	"*** HOLD HERE ***"
+	{
+		"default"		"*** HOLD HERE ***"
+	}
+	"*** CRYSTAL HAS BEEN ACTIVATED ***"
+	{
+		"default"		"*** CRYSTAL HAS BEEN ACTIVATED ***"
+	}
+	"*** The portal is open in 30 seconds ***"
+	{
+		"default"		"*** The portal is open in 30 seconds ***"
+	}
+	"*** PORTAL IS READY ! FALL BACK ! ***"
+	{
+		"default"		"*** PORTAL IS READY ! FALL BACK ! ***"
+	}
+	"*** AFK Teleport in 10 seconds ***"
+	{
+		"default"		"*** AFK TELEPORT IN 10 SECONDS ***"
+	}
+	"*** DOOR CLOSE IN 10 SECONDS ***"
+	{
+		"default"		"*** DOOR CLOSE IN 10 SECONDS ***"
+	}
+	"*** GET TO THE DOOR ! ***"
+	{
+		"default"		"*** GET TO THE DOOR ! ***"
+	}
+	"*** HOLD 15 SECONDS ***"
+	{
+		"default"		"*** HOLD 15 SECONDS ***"
+	}
+	"*** DOORS OPEN IN 20 SECONDS ***"
+	{
+		"default"		"*** DOORS OPEN IN 20 SECONDS ***"
+	}
+}

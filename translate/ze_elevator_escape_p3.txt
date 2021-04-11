@@ -36,4 +36,12 @@
 	{
 		"default"		"*** USE RADIO ***"
 	}
+	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+	{
+		"default"		"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+	}
+	"*** MAP CRASH FIXED BY 5UNZ ***"
+	{
+		"default"		"*** MAP CRASH FIXED BY 5UNZ ***"
+	}
 }

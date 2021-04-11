@@ -1,0 +1,279 @@
+"Chat"
+{
+	"***Map Made By Color!***"
+	{
+		"default"		"***Map Made By Color!***"
+	}
+	"***Stage 1***"
+	{
+		"default"		"***Stage 1***"
+	}
+	"***Hold for 35s!***"
+	{
+		"default"		"***Hold for 35s!***"
+	}
+	"***A human has picked up health!***"
+	{
+		"default"		"***A human has picked up health!***"
+	}
+	"***5s left!***"
+	{
+		"default"		"***5s left!***"
+	}
+	"***Wood door will break in 10s!***"
+	{
+		"default"		"***Wood door will break in 10s!***"
+	}
+	"***All zombies will be teleported in 9s!*** "
+	{
+		"default"		"***All zombies will be teleported in 9s!*** "
+	}
+	"***Hold for 45s!***"
+	{
+		"default"		"***Hold for 45s!***"
+	}
+	"***Hold for 30s!***"
+	{
+		"default"		"***Hold for 30s!***"
+	}
+	"***Rock monster will appear in 20s!***"
+	{
+		"default"		"***Rock monster will appear in 20s!***"
+	}
+	"***Shoot rock monster between two eyes!(use m249 or negev)***"
+	{
+		"default"		"***Shoot rock monster between two eyes!(use m249 or negev)***"
+	}
+	"***Rock monster will attack in 5s!***"
+	{
+		"default"		"***Rock monster will attack in 5s!***"
+	}
+	"***Rock monster uses blast!(move to the edge of the platform)***"
+	{
+		"default"		"***Rock monster uses blast!(move to the edge of the platform)***"
+	}
+	"***Rock monster has been defeated!Go!***"
+	{
+		"default"		"***Rock monster has been defeated!Go!***"
+	}
+	"***Hold for 25s!***"
+	{
+		"default"		"***Hold for 25s!***"
+	}
+	"***Do not allow zombies to enter the safe room!***"
+	{
+		"default"		"***Do not allow zombies to enter the safe room!***"
+	}
+	"***Enter the safe room!The nuke will launch in 10s!***"
+	{
+		"default"		"***Enter the safe room!The nuke will launch in 10s!***"
+	}
+	"***Stage completed!***"
+	{
+		"default"		"***Stage completed!***"
+	}
+	"***Next Stage:[Race]***"
+	{
+		"default"		"***Next Stage:[Race]***"
+	}
+	"***Race***"
+	{
+		"default"		"***Race***"
+	}
+	"***Winners will have access to get special items in next stage!***"
+	{
+		"default"		"***Winners will have access to get special items in next stage!***"
+	}
+	"***Zombies will come in 12s!***"
+	{
+		"default"		"***Zombies will come in 12s!***"
+	}
+	"***Great!Hold for 60s!***"
+	{
+		"default"		"***Great!Hold for 60s!***"
+	}
+	"***Next Stage:[Stage 2]***"
+	{
+		"default"		"***Next Stage:[Stage 2]***"
+	}
+	"***Stage 2***"
+	{
+		"default"		"***Stage 2***"
+	}
+	"***A human has picked up rock!***"
+	{
+		"default"		"***A human has picked up rock!***"
+	}
+	"***The wood door will break in 25s!***"
+	{
+		"default"		"***The wood door will break in 25s!***"
+	}
+	"***Keep care of zombies!***"
+	{
+		"default"		"***Keep care of zombies!***"
+	}
+	"***A zombie has picked up accelerate!***"
+	{
+		"default"		"***A zombie has picked up accelerate!***"
+	}
+	"***A human has picked up lightning!***"
+	{
+		"default"		"***A human has picked up lightning!***"
+	}
+	"***All zombies will be teleported in 9s!***"
+	{
+		"default"		"***All zombies will be teleported in 9s!***"
+	}
+	"***A human has picked up fire!***"
+	{
+		"default"		"***A human has picked up fire!***"
+	}
+	"***Rock monster uses lightning!(crouch)***"
+	{
+		"default"		"***Rock monster uses lightning!(crouch)***"
+	}
+	"***Rock monster uses right fire(move to left)!***"
+	{
+		"default"		"***Rock monster uses right fire(move to left)!***"
+	}
+	"***Rock monster uses water!(go to the end of the platform)***"
+	{
+		"default"		"***Rock monster uses water!(go to the end of the platform)***"
+	}
+	"***Next Stage:[Laser]***"
+	{
+		"default"		"***Next Stage:[Laser]***"
+	}
+	"***Laser race will begin later!***"
+	{
+		"default"		"***Laser race will begin later!***"
+	}
+	"***Laser***"
+	{
+		"default"		"***Laser***"
+	}
+	"***Some tips!***"
+	{
+		"default"		"***Some tips!***"
+	}
+	"***Tip1:Red laser can add health!***"
+	{
+		"default"		"***Tip1:Red laser can add health!***"
+	}
+	"***Tip2:Blue laser can hurt!***"
+	{
+		"default"		"***Tip2:Blue laser can hurt!***"
+	}
+	"***Tip3:Purple laser can reduce speed infinitely!***"
+	{
+		"default"		"***Tip3:Purple laser can reduce speed infinitely!***"
+	}
+	"***Tip4:Green laser can teleport!***"
+	{
+		"default"		"***Tip4:Green laser can teleport!***"
+	}
+	"***Laser slash will appear in 5s***"
+	{
+		"default"		"***Laser slash will appear in 5s***"
+	}
+	"***Next Stage:[Stage 3]***"
+	{
+		"default"		"***Next Stage:[Stage 3]***"
+	}
+	"***Stage 3***"
+	{
+		"default"		"***Stage 3***"
+	}
+	"***Some barriers disappeared!***"
+	{
+		"default"		"***Some barriers disappeared!***"
+	}
+	"***Color lasers are activated!***"
+	{
+		"default"		"***Color lasers are activated!***"
+	}
+	"***Hold here for 25s!***"
+	{
+		"default"		"***Hold here for 25s!***"
+	}
+	"***A zombie has picked up fireball! ***"
+	{
+		"default"		"***A zombie has picked up fireball! ***"
+	}
+	"***Resist for 25s!***"
+	{
+		"default"		"***Resist for 25s!***"
+	}
+	"***A human will shine the roof!***"
+	{
+		"default"		"***A human will shine the roof!***"
+	}
+	"***Rock monster uses skyfire!***"
+	{
+		"default"		"***Rock monster uses skyfire!***"
+	}
+	"***Rock monster will use pull in 3s!***"
+	{
+		"default"		"***Rock monster will use pull in 3s!***"
+	}
+	"***Rock monster will use push in 3s!***"
+	{
+		"default"		"***Rock monster will use push in 3s!***"
+	}
+	"***Rock monster uses left fire(move to right)!***"
+	{
+		"default"		"***Rock monster uses left fire(move to right)!***"
+	}
+	"***The ultimate will start in 14s!***"
+	{
+		"default"		"***The ultimate will start in 14s!***"
+	}
+	"***Next Stage:[Surf]***"
+	{
+		"default"		"***Next Stage:[Surf]***"
+	}
+	"***Surf***"
+	{
+		"default"		"***Surf***"
+	}
+	"***Find a place to hold for 45s! ***"
+	{
+		"default"		"***Find a place to hold for 45s! ***"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"default"		"***Teleport all players in 20s! ***"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"default"		"***Zombies will come in 20s!***"
+	}
+	"***Hold here for 35s!***"
+	{
+		"default"		"***Hold here for 35s!***"
+	}
+	"***Complete the surf and you will award 100 scores and a molotov!***"
+	{
+		"default"		"***Complete the surf and you will award 100 scores and a molotov!***"
+	}
+	"***All zombies will come in 20s!***"
+	{
+		"default"		"***All zombies will come in 20s!***"
+	}
+	"***Jump above the chicken!***"
+	{
+		"default"		"***Jump above the chicken!***"
+	}
+	"***Hold the chicken for last 35s!***"
+	{
+		"default"		"***Hold the chicken for last 35s!***"
+	}
+	"***Hold here for 25s or complete last surf!***"
+	{
+		"default"		"***Hold here for 25s or complete last surf!***"
+	}
+	"***Next Stage:[Stage 4]***"
+	{
+		"default"		"***Next Stage:[Stage 4]***"
+	}
+}

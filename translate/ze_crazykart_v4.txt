@@ -147,4 +147,132 @@
 	{
 		"default"		"[<userid-33> CHEATED AND DIED]"
 	}
+	"***STAGE PICKED - Rad dad rainbow***"
+	{
+		"default"		"***STAGE PICKED - Rad dad rainbow***"
+	}
+	"[userid-2990 CHEATED AND DIED]"
+	{
+		"default"		"[userid-2990 CHEATED AND DIED]"
+	}
+	"[<userid-2955> FINISHED 1]"
+	{
+		"default"		"[<userid-2955> FINISHED 1]"
+	}
+	"[truesteve CHEATED AND DIED]"
+	{
+		"default"		"[truesteve CHEATED AND DIED]"
+	}
+	"[<userid-3041> FINISHED 2]"
+	{
+		"default"		"[<userid-3041> FINISHED 2]"
+	}
+	"[userid-3020 CHEATED AND DIED]"
+	{
+		"default"		"[userid-3020 CHEATED AND DIED]"
+	}
+	"[<userid-3004> FINISHED 1]"
+	{
+		"default"		"[<userid-3004> FINISHED 1]"
+	}
+	"[<userid-3020> CHEATED AND DIED]"
+	{
+		"default"		"[<userid-3020> CHEATED AND DIED]"
+	}
+	"[<userid-2978> FINISHED 3]"
+	{
+		"default"		"[<userid-2978> FINISHED 3]"
+	}
+	"[<userid-2955> FINISHED 4]"
+	{
+		"default"		"[<userid-2955> FINISHED 4]"
+	}
+	"[<userid-3040> FINISHED 5]"
+	{
+		"default"		"[<userid-3040> FINISHED 5]"
+	}
+	"[<userid-3032> FINISHED 6]"
+	{
+		"default"		"[<userid-3032> FINISHED 6]"
+	}
+	"[<userid-3028> FINISHED 7]"
+	{
+		"default"		"[<userid-3028> FINISHED 7]"
+	}
+	"***STAGE PICKED - Circle of death***"
+	{
+		"default"		"***STAGE PICKED - Circle of death***"
+	}
+	"***BATTLE STARTS IN 20 SECONDS***"
+	{
+		"default"		"***BATTLE STARTS IN 20 SECONDS***"
+	}
+	"[<userid-3036> FINISHED 13]"
+	{
+		"default"		"[<userid-3036> FINISHED 13]"
+	}
+	"[<userid-3020> FINISHED 12]"
+	{
+		"default"		"[<userid-3020> FINISHED 12]"
+	}
+	"[<userid-3040> FINISHED 11]"
+	{
+		"default"		"[<userid-3040> FINISHED 11]"
+	}
+	"[<userid-2978> FINISHED 10]"
+	{
+		"default"		"[<userid-2978> FINISHED 10]"
+	}
+	"[<userid-3033> FINISHED 9]"
+	{
+		"default"		"[<userid-3033> FINISHED 9]"
+	}
+	"[<userid-3028> FINISHED 8]"
+	{
+		"default"		"[<userid-3028> FINISHED 8]"
+	}
+	"[Myzыкант FINISHED 7]"
+	{
+		"default"		"[Myzыкант FINISHED 7]"
+	}
+	"[<userid-2978> FINISHED 6 BY STEALING A KART]"
+	{
+		"default"		"[<userid-2978> FINISHED 6 BY STEALING A KART]"
+	}
+	"[<userid-3004> FINISHED 5]"
+	{
+		"default"		"[<userid-3004> FINISHED 5]"
+	}
+	"[<userid-2990> FINISHED 4]"
+	{
+		"default"		"[<userid-2990> FINISHED 4]"
+	}
+	"[<userid-3041> FINISHED 3]"
+	{
+		"default"		"[<userid-3041> FINISHED 3]"
+	}
+	"[<userid-2955> - LAST ALIVE]"
+	{
+		"default"		"[<userid-2955> - LAST ALIVE]"
+	}
+	"***SOLO WIN***"
+	{
+		"default"		"***SOLO WIN***"
+	}
+	"[<userid-2990> FINISHED 2]"
+	{
+		"default"		"[<userid-2990> FINISHED 2]"
+	}
+	"[Myzыкант FINISHED 3]"
+	{
+		"default"		"[Myzыкант FINISHED 3]"
+	}
+	"[<userid-3004> FINISHED 4]"
+	{
+		"default"		"[<userid-3004> FINISHED 4]"
+	}
+	"[<userid-3028> FINISHED 5]"
+	{
+		"default"		"[<userid-3028> FINISHED 5]"
+	}
 }

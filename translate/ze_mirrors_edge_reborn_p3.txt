@@ -180,4 +180,55 @@
 	{
 		"default"		"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
 	}
+	"<<< SUITCASES MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"default"		"<<< SUITCASES MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	}
+	"<<< DIFFICULTY LEVEL : GOD "
+	{
+		" IMPOSSIBLE>>>"
+		{
+			"default"		"<<< DIFFICULTY LEVEL : GOD / IMPOSSIBLE>>>"
+		}
+	}
+	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	{
+		"default"		"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	}
+	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	{
+		"default"		"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	}
+	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	{
+		"default"		"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	}
+	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	{
+		"default"		"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	}
+	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	{
+		"default"		"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"default"		"<<< Door Opens In 35 sec >>>"
+	}
+	"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	{
+		"default"		"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	}
+	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	{
+		"default"		"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	}
+	"<<< BUTTON IS PRESSED! RUN!! >>>"
+	{
+		"default"		"<<< BUTTON IS PRESSED! RUN!! >>>"
+	}
+	"<<< YOU BEAT THE MAP!!! AMAZING!!! >>>"
+	{
+		"default"		"<<< YOU BEAT THE MAP!!! AMAZING!!! >>>"
+	}
 }

@@ -68,4 +68,36 @@
 	{
 		"default"		">>>Chapter failed<<<"
 	}
+	"***Plasmid obtained: Insect Swarm***"
+	{
+		"default"		"***Plasmid obtained: Insect Swarm***"
+	}
+	">>>Chapter complete<<<"
+	{
+		"default"		">>>Chapter complete<<<"
+	}
+	"*Splicers have been blocked for 8 seconds*"
+	{
+		"default"		"*Splicers have been blocked for 8 seconds*"
+	}
+	"*Splicers have been blocked for 6 seconds*"
+	{
+		"default"		"*Splicers have been blocked for 6 seconds*"
+	}
+	"*Splicers have been blocked for 4 seconds*"
+	{
+		"default"		"*Splicers have been blocked for 4 seconds*"
+	}
+	"*Splicers have been blocked for 2 seconds*"
+	{
+		"default"		"*Splicers have been blocked for 2 seconds*"
+	}
+	"*Splicers have been freed!*"
+	{
+		"default"		"*Splicers have been freed!*"
+	}
+	">>SECRET: Found the Cage Token<<"
+	{
+		"default"		">>SECRET: Found the Cage Token<<"
+	}
 }

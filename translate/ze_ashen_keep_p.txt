@@ -152,4 +152,28 @@
 	{
 		"default"		"*** JUMP! ***"
 	}
+	"*** STAGE IV (ZM) ***"
+	{
+		"default"		"*** STAGE IV (ZM) ***"
+	}
+	"*** 5 minutes left ***"
+	{
+		"default"		"*** 5 minutes left ***"
+	}
+	"*** 4 minutes left ***"
+	{
+		"default"		"*** 4 minutes left ***"
+	}
+	"*** 3 minutes left ***"
+	{
+		"default"		"*** 3 minutes left ***"
+	}
+	"*** 2 minutes left ***"
+	{
+		"default"		"*** 2 minutes left ***"
+	}
+	"*** 1 minute left ***"
+	{
+		"default"		"*** 1 minute left ***"
+	}
 }

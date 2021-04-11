@@ -1,0 +1,175 @@
+"Chat"
+{
+	"--Welcome to the Aperture Science Center--"
+	{
+		"default"		"--Welcome to the Aperture Science Center--"
+	}
+	"--Map made by Eugenio **Motanum** Roman--"
+	{
+		"default"		"--Map made by Eugenio **Motanum** Roman--"
+	}
+	"--Sponsored by ]HeLL[ Clan--"
+	{
+		"default"		"--Sponsored by ]HeLL[ Clan--"
+	}
+	"**Hint: Crouch to go over the glass**"
+	{
+		"default"		"**Hint: Crouch to go over the glass**"
+	}
+	"--Are you sure you want to kill the Weighted Companion Cube?--"
+	{
+		"default"		"--Are you sure you want to kill the Weighted Companion Cube?--"
+	}
+	"--Survive 30 seconds!--"
+	{
+		"default"		"--Survive 30 seconds!--"
+	}
+	"--YES____      NO_____--"
+	{
+		"default"		"--YES____      NO_____--"
+	}
+	"--YES _X_--"
+	{
+		"default"		"--YES _X_--"
+	}
+	"--That was a quick answer! Patience is a virtue--"
+	{
+		"default"		"--That was a quick answer! Patience is a virtue--"
+	}
+	"--What is the rush? Did the Companion Cube said something bad?--"
+	{
+		"default"		"--What is the rush? Did the Companion Cube said something bad?--"
+	}
+	"--We are trying to escape from zombies! And we adore the companion cube--"
+	{
+		"default"		"--We are trying to escape from zombies! And we adore the companion cube--"
+	}
+	"--You love an inanimate object! How silly!--"
+	{
+		"default"		"--You love an inanimate object! How silly!--"
+	}
+	"--But for the last time are you extremely sure you want this?--"
+	{
+		"default"		"--But for the last time are you extremely sure you want this?--"
+	}
+	"--If thats what you REALLY want--"
+	{
+		"default"		"--If thats what you REALLY want--"
+	}
+	"--5--"
+	{
+		"default"		"--5--"
+	}
+	"--4--"
+	{
+		"default"		"--4--"
+	}
+	"--3--"
+	{
+		"default"		"--3--"
+	}
+	"--2--"
+	{
+		"default"		"--2--"
+	}
+	"--1--"
+	{
+		"default"		"--1--"
+	}
+	"--Doors are open you horrible people--"
+	{
+		"default"		"--Doors are open you horrible people--"
+	}
+	"--Doors clossing in 5--"
+	{
+		"default"		"--Doors clossing in 5--"
+	}
+	"--Doors closed--"
+	{
+		"default"		"--Doors closed--"
+	}
+	"--Doors will reopen in 8 seconds--"
+	{
+		"default"		"--Doors will reopen in 8 seconds--"
+	}
+	"--**HINT: Crouch to clear the orange sphere!**--"
+	{
+		"default"		"--**HINT: Crouch to clear the orange sphere!**--"
+	}
+	"--Congratulations--"
+	{
+		"default"		"--Congratulations--"
+	}
+	"--Cake will follow up shortly--"
+	{
+		"default"		"--Cake will follow up shortly--"
+	}
+	"--Office doors open in 20 seconds--"
+	{
+		"default"		"--Office doors open in 20 seconds--"
+	}
+	"--Hold this position from any zombies--"
+	{
+		"default"		"--Hold this position from any zombies--"
+	}
+	"--Office doors close in 5--"
+	{
+		"default"		"--Office doors close in 5--"
+	}
+	"--Office doors will reopen in 10 seconds--"
+	{
+		"default"		"--Office doors will reopen in 10 seconds--"
+	}
+	"--Office doors are now closed--"
+	{
+		"default"		"--Office doors are now closed--"
+	}
+	"--Cutting the cake in 5--"
+	{
+		"default"		"--Cutting the cake in 5--"
+	}
+	"--Cake is being Cut! You are too late--"
+	{
+		"default"		"--Cake is being Cut! You are too late--"
+	}
+	"--Office doors are now Open--"
+	{
+		"default"		"--Office doors are now Open--"
+	}
+	"--Fighting GLaDOS--"
+	{
+		"default"		"--Fighting GLaDOS--"
+	}
+	"--Protect yourself from the zombies for 60 seconds!--"
+	{
+		"default"		"--Protect yourself from the zombies for 60 seconds!--"
+	}
+	"--Zombie teleport in 25 secs!--"
+	{
+		"default"		"--Zombie teleport in 25 secs!--"
+	}
+	"--GLaDOS is exploding! Take cover!--"
+	{
+		"default"		"--GLaDOS is exploding! Take cover!--"
+	}
+	"--Lift doors open in 10 seconds!--"
+	{
+		"default"		"--Lift doors open in 10 seconds!--"
+	}
+	"--Escape lift doors closing in 10 seconds--"
+	{
+		"default"		"--Escape lift doors closing in 10 seconds--"
+	}
+	"--Lift has now left Aperture Science--"
+	{
+		"default"		"--Lift has now left Aperture Science--"
+	}
+	"--We hope you have enjoyed your stay at Aperture Science!--"
+	{
+		"default"		"--We hope you have enjoyed your stay at Aperture Science!--"
+	}
+	"--Thanks for Playing!--"
+	{
+		"default"		"--Thanks for Playing!--"
+	}
+}

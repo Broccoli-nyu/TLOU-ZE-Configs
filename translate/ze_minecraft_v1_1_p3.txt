@@ -176,4 +176,8 @@
 	{
 		"default"		"***NUKE LAUNCHED! ***"
 	}
+	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+	{
+		"default"		"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+	}
 }

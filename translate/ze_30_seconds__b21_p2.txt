@@ -1,0 +1,19 @@
+"Chat"
+{
+	"***30 seconds for pressing button!!!***"
+	{
+		"default"		"***30 seconds for pressing button!!!***"
+	}
+	"***30 second for pressing button!!!***"
+	{
+		"default"		"***30 second for pressing button!!!***"
+	}
+	"***30 seconds for pressing right button!!!***"
+	{
+		"default"		"***30 seconds for pressing right button!!!***"
+	}
+	"map made by -sang-. helper: V1KT0P"
+	{
+		"default"		"map made by -sang-. helper: V1KT0P"
+	}
+}

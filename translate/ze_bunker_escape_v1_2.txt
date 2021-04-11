@@ -1,0 +1,47 @@
+"Chat"
+{
+	"***Door will open in 30 seconds***"
+	{
+		"default"		"***Door will open in 30 seconds***"
+	}
+	"***zombies are being held at first doors for 5 seconds***"
+	{
+		"default"		"***zombies are being held at first doors for 5 seconds***"
+	}
+	"***elevator 2 leaving in 15 seconds***"
+	{
+		"default"		"***elevator 2 leaving in 15 seconds***"
+	}
+	"***zombies are being held back by lifts for 8 seconds***"
+	{
+		"default"		"***zombies are being held back by lifts for 8 seconds***"
+	}
+	"***555 door will open in 30 seconds***"
+	{
+		"default"		"***555 door will open in 30 seconds***"
+	}
+	"***zombies are beling held at the 555 corridor  for 10 seconds*** "
+	{
+		"default"		"***zombies are beling held at the 555 corridor  for 10 seconds*** "
+	}
+	"***Blast doors will open in 25 seconds***"
+	{
+		"default"		"***Blast doors will open in 25 seconds***"
+	}
+	"***zombies are being held at blast doors for 8 seconds***"
+	{
+		"default"		"***zombies are being held at blast doors for 8 seconds***"
+	}
+	"***Get into the control room and release the nerve gas***"
+	{
+		"default"		"***Get into the control room and release the nerve gas***"
+	}
+	"***Blast door will close in 30 seconds and nerve gas will be released***"
+	{
+		"default"		"***Blast door will close in 30 seconds and nerve gas will be released***"
+	}
+	"***Gas has now been released***"
+	{
+		"default"		"***Gas has now been released***"
+	}
+}

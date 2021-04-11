@@ -1,4 +1,4 @@
-"Chat"
+"chat"
 {
 	"Map made by Puklica"
 	{
@@ -33,7 +33,7 @@
 	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
 	{
 		"default"		">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
-		"ru"		">>> ЗАЩИЩАЙТЕ ДЕРЕВНЮ 40 СЕК! <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ В ДЕРЕВНЕ 40 СЕК! <<<"
 	}
 	"*** SWORD picked up ***"
 	{
@@ -78,12 +78,12 @@
 	">>> HORSES LEAVING IN 10 SEC <<<"
 	{
 		"default"		">>> HORSES LEAVING IN 10 SEC <<<"
-		"ru"		">>> ЛОШАДИ ОТПРАВЯТСЯ ЧЕРЕЗ 10 СЕК <<<"
+		"ru"		">>> ПОВОЗКА ПОЕДЕТ ЧЕРЕЗ 10 СЕК <<<"
 	}
 	"***ACTIVATE ALL CANNONS***"
 	{
 		"default"		"***ACTIVATE ALL CANNONS***"
-		"ru"		"***АКТИВИРУЙТЕ ВСЕ ПУШКИ***"
+		"ru"		"***АКТИВИРУЙТЕ ПУШКИ***"
 	}
 	">>> GATE CLOSES IN 18 SEC <<<"
 	{
@@ -93,12 +93,12 @@
 	">>> ALL CANNONS ACTIVATED <<<"
 	{
 		"default"		">>> ALL CANNONS ACTIVATED <<<"
-		"ru"		">>> ВСЕ ПУШКИ АКТИВИРОВАНЫ <<<"
+		"ru"		">>> ПУШКИ АКТИВИРОВАНЫ <<<"
 	}
 	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
 	{
 		"default"		">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
-		"ru"		">>> ЖДИТЕ ВЫСТРЕЛ ОТ ЧЕРНОЙ ЖЕМЧУЖИНЫ <<<"
+		"ru"		">>> ЖДИТЕ ВЫСТРЕЛ ОТ КОРАБЛЯ ЧЕРНОЙ ЖЕМЧУЖИНЫ <<<"
 	}
 	">>> GATE IS CLOSING! <<<"
 	{
@@ -108,22 +108,22 @@
 	">>> RUN TO THE PRISON! <<<"
 	{
 		"default"		">>> RUN TO THE PRISON! <<<"
-		"ru"		">>> БЕГИТЕ В ТЮРЬМУ! <<<"
+		"ru"		">>> ЗАЙДИТЕ В ТЮРЬМУ! <<<"
 	}
 	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
 	{
 		"default"		">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
-		"ru"		">>> ЗАЩИЩАЙТЕ ТЮРЬМУ!! <<< *** СПАСИТЕ КАПИТАНА ДЖЕКА ВОРОБЬЯ ***"
+		"ru"		">>> ДЕРЖИТЕ ОБОРОНУ В ТЮРЬМЕ!! <<< *** СПАСИТЕ КАПИТАНА ДЖЕКА ВОРОБЬЯ ***"
 	}
 	">>> RUN TO THE BLACK PEARL <<<"
 	{
 		"default"		">>> RUN TO THE BLACK PEARL <<<"
-		"ru"		">>> БЕГИТЕ НА ЧЕРНУЮ ЖЕМЧУЖИНУ <<<"
+		"ru"		">>> БЕГИТЕ НА КОРАБЛЬ ЧЕРНОЙ ЖЕМЧУЖИНЫ <<<"
 	}
 	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
 	{
 		"default"		">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
-		"ru"		">>> ЗАЩИЩАЙТЕ ЧЕРНУЮ ЖЕМЧУЖИНУ 45 СЕКУНД! <<<"
+		"ru"		">>> ОБОРОНЯЙТЕСЬ НА КОРАБЛЕ 45 СЕКУНД! <<<"
 	}
 	">>> LAST 10 SECONDS REMAINING <<<"
 	{
@@ -163,12 +163,12 @@
 	"(CT) >>>--SHOOT CANNON--<<<"
 	{
 		"default"		"(CT) >>>--SHOOT CANNON--<<<"
-		"ru"		"(КТ) >>>--СТРЕЛЯЙТЕ В ПУШКУ--<<<"
+		"ru"		"(КТ) >>>--УНИЧТОЖЬТЕ ПУШКУ--<<<"
 	}
 	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
 	{
 		"default"		"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
-		"ru"		"(ЗОМБИ) >>>--СТОЙТЕ ЗА ПУШКОЙ, ЧТОБЫ ТОЛКАТЬ ЕЕ--<<<"
+		"ru"		"(ЗОМБИ) >>>--СТОЙТЕ ЗА ПУШКОЙ, ЧТОБЫ ЕЁ ТОЛКАТЬ--<<<"
 	}
 	">>> CANNON HAS BEEN DESTROYED <<<"
 	{
@@ -213,7 +213,7 @@
 	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
 	{
 		"default"		"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
-		"ru"		"> ЛЮДИ СТАЛИ НЕУЯЗВИМЫМИ < ** УБЕЙТЕ ВСЕХ ЗОМБИ В ПОДВАЛЕ **"
+		"ru"		"> ЛЮДИ ТЕПЕРЬ НЕУЯЗВИМЫ < ** УБЕЙТЕ ВСЕХ ЗОМБИ В ПОДВАЛЕ **"
 	}
 	">>> |LEVEL 3| <<<"
 	{
@@ -233,7 +233,7 @@
 	">>> DOOR OPENS IN 5 SEC <<<"
 	{
 		"default"		">>> DOOR OPENS IN 5 SEC <<<"
-		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 5 сек <<<"
+		"ru"		">>> ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 5 СЕК <<<"
 	}
 	">>> HOLD FOR 15 SEC <<<"
 	{
@@ -253,7 +253,7 @@
 	">>> GET ONTO THE SHIP <<<"
 	{
 		"default"		">>> GET ONTO THE SHIP <<<"
-		"ru"		">>> ЗАБИРАЙТЕСЬ НА КОРАБЛЬ <<<"
+		"ru"		">>> ПОСПЕШИТЕ НА КОРАБЛЬ <<<"
 	}
 	">>> DOOR CLOSES IN 15 sec <<<"
 	{
@@ -268,7 +268,7 @@
 	">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
 	{
 		"default"		">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
-		"ru"		">>> ЭТО ПИРАТ! УБЕЙТЕ ЕГО ПОКА ОН НЕ УБИЛ ВАС! <<<"
+		"ru"		">>> ПИРАТ! УБЕЙТЕ ЕГО ПОКА ОН НЕ УБИЛ ВАС! <<<"
 	}
 	">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
 	{
@@ -278,7 +278,7 @@
 	">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
 	{
 		"default"		">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
-		"ru"		">>> ОН УМЕР. БЕГИТЕ В СОКРОВИЩНИЦУ, ЧТОБЫ СПАСТИ СВОИ ЖИЗНИ! <<<"
+		"ru"		">>> ОН УМЕР. БЕГИТЕ В СОКРОВИЩНИЦУ, ЧТОБЫ СПАСТИСЬ ОТ ЗОМБИ! <<<"
 	}
 	">>> HOLD ZOMBIES FOR 20 sec <<<"
 	{
@@ -308,7 +308,7 @@
 	"*** HEAL picked up***"
 	{
 		"default"		"*** HEAL picked up***"
-		"ru"		"*** Подобрано ЛЕЧЕНИЕ***"
+		"ru"		"*** Подобрано ИСЦЕЛЕНИЕ***"
 	}
 	">>> HOLD THE CELLAR FOR 30 SEC <<<"
 	{
@@ -333,7 +333,7 @@
 	">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
 	{
 		"default"		">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
-		"ru"		">>> ДЕРЖИТЕ ОБОРОНУ ОТ ЗОМБИ КАК МОЖНО ДОЛЬШЕ <<<"
+		"ru"		">>> СДЕРЖИВАЙТЕ ЗОМБИ КАК МОЖНО ДОЛЬШЕ <<<"
 	}
 	">>> DOOR OPENS IN 30 SEC <<<"
 	{
@@ -343,17 +343,17 @@
 	">>> BARBOSSA IS COMING IN 5 SEC <<<"
 	{
 		"default"		">>> BARBOSSA IS COMING IN 5 SEC <<<"
-		"ru"		">>> БАРБОССА ВЫХОДИТ ЧЕРЕЗ 5 СЕК <<<"
+		"ru"		">>> БАРБОССА ПОЯВИТСЯ ЧЕРЕЗ 5 СЕК <<<"
 	}
 	">>> IT'S BARBOSSA. KILL HIM! <<<"
 	{
 		"default"		">>> IT'S BARBOSSA. KILL HIM! <<<"
-		"ru"		">>> ЭТО БАРБОССА. УБЕЙТЕ ЕГО! <<<"
+		"ru"		">>> БАРБОССА! УБЕЙТЕ ЕГО! <<<"
 	}
 	">>> HE HAS DISAPPEARED. RUN! <<<"
 	{
 		"default"		">>> HE HAS DISAPPEARED. RUN! <<<"
-		"ru"		">>> ОН ИСЧЕЗ. БЕГИТЕ! <<<"
+		"ru"		">>> ОН ИСЧЕЗ. УБЕГАЙТЕ! <<<"
 	}
 	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
 	{
@@ -393,7 +393,7 @@
 	">>> IT'S KRAKEN. KILL HIM! <<<"
 	{
 		"default"		">>> IT'S KRAKEN. KILL HIM! <<<"
-		"ru"		">>> ЭТО КРАКЕН. УБЕЙТЕ ЕГО! <<<"
+		"ru"		">>> КРАКЕН! УБЕЙТЕ ЕГО! <<<"
 	}
 	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
 	{
@@ -428,7 +428,7 @@
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
 	{
 		"default"		">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
-		"ru"		">>> КРАКЕН УМЕР. ПРЫГАЙТЕ НА ПЛОТ <<< "
+		"ru"		">>> КРАКЕН ПОГИБ! ПРЫГАЙТЕ НА ПЛОТ <<< "
 	}
 	">>> RUN TO THE CAVE <<<"
 	{
@@ -438,7 +438,7 @@
 	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
 	{
 		"default"		">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
-		"ru"		">>> ЭТО СНОВА БАРБОССА. НЕ ДАЙТЕ ЕМУ ВЫЖИТЬ!  <<<"
+		"ru"		">>> ОПЯТЬ БАРБОССА! НЕ ДАЙТЕ ЕМУ ВЫЖИТЬ!  <<<"
 	}
 	"*** LAST MEDALLION picked up ***"
 	{
@@ -448,12 +448,12 @@
 	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
 	{
 		"default"		">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
-		"ru"		">>> ПОСЛЕДНИЙ МЕДАЛЬОН ВЕРНУЛИ В СУНДУК <<<"
+		"ru"		">>> ПОСЛЕДНИЙ МЕДАЛЬОН ВЕРНУЛИ ОБРАТНО В СУНДУК <<<"
 	}
 	">>> BARBOSSA IS DEAD <<<"
 	{
 		"default"		">>> BARBOSSA IS DEAD <<<"
-		"ru"		">>> БАРБОССА УМЕР <<<"
+		"ru"		">>> БАРБОССА ПОГИБ <<<"
 	}
 	">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
 	{
@@ -503,7 +503,7 @@
 	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
 	{
 		"default"		"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
-		"ru"		"|Комната Админа| *** АДМИН ДОЛЖЕН УБИТЬ ВСЕХ ***"
+		"ru"		"|Комната Админа| *** АДМИН УБИЛ ВСЕХ ***"
 	}
 	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***"
 	{
@@ -518,11 +518,11 @@
 	">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
 	{
 		"default"		">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
-		"ru"		">>> ВЫ УБИЛИ БОЖЕСТВЕННОГО КРАКЕНА И ПРОШЛИ КАРТУ, ПОРАЗИТЕЛЬНО. <<< "
+		"ru"		">>> ВЫ УБИЛИ БОЖЕСТВЕННОГО КРАКЕНА И ПРОШЛИ КАРТУ, ПОРАЗИТЕЛЬНО! <<< "
 	}
 	">>> YOU ARE A REAL PIRATE! <<< "
 	{
 		"default"		">>> YOU ARE A REAL PIRATE! <<< "
-		"ru"		">>> ВЫ НАСТОЯЩИЕ ПИРАТЫ! <<< "
+		"ru"		">>> ВЫ - НАСТОЯЩИЕ ПИРАТЫ КАРИБСКОГО МОРЯ! <<< "
 	}
 }

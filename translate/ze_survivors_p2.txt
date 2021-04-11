@@ -1,0 +1,75 @@
+"Chat"
+{
+	"<!!!> MAP BY JB_GAMBLE <!!!>"
+	{
+		"default"		"<!!!> MAP BY JB_GAMBLE <!!!>"
+	}
+	"<!!!> COLD MOUNTAIN <!!!>"
+	{
+		"default"		"<!!!> COLD MOUNTAIN <!!!>"
+	}
+	"<!!!> THE COLD HURTS <!!!>"
+	{
+		"default"		"<!!!> THE COLD HURTS <!!!>"
+	}
+	"<!!!> WARMTH HEALS <!!!>"
+	{
+		"default"		"<!!!> WARMTH HEALS <!!!>"
+	}
+	"<!!!> CALL HELICOPTER <!!!>"
+	{
+		"default"		"<!!!> CALL HELICOPTER <!!!>"
+	}
+	"<!!!> USE THE RADIO <!!!>"
+	{
+		"default"		"<!!!> USE THE RADIO <!!!>"
+	}
+	"<!!!> IN THE OPEN CONTAINER <!!!>"
+	{
+		"default"		"<!!!> IN THE OPEN CONTAINER <!!!>"
+	}
+	"<!!!> WAIT FOR HELICOPTER <!!!>"
+	{
+		"default"		"<!!!> WAIT FOR HELICOPTER <!!!>"
+	}
+	"<!!!> FALL BACK TO HELICOPTER <!!!>"
+	{
+		"default"		"<!!!> FALL BACK TO HELICOPTER <!!!>"
+	}
+	"<!!!> HELICOPTER LEAVING <!!!>"
+	{
+		"default"		"<!!!> HELICOPTER LEAVING <!!!>"
+	}
+	"<!!!> HUMANS WIN <!!!>"
+	{
+		"default"		"<!!!> HUMANS WIN <!!!>"
+	}
+	"<!!!> CITY STREETS <!!!>"
+	{
+		"default"		"<!!!> CITY STREETS <!!!>"
+	}
+	"<!!!> PART 1 <!!!>"
+	{
+		"default"		"<!!!> PART 1 <!!!>"
+	}
+	"<!!!> HOLD HERE! <!!!>"
+	{
+		"default"		"<!!!> HOLD HERE! <!!!>"
+	}
+	"<!!!> 5 SECONDS! <!!!>"
+	{
+		"default"		"<!!!> 5 SECONDS! <!!!>"
+	}
+	"<!!!> FALL BACK | GO! GO! <!!!>"
+	{
+		"default"		"<!!!> FALL BACK | GO! GO! <!!!>"
+	}
+	"<!!!> HOLD HERE <!!!>"
+	{
+		"default"		"<!!!> HOLD HERE <!!!>"
+	}
+	"<!!!> FINAL HOLD <!!!>"
+	{
+		"default"		"<!!!> FINAL HOLD <!!!>"
+	}
+}

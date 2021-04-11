@@ -247,4 +247,8 @@
 	{
 		"default"		"** DEFEND THIS PLACE FOR 70 SECONDS! **"
 	}
+	"** KILL THE REMAINING ZOMBIES **"
+	{
+		"default"		"** KILL THE REMAINING ZOMBIES **"
+	}
 }

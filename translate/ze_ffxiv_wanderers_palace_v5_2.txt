@@ -1,0 +1,35 @@
+"Chat"
+{
+	"< ze_FFXIV_Wanderers_Palace >"
+	{
+		"default"		"< ze_FFXIV_Wanderers_Palace >"
+	}
+	"< Map by Dakotec & Lishang >"
+	{
+		"default"		"< Map by Dakotec & Lishang >"
+	}
+	"< Map fixed >"
+	{
+		"default"		"< Map fixed >"
+	}
+	"< Normal Mode >"
+	{
+		"default"		"< Normal Mode >"
+	}
+	"< Defend until the teleport activates >"
+	{
+		"default"		"< Defend until the teleport activates >"
+	}
+	"< A Player has acquired Heal >"
+	{
+		"default"		"< A Player has acquired Heal >"
+	}
+	"< Teleport Activates! - Retreat! >"
+	{
+		"default"		"< Teleport Activates! - Retreat! >"
+	}
+	"< Defend until the path is clear! >"
+	{
+		"default"		"< Defend until the path is clear! >"
+	}
+}

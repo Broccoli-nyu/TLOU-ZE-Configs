@@ -124,4 +124,160 @@
 	{
 		"default"		"[Music] Aimee Blackschleger - No differences"
 	}
+	"** NAZGUL ! **"
+	{
+		"default"		"** NAZGUL ! **"
+	}
+	"[Music] Daft Punk - Harder, Better, Faster, Stronger"
+	{
+		"default"		"[Music] Daft Punk - Harder, Better, Faster, Stronger"
+	}
+	"** CURRENT MODE : CRAZY OILDRUM MODE **"
+	{
+		"default"		"** CURRENT MODE : CRAZY OILDRUM MODE **"
+	}
+	"** A PLAYER HAS ACQUIRED HEAL MATERIA **"
+	{
+		"default"		"** A PLAYER HAS ACQUIRED HEAL MATERIA **"
+	}
+	"[Music] B'z - Into Free -Dangan-.mp3"
+	{
+		"default"		"[Music] B'z - Into Free -Dangan-.mp3"
+	}
+	"[Music] Jami Soul,Bang,Annie - She"
+	{
+		"default"		"[Music] Jami Soul,Bang,Annie - She"
+	}
+	"** NYANCAT ! **"
+	{
+		"default"		"** NYANCAT ! **"
+	}
+	"** A PLAYER HAS ACQUIRED NYANCAT **"
+	{
+		"default"		"** A PLAYER HAS ACQUIRED NYANCAT **"
+	}
+	"** BALROG ! **"
+	{
+		"default"		"** BALROG ! **"
+	}
+	"[Music] daniwellP - Nyan Cat (Fengxin Mix)"
+	{
+		"default"		"[Music] daniwellP - Nyan Cat (Fengxin Mix)"
+	}
+	"** ... THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"default"		"** ... THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	}
+	"** HAMMER ! **"
+	{
+		"default"		"** HAMMER ! **"
+	}
+	"** HAMMER MAN HAS BEEN ACQUIRED **"
+	{
+		"default"		"** HAMMER MAN HAS BEEN ACQUIRED **"
+	}
+	"[Music] Linkin Park - Burn It Down"
+	{
+		"default"		"[Music] Linkin Park - Burn It Down"
+	}
+	"[Music] Tristam - Till It's Over"
+	{
+		"default"		"[Music] Tristam - Till It's Over"
+	}
+	"** CURRENT MODE : ALL ITEM BATTLE MODE **"
+	{
+		"default"		"** CURRENT MODE : ALL ITEM BATTLE MODE **"
+	}
+	"** DRAGON SLAYER HAS BEEN ACQUIRED **"
+	{
+		"default"		"** DRAGON SLAYER HAS BEEN ACQUIRED **"
+	}
+	"** GARGANTUA HAS ENTERED THE GAME **"
+	{
+		"default"		"** GARGANTUA HAS ENTERED THE GAME **"
+	}
+	"** ... THE AbYSS WATCHER IS WATCHING YOU ... **"
+	{
+		"default"		"** ... THE AbYSS WATCHER IS WATCHING YOU ... **"
+	}
+	"** A PLAYER HAS ACQUIRED ULTIMATE MATERIA **"
+	{
+		"default"		"** A PLAYER HAS ACQUIRED ULTIMATE MATERIA **"
+	}
+	"** THE WHITE KNIGHT IS READY ROCK THE WORLD **"
+	{
+		"default"		"** THE WHITE KNIGHT IS READY ROCK THE WORLD **"
+	}
+	"** THE DAEDRIC WILL ELIMINATE ALL HOSTILE FORCES **"
+	{
+		"default"		"** THE DAEDRIC WILL ELIMINATE ALL HOSTILE FORCES **"
+	}
+	"[Music] Linkin Park - Lost In The Echo"
+	{
+		"default"		"[Music] Linkin Park - Lost In The Echo"
+	}
+	"** CURRENT MODE : ZM MODE **"
+	{
+		"default"		"** CURRENT MODE : ZM MODE **"
+	}
+	"** SOLO TIME ** 30 SECONDS **"
+	{
+		"default"		"** SOLO TIME ** 30 SECONDS **"
+	}
+	"> 25 SECONDS <"
+	{
+		"default"		"> 25 SECONDS <"
+	}
+	"> 20 SECONDS <"
+	{
+		"default"		"> 20 SECONDS <"
+	}
+	"> 15 SECONDS <"
+	{
+		"default"		"> 15 SECONDS <"
+	}
+	"> 10 SECONDS <"
+	{
+		"default"		"> 10 SECONDS <"
+	}
+	"> 5 SECONDS <"
+	{
+		"default"		"> 5 SECONDS <"
+	}
+	"[Music] Linkin Park - Breaking The Habit"
+	{
+		"default"		"[Music] Linkin Park - Breaking The Habit"
+	}
+	"[Music] Ken Arai - Next To You"
+	{
+		"default"		"[Music] Ken Arai - Next To You"
+	}
+	"** CURRENT MODE : FIREWORKS MODE **"
+	{
+		"default"		"** CURRENT MODE : FIREWORKS MODE **"
+	}
+	"[Music] Linkin Park - Pushing Me Away"
+	{
+		"default"		"[Music] Linkin Park - Pushing Me Away"
+	}
+	"** CURRENT MODE : FLOOD MODE **"
+	{
+		"default"		"** CURRENT MODE : FLOOD MODE **"
+	}
+	"** ABYSS WATCHER ! **"
+	{
+		"default"		"** ABYSS WATCHER ! **"
+	}
+	"** TNT ! **"
+	{
+		"default"		"** TNT ! **"
+	}
+	"** ULTIMATE ! **"
+	{
+		"default"		"** ULTIMATE ! **"
+	}
+	"** GARGANTUA ! **"
+	{
+		"default"		"** GARGANTUA ! **"
+	}
 }

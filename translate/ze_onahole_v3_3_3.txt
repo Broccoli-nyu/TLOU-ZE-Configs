@@ -1,0 +1,863 @@
+"Chat"
+{
+	"Welcome to Onahole"
+	{
+		"default"		"Welcome to Onahole"
+	}
+	"By Onahole"
+	{
+		"default"		"By Onahole"
+	}
+	"For Ona by Onahole"
+	{
+		"default"		"For Ona by Onahole"
+	}
+	"In Collaboration with Onahole for Ona by Onahole"
+	{
+		"default"		"In Collaboration with Onahole for Ona by Onahole"
+	}
+	"Onahole TP activating in 15 seconds"
+	{
+		"default"		"Onahole TP activating in 15 seconds"
+	}
+	"Onaholes are a mans source of hopes and dreams"
+	{
+		"default"		"Onaholes are a mans source of hopes and dreams"
+	}
+	"As important as water, as valuable as gold"
+	{
+		"default"		"As important as water, as valuable as gold"
+	}
+	"Oh man, nuts will be busted tonight"
+	{
+		"default"		"Oh man, nuts will be busted tonight"
+	}
+	"EARTH CHAN!"
+	{
+		"default"		"EARTH CHAN!"
+	}
+	"Hold for 20 seconds"
+	{
+		"default"		"Hold for 20 seconds"
+	}
+	"Ok, get the fuck on now, shits open"
+	{
+		"default"		"Ok, get the fuck on now, shits open"
+	}
+	"EARTH CHAN IS NOT FLAT "
+	{
+		"default"		"EARTH CHAN IS NOT FLAT "
+	}
+	"hold for like 15 somethin seconds idk lol"
+	{
+		"default"		"hold for like 15 somethin seconds idk lol"
+	}
+	"LEAVE"
+	{
+		"default"		"LEAVE"
+	}
+	"Mmmm baby, look at that"
+	{
+		"default"		"Mmmm baby, look at that"
+	}
+	"Hold for like uh 12 seconds or somethin"
+	{
+		"default"		"Hold for like uh 12 seconds or somethin"
+	}
+	"Wait... hold on... gimme a bit"
+	{
+		"default"		"Wait... hold on... gimme a bit"
+	}
+	"10 more seconds i swear"
+	{
+		"default"		"10 more seconds i swear"
+	}
+	"Eurrghh oh yes... just a little more"
+	{
+		"default"		"Eurrghh oh yes... just a little more"
+	}
+	"*pant* *pant* 2D women are the best"
+	{
+		"default"		"*pant* *pant* 2D women are the best"
+	}
+	"Wait... not yet.. *pant* 5 more seconds i swear"
+	{
+		"default"		"Wait... not yet.. *pant* 5 more seconds i swear"
+	}
+	"IM BOUTTA NUTT!!"
+	{
+		"default"		"IM BOUTTA NUTT!!"
+	}
+	"EEEUEURURURGHGHHH"
+	{
+		"default"		"EEEUEURURURGHGHHH"
+	}
+	"Mmm.. anyways... get goin already"
+	{
+		"default"		"Mmm.. anyways... get goin already"
+	}
+	"OH AND BEWARE OF SHARKS!!!"
+	{
+		"default"		"OH AND BEWARE OF SHARKS!!!"
+	}
+	"Uhhhh hold for like 35 seconds or something"
+	{
+		"default"		"Uhhhh hold for like 35 seconds or something"
+	}
+	"ZOMBIE LADDER OPEN!"
+	{
+		"default"		"ZOMBIE LADDER OPEN!"
+	}
+	"AHHH MY LOLI IMOUTO IS CALLING ME"
+	{
+		"default"		"AHHH MY LOLI IMOUTO IS CALLING ME"
+	}
+	"WE GOTTA GET OUTTA THIS FUCKHOLE"
+	{
+		"default"		"WE GOTTA GET OUTTA THIS FUCKHOLE"
+	}
+	"it fucking opened"
+	{
+		"default"		"it fucking opened"
+	}
+	"+++BOSS ROOM CLOSING IN 10 SECONDS+++"
+	{
+		"default"		"+++BOSS ROOM CLOSING IN 10 SECONDS+++"
+	}
+	"+++BOSS FIGHT STARTING IN 5 SECONDS+++"
+	{
+		"default"		"+++BOSS FIGHT STARTING IN 5 SECONDS+++"
+	}
+	"DEFEND FOR 15 SECONDS FOR SOME HARDCORE PORN"
+	{
+		"default"		"DEFEND FOR 15 SECONDS FOR SOME HARDCORE PORN"
+	}
+	"Did i say porn? i meant CORN"
+	{
+		"default"		"Did i say porn? i meant CORN"
+	}
+	"LEVEL 1 COMPLETE"
+	{
+		"default"		"LEVEL 1 COMPLETE"
+	}
+	"MOVING ON TO STAGE 2"
+	{
+		"default"		"MOVING ON TO STAGE 2"
+	}
+	"Welcome to Lvl 2 of Onahole"
+	{
+		"default"		"Welcome to Lvl 2 of Onahole"
+	}
+	"Oh baby here we go again!"
+	{
+		"default"		"Oh baby here we go again!"
+	}
+	"Remember, traps are good"
+	{
+		"default"		"Remember, traps are good"
+	}
+	"Whether it's gay or not is irrelevant in 2k18"
+	{
+		"default"		"Whether it's gay or not is irrelevant in 2k18"
+	}
+	"Im straight but yo Astolfos kinda thicc tbh"
+	{
+		"default"		"Im straight but yo Astolfos kinda thicc tbh"
+	}
+	"I'd do it for the culture"
+	{
+		"default"		"I'd do it for the culture"
+	}
+	"Just dont tell my mom"
+	{
+		"default"		"Just dont tell my mom"
+	}
+	"DOOR OPENS IN 15 SECONDS"
+	{
+		"default"		"DOOR OPENS IN 15 SECONDS"
+	}
+	"EAAARRTTHHH CHAAAAANNN!"
+	{
+		"default"		"EAAARRTTHHH CHAAAAANNN!"
+	}
+	"PLEDGE TO PROTECC"
+	{
+		"default"		"PLEDGE TO PROTECC"
+	}
+	"Door to the Shrine of Earth-chan opens in 30 seconds"
+	{
+		"default"		"Door to the Shrine of Earth-chan opens in 30 seconds"
+	}
+	"Please don't forget to recycle"
+	{
+		"default"		"Please don't forget to recycle"
+	}
+	"Do not hurt Earth-chan"
+	{
+		"default"		"Do not hurt Earth-chan"
+	}
+	"Protecc her like your life depends on it"
+	{
+		"default"		"Protecc her like your life depends on it"
+	}
+	"Welcome to the Shrine of Earth-chan"
+	{
+		"default"		"Welcome to the Shrine of Earth-chan"
+	}
+	"Enjoy your stay"
+	{
+		"default"		"Enjoy your stay"
+	}
+	"And remember, take only pictures and leave only footprints!"
+	{
+		"default"		"And remember, take only pictures and leave only footprints!"
+	}
+	"Ahhh... isnt that refreshing?"
+	{
+		"default"		"Ahhh... isnt that refreshing?"
+	}
+	"Seeing the one and only Earth-chan in her shrine?"
+	{
+		"default"		"Seeing the one and only Earth-chan in her shrine?"
+	}
+	"And don't worry..."
+	{
+		"default"		"And don't worry..."
+	}
+	"I will allow you to leave whenever you like..."
+	{
+		"default"		"I will allow you to leave whenever you like..."
+	}
+	"After you commit to a 30 minute prayer to Earth-chan"
+	{
+		"default"		"After you commit to a 30 minute prayer to Earth-chan"
+	}
+	"SINNER!"
+	{
+		"default"		"SINNER!"
+	}
+	"YOU HAVE DEFILED EARTH-CHAN"
+	{
+		"default"		"YOU HAVE DEFILED EARTH-CHAN"
+	}
+	"YOU DO NOT BELONG IN THIS HOLY PLACE"
+	{
+		"default"		"YOU DO NOT BELONG IN THIS HOLY PLACE"
+	}
+	"GO TO A SINNERS HALL WHERE YOU BELONG"
+	{
+		"default"		"GO TO A SINNERS HALL WHERE YOU BELONG"
+	}
+	"YOU CUNT"
+	{
+		"default"		"YOU CUNT"
+	}
+	"Welcome to.. uh.. idfk tbh"
+	{
+		"default"		"Welcome to.. uh.. idfk tbh"
+	}
+	"i just kinda felt like putting it here and didnt know what to do with it"
+	{
+		"default"		"i just kinda felt like putting it here and didnt know what to do with it"
+	}
+	"Mmmm check out these dank memes boi"
+	{
+		"default"		"Mmmm check out these dank memes boi"
+	}
+	"I might aswell recommend you some hentai while ur here"
+	{
+		"default"		"I might aswell recommend you some hentai while ur here"
+	}
+	"My personal favourite is Fella Hame Lips"
+	{
+		"default"		"My personal favourite is Fella Hame Lips"
+	}
+	"It's a compelling story about a college student who bought a sex robot"
+	{
+		"default"		"It's a compelling story about a college student who bought a sex robot"
+	}
+	"Another great one is..."
+	{
+		"default"		"Another great one is..."
+	}
+	"Actually nvm... you never know when the FBI is watching..."
+	{
+		"default"		"Actually nvm... you never know when the FBI is watching..."
+	}
+	"WARNING, TRAPS AHEAD"
+	{
+		"default"		"WARNING, TRAPS AHEAD"
+	}
+	"OK THE DOOR BROKE, NOW LEAVE U SINNERS"
+	{
+		"default"		"OK THE DOOR BROKE, NOW LEAVE U SINNERS"
+	}
+	"What a beautiful duwang"
+	{
+		"default"		"What a beautiful duwang"
+	}
+	"lol nice"
+	{
+		"default"		"lol nice"
+	}
+	"dooor oopen"
+	{
+		"default"		"dooor oopen"
+	}
+	"Teleporter activating in 20 seconds!!"
+	{
+		"default"		"Teleporter activating in 20 seconds!!"
+	}
+	"Uhh"
+	{
+		"default"		"Uhh"
+	}
+	"AHH THE TELEPORTER ACTIVATED!! GOOO"
+	{
+		"default"		"AHH THE TELEPORTER ACTIVATED!! GOOO"
+	}
+	"Hmm.. i've got a bad feeling about this..."
+	{
+		"default"		"Hmm.. i've got a bad feeling about this..."
+	}
+	"Oh look, a button!"
+	{
+		"default"		"Oh look, a button!"
+	}
+	"What dreaded horrors lie beyond this door?!?"
+	{
+		"default"		"What dreaded horrors lie beyond this door?!?"
+	}
+	"It seems like it'll open in 20 seconds"
+	{
+		"default"		"It seems like it'll open in 20 seconds"
+	}
+	"AAAHHHHH"
+	{
+		"default"		"AAAHHHHH"
+	}
+	"KILL THE KNUCKLES IN THIS ROOM!!!"
+	{
+		"default"		"KILL THE KNUCKLES IN THIS ROOM!!!"
+	}
+	"1"
+	{
+		"default"		"1"
+	}
+	"2"
+	{
+		"default"		"2"
+	}
+	"3"
+	{
+		"default"		"3"
+	}
+	"Good shit! DOORS OPEN"
+	{
+		"default"		"Good shit! DOORS OPEN"
+	}
+	"Next door opens in 10 seconds"
+	{
+		"default"		"Next door opens in 10 seconds"
+	}
+	"ANONE ANONE!"
+	{
+		"default"		"ANONE ANONE!"
+	}
+	"Hold for 20 seconds please!"
+	{
+		"default"		"Hold for 20 seconds please!"
+	}
+	"The door will open in 15 seconds"
+	{
+		"default"		"The door will open in 15 seconds"
+	}
+	"Heh"
+	{
+		"default"		"Heh"
+	}
+	"If you wanna leave just hit that button over there"
+	{
+		"default"		"If you wanna leave just hit that button over there"
+	}
+	"Ah, i see..."
+	{
+		"default"		"Ah, i see..."
+	}
+	"You wanna leave cause u a bitch, ye?"
+	{
+		"default"		"You wanna leave cause u a bitch, ye?"
+	}
+	"whatever, the door will open in like 18 seconds"
+	{
+		"default"		"whatever, the door will open in like 18 seconds"
+	}
+	"Im not kidding btw... "
+	{
+		"default"		"Im not kidding btw... "
+	}
+	"Ok, its open, so leave"
+	{
+		"default"		"Ok, its open, so leave"
+	}
+	"BOATS LEAVE IN 15 SECONDS"
+	{
+		"default"		"BOATS LEAVE IN 15 SECONDS"
+	}
+	"Oh?"
+	{
+		"default"		"Oh?"
+	}
+	"This sounds interesting..."
+	{
+		"default"		"This sounds interesting..."
+	}
+	"DEFEND FOR 10 MORE SECONDS"
+	{
+		"default"		"DEFEND FOR 10 MORE SECONDS"
+	}
+	"BOSS FIGHT STARTS IN 5 SECONDS"
+	{
+		"default"		"BOSS FIGHT STARTS IN 5 SECONDS"
+	}
+	"4!!!!!"
+	{
+		"default"		"4!!!!!"
+	}
+	"3!!!!!"
+	{
+		"default"		"3!!!!!"
+	}
+	"2!!!!!"
+	{
+		"default"		"2!!!!!"
+	}
+	"1!!!!!"
+	{
+		"default"		"1!!!!!"
+	}
+	"OOHH BABY YOU BEAT IT"
+	{
+		"default"		"OOHH BABY YOU BEAT IT"
+	}
+	"LETS GO BACK TO THE KEMONOMIMI ROOM NOW"
+	{
+		"default"		"LETS GO BACK TO THE KEMONOMIMI ROOM NOW"
+	}
+	"BOAT'S OUTTA JUICE THO SO U GOTTA SWIM"
+	{
+		"default"		"BOAT'S OUTTA JUICE THO SO U GOTTA SWIM"
+	}
+	"AAHH WE MADE IT"
+	{
+		"default"		"AAHH WE MADE IT"
+	}
+	"DONT LET ZOMBIES IN OK!"
+	{
+		"default"		"DONT LET ZOMBIES IN OK!"
+	}
+	"DEFEND FOR 20 SECONDS!!!!!"
+	{
+		"default"		"DEFEND FOR 20 SECONDS!!!!!"
+	}
+	"10 SECONDS LEFT!!!"
+	{
+		"default"		"10 SECONDS LEFT!!!"
+	}
+	"OHH BABY YOU DID IT!"
+	{
+		"default"		"OHH BABY YOU DID IT!"
+	}
+	"LEVEL 2 COMPLETE"
+	{
+		"default"		"LEVEL 2 COMPLETE"
+	}
+	"MOVING ON TO STAGE 3"
+	{
+		"default"		"MOVING ON TO STAGE 3"
+	}
+	"Welcome to Lvl 3 of Onahole"
+	{
+		"default"		"Welcome to Lvl 3 of Onahole"
+	}
+	"I kinda want a special type of nut though"
+	{
+		"default"		"I kinda want a special type of nut though"
+	}
+	"Like literally squirrel levels of NUT"
+	{
+		"default"		"Like literally squirrel levels of NUT"
+	}
+	"... not beastiality tho, i mean squirrels cause they like nuts"
+	{
+		"default"		"... not beastiality tho, i mean squirrels cause they like nuts"
+	}
+	"JUST HOLD FOR A LIL BIT AND WE CAN GOGOO"
+	{
+		"default"		"JUST HOLD FOR A LIL BIT AND WE CAN GOGOO"
+	}
+	"OH BBY LETS BREAK INTO THIS BITCH"
+	{
+		"default"		"OH BBY LETS BREAK INTO THIS BITCH"
+	}
+	"Oh yes, theres nothing better than dialogue in hentai!"
+	{
+		"default"		"Oh yes, theres nothing better than dialogue in hentai!"
+	}
+	"LETS GOOO"
+	{
+		"default"		"LETS GOOO"
+	}
+	"oh shit the door opened!"
+	{
+		"default"		"oh shit the door opened!"
+	}
+	"maybe we can find more hentai!"
+	{
+		"default"		"maybe we can find more hentai!"
+	}
+	"OK OK HOLD FOR LIKE 25 SECONDS"
+	{
+		"default"		"OK OK HOLD FOR LIKE 25 SECONDS"
+	}
+	"Oh yesssss what a beautiful room"
+	{
+		"default"		"Oh yesssss what a beautiful room"
+	}
+	"The world should all just learn to fap,"
+	{
+		"default"		"The world should all just learn to fap,"
+	}
+	"IN PERFECT HARMONY"
+	{
+		"default"		"IN PERFECT HARMONY"
+	}
+	"Anyone who faps deserves love!"
+	{
+		"default"		"Anyone who faps deserves love!"
+	}
+	"Unless you put pineapple on pizza"
+	{
+		"default"		"Unless you put pineapple on pizza"
+	}
+	"i heard pineapple makes your jizz taste good but..."
+	{
+		"default"		"i heard pineapple makes your jizz taste good but..."
+	}
+	"PINEAPPLE DOES NOT BELONG ON PIZZA"
+	{
+		"default"		"PINEAPPLE DOES NOT BELONG ON PIZZA"
+	}
+	"AAAA FKIN RUUNN"
+	{
+		"default"		"AAAA FKIN RUUNN"
+	}
+	"mmmm daddy hold for 15 more seconds"
+	{
+		"default"		"mmmm daddy hold for 15 more seconds"
+	}
+	"So many doors but only one of em opens"
+	{
+		"default"		"So many doors but only one of em opens"
+	}
+	"Any of these doors could open randomly so defend!"
+	{
+		"default"		"Any of these doors could open randomly so defend!"
+	}
+	"OwO whats this?"
+	{
+		"default"		"OwO whats this?"
+	}
+	"a closed door and a carpet?!?"
+	{
+		"default"		"a closed door and a carpet?!?"
+	}
+	"WHICH ONE DO WE HUG?!?"
+	{
+		"default"		"WHICH ONE DO WE HUG?!?"
+	}
+	"That floor is appealing, but it might be dirty! "
+	{
+		"default"		"That floor is appealing, but it might be dirty! "
+	}
+	"And there's also the fact that...."
+	{
+		"default"		"And there's also the fact that...."
+	}
+	"ITS ALWAYS THE RIGHT OPTION TO CHOOSE THE DOOR!"
+	{
+		"default"		"ITS ALWAYS THE RIGHT OPTION TO CHOOSE THE DOOR!"
+	}
+	"DOOR OPENS IN 25 SECONDS"
+	{
+		"default"		"DOOR OPENS IN 25 SECONDS"
+	}
+	"*pant pant pant*"
+	{
+		"default"		"*pant pant pant*"
+	}
+	"it was at this exact moment i realized how much of a degenerate i was"
+	{
+		"default"		"it was at this exact moment i realized how much of a degenerate i was"
+	}
+	"im just kidding, ive known for so long"
+	{
+		"default"		"im just kidding, ive known for so long"
+	}
+	"but i did notice that when i pant its almost like i pant...su"
+	{
+		"default"		"but i did notice that when i pant its almost like i pant...su"
+	}
+	"IT OPENED!"
+	{
+		"default"		"IT OPENED!"
+	}
+	"THE NEXT DOOR WILL OPEN IN ANOTHER 15"
+	{
+		"default"		"THE NEXT DOOR WILL OPEN IN ANOTHER 15"
+	}
+	"OO BBY LOOK AT ALL THIS SHIT"
+	{
+		"default"		"OO BBY LOOK AT ALL THIS SHIT"
+	}
+	"I wonder what would happen if i step into one of these!??"
+	{
+		"default"		"I wonder what would happen if i step into one of these!??"
+	}
+	"the answer is nothing, cause idk how to do it"
+	{
+		"default"		"the answer is nothing, cause idk how to do it"
+	}
+	"Welcome to the little sex dungeon"
+	{
+		"default"		"Welcome to the little sex dungeon"
+	}
+	"We'd help you get out of here but..."
+	{
+		"default"		"We'd help you get out of here but..."
+	}
+	"We're currently stuck in these cages"
+	{
+		"default"		"We're currently stuck in these cages"
+	}
+	"Cause we've been baaaaad bananaass"
+	{
+		"default"		"Cause we've been baaaaad bananaass"
+	}
+	"OHH BABY IT OPENED!"
+	{
+		"default"		"OHH BABY IT OPENED!"
+	}
+	"Oooo yess one cage broken"
+	{
+		"default"		"Oooo yess one cage broken"
+	}
+	"Haarderr daddy, 2nd cage broken!"
+	{
+		"default"		"Haarderr daddy, 2nd cage broken!"
+	}
+	"OH YESS ALL THREE ARE OPEN"
+	{
+		"default"		"OH YESS ALL THREE ARE OPEN"
+	}
+	"Choose your reward! We can turn on the TP or..."
+	{
+		"default"		"Choose your reward! We can turn on the TP or..."
+	}
+	"or you can get the SUCCC"
+	{
+		"default"		"or you can get the SUCCC"
+	}
+	"oOoH what? you gotta leave? ok.."
+	{
+		"default"		"oOoH what? you gotta leave? ok.."
+	}
+	"The TP will activate in 10 seconds"
+	{
+		"default"		"The TP will activate in 10 seconds"
+	}
+	"FINAL DOOR OPENS IN 20 SECONDS"
+	{
+		"default"		"FINAL DOOR OPENS IN 20 SECONDS"
+	}
+	"OOO BABY U MADE IT TO THE BOSS"
+	{
+		"default"		"OOO BABY U MADE IT TO THE BOSS"
+	}
+	"THIS BRIDGE IS GONNA FKIN BREAK IN LIKE 15 SECONDS"
+	{
+		"default"		"THIS BRIDGE IS GONNA FKIN BREAK IN LIKE 15 SECONDS"
+	}
+	"IT OPENED"
+	{
+		"default"		"IT OPENED"
+	}
+	"SO DEFENDDDDDD"
+	{
+		"default"		"SO DEFENDDDDDD"
+	}
+	"BOSS FIGHT IN 5"
+	{
+		"default"		"BOSS FIGHT IN 5"
+	}
+	"***4***"
+	{
+		"default"		"***4***"
+	}
+	"***3***"
+	{
+		"default"		"***3***"
+	}
+	"***2***"
+	{
+		"default"		"***2***"
+	}
+	"***1***"
+	{
+		"default"		"***1***"
+	}
+	"SOMEONE JUST GOT SUCC'D INTO ITS VAGENE!!"
+	{
+		"default"		"SOMEONE JUST GOT SUCC'D INTO ITS VAGENE!!"
+	}
+	"AAAHH U WON QUICK GO NORTH!!!"
+	{
+		"default"		"AAAHH U WON QUICK GO NORTH!!!"
+	}
+	"GOGOGOGOOOO"
+	{
+		"default"		"GOGOGOGOOOO"
+	}
+	"DEFEND FOR 25 SECONDS!!!"
+	{
+		"default"		"DEFEND FOR 25 SECONDS!!!"
+	}
+	"JUST DEFEND BBY AND YOU CAN WIN!"
+	{
+		"default"		"JUST DEFEND BBY AND YOU CAN WIN!"
+	}
+	"LEVEL 3 COMPLETE"
+	{
+		"default"		"LEVEL 3 COMPLETE"
+	}
+	"MOVING ON TO EXTREME"
+	{
+		"default"		"MOVING ON TO EXTREME"
+	}
+	"WELCOME TO EX1 OF ONAHOLE"
+	{
+		"default"		"WELCOME TO EX1 OF ONAHOLE"
+	}
+	"GAAAHH ARE YOU FUCKIN READY?!"
+	{
+		"default"		"GAAAHH ARE YOU FUCKIN READY?!"
+	}
+	"IMMA LET YOU KNOW NOW."
+	{
+		"default"		"IMMA LET YOU KNOW NOW."
+	}
+	"I SELL PROPANE AND PROPANE ACCESSORIES"
+	{
+		"default"		"I SELL PROPANE AND PROPANE ACCESSORIES"
+	}
+	"EXTREME!!!!!!!!!"
+	{
+		"default"		"EXTREME!!!!!!!!!"
+	}
+	"ITS EXTREME SO YOU DONT NEEDA KNOW WHEN IT OPENS"
+	{
+		"default"		"ITS EXTREME SO YOU DONT NEEDA KNOW WHEN IT OPENS"
+	}
+	"YEAAA BITCH! KEEP HOLDIN"
+	{
+		"default"		"YEAAA BITCH! KEEP HOLDIN"
+	}
+	"ONLY AN EXTREME ESCAPER ELITE CAN MAKE IT THIS FAR!"
+	{
+		"default"		"ONLY AN EXTREME ESCAPER ELITE CAN MAKE IT THIS FAR!"
+	}
+	"XO WHO? "
+	{
+		"default"		"XO WHO? "
+	}
+	"IE HUH?"
+	{
+		"default"		"IE HUH?"
+	}
+	"EXTREME ESCAPERS TRUMPS ALL"
+	{
+		"default"		"EXTREME ESCAPERS TRUMPS ALL"
+	}
+	"GAAAA PENDULUM IS THE TRUE MARK OF A GOOD MAP"
+	{
+		"default"		"GAAAA PENDULUM IS THE TRUE MARK OF A GOOD MAP"
+	}
+	"ZOMBIE LADDER OPEN! DEFEND!"
+	{
+		"default"		"ZOMBIE LADDER OPEN! DEFEND!"
+	}
+	"A new enemy approaches!"
+	{
+		"default"		"A new enemy approaches!"
+	}
+	"IT'S OPEN!! LETS GOOO"
+	{
+		"default"		"IT'S OPEN!! LETS GOOO"
+	}
+	"IT'S NOT OVER YET!"
+	{
+		"default"		"IT'S NOT OVER YET!"
+	}
+	"SHWING INCOMING!!!"
+	{
+		"default"		"SHWING INCOMING!!!"
+	}
+	"GOOD JOB SHIT LORDS"
+	{
+		"default"		"GOOD JOB SHIT LORDS"
+	}
+	"DEFEND FOR 15 SECONDS!"
+	{
+		"default"		"DEFEND FOR 15 SECONDS!"
+	}
+	"EXTREME 1 COMPLETE"
+	{
+		"default"		"EXTREME 1 COMPLETE"
+	}
+	"MOVING ON TO EXTREME 2"
+	{
+		"default"		"MOVING ON TO EXTREME 2"
+	}
+	"WELCOME TO EX2 OF ONAHOLE"
+	{
+		"default"		"WELCOME TO EX2 OF ONAHOLE"
+	}
+	"EXTREME!!!"
+	{
+		"default"		"EXTREME!!!"
+	}
+	"MORE SHWING"
+	{
+		"default"		"MORE SHWING"
+	}
+	"MORE CLICK"
+	{
+		"default"		"MORE CLICK"
+	}
+	"MORE KAZOOO"
+	{
+		"default"		"MORE KAZOOO"
+	}
+	"Door Opens in 20 seconds."
+	{
+		"default"		"Door Opens in 20 seconds."
+	}
+	"Door Opens in 40 seconds."
+	{
+		"default"		"Door Opens in 40 seconds."
+	}
+	"Hold for 30 minutes and i'll TP you to the next part"
+	{
+		"default"		"Hold for 30 minutes and i'll TP you to the next part"
+	}
+}

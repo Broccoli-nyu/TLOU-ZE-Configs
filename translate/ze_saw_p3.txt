@@ -72,4 +72,12 @@
 	{
 		"default"		">- 30 more seconds  -<"
 	}
+	">- nailbombs exploding in 40 seconds  -<"
+	{
+		"default"		">- nailbombs exploding in 40 seconds  -<"
+	}
+	">- keep zombies inside -<"
+	{
+		"default"		">- keep zombies inside -<"
+	}
 }

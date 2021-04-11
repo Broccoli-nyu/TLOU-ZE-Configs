@@ -1,0 +1,351 @@
+"Chat"
+{
+	"<< defend for 10 seconds >>"
+	{
+		"default"		"<< defend for 10 seconds >>"
+	}
+	"<< No Short Cut >>"
+	{
+		"default"		"<< No Short Cut >>"
+	}
+	"<< defend for 30 seconds >>"
+	{
+		"default"		"<< defend for 30 seconds >>"
+	}
+	"<< wait for 25 seconds >>"
+	{
+		"default"		"<< wait for 25 seconds >>"
+	}
+	"<< who permit you to press the button? >>"
+	{
+		"default"		"<< who permit you to press the button? >>"
+	}
+	"<< hold for 10 seconds >>"
+	{
+		"default"		"<< hold for 10 seconds >>"
+	}
+	"<< Look at that fucking face >>"
+	{
+		"default"		"<< Look at that fucking face >>"
+	}
+	"<< Watch Out !!!! >>"
+	{
+		"default"		"<< Watch Out !!!! >>"
+	}
+	"<< YOU GET IT >>"
+	{
+		"default"		"<< YOU GET IT >>"
+	}
+	"<< teleport human >>"
+	{
+		"default"		"<< teleport human >>"
+	}
+	"<< zombie teleport in 5 seconds >>"
+	{
+		"default"		"<< zombie teleport in 5 seconds >>"
+	}
+	"<< hold for 30 seconds >>"
+	{
+		"default"		"<< hold for 30 seconds >>"
+	}
+	"<< A Bridge Appears >>"
+	{
+		"default"		"<< A Bridge Appears >>"
+	}
+	"<< teleport in 30 seconds >>"
+	{
+		"default"		"<< teleport in 30 seconds >>"
+	}
+	"<< Let's play a game now >>"
+	{
+		"default"		"<< Let's play a game now >>"
+	}
+	"<< You can see there are 8 platforms >>"
+	{
+		"default"		"<< You can see there are 8 platforms >>"
+	}
+	"<< After a little time, only 1 platform will be safe >>"
+	{
+		"default"		"<< After a little time, only 1 platform will be safe >>"
+	}
+	"<< so now, choose the number that you like >>"
+	{
+		"default"		"<< so now, choose the number that you like >>"
+	}
+	"<< Round 1 >>"
+	{
+		"default"		"<< Round 1 >>"
+	}
+	"<< 10 seconds to choose >>"
+	{
+		"default"		"<< 10 seconds to choose >>"
+	}
+	"<< Round 2 >>"
+	{
+		"default"		"<< Round 2 >>"
+	}
+	"<< What are you doing??? >>"
+	{
+		"default"		"<< What are you doing??? >>"
+	}
+	"<< YOU ARE NOT LUCKY >>"
+	{
+		"default"		"<< YOU ARE NOT LUCKY >>"
+	}
+	"<< DIE >>"
+	{
+		"default"		"<< DIE >>"
+	}
+	"<< OHHHHHH ITS E PICK LEGEND !!! >>"
+	{
+		"default"		"<< OHHHHHH ITS E PICK LEGEND !!! >>"
+	}
+	"<< It seems that you destroy some fucking things >>"
+	{
+		"default"		"<< It seems that you destroy some fucking things >>"
+	}
+	"<< a player has picked up wind >>"
+	{
+		"default"		"<< a player has picked up wind >>"
+	}
+	"<< Now let's start the final game >>"
+	{
+		"default"		"<< Now let's start the final game >>"
+	}
+	"<< it has a 50 seconds cool down >>"
+	{
+		"default"		"<< it has a 50 seconds cool down >>"
+	}
+	"<< Choose Mode...... >>"
+	{
+		"default"		"<< Choose Mode...... >>"
+	}
+	"<< SOLO MODE >>"
+	{
+		"default"		"<< SOLO MODE >>"
+	}
+	"<<boat will move in 15 seconds >>"
+	{
+		"default"		"<<boat will move in 15 seconds >>"
+	}
+	"<< zombie will come in 5 seconds >>"
+	{
+		"default"		"<< zombie will come in 5 seconds >>"
+	}
+	"<< solo time will begin in 15 seconds !!!! >>"
+	{
+		"default"		"<< solo time will begin in 15 seconds !!!! >>"
+	}
+	"<< zombie can move in 15 seconds >>"
+	{
+		"default"		"<< zombie can move in 15 seconds >>"
+	}
+	"<< Human win >>"
+	{
+		"default"		"<< Human win >>"
+	}
+	"<< DEFENSE MODE >>"
+	{
+		"default"		"<< DEFENSE MODE >>"
+	}
+	"<< defense for 120 seconds >>"
+	{
+		"default"		"<< defense for 120 seconds >>"
+	}
+	"<< 90 seconds >>"
+	{
+		"default"		"<< 90 seconds >>"
+	}
+	"<< 60 seconds >>"
+	{
+		"default"		"<< 60 seconds >>"
+	}
+	"<< zombie now has low gravity!!! >>"
+	{
+		"default"		"<< zombie now has low gravity!!! >>"
+	}
+	"<< 30 seconds >>"
+	{
+		"default"		"<< 30 seconds >>"
+	}
+	"<< FROG MODE >>"
+	{
+		"default"		"<< FROG MODE >>"
+	}
+	"<< zombie will come in 20 seconds >>"
+	{
+		"default"		"<< zombie will come in 20 seconds >>"
+	}
+	"<< wait for 10 seconds >>"
+	{
+		"default"		"<< wait for 10 seconds >>"
+	}
+	"<< zombie can go in 10 seconds >>"
+	{
+		"default"		"<< zombie can go in 10 seconds >>"
+	}
+	"<< wait for 15 seconds >>"
+	{
+		"default"		"<< wait for 15 seconds >>"
+	}
+	"<< afk tele in 20 seconds >>"
+	{
+		"default"		"<< afk tele in 20 seconds >>"
+	}
+	"<< BUTTON MODE >>"
+	{
+		"default"		"<< BUTTON MODE >>"
+	}
+	"<< press the button and defend zombie >>"
+	{
+		"default"		"<< press the button and defend zombie >>"
+	}
+	"<< Press 8 button to win the game >>"
+	{
+		"default"		"<< Press 8 button to win the game >>"
+	}
+	"<< the light will change to green if the button can be pressed >>"
+	{
+		"default"		"<< the light will change to green if the button can be pressed >>"
+	}
+	"<< You only have 120 seconds >>"
+	{
+		"default"		"<< You only have 120 seconds >>"
+	}
+	"<< You Done It !!! >>"
+	{
+		"default"		"<< You Done It !!! >>"
+	}
+	"<< defend for final 30 seconds >>"
+	{
+		"default"		"<< defend for final 30 seconds >>"
+	}
+	"<< zombie now has low gravity! >>"
+	{
+		"default"		"<< zombie now has low gravity! >>"
+	}
+	"<< You have already win 4 mode!!! >>"
+	{
+		"default"		"<< You have already win 4 mode!!! >>"
+	}
+	"<< Now its the entertainment time!!! >>"
+	{
+		"default"		"<< Now its the entertainment time!!! >>"
+	}
+	"<< Random Pick >>"
+	{
+		"default"		"<< Random Pick >>"
+	}
+	"<< Shooting the mode that you want to play!!! >>"
+	{
+		"default"		"<< Shooting the mode that you want to play!!! >>"
+	}
+	"<< HERO MODE >>"
+	{
+		"default"		"<< HERO MODE >>"
+	}
+	"<< Shooting the crystal to become the HERO >>"
+	{
+		"default"		"<< Shooting the crystal to become the HERO >>"
+	}
+	"<< ONLY HAS 30 seconds to become the HERO >>"
+	{
+		"default"		"<< ONLY HAS 30 seconds to become the HERO >>"
+	}
+	"<< TIPS: HUMAN now are uninfectable >>"
+	{
+		"default"		"<< TIPS: HUMAN now are uninfectable >>"
+	}
+	"<< Do Not Let zombies destroy the crystal >>"
+	{
+		"default"		"<< Do Not Let zombies destroy the crystal >>"
+	}
+	"<< zombie will only have 50 hp in the final 30 seconds >>"
+	{
+		"default"		"<< zombie will only have 50 hp in the final 30 seconds >>"
+	}
+	"<< Hero will have no limit ammo in the last 30 seconds  >>"
+	{
+		"default"		"<< Hero will have no limit ammo in the last 30 seconds  >>"
+	}
+	"<< Lets start! The Final Ten heros!!! >>"
+	{
+		"default"		"<< Lets start! The Final Ten heros!!! >>"
+	}
+	"<< 180 seconds left >>"
+	{
+		"default"		"<< 180 seconds left >>"
+	}
+	"<< 120 seconds left >>"
+	{
+		"default"		"<< 120 seconds left >>"
+	}
+	"<< 60 seconds left >>"
+	{
+		"default"		"<< 60 seconds left >>"
+	}
+	"<< FAIL...... >>"
+	{
+		"default"		"<< FAIL...... >>"
+	}
+	"<< DEATHRUN MODE >>"
+	{
+		"default"		"<< DEATHRUN MODE >>"
+	}
+	"<< Welcome to DeathRun!!! >>"
+	{
+		"default"		"<< Welcome to DeathRun!!! >>"
+	}
+	"<< Try your best to get to the end >>"
+	{
+		"default"		"<< Try your best to get to the end >>"
+	}
+	"<< You can jump back to go to the button room >>"
+	{
+		"default"		"<< You can jump back to go to the button room >>"
+	}
+	"<< So Are You READY? >>"
+	{
+		"default"		"<< So Are You READY? >>"
+	}
+	"<< GO!!! >>"
+	{
+		"default"		"<< GO!!! >>"
+	}
+	"<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>"
+	{
+		"default"		"<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>"
+	}
+	"<< 249 seconds left >>"
+	{
+		"default"		"<< 249 seconds left >>"
+	}
+	"<< 150 seconds >>"
+	{
+		"default"		"<< 150 seconds >>"
+	}
+	"<< The first save point has been unlocked ! >>"
+	{
+		"default"		"<< The first save point has been unlocked ! >>"
+	}
+	"<< the second save point will be activated in 30 seconds >>"
+	{
+		"default"		"<< the second save point will be activated in 30 seconds >>"
+	}
+	"<< DeathRun Complete !!! >>"
+	{
+		"default"		"<< DeathRun Complete !!! >>"
+	}
+	"<< TEAM MODE >>"
+	{
+		"default"		"<< TEAM MODE >>"
+	}
+	"<< hold for 60 seconds >>"
+	{
+		"default"		"<< hold for 60 seconds >>"
+	}
+	"<< Defend for 12 seconds >>"
+	{
+		"default"		"<< Defend for 12 seconds >>"
+	}
+}

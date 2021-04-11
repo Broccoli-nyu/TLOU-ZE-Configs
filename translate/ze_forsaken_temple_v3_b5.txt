@@ -1,0 +1,131 @@
+"Chat"
+{
+	"** WARM UP - 60 SEC **"
+	{
+		"default"		"** WARM UP - 60 SEC **"
+	}
+	"** WARM UP - 50 SEC **"
+	{
+		"default"		"** WARM UP - 50 SEC **"
+	}
+	"** WARM UP - 40 SEC **"
+	{
+		"default"		"** WARM UP - 40 SEC **"
+	}
+	"** TIP: one player must touch the closed door to trigger **"
+	{
+		"default"		"** TIP: one player must touch the closed door to trigger **"
+	}
+	"** WARM UP - 30 SEC **"
+	{
+		"default"		"** WARM UP - 30 SEC **"
+	}
+	"** TIP: most zombie teleports are quick so do not overdefend! **"
+	{
+		"default"		"** TIP: most zombie teleports are quick so do not overdefend! **"
+	}
+	"** WARM UP - 20 SEC **"
+	{
+		"default"		"** WARM UP - 20 SEC **"
+	}
+	"** TIP: search for key items when the console tells you to do so **"
+	{
+		"default"		"** TIP: search for key items when the console tells you to do so **"
+	}
+	"** WARM UP - 10 SEC **"
+	{
+		"default"		"** WARM UP - 10 SEC **"
+	}
+	"** Admin room is located behind the spawn **"
+	{
+		"default"		"** Admin room is located behind the spawn **"
+	}
+	"** Let's begin the adventure! **"
+	{
+		"default"		"** Let's begin the adventure! **"
+	}
+	"** STAGE 1: Underground **"
+	{
+		"default"		"** STAGE 1: Underground **"
+	}
+	"** Left fence is breaking in 30s **"
+	{
+		"default"		"** Left fence is breaking in 30s **"
+	}
+	"** Door is opening in 40s **"
+	{
+		"default"		"** Door is opening in 40s **"
+	}
+	"** Find and press TWO buttons **"
+	{
+		"default"		"** Find and press TWO buttons **"
+	}
+	"** Button 1 pressed **"
+	{
+		"default"		"** Button 1 pressed **"
+	}
+	"** Button 2 pressed **"
+	{
+		"default"		"** Button 2 pressed **"
+	}
+	"** Nicely done **"
+	{
+		"default"		"** Nicely done **"
+	}
+	"** Door is opening in 20s **"
+	{
+		"default"		"** Door is opening in 20s **"
+	}
+	"** Door is opening in 35s **"
+	{
+		"default"		"** Door is opening in 35s **"
+	}
+	"** It's seems the door is locked **"
+	{
+		"default"		"** It's seems the door is locked **"
+	}
+	"** Hint: key item owner must touch the locked door **"
+	{
+		"default"		"** Hint: key item owner must touch the locked door **"
+	}
+	"** Use the key to unlock it **"
+	{
+		"default"		"** Use the key to unlock it **"
+	}
+	"** Nicely done! The door is going to unlock! **"
+	{
+		"default"		"** Nicely done! The door is going to unlock! **"
+	}
+	"** JUMP! **"
+	{
+		"default"		"** JUMP! **"
+	}
+	"** Door is opening in 25s **"
+	{
+		"default"		"** Door is opening in 25s **"
+	}
+	"** Door is closing in 10s **"
+	{
+		"default"		"** Door is closing in 10s **"
+	}
+	"** Divine Tears - crouch **"
+	{
+		"default"		"** Divine Tears - crouch **"
+	}
+	"** Ricochet - jump **"
+	{
+		"default"		"** Ricochet - jump **"
+	}
+	"** Vampire - stop shooting **"
+	{
+		"default"		"** Vampire - stop shooting **"
+	}
+	"** Boss defeated **"
+	{
+		"default"		"** Boss defeated **"
+	}
+	"** Retreat! **"
+	{
+		"default"		"** Retreat! **"
+	}
+}

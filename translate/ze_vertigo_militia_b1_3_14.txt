@@ -1,0 +1,123 @@
+"Chat"
+{
+	"** Map by kune **"
+	{
+		"default"		"** Map by kune **"
+	}
+	"** Original map by Chris Auty and Andrew Aumann**"
+	{
+		"default"		"** Original map by Chris Auty and Andrew Aumann**"
+	}
+	"** 30 seconds left **"
+	{
+		"default"		"** 30 seconds left **"
+	}
+	"** 25 seconds left **"
+	{
+		"default"		"** 25 seconds left **"
+	}
+	"** 25 seconds left *"
+	{
+		"default"		"** 25 seconds left *"
+	}
+	"** Get on the elevator **"
+	{
+		"default"		"** Get on the elevator **"
+	}
+	"** 5 seconds left **"
+	{
+		"default"		"** 5 seconds left **"
+	}
+	"** 4 seconds left **"
+	{
+		"default"		"** 4 seconds left **"
+	}
+	"** 3 seconds left **"
+	{
+		"default"		"** 3 seconds left **"
+	}
+	"** 2 seconds left **"
+	{
+		"default"		"** 2 seconds left **"
+	}
+	"** 1 seconds left **"
+	{
+		"default"		"** 1 seconds left **"
+	}
+	"** 10 seconds left **"
+	{
+		"default"		"** 10 seconds left **"
+	}
+	"** 9 seconds left **"
+	{
+		"default"		"** 9 seconds left **"
+	}
+	"** 8 seconds left **"
+	{
+		"default"		"** 8 seconds left **"
+	}
+	"** 7 seconds left **"
+	{
+		"default"		"** 7 seconds left **"
+	}
+	"** 20 seconds left **"
+	{
+		"default"		"** 20 seconds left **"
+	}
+	"** 10 seconds left ** "
+	{
+		"default"		"** 10 seconds left ** "
+	}
+	"** 9 seconds left ** "
+	{
+		"default"		"** 9 seconds left ** "
+	}
+	"** 8 seconds left ** "
+	{
+		"default"		"** 8 seconds left ** "
+	}
+	"** 7 seconds left ** "
+	{
+		"default"		"** 7 seconds left ** "
+	}
+	"** 5 seconds left ** "
+	{
+		"default"		"** 5 seconds left ** "
+	}
+	"** 4 seconds left ** "
+	{
+		"default"		"** 4 seconds left ** "
+	}
+	"** 3 seconds left ** "
+	{
+		"default"		"** 3 seconds left ** "
+	}
+	"** 2 seconds left ** "
+	{
+		"default"		"** 2 seconds left ** "
+	}
+	"** 1 seconds left ** "
+	{
+		"default"		"** 1 seconds left ** "
+	}
+	"** Get to the chopper **"
+	{
+		"default"		"** Get to the chopper **"
+	}
+	"** FAILED **"
+	{
+		"default"		"** FAILED **"
+	}
+	"** 15 seconds left **"
+	{
+		"default"		"** 15 seconds left **"
+	}
+	"** 20 seconds left ** "
+	{
+		"default"		"** 20 seconds left ** "
+	}
+	"** Hold here **"
+	{
+		"default"		"** Hold here **"
+	}
+}

@@ -108,4 +108,24 @@
 	{
 		"default"		"*** Haunted house! ***"
 	}
+	"*** Hammer has been acquired ***"
+	{
+		"default"		"*** Hammer has been acquired ***"
+	}
+	"*** C4 has been acquired ***"
+	{
+		"default"		"*** C4 has been acquired ***"
+	}
+	"*** Nade Crate has been acquired ***"
+	{
+		"default"		"*** Nade Crate has been acquired ***"
+	}
+	"*** Pod has been acquired ***"
+	{
+		"default"		"*** Pod has been acquired ***"
+	}
+	"*** Umbrella has been acquired ***"
+	{
+		"default"		"*** Umbrella has been acquired ***"
+	}
 }
