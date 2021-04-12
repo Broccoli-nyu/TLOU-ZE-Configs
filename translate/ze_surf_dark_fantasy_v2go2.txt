@@ -3,258 +3,332 @@
 	"***Welcome to ze_surf_dark_fantasy***"
 	{
 		"default"		"***Welcome to ze_surf_dark_fantasy***"
+		"ru"		"***Приветствуем на ze_surf_dark_fantasy***"
 	}
 	"***Map by DarkerZ [RUS]***"
 	{
 		"default"		"***Map by DarkerZ [RUS]***"
+		"ru"		"***Карта создана DarkerZ [RUS] | Русский перевод от Broccoli***"
 	}
 	"***Special Thanks to Moltard and Headsh***"
 	{
 		"default"		"***Special Thanks to Moltard and Headsh***"
+		"ru"		"***Отдельная Благодарность Moltard и Headsh***"
 	}
 	"***Thanks to NiceShot for help port CSGO***"
 	{
 		"default"		"***Thanks to NiceShot for help port CSGO***"
+		"ru"		"***Благодарность NiceShot за помощь в портировании на CSGO***"
 	}
 	"***Humans will be teleported after 10 seconds***"
 	{
 		"default"		"***Humans will be teleported after 10 seconds***"
+		"ru"		"***Телепортация людей через 10 секунд***"
 	}
 	"***Zombies will be teleported after 15 seconds***"
 	{
 		"default"		"***Zombies will be teleported after 15 seconds***"
+		"ru"		"***Телепортация зомби через 15 секунд***"
 	}
 	"***Hold for 75 seconds***"
 	{
 		"default"		"***Hold for 75 seconds***"
+		"ru"		"***Обороняйтесь в течение 75 секунд***"
 	}
 	"***Humans picked up Wind***"
 	{
 		"default"		"***Humans picked up Wind***"
+		"ru"		"***Люди подобрали Ветер (Wind)***"
 	}
 	"***Afk will be teleported after 5 seconds***"
 	{
 		"default"		"***Afk will be teleported after 5 seconds***"
+		"ru"		"***Телепортация АФК через 5 секунд***"
 	}
 	"***Hold for 30 seconds***"
 	{
 		"default"		"***Hold for 30 seconds***"
+		"ru"		"***Удерживайте позицию ещё 30 секунд***"
 	}
 	"***10 seconds left***"
 	{
 		"default"		"***10 seconds left***"
+		"ru"		"***Осталось 10 секунд***"
 	}
 	"***Hold the First Sector for 25 seconds***"
 	{
 		"default"		"***Hold the First Sector for 25 seconds***"
+		"ru"		"***Удерживайте Первый Сектор в течение 25 секунд***"
 	}
 	"***5 seconds left***"
 	{
 		"default"		"***5 seconds left***"
+		"ru"		"***Осталось 5 секунд***"
 	}
 	"***Hold the Second Sector for 20 seconds***"
 	{
 		"default"		"***Hold the Second Sector for 20 seconds***"
+		"ru"		"***Удерживайте Второй Сектор в течение 20 секунд***"
 	}
 	"***Hold the Third Sector for 15 seconds***"
 	{
 		"default"		"***Hold the Third Sector for 15 seconds***"
+		"ru"		"***Удерживайте Третий Сектор в течение 15 секунд***"
 	}
 	"***Hold the Fourth Sector for 10 seconds***"
 	{
 		"default"		"***Hold the Fourth Sector for 10 seconds***"
+		"ru"		"***Удерживайте Четвертый Сектор в течение 10 секунд***"
 	}
 	"***Hold the Final Sector for 5 seconds***"
 	{
 		"default"		"***Hold the Final Sector for 5 seconds***"
+		"ru"		"***Удерживайте Последний Сектор в течение 5 секунд***"
 	}
 	"***Zombies will be teleported after 20 seconds***"
 	{
 		"default"		"***Zombies will be teleported after 20 seconds***"
+		"ru"		"***Зомби телепортируются через 20 секунд***"
 	}
 	"***Hold for 60 seconds***"
 	{
 		"default"		"***Hold for 60 seconds***"
+		"ru"		"***Обороняйтесь в течение 60 секунд***"
 	}
 	"***Afk will be teleported after 10 seconds***"
 	{
 		"default"		"***Afk will be teleported after 10 seconds***"
+		"ru"		"***Телепортация АФК через 10 секунд***"
 	}
 	"***Humans picked up Gravity***"
 	{
 		"default"		"***Humans picked up Gravity***"
+		"ru"		"***Люди подобрали Гравитацию (Gravity)***"
 	}
 	"***Doors will open in 30 seconds***"
 	{
 		"default"		"***Doors will open in 30 seconds***"
+		"ru"		"***Дверь откроется через 10 секунд***"
 	}
 	"***Doors will close in 10 seconds***"
 	{
 		"default"		"***Doors will close in 10 seconds***"
+		"ru"		"***Дверь закроется через 10 секунд***"
 	}
 	"***Fight***"
 	{
 		"default"		"***Fight***"
+		"ru"		"***Сражайтесь***"
 	}
 	"***CreeperGirl is healed for 110 HP***"
 	{
 		"default"		"***CreeperGirl is healed for 110 HP***"
+		"ru"		"***Девушка-Крипер исцелилась на 110 ХП***"
 	}
 	"***CreeperGirl is using Push Attack***"
 	{
 		"default"		"***CreeperGirl is using Push Attack***"
+		"ru"		"***Девушка-Крипер использует Толкающую атаку (Push Attack)***"
 	}
 	"***CreeperGirl is using Fire Attack***"
 	{
 		"default"		"***CreeperGirl is using Fire Attack***"
+		"ru"		"***Девушка-Крипер использует Огненную атаку (Fire Attack)***"
+	}
+	"***CreeperGirl is using TNT Attack***"
+	{
+	   "default"        "***CreeperGirl is using TNT Attack***"
+	   "ru"         "***Девушка-Крипер использует атаку Динамитом (TNT Attack)***"
 	}
 	"***Doors will open in 20 seconds***"
 	{
 		"default"		"***Doors will open in 20 seconds***"
+		"ru"		"***Дверь откроется через 20 секунд***"
 	}
 	"***You have 60 seconds to kill CreeperGirl***"
 	{
 		"default"		"***You have 60 seconds to kill CreeperGirl***"
+		"ru"		"***У вас есть 60 секунд чтобы убить Девушку-Крипера***"
 	}
 	"***Humans picked up Heal***"
 	{
 		"default"		"***Humans picked up Heal***"
+		"ru"		"***Люди подобрали исцеление (Heal)***"
 	}
 	"***Random path will open in 30 seconds***"
 	{
 		"default"		"***Random path will open in 30 seconds***"
+		"ru"		"***Случайный путь откроется через 30 секунд***"
 	}
 	"***Zombies picked up Heal***"
 	{
 		"default"		"***Zombies picked up Heal***"
+		"ru"		"***Зомби подобрали Исцеление (Heal)***"
 	}
 	"***Zombies picked up Fire***"
 	{
 		"default"		"***Zombies picked up Fire***"
+		"ru"		"***Зомби подобрали Огонь (Fire)***"
 	}
 	"***Big Doors will open in 40 seconds***"
 	{
 		"default"		"***Big Doors will open in 40 seconds***"
+		"ru"		"***Огромные двери откроются через 40 секунд***"
 	}
 	"***Doors will open in 10 seconds***"
 	{
 		"default"		"***Doors will open in 10 seconds***"
+		"ru"		"***Двери откроются через 10 секунд***"
 	}
 	"***Doors will open in 15 seconds***"
 	{
 		"default"		"***Doors will open in 15 seconds***"
+		"ru"		"***Двери откроются через 15 секунд***"
 	}
 	"***Doors will open in 5 seconds***"
 	{
 		"default"		"***Doors will open in 5 seconds***"
+		"ru"		"***Двери откроются через 5 секунд***"
 	}
 	"***Humans picked up Electro***"
 	{
 		"default"		"***Humans picked up Electro***"
+		"ru"		"***Люди подобрали Электричество (Electro)***"
 	}
 	"***Elevator will leave in 20 seconds***"
 	{
 		"default"		"***Elevator will leave in 20 seconds***"
+		"ru"		"***Лифт уедет через 20 секунд***"
 	}
 	"***Hatch will collapse in 5 seconds***"
 	{
 		"default"		"***Hatch will collapse in 5 seconds***"
+		"ru"		"***Люк сломается через 5 секунд***"
 	}
 	"***Wall will collapse in 10 seconds***"
 	{
 		"default"		"***Wall will collapse in 10 seconds***"
+		"ru"		"***Стена разрушится через 10 секунд***"
 	}
 	"***Gate will open in 5 seconds***"
 	{
 		"default"		"***Gate will open in 5 seconds***"
+		"ru"		"***Ворота откроются через 5 секунд***"
 	}
 	"***Bridge will appear in 20 seconds***"
 	{
 		"default"		"***Bridge will appear in 20 seconds***"
+		"ru"		"***Мост появится через 20 секунд***"
 	}
 	"***Hold this position for 20 seconds***"
 	{
 		"default"		"***Hold this position for 20 seconds***"
+		"ru"		"***Обороняйте эту позицию в течение 20 секунд***"
 	}
 	"***Gate will open in 10 seconds***"
 	{
 		"default"		"***Gate will open in 10 seconds***"
+		"ru"		"***Ворота откроются через 10 секунд***"
 	}
 	"***Gate will open in 20 seconds***"
 	{
 		"default"		"***Gate will open in 20 seconds***"
+		"ru"		"***Ворота откроются через 20 секунд***"
 	}
 	"***Gate will open in 15 seconds***"
 	{
 		"default"		"***Gate will open in 15 seconds***"
+		"ru"		"***Ворота откроются через 15 секунд***"
 	}
 	"***Afk will be teleported after 20 seconds***"
 	{
 		"default"		"***Afk will be teleported after 20 seconds***"
+		"ru"		"***Телепортация АФК через 20 секунд***"
 	}
 	"***You ended up in the dungeon of demons***"
 	{
 		"default"		"***You ended up in the dungeon of demons***"
+		"ru"		"***Вы оказались в подземелье демонов***"
 	}
 	"***This dungeon contains 4 levels of difficulty***"
 	{
 		"default"		"***This dungeon contains 4 levels of difficulty***"
+		"ru"		"***Это подземелье содержит 4 уровня сложности***"
 	}
 	"***To exit the dungeon you need to complete all tasks***"
 	{
 		"default"		"***To exit the dungeon you need to complete all tasks***"
+		"ru"		"***Чтобы выйти из подземелья вам нужно выполнить все задания***"
 	}
 	"***On the first level it is necessary to destroy the bloodstone***"
 	{
 		"default"		"***On the first level it is necessary to destroy the bloodstone***"
+		"ru"		"***На первом уровне необходимо уничтожить кровавый камень.***"
 	}
 	"***On the second level you need to defeat all the demons***"
 	{
 		"default"		"***On the second level you need to defeat all the demons***"
+		"ru"		"***На втором уровне вам нужно победить всех демонов***"
 	}
 	"***At the third level you need to knock out the seal***"
 	{
 		"default"		"***At the third level you need to knock out the seal***"
+		"ru"		"***На третьем уровне вам нужно выбить Печать***"
 	}
 	"***This Taros had NO Seal***"
 	{
 		"default"		"***This Taros had NO Seal***"
+		"ru"		"***У этого Тароса НЕ было Печати***"
 	}
 	"***You Found a Seal***"
 	{
 		"default"		"***You Found a Seal***"
+		"ru"		"***Вы нашли Печать***"
 	}
 	"***On the fourth level you have to defeat Charon***"
 	{
 		"default"		"***On the fourth level you have to defeat Charon***"
+		"ru"		"***На четвертом уровне вы должны победить Харона***"
 	}
 	"***BuyZone activated for 8 seconds***"
 	{
 		"default"		"***BuyZone activated for 8 seconds***"
+		"ru"		"***Зона Закупки активирована на 8 секунд***"
 	}
 	"***Charon used Gravity***"
 	{
 		"default"		"***Charon used Gravity***"
+		"ru"		"***Харон использует Гравитацию (Gravity)***"
 	}
 	"***Charon used The Call of Death***"
 	{
 		"default"		"***Charon used The Call of Death***"
+		"ru"		"***Харон использует Зов Смерти (The Call of Death)***"
+	}
+	"***Charon used Air Attack***"
+	{
+	    "default"       "***Charon used Air Attack***"
+		"ru"        "***Харон использует Воздушную Атаку (Air Attack)***"
 	}
 	"***Charon used The Fire of Death***"
 	{
 		"default"		"***Charon used The Fire of Death***"
+		"ru"		"***Харон использует Огонь Смерти (The Fire of Death)***"
 	}
 	"***Charon used Scythe***"
 	{
 		"default"		"***Charon used Scythe***"
+		"ru"		"***Харон использует Косу (Scythe)***"
 	}
 	"***Zombies will be teleported after 10 seconds***"
 	{
 		"default"		"***Zombies will be teleported after 10 seconds***"
+		"ru"		"***Зомби телепортируются через 10 секунд***"
 	}
 	"***To go further you must solve the riddle***"
 	{
 		"default"		"***To go further you must solve the riddle***"
+		"ru"		"***Чтобы пройти дальше, вы должны разгадать загадку|Перевод предметов (Sword/Меч, Bow/Лук, Spear/Копье, Shield/Щит)***"
 	}
 	"***The order | 1-Shield 2-Bow 3-Sword 4-Spear***"
 	{
@@ -263,137 +337,171 @@
 	"***Item Accepted***"
 	{
 		"default"		"***Item Accepted***"
+		"ru"		"***Предмет Принят***"
 	}
 	"***Door will open in 15 sec***"
 	{
 		"default"		"***Door will open in 15 sec***"
+		"ru"		"***Дверь откроется через 15 сек***"
 	}
 	"***Gate will open in 30 seconds***"
 	{
 		"default"		"***Gate will open in 30 seconds***"
+		"ru"		"***Ворота откроются через 30 секунд***"
 	}
 	"***[Boss] CatGirl Boss appeared***"
 	{
 		"default"		"***[Boss] CatGirl Boss appeared***"
+		"ru"		"***[Босс] Появился босс Девушка-Кошка***"
 	}
 	"***CatGirl is using Laser***"
 	{
 		"default"		"***CatGirl is using Laser***"
+		"ru"		"***Девушка-Кошка использует Лазер (Laser)***"
 	}
 	"***CatGirl is using Drop Weapon Attack***"
 	{
 		"default"		"***CatGirl is using Drop Weapon Attack***"
+		"ru"		"***Девушка-Кошка заставила вас Выбросить Оружие (Drop Weapon Attack)***"
 	}
 	"***CatGirl is using Crystal***"
 	{
 		"default"		"***CatGirl is using Crystal***"
+		"ru"		"***Девушка-Кошка призывает Кристалл (Crystal)***"
 	}
 	"***CatGirl can be Cured by 180 HP***"
 	{
 		"default"		"***CatGirl can be Cured by 180 HP***"
+		"ru"		"***Девушка-Кошка подлечила себя на 180 ХП***"
 	}
 	"***CatGirl is using Pressure***"
 	{
 		"default"		"***CatGirl is using Pressure***"
+		"ru"		"***Девушка-Кошка использует Давление (Pressure)***"
 	}
 	"***CatGirl is using Electro***"
 	{
 		"default"		"***CatGirl is using Electro***"
+		"ru"		"***Девушка-Кошка использует Электричество (Electro)***"
 	}
 	"***You killed the CatGirl Boss***"
 	{
 		"default"		"***You killed the CatGirl Boss***"
+		"ru"		"***Вы убили босса Девушку-Кошку***"
 	}
 	"***[Boss] Stage 1 completed***"
 	{
 		"default"		"***[Boss] Stage 1 completed***"
+		"ru"		"***[Босс] Этап 1 завершен***"
 	}
 	"***[Boss] ErrorGirl Boss appeared***"
 	{
 		"default"		"***[Boss] ErrorGirl Boss appeared***"
+		"ru"		"***[Босс] Появился босс Девушка-Ошибка***"
 	}
 	"***You killed the ErrorGirl Boss***"
 	{
 		"default"		"***You killed the ErrorGirl Boss***"
+		"ru"		"***Вы убили босса Девушку-Ошибку***"
 	}
 	"***[Boss] Stage 2 completed***"
 	{
 		"default"		"***[Boss] Stage 2 completed***"
+		"ru"		"***[Босс] Этап 2 завершен***"
 	}
 	"***[Boss] Queen Boss appeared***"
 	{
 		"default"		"***[Boss] Queen Boss appeared***"
+		"ru"		"***[Босс] Появился босс Королева***"
 	}
 	"***Queen Throws Lasers***"
 	{
 		"default"		"***Queen Throws Lasers***"
+		"ru"		"***Королева кидается Лазерами***"
 	}
 	"***Queen Calls Reverse Uganda***"
 	{
 		"default"		"***Queen Calls Reverse Uganda***"
+		"ru"		"***Королева Призывает Обратную Уганду***"
 	}
 	"***Queen Calls Rain from Uganda***"
 	{
 		"default"		"***Queen Calls Rain from Uganda***"
+		"ru"		"***Королева Призывает Дождь из Уганды***"
 	}
 	"***Queen Calls Uganda***"
 	{
 		"default"		"***Queen Calls Uganda***"
+		"ru"		"***Королева Призывает Уганду***"
 	}
 	"***You killed the Queen Boss***"
 	{
 		"default"		"***You killed the Queen Boss***"
+		"ru"		"***Вы убили босса Королеву***"
 	}
 	"***[Boss] Stage 3 completed***"
 	{
 		"default"		"***[Boss] Stage 3 completed***"
+		"ru"		"***[Босс] Этап 3 завершен***"
 	}
 	"***Human will be teleported after 5 seconds***"
 	{
 		"default"		"***Human will be teleported after 5 seconds***"
+		"ru"		"***Люди телепортируются через 5 секунд***"
 	}
 	"***Zombie will be teleported after 10 seconds***"
 	{
 		"default"		"***Zombie will be teleported after 10 seconds***"
+		"ru"		"***Зомби телепортируются через 10 секунд***"
 	}
 	"***Afk will be teleported after 15 seconds***"
 	{
 		"default"		"***Afk will be teleported after 15 seconds***"
+		"ru"		"***Телепортация АФК через 15 секунд***"
 	}
 	"***150 seconds left***"
 	{
 		"default"		"***150 seconds left***"
+		"ru"		"***Осталось 150 секунд***"
 	}
 	"***120 seconds left***"
 	{
 		"default"		"***120 seconds left***"
+		"ru"		"***Осталось 120 секунд***"
 	}
 	"***90 seconds left***"
 	{
 		"default"		"***90 seconds left***"
+		"ru"		"***Осталось 90 секунд***"
 	}
 	"***60 seconds left***"
 	{
 		"default"		"***60 seconds left***"
+		"ru"		"***Осталось 60 секунд***"
 	}
 	"***30 seconds left***"
 	{
 		"default"		"***30 seconds left***"
+		"ru"		"***Осталось 3 секунд***"
 	}
 	"***15 seconds left***"
 	{
 		"default"		"***15 seconds left***"
+		"ru"		"***Осталось 15 секунд***"
 	}
 	"***You killed the boss of the True Ending***"
 	{
 		"default"		"***You killed the boss of the True Ending***"
+		"ru"		"***Вы убили босса Настойщей Концовки***"
 	}
 	"***Congratulations You have passed the map***"
 	{
 		"default"		"***Congratulations You have passed the map***"
+		"ru"		"***Поздравляем, вы прошли карту***"
 	}
 	"***Nuke***"
 	{
 		"default"		"***Nuke***"
+		"ru"		"***Взрыв***"
 	}
 }
