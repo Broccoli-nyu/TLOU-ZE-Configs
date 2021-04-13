@@ -108,7 +108,7 @@
 	"***Doors will open in 30 seconds***"
 	{
 		"default"		"***Doors will open in 30 seconds***"
-		"ru"		"***Дверь откроется через 10 секунд***"
+		"ru"		"***Дверь откроется через 30 секунд***"
 	}
 	"***Doors will close in 10 seconds***"
 	{
@@ -258,12 +258,12 @@
 	"***To exit the dungeon you need to complete all tasks***"
 	{
 		"default"		"***To exit the dungeon you need to complete all tasks***"
-		"ru"		"***Чтобы выйти из подземелья вам нужно выполнить все задания***"
+		"ru"		"***Чтобы выйти из подземелья вам нужно выполнить все задачи***"
 	}
 	"***On the first level it is necessary to destroy the bloodstone***"
 	{
 		"default"		"***On the first level it is necessary to destroy the bloodstone***"
-		"ru"		"***На первом уровне необходимо уничтожить кровавый камень.***"
+		"ru"		"***На первом уровне необходимо уничтожить кровавый камень***"
 	}
 	"***On the second level you need to defeat all the demons***"
 	{
@@ -482,7 +482,7 @@
 	"***30 seconds left***"
 	{
 		"default"		"***30 seconds left***"
-		"ru"		"***Осталось 3 секунд***"
+		"ru"		"***Осталось 30 секунд***"
 	}
 	"***15 seconds left***"
 	{
