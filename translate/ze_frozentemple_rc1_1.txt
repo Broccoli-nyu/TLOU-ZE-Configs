@@ -1,111 +1,162 @@
 "Chat"
-{
-	"*** MAP BY GEORGE ***"
+"*** MAP BY GEORGE ***"
 	{
 		"default"		"*** MAP BY GEORGE ***"
+		"ru"            "*** Карта создана GEORGE | Русский перевод от Broccoli ***"
 	}
 	"*** THANKS TO STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN ***"
 	{
 		"default"		"*** THANKS TO STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN ***"
+		"ru"		"*** Благодарности STRUPPI. JENZ. SOFT SERVE. MOLTARD. и LUFFAREN ***"
 	}
 	"*** TEMPLE OPENS IN 5 SECONDS ***"
 	{
 		"default"		"*** TEMPLE OPENS IN 5 SECONDS ***"
+		"ru"		"*** ХРАМ ОТКРОЕТСЯ ЧЕРЕЗ 5 СЕКУНД ***"
 	}
 	"*** WELL DONE! DOOR OPENS IN 20 SECONDS ***"
 	{
 		"default"		"*** WELL DONE! DOOR OPENS IN 20 SECONDS ***"
+		"ru"		"*** ОТЛИЧНАЯ РАБОТА! ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 20 СЕКУНД ***"
 	}
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
 		"default"		"*** DOORS OPEN IN 20 SECONDS ***"
+		"ru"		"*** ДВЕРИ ОТКРОЮТСЯ ЧЕРЕЗ 20 СЕКУНД ***"
 	}
 	"*** DOOR OPENS IN 40 SECONDS ***"
 	{
 		"default"		"*** DOOR OPENS IN 40 SECONDS ***"
+		"ru"		"*** ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 40 СЕКУНД ***"
 	}
 	"*** DOOR OPENS IN 25 SECONDS ***"
 	{
 		"default"		"*** DOOR OPENS IN 25 SECONDS ***"
+		"ru"		"*** ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 25 СЕКУНД ***"
 	}
 	"*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***"
 	{
 		"default"		"*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***"
+		"ru"		"*** ПОХОЖЕ, ЧТО РЫЧАГ ЗАМЕРЗ ***"
 	}
 	"*** WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ***"
 	{
 		"default"		"*** WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ***"
+		"ru"		"*** МЫ МОЖЕМ ПОДЖЕЧЬ ЭТОТ ФАКЕЛ, ЧТОБЫ ПОМОЧЬ ЕМУ ОТТАЯТЬ ***"
 	}
 	"*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***"
 	{
 		"default"		"*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***"
+		"ru"		"*** МЫ ДОЛЖНЫ ПРОДЕРЖАТЬСЯ 1 МИНУТУ, ПОКА ОН НЕ ОТТАЕТ ***"
 	}
 	"*** IT SHOULD BE THAWED OUT BY NOW. LETS GO! ***"
 	{
 		"default"		"*** IT SHOULD BE THAWED OUT BY NOW. LETS GO! ***"
+		"ru"		"*** ОН УЖЕ ДОЛЖЕН БЫЛ ОТТАЯТЬ. ИДЕМ! ***"
 	}
 	"*** WHAT IS THIS PLACE? ***"
 	{
 		"default"		"*** WHAT IS THIS PLACE? ***"
+		"ru"		"*** ЧТО ЭТО ЗА МЕСТО? ***"
 	}
 	"*** IT SEEMS LIKE THERE IS NO WAY OUT ***"
 	{
 		"default"		"*** IT SEEMS LIKE THERE IS NO WAY OUT ***"
+		"ru"		"*** ПОХОЖЕ, ЧТО ВЫХОДА НЕТ ***"
 	}
 	"*** RESIST UNTIL SOMETHING HAPPENS ***"
 	{
 		"default"		"*** RESIST UNTIL SOMETHING HAPPENS ***"
-	}
-	"*** ICY WIND ***"
-	{
-		"default"		"*** ICY WIND ***"
-	}
-	"*** BLANKET FREEZE ***"
-	{
-		"default"		"*** BLANKET FREEZE ***"
+		"ru"		"*** ДЕРЖИТЕ ОБОРОНУ, ПОКА ЧТО-НИБУДЬ НЕ СЛУЧИТСЯ ***"
 	}
 	"*** CRYSTALLIZE ***"
 	{
 		"default"		"*** CRYSTALLIZE ***"
-	}
-	"*** FROSTY BEAM ***"
-	{
-		"default"		"*** FROSTY BEAM ***"
+		"ru"		"*** КРИСТАЛЛИЗАЦИЯ ***"
 	}
 	"*** CRYSTAL RAIN ***"
 	{
 		"default"		"*** CRYSTAL RAIN ***"
+		"ru"		"*** КРИСТАЛЬНЫЙ ДОЖДЬ ***"
+	}
+	"*** BLANKET FREEZE ***"
+	{
+		"default"		"*** BLANKET FREEZE ***"
+		"ru"		"*** МОРОЗНОЕ ПОКРЫТИЕ ***"
+	}
+	"*** ICY WIND ***"
+	{
+		"default"		"*** ICY WIND ***"
+		"ru"		"*** ЛЕДЯНОЙ ВЕТЕР ***"
+	}
+	"*** FROSTY BEAM ***"
+	{
+		"default"		"*** FROSTY BEAM ***"
+		"ru"		"*** МОРОЗНЫЙ ЛУЧ ***"
 	}
 	"*** WHAT WAS THAT THING? ***"
 	{
 		"default"		"*** WHAT WAS THAT THING? ***"
+		"ru"		"*** ЧТО ЭТО ЗА ШТУКА?? ***"
 	}
 	"*** OH WELL! WHATEVER IT IS IT'S GONE NOW! ***"
 	{
 		"default"		"*** OH WELL! WHATEVER IT IS IT'S GONE NOW! ***"
+		"ru"		"*** ЧТО БЫ ЭТО НЕ БЫЛО, КАЖЕТСЯ ОНО ИСЧЕЗЛО! ***"
 	}
 	"*** WE BETTER RUN BEFORE THE TEMPLE COLLAPSES! ***"
 	{
 		"default"		"*** WE BETTER RUN BEFORE THE TEMPLE COLLAPSES! ***"
+		"ru"		"*** НАМ ЛУЧШЕ БЕЖАТЬ, ПОКА ХРАМ НЕ РАЗРУШИЛСЯ! ***"
 	}
 	"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
 	{
 		"default"		"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
-	}
-	"*** NUKE IN 1 MINUTE ***"
-	{
-		"default"		"*** NUKE IN 1 MINUTE ***"
-	}
-	"*** NUKE IN 30 SECONDS ***"
-	{
-		"default"		"*** NUKE IN 30 SECONDS ***"
+		"ru"		"*** ВЗРЫВ ЧЕРЕЗ 1 МИНУТУ И 30 СЕКУНД ***"
 	}
 	"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
 	{
 		"default"		"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
+		"ru"		"*** ЗОМБИ НЕ ДОЛЖНЫ ПОКИНУТЬ ХРАМ! ***"
+	}
+	"*** NUKE IN 1 MINUTE ***"
+	{
+		"default"		"*** NUKE IN 1 MINUTE ***"
+		"ru"		"*** ВЗРЫВ ЧЕРЕЗ 1 МИНУТУ ***"
+	}
+	"*** NUKE IN 30 SECONDS ***"
+	{
+		"default"		"*** NUKE IN 30 SECONDS ***"
+		"ru"		"*** ВЗРЫВ ЧЕРЕЗ 30 СЕКУНД ***"
+	}
+	"*** 5 ***"
+	{
+		"default"		"*** 5 ***"
+	}
+	"*** 4 ***"
+	{
+		"default"		"*** 4 ***"
+	}
+	"*** 3 ***"
+	{
+		"default"		"*** 3 ***"
+	}
+	"*** 2 ***"
+	{
+		"default"		"*** 2 ***"
+	}
+	"*** 1 ***"
+	{
+		"default"		"*** 1 ***"
+	}
+	"*** YOU WIN! ***"
+	{
+		"default"		"*** YOU WIN! ***"
+		"ru"		"*** ВЫ ПОБЕДИЛИ! ***"
 	}
 	"*** YOU FAILED! ZOMBIES ESCAPED! ***"
 	{
 		"default"		"*** YOU FAILED! ZOMBIES ESCAPED! ***"
+		"ru"		"*** ВЫ ПРОИГРАЛИ! ЗОМБИ ПОКИНУЛИ ХРАМ ***"
 	}
 }
