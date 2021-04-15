@@ -1,5 +1,6 @@
 "Chat"
-"*** MAP BY GEORGE ***"
+  {
+        "*** MAP BY GEORGE ***"
 	{
 		"default"		"*** MAP BY GEORGE ***"
 		"ru"            "*** Карта создана GEORGE | Русский перевод от Broccoli ***"
