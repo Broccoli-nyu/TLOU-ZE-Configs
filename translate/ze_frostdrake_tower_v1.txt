@@ -3,145 +3,251 @@
 	"***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***"
 	{
 		"default"		"***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***"
+		"ru"		"***НАЖМИТЕ ВСЕ 3 РЫЧАГА, ЧТОБЫ ОТКРЫТЬ ВОРОТА***"
 	}
 	"***THE FIRST LEVER HAS BEEN PRESSED***"
 	{
 		"default"		"***THE FIRST LEVER HAS BEEN PRESSED***"
+		"ru"		"***ПЕРВЫЙ РЫЧАГ НАЖАТ***"
 	}
 	"***THE SECOND LEVER HAS BEEN PRESSED***"
 	{
 		"default"		"***THE SECOND LEVER HAS BEEN PRESSED***"
+		"ru"		"***ВТОРОЙ РЫЧАГ НАЖАТ***"
 	}
 	"***ALL LEVERS HAVE BEEN PRESSED***"
 	{
 		"default"		"***ALL LEVERS HAVE BEEN PRESSED***"
+		"ru"		"***ВСЕ РЫЧАГИ НАЖАТЫ***"
 	}
 	"***ONE MORE TO GO...***"
 	{
 		"default"		"***ONE MORE TO GO...***"
+		"ru"		"***ОСТАЛСЯ ЕЩЁ ОДИН...***"
 	}
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
 		"default"		"***THE GATES ARE OPENING IN 30 SECONDS***"
+		"ru"		"***ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 30 СЕКУНД***"
 	}
 	"***THE GATES ARE OPENING***"
 	{
 		"default"		"***THE GATES ARE OPENING***"
+		"ru"		"***ВОРОТА ОТКРЫВАЮТСЯ***"
 	}
 	"***FALL BACK TOWARDS THE TOWER***"
 	{
 		"default"		"***FALL BACK TOWARDS THE TOWER***"
+		"ru"		"***ОТСТУПАЙТЕ К БАШНЕ***"
 	}
 	"***ONE LEVER HAS BEEN PRESSED***"
 	{
 		"default"		"***ONE LEVER HAS BEEN PRESSED***"
+		"ru"		"***ОДИН РЫЧАГ БЫЛ НАЖАТ***"
 	}
 	"***NOW FIND THE FINAL LEVER***"
 	{
 		"default"		"***NOW FIND THE FINAL LEVER***"
+		"ru"		"***НАЙДИТЕ И НАЖМИТЕ ЕЩЁ ОДИН***"
 	}
 	"***BOTH LEVERS HAVE BEEN PRESSED***"
 	{
 		"default"		"***BOTH LEVERS HAVE BEEN PRESSED***"
+		"ru"		"***ОБА РЫЧАГА НАЖАТЫ***"
 	}
 	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
 		"default"		"***THE GATE WILL OPEN IN 30 SECONDS***"
+		"ru"		"***ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 30 СЕКУНД***"
 	}
 	"***THE GATE IS OPENING***"
 	{
 		"default"		"***THE GATE IS OPENING***"
+		"ru"		"***ВОРОТА ОТКРЫВАЮТСЯ***"
 	}
 	"***FALL BACK***"
 	{
 		"default"		"***FALL BACK***"
+		"ru"		"***ОТСТУПАЙТЕ***"
 	}
 	"***THE ELEVATOR IS LEAVING IN 15 SECONDS***"
 	{
 		"default"		"***THE ELEVATOR IS LEAVING IN 15 SECONDS***"
+		"ru"		"***ЛИФТ УЕДЕТ ЧЕРЕЗ 15 СЕКУНД***"
 	}
 	"***THE ELEVATOR IS LEAVING***"
 	{
 		"default"		"***THE ELEVATOR IS LEAVING***"
+		"ru"		"***ЛИФТ УЕЗЖАЕТ***"
 	}
 	"***THE GATE WILL OPEN IN 60 SECONDS***"
 	{
 		"default"		"***THE GATE WILL OPEN IN 60 SECONDS***"
+		"ru"		"***ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 60 СЕКУНД***"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
 	{
 		"default"		"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
+		"ru"		"***НАЙДИТЕ УКРЫТИЕ И ОБОРОНЯЙТЕСЬ ДО ИХ ОТКРЫТИЯ***"
 	}
-	"***10 SECONDS LEFT***"
+	"***10 seconds left***"
 	{
 		"default"		"***10 SECONDS LEFT***"
+		"ru"		"***ОСТАЛОСЬ 10 СЕКУНД***"
 	}
 	"***THE GATE IS OPEN***"
 	{
 		"default"		"***THE GATE IS OPEN***"
+		"ru"		"***ВОРОТА ОТКРЫТЫ***"
 	}
 	"***HOLD HERE UNTIL THE DOORS OPEN***"
 	{
 		"default"		"***HOLD HERE UNTIL THE DOORS OPEN***"
+		"ru"		"***ОБОРОНЯЙТЕСЬ, ПОКА ДВЕРИ НЕ ОТКРОЮТСЯ***"
 	}
 	"***THE GATE WILL OPEN IN 10 SECONDS***"
 	{
 		"default"		"***THE GATE WILL OPEN IN 10 SECONDS***"
+		"ru"		"***ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 10 СЕКУНД***"
 	}
 	"***THE OUTER GATE WILL OPEN IN 10 SECONDS***"
 	{
 		"default"		"***THE OUTER GATE WILL OPEN IN 10 SECONDS***"
+		"ru"		"***ВНЕШНИЕ ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 10 СЕКУНД***"
 	}
 	"***THE OUTER GATE IS OPENING***"
 	{
 		"default"		"***THE OUTER GATE IS OPENING***"
+		"ru"		"***ВНЕШНИЕ ВОРОТА ОТКРЫВАЮТСЯ***"
 	}
 	"***HOLD FOR 20 SECONDS***"
 	{
 		"default"		"***HOLD FOR 20 SECONDS***"
+		"ru"		"***ОБОРОНЯЙТЕСЬ В ТЕЧЕНИЕ 20 СЕКУНД***"
 	}
 	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 10 SECONDS***"
+		"ru"		"***ЛИФТ УЕДЕТ ЧЕРЕЗ 10 СЕКУНД***"
 	}
 	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"default"		"***ELEVATOR IS LEAVING IN 5 SECONDS***"
+		"ru"		"***ЛИФТ УЕДЕТ ЧЕРЕЗ 5 СЕКУНД***"
 	}
 	"***ELEVATOR IS LEAVING***"
 	{
 		"default"		"***ELEVATOR IS LEAVING***"
+		"ru"		"***ЛИФТ УЕЗЖАЕТ***"
 	}
 	"***THE GATES WILL OPEN IN 10 SECONDS***"
 	{
 		"default"		"***THE GATES WILL OPEN IN 10 SECONDS***"
+		"ru"		"***ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 10 СЕКУНД***"
 	}
 	"***THE TOWER GATE WILL OPEN IN 15 SECONDS***"
 	{
 		"default"		"***THE TOWER GATE WILL OPEN IN 15 SECONDS***"
+		"ru"		"***ВОРОТА БАШНИ ОТКРОЮТСЯ ЧЕРЕЗ 15 СЕКУНД***"
 	}
 	"***THE TOWER GATE IS OPEN***"
 	{
 		"default"		"***THE TOWER GATE IS OPEN***"
+		"ru"		"***ВОРОТА БАШНИ ОТКРЫТЫ***"
 	}
 	"***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***"
 	{
 		"default"		"***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***"
+		"ru"		"***ВОРОТА ВЕРХНЕЙ БАШНИ ОТКРОЮТСЯ ЧЕРЕЗ 20 СЕКУНД.***"
 	}
 	"***THE UPPER TOWER GATE IS OPEN***"
 	{
 		"default"		"***THE UPPER TOWER GATE IS OPEN***"
+		"ru"		"***ВОРОТА ВЕРХНЕЙ БАШНИ ОТКРЫТЫ***"
 	}
 	"***THE GATE WILL OPEN IN 15 SECONDS***"
 	{
 		"default"		"***THE GATE WILL OPEN IN 15 SECONDS***"
+		"ru"		"***ВОРОТА ОТКРОЮТСЯ ЧЕРЕЗ 15 СЕКУНД***"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***"
 	{
 		"default"		"***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***"
+		"ru"		"***НАЙДИТЕ УКРЫТИЕ И ПРОДЕРЖИТЕСЬ В ТЕЧЕНИЕ 60 СЕКУНД***"
 	}
 	"***CLIMB THE TOWER***"
 	{
 		"default"		"***CLIMB THE TOWER***"
+		"ru"		"***ПОДНИМИТЕСЬ НА БАШНЮ***"
+	}
+	"***HOLD FOR 15 SECONDS***"
+	{
+		"default"		"***HOLD FOR 15 SECONDS***"
+		"ru"		"***ПРОДЕРЖИТЕСЬ ЕЩЁ 15 СЕКУНД***"
+	}
+	"***FALL BACK TOWARDS THE TOP***"
+	{
+		"default"		"***FALL BACK TOWARDS THE TOP***"
+		"ru"		"***ОТСТУПАЙТЕ НАВЕРХ***"
+	}
+	"***IT'S COMING***"
+	{
+		"default"		"***IT'S COMING***"
+		"ru"		"***ОН ПРИБЛИЖАЕТСЯ***"
+	}
+	"***PREPARE YOURSELF***"
+	{
+		"default"		"***PREPARE YOURSELF***"
+		"ru"		"***ПРИГОТОВЬТЕСЬ***"
+	}
+	"***THE ZOMBIE CAGE IS OPEN***"
+	{
+		"default"		"***THE ZOMBIE CAGE IS OPEN***"
+		"ru"		"***КЛЕТКА ЗОМБИ ОТКРЫТА***"
+	}
+	"***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***"
+	{
+		"default"		"***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***"
+		"ru"		"***НЕ ЗАБУДЬТЕ СДЕРЖИВАТЬ ИХ ВО ВРЕМЯ СРАЖЕНИЯ***"
+	}
+	"***YOU DID IT***"
+	{
+		"default"		"***YOU DID IT***"
+		"ru"		"***ВЫ СДЕЛАЛИ ЭТО***"
+	}
+	"*** YOU HAVE SLAYED ANCHELION***"
+	{
+		"default"		"*** YOU HAVE SLAYED ANCHELION***"
+		"ru"		"*** ВЫ ПОБЕДИЛИ АНХЕЛИОНА***"
+	}
+	"*** THE CURSE IS BROKEN***"
+	{
+		"default"		"*** THE CURSE IS BROKEN***"
+		"ru"		"*** ПРОКЛЯТИЕ РАЗРУШЕНО***"
+	}
+	"***ESCAPE TOWARDS THE END***"
+	{
+		"default"		"***ESCAPE TOWARDS THE END***"
+		"ru"		"***ОТСТУПАЙТЕ НА КРАЙ БАШНИ***"
+	}
+	"***JUMP***"
+	{
+		"default"		"***JUMP***"
+		"ru"		"***ПРЫГАЙТЕ***"
+	}
+	"***YOU WON***"
+	{
+		"default"		"***YOU WON***"
+		"ru"		"***ВЫ ПОБЕДИЛИ***"
+	}
+	"***MAP MADE BY LUFFAREN***"
+	{
+		"default"		"***MAP MADE BY LUFFAREN***"
+		"ru"		"***КАРТУ СОЗДАЛ LUFFAREN | Русский перевод от Broccoli***"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"default"		"***THANK YOU FOR PLAYING***"
+		"ru"		"***СПАСИБО ЗА ИГРУ***"
 	}
 }
