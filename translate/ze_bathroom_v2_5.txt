@@ -3,113 +3,171 @@
 	"Map made by Puklica & Cuniczek"
 	{
 		"default"		"Map made by Puklica & Cuniczek"
+		"ru"		"Карта создана Puklica & Cuniczek | Русский перевод от Broccoli"
 	}
 	">>> |LEVEL 1| <<<"
 	{
 		"default"		">>> |LEVEL 1| <<<"
+		"ru"		">>> |УРОВЕНЬ 1| <<<"
 	}
 	"Mouse trap has been picked up."
 	{
 		"default"		"Mouse trap has been picked up."
+		"ru"		"Подобрана Мышеловка."
 	}
 	"Sponge builder has been picked up."
 	{
 		"default"		"Sponge builder has been picked up."
+		"ru"		"Подобран Губкостроитель."
 	}
 	"We'll have to roll down the toilet paper to safely climb down."
 	{
 		"default"		"We'll have to roll down the toilet paper to safely climb down."
+		"ru"		"Нам придется развернуть туалетную бумагу, чтобы безопасно спуститься вниз."
 	}
 	"Toilet paper has been rolled down. Fall back!"
 	{
 		"default"		"Toilet paper has been rolled down. Fall back!"
+		"ru"		"Туалетная бумага развернута. Отступайте!"
 	}
 	"Hold for 15 seconds."
 	{
 		"default"		"Hold for 15 seconds."
+		"ru"		"Обороняйтесь в течение 15 секунд."
 	}
 	"Resist for 30 seconds."
 	{
 		"default"		"Resist for 30 seconds."
+		"ru"		"Обороняйтесь в течение 30 секунд."
 	}
 	"Resist for 25 seconds."
 	{
 		"default"		"Resist for 25 seconds."
+		"ru"		"Обороняйтесь в течение 25 секунд."
 	}
 	"Hold here until the blue sponge drops, then get in the tub!"
 	{
 		"default"		"Hold here until the blue sponge drops, then get in the tub!"
+		"ru"		"Обороняйтесь здесь, пока синяя губка не упадет, а затем залезьте в ванну!"
 	}
 	"The path is blocked. Fall back!"
 	{
 		"default"		"The path is blocked. Fall back!"
+		"ru"		"Путь перекрыт. Отступайте!"
 	}
 	"The Rubber Duck has been defeated."
 	{
 		"default"		"The Rubber Duck has been defeated."
+		"ru"		"Резиновая Утка побеждена."
 	}
 	"You have won first level!"
 	{
 		"default"		"You have won first level!"
+		"ru"		"Вы прошли первый уровень!"
 	}
 	">>> |LEVEL 2| <<<"
 	{
 		"default"		">>> |LEVEL 2| <<<"
+		"ru"		">>> |УРОВЕНЬ 2| <<<"
 	}
 	"Resist until the wall breaks."
 	{
 		"default"		"Resist until the wall breaks."
+		"ru"		"Обороняйтесь, пока стена не сломается."
 	}
 	"Fall back!"
 	{
 		"default"		"Fall back!"
+		"ru"		"Отступайте!"
 	}
 	"We have to clear the soap out of the way to be able to climb up."
 	{
 		"default"		"We have to clear the soap out of the way to be able to climb up."
+		"ru"		"Мы должны убрать мыло с дороги, чтобы подняться наверх."
 	}
 	"The path has been cleared."
 	{
 		"default"		"The path has been cleared."
+		"ru"		"Путь расчищен."
 	}
 	"We'll have to jump outside and walk across the mirror."
 	{
 		"default"		"We'll have to jump outside and walk across the mirror."
+		"ru"		"Нам придется выпрыгнуть наружу и пройти по зеркалу."
 	}
 	"Hold on for a few seconds."
 	{
 		"default"		"Hold on for a few seconds."
+		"ru"		"Продержитесь несколько секунд."
 	}
 	"We can use the hairdryer to reach the shelf!"
 	{
 		"default"		"We can use the hairdryer to reach the shelf!"
+		"ru"		"Мы можем использовать фен, чтобы добраться до полки!"
 	}
 	"Seems like there is no way to escape."
 	{
 		"default"		"Seems like there is no way to escape."
+		"ru"		"Похоже, бежать некуда."
 	}
 	"That's it! Break the shelf support."
 	{
 		"default"		"That's it! Break the shelf support."
+		"ru"		"Это оно! Сломайте опору полки."
 	}
 	"We are trapped! Resist!"
 	{
 		"default"		"We are trapped! Resist!"
+		"ru"		"Мы в ловушке! Обороняйтесь!"
 	}
 	"Fall back we can walk across the door."
 	{
 		"default"		"Fall back we can walk across the door."
+		"ru"		"Мы можем пройти по двери, отступаем."
 	}
 	"There is no way around."
 	{
 		"default"		"There is no way around."
+		"ru"		"Похоже, другого пути нет."
 	}
 	"We'll have to enter the boiler. Resist!"
 	{
 		"default"		"We'll have to enter the boiler. Resist!"
+		"ru"		"Придется идти через бойлер. Держитесь!"
 	}
 	"We can enter through that hole! Fall back!"
 	{
 		"default"		"We can enter through that hole! Fall back!"
+		"ru"		"Мы можем войти через эту дыру! Отступаем!"
+	}
+	"Resist for 20 seconds."
+	{
+		"default"		"Resist for 20 seconds."
+		"ru"		"Обороняйтесь в течение 20 секунд."
+	}
+	"Hold here until something happens!"
+	{
+		"default"		"Hold here until something happens!"
+		"ru"		"Держитесь здесь, пока что-нибудь не случится!"
+	}
+	"The sponge has been defeated! Run!"
+	{
+		"default"		"The sponge has been defeated! Run!"
+		"ru"		"Губка побеждена! Бегите!"
+	}
+	"Final doors are going to close in 30 seconds! Resist!"
+	{
+		"default"		"Final doors are going to close in 30 seconds! Resist!"
+		"ru"		"Финальная дверь закроется через 30 секунд! Держитесь!"
+	}
+	"You have won the map! Congratulations!"
+	{
+		"default"		"You have won the map! Congratulations!"
+		"ru"		"Вы прошли карту! Поздравляем!"
+	}
+	"Kill all zombies inside!"
+	{
+		"default"		"Kill all zombies inside!"
+		"ru"		"Убейте всех зомби внутри!"
 	}
 }
