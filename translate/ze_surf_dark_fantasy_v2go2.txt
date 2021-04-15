@@ -38,7 +38,7 @@
 	"***Humans picked up Wind***"
 	{
 		"default"		"***Humans picked up Wind***"
-		"ru"		"***Люди подобрали Ветер (Wind)***"
+		"ru"		"***Люди подобрали Ветер***"
 	}
 	"***Afk will be teleported after 5 seconds***"
 	{
@@ -103,7 +103,7 @@
 	"***Humans picked up Gravity***"
 	{
 		"default"		"***Humans picked up Gravity***"
-		"ru"		"***Люди подобрали Гравитацию (Gravity)***"
+		"ru"		"***Люди подобрали Гравитацию***"
 	}
 	"***Doors will open in 30 seconds***"
 	{
@@ -128,17 +128,17 @@
 	"***CreeperGirl is using Push Attack***"
 	{
 		"default"		"***CreeperGirl is using Push Attack***"
-		"ru"		"***Девушка-Крипер использует Толкающую атаку (Push Attack)***"
+		"ru"		"***Девушка-Крипер использует Толкающую атаку***"
 	}
 	"***CreeperGirl is using Fire Attack***"
 	{
 		"default"		"***CreeperGirl is using Fire Attack***"
-		"ru"		"***Девушка-Крипер использует Огненную атаку (Fire Attack)***"
+		"ru"		"***Девушка-Крипер использует Огненную атаку***"
 	}
 	"***CreeperGirl is using TNT Attack***"
 	{
-	   "default"        "***CreeperGirl is using TNT Attack***"
-	   "ru"         "***Девушка-Крипер использует атаку Динамитом (TNT Attack)***"
+		"default"		"***CreeperGirl is using TNT Attack***"
+		"ru"		"***Девушка-Крипер использует атаку Динамитом***"
 	}
 	"***Doors will open in 20 seconds***"
 	{
@@ -153,7 +153,7 @@
 	"***Humans picked up Heal***"
 	{
 		"default"		"***Humans picked up Heal***"
-		"ru"		"***Люди подобрали исцеление (Heal)***"
+		"ru"		"***Люди подобрали Исцеление***"
 	}
 	"***Random path will open in 30 seconds***"
 	{
@@ -163,12 +163,12 @@
 	"***Zombies picked up Heal***"
 	{
 		"default"		"***Zombies picked up Heal***"
-		"ru"		"***Зомби подобрали Исцеление (Heal)***"
+		"ru"		"***Зомби подобрали Исцеление***"
 	}
 	"***Zombies picked up Fire***"
 	{
 		"default"		"***Zombies picked up Fire***"
-		"ru"		"***Зомби подобрали Огонь (Fire)***"
+		"ru"		"***Зомби подобрали Огонь***"
 	}
 	"***Big Doors will open in 40 seconds***"
 	{
@@ -193,7 +193,7 @@
 	"***Humans picked up Electro***"
 	{
 		"default"		"***Humans picked up Electro***"
-		"ru"		"***Люди подобрали Электричество (Electro)***"
+		"ru"		"***Люди подобрали Электричество***"
 	}
 	"***Elevator will leave in 20 seconds***"
 	{
@@ -298,27 +298,27 @@
 	"***Charon used Gravity***"
 	{
 		"default"		"***Charon used Gravity***"
-		"ru"		"***Харон использует Гравитацию (Gravity)***"
+		"ru"		"***Харон использует Гравитацию***"
 	}
 	"***Charon used The Call of Death***"
 	{
 		"default"		"***Charon used The Call of Death***"
-		"ru"		"***Харон использует Зов Смерти (The Call of Death)***"
+		"ru"		"***Харон использует Зов Смерти***"
 	}
 	"***Charon used Air Attack***"
 	{
-	    "default"       "***Charon used Air Attack***"
-		"ru"        "***Харон использует Воздушную Атаку (Air Attack)***"
+		"default"		"***Charon used Air Attack***"
+		"ru"		"***Харон использует Воздушную Атаку***"
 	}
 	"***Charon used The Fire of Death***"
 	{
 		"default"		"***Charon used The Fire of Death***"
-		"ru"		"***Харон использует Огонь Смерти (The Fire of Death)***"
+		"ru"		"***Харон использует Огонь Смерти***"
 	}
 	"***Charon used Scythe***"
 	{
 		"default"		"***Charon used Scythe***"
-		"ru"		"***Харон использует Косу (Scythe)***"
+		"ru"		"***Харон использует Косу***"
 	}
 	"***Zombies will be teleported after 10 seconds***"
 	{
@@ -328,7 +328,7 @@
 	"***To go further you must solve the riddle***"
 	{
 		"default"		"***To go further you must solve the riddle***"
-		"ru"		"***Чтобы пройти дальше, вы должны разгадать загадку|Перевод предметов (Sword/Меч, Bow/Лук, Spear/Копье, Shield/Щит)***"
+		"ru"		"***Чтобы пройти дальше, вы должны разгадать загадку***"
 	}
 	"***The order | 1-Shield 2-Bow 3-Sword 4-Spear***"
 	{
@@ -357,17 +357,17 @@
 	"***CatGirl is using Laser***"
 	{
 		"default"		"***CatGirl is using Laser***"
-		"ru"		"***Девушка-Кошка использует Лазер (Laser)***"
+		"ru"		"***Девушка-Кошка использует Лазер***"
 	}
 	"***CatGirl is using Drop Weapon Attack***"
 	{
 		"default"		"***CatGirl is using Drop Weapon Attack***"
-		"ru"		"***Девушка-Кошка заставила вас Выбросить Оружие (Drop Weapon Attack)***"
+		"ru"		"***Девушка-Кошка заставляет вас Выбросить Оружие***"
 	}
 	"***CatGirl is using Crystal***"
 	{
 		"default"		"***CatGirl is using Crystal***"
-		"ru"		"***Девушка-Кошка призывает Кристалл (Crystal)***"
+		"ru"		"***Девушка-Кошка призывает Кристалл***"
 	}
 	"***CatGirl can be Cured by 180 HP***"
 	{
@@ -377,12 +377,12 @@
 	"***CatGirl is using Pressure***"
 	{
 		"default"		"***CatGirl is using Pressure***"
-		"ru"		"***Девушка-Кошка использует Давление (Pressure)***"
+		"ru"		"***Девушка-Кошка использует Давление***"
 	}
 	"***CatGirl is using Electro***"
 	{
 		"default"		"***CatGirl is using Electro***"
-		"ru"		"***Девушка-Кошка использует Электричество (Electro)***"
+		"ru"		"***Девушка-Кошка использует Электричество***"
 	}
 	"***You killed the CatGirl Boss***"
 	{
@@ -492,7 +492,7 @@
 	"***You killed the boss of the True Ending***"
 	{
 		"default"		"***You killed the boss of the True Ending***"
-		"ru"		"***Вы убили босса Настоящей Концовки***"
+		"ru"		"***Вы убили босса Настойщей Концовки***"
 	}
 	"***Congratulations You have passed the map***"
 	{
@@ -503,5 +503,20 @@
 	{
 		"default"		"***Nuke***"
 		"ru"		"***Взрыв***"
+	}
+	"***You killed the final boss. Teleportation after 10 seconds***"
+	{
+		"default"		"***You killed the final boss. Teleportation after 10 seconds***"
+		"ru"		"***Вы убили финального босса. Телепортация через 10 секунд***"
+	}
+	"***Charon can be Cured by 300 HP***"
+	{
+		"default"		"***Charon can be Cured by 300 HP***"
+		"ru"		"***Харон исцелился на 300 ХП***"
+	}
+	"***Slow***"
+	{
+		"default"		"***Slow***"
+		"ru"		"***Медленно***"
 	}
 }
