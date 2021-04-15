@@ -492,7 +492,7 @@
 	"***You killed the boss of the True Ending***"
 	{
 		"default"		"***You killed the boss of the True Ending***"
-		"ru"		"***Вы убили босса Настойщей Концовки***"
+		"ru"		"***Вы убили босса Настоящей Концовки***"
 	}
 	"***Congratulations You have passed the map***"
 	{
