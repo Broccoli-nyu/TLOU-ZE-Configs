@@ -97,7 +97,7 @@
 	"*** WHAT WAS THAT THING? ***"
 	{
 		"default"		"*** WHAT WAS THAT THING? ***"
-		"ru"		"*** ЧТО ЭТО ЗА ШТУКА?? ***"
+		"ru"		"*** ЧТО ЭТО БЫЛА ЗА ШТУКА?? ***"
 	}
 	"*** OH WELL! WHATEVER IT IS IT'S GONE NOW! ***"
 	{
