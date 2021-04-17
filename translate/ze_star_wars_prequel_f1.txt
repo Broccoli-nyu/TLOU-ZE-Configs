@@ -3,305 +3,411 @@
 	"***Stage 1 - The Phantom Menace***"
 	{
 		"default"		"***Stage 1 - The Phantom Menace***"
+		"ru"		"***Эпизод 1 - Скрытая угроза***"
 	}
 	"***MAP BY RAPHI***"
 	{
 		"default"		"***MAP BY RAPHI***"
+		"ru"		"***Карта создана RAPHI | Русский перевод от Broccoli***"
 	}
 	"***DEDICATED TO MAPEADORES***"
 	{
 		"default"		"***DEDICATED TO MAPEADORES***"
+		"ru"		"***Посвящается MAPEADORES***"
 	}
 	">>>> 30 sec <<<<"
 	{
 		"default"		">>>> 30 sec <<<<"
+		"ru"		">>>> 30 сек <<<<"
 	}
 	">>>> 15 sec <<<<"
 	{
 		"default"		">>>> 15 sec <<<<"
+		"ru"		">>>> 15 сек <<<<"
 	}
 	"Elevator will leave in 30 sec"
 	{
 		"default"		"Elevator will leave in 30 sec"
+		"ru"		"Лифт уедет через 30 сек"
 	}
 	">>>> 10 sec <<<<"
 	{
 		"default"		">>>> 10 sec <<<<"
+		"ru"		">>>> 10 сек <<<<"
 	}
 	">>>> FALL BACK <<<<"
 	{
 		"default"		">>>> FALL BACK <<<<"
+		"ru"		">>>> Отступайте <<<<"
 	}
 	">>>> 20 sec <<<<"
 	{
 		"default"		">>>> 20 sec <<<<"
+		"ru"		">>>> 20 сек <<<<"
 	}
 	">>>> 40 sec <<<<"
 	{
 		"default"		">>>> 40 sec <<<<"
+		"ru"		">>>> 40 сек <<<<"
 	}
 	">>>> GET INSIDE <<<<"
 	{
 		"default"		">>>> GET INSIDE <<<<"
+		"ru"		">>>> Зайдите внутрь <<<<"
 	}
 	">>>> 5 sec <<<<"
 	{
 		"default"		">>>> 5 sec <<<<"
+		"ru"		">>>> 5 сек <<<<"
 	}
 	"***YOU DEFEATED DARTH MAUL***"
 	{
 		"default"		"***YOU DEFEATED DARTH MAUL***"
+		"ru"		"***Вы одолели Дарта Мола***"
 	}
 	"***Stage 2 - Attack of the Clones***"
 	{
 		"default"		"***Stage 2 - Attack of the Clones***"
+		"ru"		"***Эпизод 2 - Атака клонов***"
 	}
 	"***OPENING IN 5 SEC***"
 	{
 		"default"		"***OPENING IN 5 SEC***"
+		"ru"		"***Дверь откроется через 5 сек***"
 	}
 	"***LADDER FALLING DOWN IN 20 SEC***"
 	{
 		"default"		"***LADDER FALLING DOWN IN 20 SEC***"
+		"ru"		"***Лестница спустится через 20 сек***"
 	}
 	"***10 SEC LEFT***"
 	{
 		"default"		"***10 SEC LEFT***"
+		"ru"		"***Осталось 10 сек***"
 	}
 	"***TELPORTING ZM IN 5 SEC***"
 	{
 		"default"		"***TELPORTING ZM IN 5 SEC***"
+		"ru"		"***Телепортация Зомби через 5 сек***"
 	}
 	"***OPENING IN 30 SEC***"
 	{
 		"default"		"***OPENING IN 30 SEC***"
+		"ru"		"***Проход появится через 30 сек***"
 	}
 	"***OPENING IN 10 SEC***"
 	{
 		"default"		"***OPENING IN 10 SEC***"
+		"ru"		"***Проход появится через 10 сек***"
 	}
 	"***PLATFORMS ARE COMING SOON***"
 	{
 		"default"		"***PLATFORMS ARE COMING SOON***"
+		"ru"		"***Платформы скоро прибудут***"
 	}
 	"***PLATFORMS ARE ON THE WAY***"
 	{
 		"default"		"***PLATFORMS ARE ON THE WAY***"
+		"ru"		"***Платформы уже в пути***"
 	}
 	"***GET ON IT FAST***"
 	{
 		"default"		"***GET ON IT FAST***"
+		"ru"		"***Быстрее залезайте***"
 	}
 	"***TELPORTING ZM***"
 	{
 		"default"		"***TELPORTING ZM***"
+		"ru"		"***Телепортация зомби***"
 	}
 	"***JUMP DOWN***"
 	{
 		"default"		"***JUMP DOWN***"
+		"ru"		"***Спрыгивайте***"
 	}
 	"***TELEPORTING ZM IN 10 SEC***"
 	{
 		"default"		"***TELEPORTING ZM IN 10 SEC***"
+		"ru"		"***Телепортация зомби через 10 сек***"
 	}
 	"***ELEVATOR LEAVING IN 30 SEC***"
 	{
 		"default"		"***ELEVATOR LEAVING IN 30 SEC***"
+		"ru"		"***Лифт уедет через 30 сек***"
 	}
 	"***ELEVATOR LEAVING IN 10 SEC***"
 	{
 		"default"		"***ELEVATOR LEAVING IN 10 SEC***"
+		"ru"		"***Лифт уедет через 10 сек***"
 	}
 	"***ZM TP IN 5 SEC***"
 	{
 		"default"		"***ZM TP IN 5 SEC***"
+		"ru"		"***Телепортация зомби через 5 сек***"
 	}
 	"*** Player has picked up Heal ***"
 	{
 		"default"		"*** Player has picked up Heal ***"
+		"ru"		"*** Игрок подобрал Исцеление ***"
 	}
 	"***DEFEND THIS ROOM 30 SEC***"
 	{
 		"default"		"***DEFEND THIS ROOM 30 SEC***"
+		"ru"		"***Защищайте эту комнату в течение 30 сек***"
 	}
 	"***DOOR CLOSING IN 10 SEC***"
 	{
 		"default"		"***DOOR CLOSING IN 10 SEC***"
+		"ru"		"***Дверь закроется через 10 сек***"
 	}
 	"***SURVIVE 60 SECONDS***"
 	{
 		"default"		"***SURVIVE 60 SECONDS***"
+		"ru"		"***Выживайте в течение 60 секунд***"
 	}
 	"***20 SECONDS LEFT***"
 	{
 		"default"		"***20 SECONDS LEFT***"
+		"ru"		"***Осталось 20 секунд***"
 	}
 	"***GET INSIDE THE SHIP FAST***"
 	{
 		"default"		"***GET INSIDE THE SHIP FAST***"
+		"ru"		"***Быстрее залезайте внутрь***"
 	}
 	"***WE ARE UNDER ATTACK***"
 	{
 		"default"		"***WE ARE UNDER ATTACK***"
+		"ru"		"***На нас напали***"
 	}
 	"***DEFEND UNTIL WE REACH DOOKU***"
 	{
 		"default"		"***DEFEND UNTIL WE REACH DOOKU***"
+		"ru"		"***Защищайтесь, пока мы не догоним Дуку***"
 	}
 	"***GOOD JOB***"
 	{
 		"default"		"***GOOD JOB***"
+		"ru"		"***Хорошая работа**"
 	}
 	"***LETS CATCH UP DOOKU NOW***"
 	{
 		"default"		"***LETS CATCH UP DOOKU NOW***"
+		"ru"		"***Давайте схватим Дуку***"
 	}
 	"***GET INSIDE***"
 	{
 		"default"		"***GET INSIDE***"
+		"ru"		"***Зайдите внутрь***"
 	}
 	"***YOU DEFEATED HIM***"
 	{
 		"default"		"***YOU DEFEATED HIM***"
+		"ru"		"***Вы одолели его***"
 	}
 	"***CONGRATS***"
 	{
 		"default"		"***CONGRATS***"
+		"ru"		"***Поздравляем***"
 	}
 	"***KILL THE ZOMBIES***"
 	{
 		"default"		"***KILL THE ZOMBIES***"
+		"ru"		"***Убейте зомби***"
 	}
 	"***INSIDE DOOR OPEN IN 15 SEC***"
 	{
 		"default"		"***INSIDE DOOR OPEN IN 15 SEC***"
+		"ru"		"***Внутренняя дверь откроется через 15 сек***"
 	}
 	"***OUTSIDE DOOR OPEN IN 45 SEC***"
 	{
 		"default"		"***OUTSIDE DOOR OPEN IN 45 SEC***"
+		"ru"		"***Дверь наружу откроется через 45 сек***"
 	}
 	"***INSIDE DOOR OPEN IN 5 SEC***"
 	{
 		"default"		"***INSIDE DOOR OPEN IN 5 SEC***"
+		"ru"		"***Внутренняя дверь откроется через 5 сек***"
 	}
 	"***OUTSIDE DOOR OPEN IN 20 SEC***"
 	{
 		"default"		"***OUTSIDE DOOR OPEN IN 20 SEC***"
+		"ru"		"***Дверь наружу откроется через 20 сек***"
 	}
 	"***OUTSIDE DOOR OPEN IN 5 SEC***"
 	{
 		"default"		"***OUTSIDE DOOR OPEN IN 5 SEC***"
+		"ru"		"***Дверь наружу откроется через 5 сек***"
 	}
 	"***GET ON THE PLATFORM***"
 	{
 		"default"		"***GET ON THE PLATFORM***"
+		"ru"		"***Встаньте на платформу***"
 	}
 	"***PLATFORM LEAVING IN 15 SEC***"
 	{
 		"default"		"***PLATFORM LEAVING IN 15 SEC***"
+		"ru"		"***Платформа уедет через 15 сек***"
 	}
 	"***DOOR OPEN IN 30 SEC***"
 	{
 		"default"		"***DOOR OPEN IN 30 SEC***"
+		"ru"		"***Дверь откроется через 30 сек***"
 	}
 	"***DOOR OPEN IN 10 SEC***"
 	{
 		"default"		"***DOOR OPEN IN 10 SEC***"
+		"ru"		"***Дверь откроется через 10 сек***"
 	}
 	"***LEDGE BREAK IN 40 SEC***"
 	{
 		"default"		"***LEDGE BREAK IN 40 SEC***"
+		"ru"		"***Выступ сломается через 40 сек***"
 	}
 	"***LEDGE BREAK IN 20 SEC***"
 	{
 		"default"		"***LEDGE BREAK IN 20 SEC***"
+		"ru"		"***Выступ сломается через 20 сек***"
 	}
 	"***LEDGE BREAK IN 10 SEC***"
 	{
 		"default"		"***LEDGE BREAK IN 10 SEC***"
+		"ru"		"***Выступ сломается через 10 сек***"
 	}
 	"***DOOR OPEN IN 45 SEC***"
 	{
 		"default"		"***DOOR OPEN IN 45 SEC***"
+		"ru"		"***Дверь откроется через 45 сек***"
 	}
 	"***DOOR OPEN IN 20 SEC***"
 	{
 		"default"		"***DOOR OPEN IN 20 SEC***"
+		"ru"		"***Дверь откроется через 20 сек***"
 	}
 	"***DOOR OPEN IN 5 SEC***"
 	{
 		"default"		"***DOOR OPEN IN 5 SEC***"
+		"ru"		"***Дверь откроется через 5 сек***"
 	}
 	"***DOOR CLOSE IN 5 SEC***"
 	{
 		"default"		"***DOOR CLOSE IN 5 SEC***"
+		"ru"		"***Дверь закроется через 5 сек***"
 	}
 	"***PLATFORM LEAVING IN 5SEC***"
 	{
 		"default"		"***PLATFORM LEAVING IN 5SEC***"
+		"ru"		"***Платформа уедет через 5 сек***"
 	}
 	"***ANAKIN IS CONSUMED BY THE DARK SIDE***"
 	{
 		"default"		"***ANAKIN IS CONSUMED BY THE DARK SIDE***"
+		"ru"		"***Энакин поглощен темной стороной***"
 	}
 	"***STAY BACK AND SHOOT***"
 	{
 		"default"		"***STAY BACK AND SHOOT***"
+		"ru"		"***Стойте сзади и стреляйте***"
 	}
 	"***ATTACK: UP LIGHT SABER THROW***"
 	{
 		"default"		"***ATTACK: UP LIGHT SABER THROW***"
+		"ru"		"***Атака: Верхний бросок светового меча***"
 	}
 	"***ATTACK: DEFENSIVE POSITION***"
 	{
 		"default"		"***ATTACK: DEFENSIVE POSITION***"
+		"ru"		"***Атака: Защитная позиция***"
 	}
 	"***ATTACK: DOWN LIGHT SABER THROW***"
 	{
 		"default"		"***ATTACK: DOWN LIGHT SABER THROW***"
+		"ru"		"***Атака: Нижний бросок светового меча***"
 	}
 	"***HOLD ON***"
 	{
 		"default"		"***HOLD ON***"
+		"ru"		"***Держитесь***"
 	}
 	"***WHAT IS GOING ON***"
 	{
 		"default"		"***WHAT IS GOING ON***"
+		"ru"		"***Что происходит***"
 	}
 	"***YOU'VE ESCAPED ANAKIN***"
 	{
 		"default"		"***YOU'VE ESCAPED ANAKIN***"
+		"ru"		"***Вы сбежали от Энакина***"
 	}
 	"***Hope he is dead...***"
 	{
 		"default"		"***Hope he is dead...***"
+		"ru"		"***Надеюсь он мертв...***"
 	}
 	"***ZOMBIES !!***"
 	{
 		"default"		"***ZOMBIES !!***"
+		"ru"		"***Зомби!!***"
 	}
 	"***ATTACK: FORCE ATTRACTION***"
 	{
 		"default"		"***ATTACK: FORCE ATTRACTION***"
+		"ru"		"***Атака: Притяжение силой***"
 	}
 	"***IT LOOKS HOT WAIT A MOMENT***"
 	{
 		"default"		"***IT LOOKS HOT WAIT A MOMENT***"
+		"ru"		"***Выглядит горячо, подождите немного***"
 	}
 	"***WAIT 10 MORE SECONDS***"
 	{
 		"default"		"***WAIT 10 MORE SECONDS***"
+		"ru"		"***Подождите ещё 10 секунд***"
 	}
 	"***THE WAY SEEMS CLEAR***"
 	{
 		"default"		"***THE WAY SEEMS CLEAR***"
+		"ru"		"***Кажется можно пройти***"
 	}
 	"***DEFEND UNTIL SOME HELP ARRIVE***"
 	{
 		"default"		"***DEFEND UNTIL SOME HELP ARRIVE***"
+		"ru"		"***Защищайтесь, пока не прибудет помощь***"
 	}
 	"***WHAT IS GOING ON???***"
 	{
 		"default"		"***WHAT IS GOING ON???***"
+		"ru"		"***Что происходит???***"
+	}
+	"***I THINK HE IS DEAD***"
+	{
+		"default"		"***I THINK HE IS DEAD***"
+		"ru"		"***Я думаю он мертв***"
+	}
+	"***PLATFORM LEAVING IN 20 SEC***"
+	{
+		"default"		"***PLATFORM LEAVING IN 20 SEC***"
+		"ru"		"***Платформа уедет через 20 сек***"
+	}
+	"***ZOMBIES ARE COMING***"
+	{
+		"default"		"***ZOMBIES ARE COMING***"
+		"ru"		"***Зомби идут***"
+	}
+	"***YOU'VE DEFEATED ANAKIN!!!***"
+	{
+		"default"		"***YOU'VE DEFEATED ANAKIN!!!***"
+		"ru"		"***Вы одолели Энакина!!!***"
+	}
+	"***CONGRATS FOR BEATING THE MAP***"
+	{
+		"default"		"***CONGRATS FOR BEATING THE MAP***"
+		"ru"		"***Поздравляем, вы прошли карту***"
+	}
+	"***MADE BY RAPHI***"
+	{
+		"default"		"***MADE BY RAPHI***"
+		"ru"		"***Карта создана RAPHI | Русский перевод от Broccoli***"
 	}
 }
