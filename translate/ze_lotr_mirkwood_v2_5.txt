@@ -1,0 +1,278 @@
+"Chat"
+{
+	"**Level1**"
+	{
+		"default"		"**Level1**"
+		"ru"		"**Уровень 1**"
+	}
+	"A LOTR Map By hotEvercLear"
+	{
+		"default"		"A LOTR Map By hotEvercLear"
+		"ru"		"Карта создана hotEvercLear по мотивам Властелина Колец | Перевод от Broccoli"
+	}
+	"Gandalf: This is the forest of Mirkwood.... Be sure to stick to the path... "
+	{
+		"default"		"Gandalf: This is the forest of Mirkwood.... Be sure to stick to the path... "
+		"ru"		"Гэндальф: Это лес Лихолесья. Обязательно придерживайтесь тропы. "
+	}
+	"Gandalf: There are plants that grow off the path that will kill you!!!!."
+	{
+		"default"		"Gandalf: There are plants that grow off the path that will kill you!!!!."
+		"ru"		"Гэндальф: Некоторые растения, растущие вне тропинки могут убить вас!"
+	}
+	"Gandalf: Orcs are coming... RUN!!!!!"
+	{
+		"default"		"Gandalf: Orcs are coming... RUN!!!!!"
+		"ru"		"Гэндальф: Орки идут. Бегите!"
+	}
+	"Thorin: The Path Is Overgrown... We must break our way through before it is too late"
+	{
+		"default"		"Thorin: The Path Is Overgrown... We must break our way through before it is too late"
+		"ru"		"Торин: Тропа заросла. Мы должны прорваться, пока не стало слишком поздно"
+	}
+	"Thorin: Something Has Knocked Over These Trees, Quickly Now, Climb Over Them!"
+	{
+		"default"		"Thorin: Something Has Knocked Over These Trees, Quickly Now, Climb Over Them!"
+		"ru"		"Торин: Что-то опрокинуло эти деревья, быстро перелезайте через них!"
+	}
+	"Thorin: Curse this forest... the path is overgrown again.. quckly, break it down before the Orcs return..."
+	{
+		"default"		"Thorin: Curse this forest... the path is overgrown again.. quckly, break it down before the Orcs return..."
+		"ru"		"Торин: Будь проклят этот лес. Тропа снова заросла. Быстро сломайте заросли, пока орки не вернулись."
+	}
+	"Throin: Get accross the bridge and defend you fools!!!! The Orcs are behind us!!!!"
+	{
+		"default"		"Throin: Get accross the bridge and defend you fools!!!! The Orcs are behind us!!!!"
+		"ru"		"Торин: Перейдите через мост и защищайтесь! Орки позади нас!"
+	}
+	"Thorin: Hold the Bridge, the path ahead is blocked... it will take a moment to clear it... "
+	{
+		"default"		"Thorin: Hold the Bridge, the path ahead is blocked... it will take a moment to clear it... "
+		"ru"		"Торин: Удерживайте мост, путь впереди заблокирован. потребуется время, чтобы его расчистить."
+	}
+	"Thorn: Hold The Bridge while Bilbo is clearing the path"
+	{
+		"default"		"Thorn: Hold The Bridge while Bilbo is clearing the path"
+		"ru"		"Торин: Удерживайте мост, пока Бильбо расчищает путь"
+	}
+	"45s"
+	{
+		"default"		"45s"
+		"ru"		"45сек"
+	}
+	"30s"
+	{
+		"default"		"30s"
+		"ru"		"30сек"
+	}
+	"10s"
+	{
+		"default"		"10s"
+		"ru"		"10сек"
+	}
+	"5s"
+	{
+		"default"		"5s"
+		"ru"		"5сек"
+	}
+	"Thorin: The path is clear, fall back now!!!!"
+	{
+		"default"		"Thorin: The path is clear, fall back now!!!!"
+		"ru"		"Торин: Путь свободен, отступайте сейчас же!"
+	}
+	"Thorin: WE LOST THE PATH!!! WHERE IS THE PATH!!!!"
+	{
+		"default"		"Thorin: WE LOST THE PATH!!! WHERE IS THE PATH!!!!"
+		"ru"		"Торин: МЫ СБИЛИСЬ С ПУТИ! ГДЕ ЖЕ ПУТЬ?"
+	}
+	"Thorin: Stay in the light, try to find the path again, dont get lost!!!!!"
+	{
+		"default"		"Thorin: Stay in the light, try to find the path again, dont get lost!!!!!"
+		"ru"		"Торин: Оставайтесь на свету, попробуйте снова найти путь, не заблудитесь!"
+	}
+	"Thorin: Watch out for those plants off the path Gandolf warned us about!!!"
+	{
+		"default"		"Thorin: Watch out for those plants off the path Gandolf warned us about!!!"
+		"ru"		"Торин: Остерегайтесь тех растений, о которых нас предупреждал Гэндальф!"
+	}
+	"15s"
+	{
+		"default"		"15s"
+		"ru"		"15сек"
+	}
+	"WE FOUND IT!!! WE FOUND THE PATH!!! We are clearing the entrance now, fall back to us NOW!!!!"
+	{
+		"default"		"WE FOUND IT!!! WE FOUND THE PATH!!! We are clearing the entrance now, fall back to us NOW!!!!"
+		"ru"		"МЫ НАШЛИ ЕГО! МЫ НАШЛИ ПУТЬ! Мы сейчас расчищаем вход, отступайте к нам!"
+	}
+	"5s "
+	{
+		"default"		"5s "
+		"ru"		"5сек "
+	}
+	"Throin: It is open, the path is clear!!! Run!!!!"
+	{
+		"default"		"Throin: It is open, the path is clear!!! Run!!!!"
+		"ru"		"Торин: Он открыт, путь свобоен! Бегите!"
+	}
+	"Thorin: The path is overgrown again, break it down!!!!!"
+	{
+		"default"		"Thorin: The path is overgrown again, break it down!!!!!"
+		"ru"		"Торин: Тропинка снова заросла, сломайте заросли!"
+	}
+	"Thorin: Be sure to watch our backs, the orcs are on our trail!!!!"
+	{
+		"default"		"Thorin: Be sure to watch our backs, the orcs are on our trail!!!!"
+		"ru"		"Торин: Обязательно смотрите в оба, орки идут по нашему следу!"
+	}
+	"Thorin: I can see a bridge, defend here while we clear the path!!!"
+	{
+		"default"		"Thorin: I can see a bridge, defend here while we clear the path!!!"
+		"ru"		"Торин: Я вижу мост, защищайтесь здесь, пока мы расчищаем путь!"
+	}
+	"Thorin: Fall Back!!!! Get Accross The Bridge!!!!"
+	{
+		"default"		"Thorin: Fall Back!!!! Get Accross The Bridge!!!!"
+		"ru"		"Торин: Отступайте! Идите через мост!"
+	}
+	"Thorin: The sides of the bridges are cracking, dont step on them, they can break!!!!"
+	{
+		"default"		"Thorin: The sides of the bridges are cracking, dont step on them, they can break!!!!"
+		"ru"		"Торин: Боковые части моста трещат, не наступайте на них, они могут сломаться!"
+	}
+	"Thorin: The path is blocked, defend here until Bilbo has it clear"
+	{
+		"default"		"Thorin: The path is blocked, defend here until Bilbo has it clear"
+		"ru"		"Торин: Путь заблокирован, обороняйтесь здесь, пока Бильбо не очистит его"
+	}
+	"Thorin: It is clear, fall back now!!!!"
+	{
+		"default"		"Thorin: It is clear, fall back now!!!!"
+		"ru"		"Торин: Путь чист, отступайте немедленно!"
+	}
+	"Thorin: Watch out!!!! The path is covered by those deadly plants, stay on the rocks and logs!!!! "
+	{
+		"default"		"Thorin: Watch out!!!! The path is covered by those deadly plants, stay on the rocks and logs!!!! "
+		"ru"		"Торин: Осторожно! Тропа покрыта смертоносными растениями, пробирайтесь по камням и бревнам!"
+	}
+	"Thorin The Orcs have vallen back... RUN!!!!"
+	{
+		"default"		"Thorin The Orcs have vallen back... RUN!!!!"
+		"ru"		"Торин: Орки отступили. БЕГИТЕ!"
+	}
+	"Thorin: The path is clear ahead, run to the end... Sons of Durin!!!!!"
+	{
+		"default"		"Thorin: The path is clear ahead, run to the end... Sons of Durin!!!!!"
+		"ru"		"Торин: Путь впереди чист, бегите до конца Сыновья Дурина!"
+	}
+	"**Level2**"
+	{
+		"default"		"**Level2**"
+		"ru"		"**Уровень 2**"
+	}
+	"Thorin: Hold Here while we clear the path"
+	{
+		"default"		"Thorin: Hold Here while we clear the path"
+		"ru"		"Торин: Держитесь здесь, пока мы расчищаем путь."
+	}
+	"Thorin: There are no shortcuts in Mirkwood, stick to the path!!!"
+	{
+		"default"		"Thorin: There are no shortcuts in Mirkwood, stick to the path!!!"
+		"ru"		"Торин: В Лихолесье нет коротких путей, придерживайтесь тропинки!"
+	}
+	"20s"
+	{
+		"default"		"20s"
+		"ru"		"20сек"
+	}
+	"Thorin: The rocks are blocking the path, break through!!! "
+	{
+		"default"		"Thorin: The rocks are blocking the path, break through!!! "
+		"ru"		"Торин: Камни преграждают путь, уничтожьте их!"
+	}
+	"Thorin: The path ahead is blocked, defend the rocks until it is cleared"
+	{
+		"default"		"Thorin: The path ahead is blocked, defend the rocks until it is cleared"
+		"ru"		"Торин: Путь впереди заблокирован, защищайте у камней, пока он не будет очищен"
+	}
+	"Thorin: What are these webs?!?!?"
+	{
+		"default"		"Thorin: What are these webs?!?!?"
+		"ru"		"Торин: Что это за паутина?"
+	}
+	"Thorin: Defend Here while we clear the path"
+	{
+		"default"		"Thorin: Defend Here while we clear the path"
+		"ru"		"Торин: Защищайтесь здесь, пока мы расчищаем путь"
+	}
+	"Thorin: What is this place, I see nests and webs everywhere!!!!"
+	{
+		"default"		"Thorin: What is this place, I see nests and webs everywhere!!!!"
+		"ru"		"Торин: Что это за место? Я везде вижу гнезда и паутину!"
+	}
+	"Thorin: The Spiders are gone, fall back now!!!!! "
+	{
+		"default"		"Thorin: The Spiders are gone, fall back now!!!!! "
+		"ru"		"Торин: Пауки исчезли, отступайте сейчас же!"
+	}
+	"Thorin: Watchout for the plants!!! quickly now, the Orcs will be upon us soon!"
+	{
+		"default"		"Thorin: Watchout for the plants!!! quickly now, the Orcs will be upon us soon!"
+		"ru"		"Торин: Остерегайтесь растений!!! Быстрее, Орки скоро нагонят нас!"
+	}
+	"Thorin: Look, an Elvish healing pool!!!! heal before the Orcs come"
+	{
+		"default"		"Thorin: Look, an Elvish healing pool!!!! heal before the Orcs come"
+		"ru"		"Торин: Смотрите, эльфийский целебный бассейн! Подлечитесь до прихода Орков"
+	}
+	"Thorin: Cover and defend for Bombar, he is fat and slow!!!"
+	{
+		"default"		"Thorin: Cover and defend for Bombar, he is fat and slow!!!"
+		"ru"		"Торин: Прикрывайте и защищайте Бомбура, он толст и медлителен!"
+	}
+	"Thorin: The path is blocked ahead, quickly, clear it!!!"
+	{
+		"default"		"Thorin: The path is blocked ahead, quickly, clear it!!!"
+		"ru"		"Торин: Путь впереди перекрыт, быстро, расчистите его!"
+	}
+	"Thorin: The path ahead is blocked, defend here"
+	{
+		"default"		"Thorin: The path ahead is blocked, defend here"
+		"ru"		"Торин: Путь впереди перекрыт, обороняйтесь здесь"
+	}
+	"Thorin: Looks like a rockslide is blockingthe path, break through!!!!"
+	{
+		"default"		"Thorin: Looks like a rockslide is blockingthe path, break through!!!!"
+	    "ru"		"Торин: Похоже, оползень преградил нам путь, уничтожьте преграду!"
+	}
+	"Thorin: The path ahead is blocked, defend here while we clear it"
+	{
+		"default"		"Thorin: The path ahead is blocked, defend here while we clear it"
+		"ru"		"Торин: Путь впереди перекрыт, обороняйтесь здесь, пока мы его расчищаем"
+	}
+	"Thorin: Fall back!!! They orcs are coming!!!!"
+	{
+		"default"		"Thorin: Fall back!!! They orcs are coming!!!!"
+		"ru"		"Торин: Отступайте!!! Орки идут!"
+	}
+	"Thorin: What is this place? This looks like the main spider nest!!!"
+	{
+		"default"		"Thorin: What is this place? This looks like the main spider nest!!!"
+		"ru"		"Торин: Что это за место? Это похоже на главное паучье гнездо!"
+	}
+	"Thorin: Spread out and keep your eyes open"
+	{
+		"default"		"Thorin: Spread out and keep your eyes open"
+		"ru"		"Торин: Рассредоточьтесь и держите глаза открытыми"
+	}
+	"Thorin: Run, the orcs are comming!!!! "
+	{
+		"default"		"Thorin: Run, the orcs are comming!!!! "
+		"ru"		"Торин: Бегите, орки идут!"
+	}
+	"Thorin: There are Orc archers ahead, watch out for their arrrows!!!! "
+	{
+		"default"		"Thorin: There are Orc archers ahead, watch out for their arrrows!!!! "
+		"ru"		"Торин: Впереди орки-лучники, берегитесь их стрел!"
+	}
+}

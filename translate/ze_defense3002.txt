@@ -3,9 +3,26 @@
 	"You will be teleported in 2 minutes."
 	{
 		"default"		"You will be teleported in 2 minutes."
+		"ru"		"Вы будете телепортированы через 2 минуты."
 	}
 	"Map created by warluthy."
 	{
 		"default"		"Map created by warluthy."
+		"ru"		"Карта создана warluthy."
+	}
+	"Defend the House for 2 minutes."
+	{
+		"default"		"Defend the House for 2 minutes."
+		"ru"		"Обороняйте дом в течение 2 минут."
+	}
+	"Doors will OPEN in 20 seconds."
+	{
+		"default"		"Doors will OPEN in 20 seconds."
+		"ru"		"Первые двери ОТКРОЮТСЯ через 20 секунд."
+	}
+	"Second Doors will OPEN in 50 seconds."
+	{
+		"default"		"Second Doors will OPEN in 50 seconds."
+		"ru"		"Вторые двери ОТКРОЮТСЯ через 50 секунд."
 	}
 }
