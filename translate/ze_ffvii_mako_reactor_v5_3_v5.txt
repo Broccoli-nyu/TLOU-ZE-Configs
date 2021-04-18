@@ -1,4 +1,4 @@
-"Console_C"
+"Chat"
 {
 	"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
 	{
