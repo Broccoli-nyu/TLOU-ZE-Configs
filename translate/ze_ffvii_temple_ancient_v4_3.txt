@@ -3,297 +3,386 @@
 	"*** WARMUP ROUND ***"
 	{
 		"default"		"*** WARMUP ROUND ***"
+		"ru"		"*** РАЗМИНОЧНЫЙ РАУНД ***"
 	}
 	"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
 	{
 		"default"		"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
+		"ru"		"*** КАРТА СОЗДАНА MICROSOFT EDGE И DARKROAD | РУССКИЙ ПЕРЕВОД ОТ BROCCOLI***"
 	}
 	"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
 	{
 		"default"		"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
+		"ru"		"***Спасибо Batnik_Ref.smd за анимацию ТРИ-ФЭЙСА ***"
 	}
 	"*** STAGE 1 [NORMAL] ***"
 	{
 		"default"		"*** STAGE 1 [NORMAL] ***"
+		"ru"		"*** УРОВЕНЬ 1 [ОБЫЧНЫЙ] ***"
 	}
 	"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
 	{
 		"default"		"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
+		"ru"		"[АЙРИС] ЭТО ХРАМ ДРЕВНИХ"
 	}
 	"[AERIS] I WANT TO GO INSIDE!"
 	{
 		"default"		"[AERIS] I WANT TO GO INSIDE!"
+		"ru"		"[АЙРИС] МНЕ НУЖНО ПОПАСТЬ ВНУТРЬ!"
 	}
 	"*** follow the white sphere ***"
 	{
 		"default"		"*** follow the white sphere ***"
+		"ru"		"*** Белые сферы укажут вам путь ***"
 	}
 	"*** DEFEND FOR 15 SEC ***"
 	{
 		"default"		"*** DEFEND FOR 15 SEC ***"
+		"ru"		"*** ЗАЩИЩАЙТЕСЬ В ТЕЧЕНИЕ 15 СЕК ***"
 	}
 	"*** GO GO ***"
 	{
 		"default"		"*** GO GO ***"
+		"ru"		"*** Отступайте ***"
 	}
 	"A player has picked up the WIND Materia"
 	{
 		"default"		"A player has picked up the WIND Materia"
+		"ru"		"Игрок подобрал материю ВЕТРА"
 	}
 	"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
 	{
 		"default"		"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
+		"ru"		"*** ТЕЛЕПОРТ БУДЕТ АКТИВИРОВАН ЧЕРЕЗ 15 СЕКУНД ***"
 	}
 	"*** GET INSIDE ***"
 	{
 		"default"		"*** GET INSIDE ***"
+		"ru"		"*** ЗАЙДИТЕ ВНУТРЬ ***"
 	}
 	"*** GO GO GO  ***"
 	{
 		"default"		"*** GO GO GO  ***"
+		"ru"		"*** Бегите  ***"
 	}
 	"***  Down and then to the right ***"
 	{
 		"default"		"***  Down and then to the right ***"
+		"ru"		"***  Вниз и затем направо ***"
 	}
 	"*** DEFEND FOR 10 SEC ***"
 	{
 		"default"		"*** DEFEND FOR 10 SEC ***"
+		"ru"		"*** ЗАЩИЩАЙТЕСЬ В ТЕЧЕНИЕ 10 СЕК ***"
 	}
 	"*** Get up to the white sphere ***"
 	{
 		"default"		"*** Get up to the white sphere ***"
+		"ru"		"*** Вам нужно будет к белой сфере ***"
 	}
 	"*** the teleport to the temple will work in 15 seconds ***"
 	{
 		"default"		"*** the teleport to the temple will work in 15 seconds ***"
+		"ru"		"*** Телепорт в храм активируется через 15 секунд ***"
 	}
 	"*** DEFEND ***"
 	{
 		"default"		"*** DEFEND ***"
+		"ru"		"*** ЗАЩИЩАЙТЕСЬ ***"
 	}
 	"*** One of the paths is chosen randomly ***"
 	{
 		"default"		"*** One of the paths is chosen randomly ***"
+		"ru"		"*** Один из путей выбирается случайным образом ***"
 	}
 	"A player has picked up the HEAL Materia"
 	{
 		"default"		"A player has picked up the HEAL Materia"
+		"ru"		"Игрок подобрал материю ИСЦЕЛЕНИЯ"
 	}
 	"*** DEFEND CLOUD FOR 10 SEC ***"
 	{
 		"default"		"*** DEFEND CLOUD FOR 10 SEC ***"
+		"ru"		"*** ЗАЩИЩАЙТЕ КЛАУДА В ТЕЧЕНИЕ 10 СЕК ***"
 	}
 	"A player has picked up the ICE Materia"
 	{
 		"default"		"A player has picked up the ICE Materia"
+		"ru"		"Игрок подобрал материю ЛЬДА"
 	}
 	"** DOORS WILL OPEN IN 15 SEC **"
 	{
 		"default"		"** DOORS WILL OPEN IN 15 SEC **"
+		"ru"		"** ДВЕРИ ОТКРОЮТСЯ ЧЕРЕЗ 15 СЕК **"
 	}
 	"A player has picked up the POISON Materia"
 	{
 		"default"		"A player has picked up the POISON Materia"
+		"ru"		"Игрок подобрал материю ЯД"
 	}
 	"*** IT'S OVER"
 	{
 		"default"		"*** IT'S OVER"
+		"ru"		"*** ВСЕ КОНЧЕНО"
 	}
 	"A player has picked up the FIRE Materia"
 	{
 		"default"		"A player has picked up the FIRE Materia"
+		"ru"		"Игрок подобрал материю ОГНЯ"
 	}
 	"A player has picked up the EARTH Materia"
 	{
 		"default"		"A player has picked up the EARTH Materia"
+		"ru"		"Игрок подобрал материю ЗЕМЛИ"
 	}
 	"*** DEFEND FOR 20 SEC ***"
 	{
 		"default"		"*** DEFEND FOR 20 SEC ***"
+		"ru"		"*** ЗАЩИЩАЙТЕСЬ В ТЕЧЕНИЕ 20 СЕК ***"
 	}
 	"[AERIS] CLOUD look..."
 	{
 		"default"		"[AERIS] CLOUD look..."
+		"ru"		"[АЙРИС] КЛАУД, смотри..."
 	}
 	"[AERIS] IT IS SEPHIROTH "
 	{
 		"default"		"[AERIS] IT IS SEPHIROTH "
+		"ru"		"[АЙРИС] ЭТО СЕФИРОТ "
 	}
 	"*** FALL BACK ***"
 	{
 		"default"		"*** FALL BACK ***"
+		"ru"		"*** ОТСТУПАЕМ ***"
 	}
 	"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
 	{
 		"default"		"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
+		"ru"		"** ОН ИСПОЛЬЗУЕТ ГРАВИТАЦИОННУЮ АТАКУ! СТРЕЛЯЙТЕ В МЕТЕОР!!! **"
 	}
 	"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
 	{
 		"default"		"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
+		"ru"		"** ОН ИСПОЛЬЗУЕТ ГРАВИТАЦИОННУЮ АТАКУ! РАЗОЙДИТЕСЬ ПО СТОРОНАМ!!! **"
 	}
 	"*** THE DRAGON HAS BEEN KILLED ***"
 	{
 		"default"		"*** THE DRAGON HAS BEEN KILLED ***"
+		"ru"		"*** ДРАКОН УБИТ ***"
 	}
 	"[AERIS] CLOUD GO TO A CRYSTAL"
 	{
 		"default"		"[AERIS] CLOUD GO TO A CRYSTAL"
+		"ru"		"[АЙРИС] КЛАУД, ИДИ К КРИСТАЛЛУ"
 	}
 	"*** STAGE 1 WIN ***"
 	{
 		"default"		"*** STAGE 1 WIN ***"
+		"ru"		"*** УРОВЕНЬ 1 ПРОЙДЕН ***"
 	}
 	"*** STAGE 2 [NORMAL] ***"
 	{
 		"default"		"*** STAGE 2 [NORMAL] ***"
+		"ru"		"*** УРОВЕНЬ 2 [ОБЫЧНЫЙ] ***"
 	}
 	"*** GAULLE HAS BEEN KILLED ***"
 	{
 		"default"		"*** GAULLE HAS BEEN KILLED ***"
+		"ru"		"*** ГАУЛЬ УБИТ ***"
 	}
 	"*** DEFEND FOR 15sec ***"
 	{
 		"default"		"*** DEFEND FOR 15sec ***"
+		"ru"		"*** ЗАЩИЩАЙТЕСЬ В ТЕЧЕНИЕ 15 СЕК ***"
 	}
 	"*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***"
 	{
 		"default"		"*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***"
+		"ru"		"*** ДВЕРЬ НЕ ОТКРОЕТСЯ, ПОКА У ВАС НЕТ КРИСТАЛЛА ***"
 	}
 	"*** Pick the crystal below ***"
 	{
 		"default"		"*** Pick the crystal below ***"
+		"ru"		"*** Возьмите кристалл снизу ***"
 	}
 	"*** GO TO THE CAVES TO PICK IT UP ***"
 	{
 		"default"		"*** GO TO THE CAVES TO PICK IT UP ***"
+		"ru"		"*** ИДИТЕ ЧЕРЕЗ ПЕЩЕРУ И ЗАБЕРИТЕ ЕГО ***"
 	}
 	"*** HI CRYSTAL WAS PICKED UP ***"
 	{
 		"default"		"*** HI CRYSTAL WAS PICKED UP ***"
+		"ru"		"*** КРИСТАЛЛ ПОДОБРАН ***"
 	}
 	"*** the door will open in 15 sec ***"
 	{
 		"default"		"*** the door will open in 15 sec ***"
+		"ru"		"*** Дверь откроется через 15 сек ***"
 	}
 	"**HE USES GRAVITY ATTACK!BE CAREFUL!**"
 	{
 		"default"		"**HE USES GRAVITY ATTACK!BE CAREFUL!**"
+		"ru"		"**ОН ИСПОЛЬЗУЕТ ГРАВИТАЦИОННУЮ АТАКУ!БУДЬТЕ ОСТОРОЖНЫ!**"
 	}
 	"*** TRI-FACE USED SHIELD DONT SHOOT ***"
 	{
 		"default"		"*** TRI-FACE USED SHIELD DONT SHOOT ***"
+		"ru"		"*** ТРИ-ФЭЙС ИСПОЛЬЗУЕТ ЩИТ, НЕ СТРЕЛЯЙТЕ ***"
 	}
 	"**HE USES WIND ATTACK! RESIST IT!**"
 	{
 		"default"		"**HE USES WIND ATTACK! RESIST IT!**"
+		"ru"		"**ОН ИСПОЛЬЗОВАЛ АТАКУ ВЕТРОМ! СОПРОТИВЛЯЙТЕСЬ!**"
 	}
 	"**Tri Face is going to jump! Move to the edges**"
 	{
 		"default"		"**Tri Face is going to jump! Move to the edges**"
+		"ru"		"**Три-Фэйс готовится прыгнуть! Отойдите на край**"
 	}
 	"**Tri Face is healing himself"
 	{
 		"default"		"**Tri Face is healing himself"
+		"ru"		"**Три-Фэйс исцеляет себя"
 	}
 	"*** TRI FACE HAS BEEN KILLED   ***"
 	{
 		"default"		"*** TRI FACE HAS BEEN KILLED   ***"
+		"ru"		"*** ТРИ-ФЭЙС УБИТ ***"
 	}
 	"*** THE DOOR WILL OPEN IN 25 SEC."
 	{
 		"default"		"*** THE DOOR WILL OPEN IN 25 SEC."
+		"ru"		"*** ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 25 СЕК."
 	}
 	"*** BLACK MATERIA HAS BEEN PICKED UP ***"
 	{
 		"default"		"*** BLACK MATERIA HAS BEEN PICKED UP ***"
+		"ru"		"*** ЧЕРНАЯ МАТЕРИЯ ПОДОБРАНА ***"
 	}
 	"*** WAIT ***"
 	{
 		"default"		"*** WAIT ***"
+		"ru"		"*** ЖДИТЕ ***"
 	}
 	"*** Get on the ship ***"
 	{
 		"default"		"*** Get on the ship ***"
+		"ru"		"*** Уходите на корабль ***"
 	}
 	"*** WAIT 12SEC ***"
 	{
 		"default"		"*** WAIT 12SEC ***"
+		"ru"		"*** ЖДИТЕ 12 СЕК ***"
 	}
 	"** STAGE 2 WIN **"
 	{
 		"default"		"** STAGE 2 WIN **"
+		"ru"		"** УРОВЕНЬ 2 ПРОЙДЕН **"
 	}
 	"*** STAGE 1 [EXTREME] ***"
 	{
 		"default"		"*** STAGE 1 [EXTREME] ***"
+		"ru"		"*** УРОВЕНЬ 1 [ЭКСТРИМ] ***"
 	}
 	"*** STAGE 1 WIN [EXTREME]***"
 	{
 		"default"		"*** STAGE 1 WIN [EXTREME]***"
+		"ru"		"*** УРОВЕНЬ 1 ПРОЙДЕН [ЭКСТРИМ]***"
 	}
 	"*** GG ***"
 	{
 		"default"		"*** GG ***"
+		"ru"		"*** ГГ ***"
 	}
 	"*** ZOMBIE DETECTED ***"
 	{
 		"default"		"*** ZOMBIE DETECTED ***"
+		"ru"		"*** ЗОМБИ ОБНАРУЖЕНЫ ***"
 	}
 	"*** STAGE 2 [EXTREME] ***"
 	{
 		"default"		"*** STAGE 2 [EXTREME] ***"
+		"ru"		"*** УРОВЕНЬ 2 [ЭКСТРИМ] ***"
 	}
 	"*** WAIT 10 SEC ***"
 	{
 		"default"		"*** WAIT 10 SEC ***"
+		"ru"		"*** ЖДИТЕ 10 СЕК ***"
 	}
 	"*** WAIT 5 SEC ***"
 	{
 		"default"		"*** WAIT 5 SEC ***"
+		"ru"		"*** ЖДИТЕ 5 СЕК ***"
 	}
 	"*** SEPHIROT USED HEAL ***"
 	{
 		"default"		"*** SEPHIROT USED HEAL ***"
+		"ru"		"*** СЕФИРОТ ИСПОЛЬЗУЕТ ИСЦЕЛЕНИЕ ***"
 	}
 	"*** DONT SHOOT HIM ***"
 	{
 		"default"		"*** DONT SHOOT HIM ***"
+		"ru"		"*** НЕ СТРЕЛЯЙТЕ ПО НЕМУ ***"
 	}
 	"*** Kill SUMMONS ***"
 	{
 		"default"		"*** Kill SUMMONS ***"
+		"ru"		"*** УБЕЙТЕ ПРИЗЫВЫ ***"
 	}
 	"*** SEPHIROT USED LIMIT BREAK"
 	{
 		"default"		"*** SEPHIROT USED LIMIT BREAK"
+		"ru"		"*** СЕФИРОТ ИСПОЛЬЗУЕТ ПРОРЫВ ЛИМИТА"
 	}
 	"*** SEPHIROT USED DOUBLE DAMAGE"
 	{
 		"default"		"*** SEPHIROT USED DOUBLE DAMAGE"
+		"ru"		"*** СЕФИРОТ ИСПОЛЬЗУЕТ ДВОЙНОЙ УРОН"
 	}
 	"*** YOU KEEP 30 SEC ***"
 	{
 		"default"		"*** YOU KEEP 30 SEC ***"
+		"ru"		"*** ДЕРЖИТЕСЬ 30 СЕК ***"
 	}
 	"*** Black materiar almost at us! ***"
 	{
 		"default"		"*** Black materiar almost at us! ***"
+		"ru"		"*** Черная материя почти у нас! ***"
 	}
 	"*** SEPHIROT ***"
 	{
 		"default"		"*** SEPHIROT ***"
+		"ru"		"*** СЕФИРОТ ***"
 	}
 	"** MAP COMPLETED **"
 	{
 		"default"		"** MAP COMPLETED **"
+		"ru"		"** КАРТА ПРОЙДЕНА **"
 	}
 	"*** MAP COMPLETED ***"
 	{
 		"default"		"*** MAP COMPLETED ***"
+		"ru"		"*** КАРТА ПРОЙДЕНА ***"
 	}
 	"[ADMIN] LVL 2 EXTREME SET"
 	{
 		"default"		"[ADMIN] LVL 2 EXTREME SET"
+		"ru"		"[АДМИН] УСТАНОВЛЕН УРОВЕНЬ 2 ЭКСТРИМ"
+	}
+	"[ADMIN] LVL 2 NORMAL SET"
+	{
+		"default"		"[ADMIN] LVL 2 NORMAL SET"
+		"ru"		"[АДМИН] УСТАНОВЛЕН УРОВЕНЬ 2 ОБЫЧНЫЙ"
+	}
+	"[ADMIN] LVL 1 EXTREME SET"
+	{
+		"default"		"[ADMIN] LVL 1 EXTREME SET"
+		"ru"		"[АДМИН] УСТАНОВЛЕН УРОВЕНЬ 1 ЭКСТРИМ"
+	}
+	"[ADMIN] LVL 1 NORMAL SET"
+	{
+		"default"		"[ADMIN] LVL 1 NORMAL SET"
+		"ru"		"[АДМИН] УСТАНОВЛЕН УРОВЕНЬ 1 ОБЫЧНЫЙ"
 	}
 }
