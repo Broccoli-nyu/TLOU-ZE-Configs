@@ -1,0 +1,403 @@
+"Console_C"
+{
+	"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
+	{
+		"default"		"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
+		"ru"		"**** КАРТА СОЗДАНА: Hannibal[SPA] (Rafuron) | Русский перевод от Broccoli ****"
+	}
+	"** Server settings initialized **"
+	{
+		"default"		"** Server settings initialized **"
+		"ru"		"** Настройки сервера инициализированы **"
+	}
+	"** Tips and Adjustements: Maese Danielot **"
+	{
+		"default"		"** Tips and Adjustements: Maese Danielot **"
+		"ru"		"** Советы и корректировки: Maese Danielot **"
+	}
+	"** Optimization and Helping: Kaemon **"
+	{
+		"default"		"** Optimization and Helping: Kaemon **"
+		"ru"		"** Оптимизация и помощь: Kaemon **"
+	}
+	"**CURRENT DIFFICULTY ** >> NORMAL << **"
+	{
+		"default"		"**CURRENT DIFFICULTY ** >> NORMAL << **"
+		"ru"		"**ТЕКУЩАЯ СЛОЖНОСТЬ ** >> СРЕДНЯЯ << **"
+	}
+	"*** MATERIAS AT LVL 1 ***"
+	{
+		"default"		"*** MATERIAS AT LVL 1 ***"
+		"ru"		"*** МАТЕРИИ 1 УРОВНЯ ***"
+	}
+	"**Superior door opening in 30 seconds**"
+	{
+		"default"		"**Superior door opening in 30 seconds**"
+		"ru"		"**Главная дверь откроется через 30 секунд**"
+	}
+	"** DOOR OPENS IN 5 s **"
+	{
+		"default"		"** DOOR OPENS IN 5 s **"
+		"ru"		"** Дверь откроется через 5 сек **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"default"		"** A player has adquired WIND MATERIA **"
+		"ru"		"** Игрок подобрал материю ВЕТРА **"
+	}
+	"** Door is opening in 7 seconds **"
+	{
+		"default"		"** Door is opening in 7 seconds **"
+		"ru"		"** Дверь откроется через 7 секунд **"
+	}
+	"**Door opening in 10 seconds**"
+	{
+		"default"		"**Door opening in 10 seconds**"
+		"ru"		"**Дверь откроется через 10 секунд**"
+	}
+	"**Door is opening in 10 seconds**"
+	{
+		"default"		"**Door is opening in 10 seconds**"
+		"ru"		"**Дверь откроется через 10 секунд**"
+	}
+	"**Door is opening in 5**"
+	{
+		"default"		"**Door is opening in 5**"
+		"ru"		"**Дверь откроется через 5 секунд**"
+	}
+	"** A player has adquired GRAVITY MATERIA **"
+	{
+		"default"		"** A player has adquired GRAVITY MATERIA **"
+		"ru"		"** Игрок подобрал материю ГРАВИТАЦИИ **"
+	}
+	"**Door is open**"
+	{
+		"default"		"**Door is open**"
+		"ru"		"**Дверь закрывается**"
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"default"		"** A player has adquired FIRE MATERIA **"
+		"ru"		"** Игрок подобрал материю ОГНЯ **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"default"		"** A player has adquired ICE MATERIA **"
+		"ru"		"** Игрок подобрал материю ЛЬДА **"
+	}
+	"**Elevator is leaving in 10s**"
+	{
+		"default"		"**Elevator is leaving in 10s**"
+		"ru"		"**Лифт уедет через 10сек**"
+	}
+	"** We have reached the core  ...**"
+	{
+		"default"		"** We have reached the core  ...**"
+		"ru"		"** Мы достигли ядра...**"
+	}
+	"** ... Cloud is planting the bomb ** "
+	{
+		"default"		"** ... Cloud is planting the bomb ** "
+		"ru"		"**... Клауд закладывает бомбу**"
+	}
+	"** Bomb has been planted  **  Run **"
+	{
+		"default"		"** Bomb has been planted  **  Run **"
+		"ru"		"** Бомба заложена **  Уходим **"
+	}
+	"**Keep shooting ! We dont know what it can do **"
+	{
+		"default"		"**Keep shooting ! We dont know what it can do **"
+		"ru"		"**Продолжайте стрелять! Мы не знаем, что он может сделать **"
+	}
+	"** The monster is going to attack ! **"
+	{
+		"default"		"** The monster is going to attack ! **"
+		"ru"		"** Монстр собирается атаковать! **"
+	}
+	"**Its dead ** Go go! Run upstairs ! **"
+	{
+		"default"		"**Its dead ** Go go! Run upstairs ! **"
+		"ru"		"**Он умер ** Уходим! Вверх по лестнице! **"
+	}
+	"** EXPLOSION IN 145 SECONDS **"
+	{
+		"default"		"** EXPLOSION IN 145 SECONDS **"
+		"ru"		"** ВЗРЫВ ЧЕРЕЗ 145 СЕКУНД **"
+	}
+	"**  110 SECONDS LEFT **"
+	{
+		"default"		"**  110 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 110 СЕКУНД **"
+	}
+	"**  100 SECONDS LEFT **"
+	{
+		"default"		"**  100 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 100 СЕКУНД **"
+	}
+	"**  90 SECONDS LEFT **"
+	{
+		"default"		"**  90 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 90 СЕКУНД **"
+	}
+	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	{
+		"default"		"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+		"hud"		"** ДВЕРЬ ОТКРОЕТСЯ ЧЕРЕЗ 35 СЕК ** Идите в диспетчерскую и попробуйте открыть ее раньше **"
+	}
+	"**  80 SECONDS LEFT **"
+	{
+		"default"		"**  80 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 80 СЕКУНД **"
+	}
+	"** Well done! Door is opening in 10 seconds **"
+	{
+		"default"		"** Well done! Door is opening in 10 seconds **"
+		"hud"		"** Молодцы! Дверь откроется через 10 секунд **"
+	}
+	"**  70 SECONDS LEFT **"
+	{
+		"default"		"**  70 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 70 СЕКУНД **"
+	}
+	"**  60 SECONDS LEFT **"
+	{
+		"default"		"**  60 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 60 СЕКУНД **"
+	}
+	"**  50 SECONDS LEFT **"
+	{
+		"default"		"**  50 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 50 СЕКУНД **"
+	}
+	"**  40 SECONDS LEFT **"
+	{
+		"default"		"**  40 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 40 СЕКУНД **"
+	}
+	"**  30 SECONDS LEFT **"
+	{
+		"default"		"**  30 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 30 СЕКУНД **"
+	}
+	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
+	{
+		"default"		"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
+		"ru"		"**Поздравляем ! Вы прошли СРЕДНЮЮ сложность ! Испытание начнется на ВЫСОКОМ уровне сложности ! **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"default"		"** A player has adquired EARTH MATERIA **"
+		"ru"		"** Игрок подобрал материю ЗЕМЛИ **"
+	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"default"		"** A player has adquired ELECTRO MATERIA **"
+		"ru"		"** Игрок подобрал материю ЭЛЕКТРИЧЕСТВА **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"default"		"** A player has adquired HEAL MATERIA **"
+		"ru"		"** Игрок подобрал материю ИСЦЕЛЕНИЯ **"
+	}
+	"**  20 SECONDS LEFT **"
+	{
+		"default"		"**  20 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 20 СЕКУНД **"
+	}
+	"**  10 SECONDS LEFT **"
+	{
+		"default"		"**  10 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 10 СЕКУНД **"
+	}
+	"**CURRENT DIFFICULTY ** >> HARD << **"
+	{
+		"default"		"**CURRENT DIFFICULTY ** >> HARD << **"
+		"ru"		"**ТЕКУЩАЯ СЛОЖНОСТЬ ** >> ВЫСОКАЯ << **"
+	}
+	"*** MATERIAS AT LVL 2 ***"
+	{
+		"default"		"*** MATERIAS AT LVL 2 ***"/
+		"ru"		"*** МАТЕРИИ 2 УРОВНЯ ***"
+	}
+	"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
+	{
+		"default"		"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
+		"ru"		"** СОВЕТ: ГРАНАТЫ НАНОСЯТ МНОГО УРОНА ** ИСПОЛЬЗУЙТЕ ИХ **"
+	}
+	"** Dont stop shooting ! Dont let him attack !"
+	{
+		"default"		"** Dont stop shooting ! Dont let him attack !"
+		"ru"		"** Не прекращайте стрелять! Не дайте ему атаковать!"
+	}
+	"** Bahamut is in attack position ** Keep firing !! **"
+	{
+		"default"		"** Bahamut is in attack position ** Keep firing !! **"
+		"ru"		"** Бахамут в атакующей позиции ** Продолжайте стрелять!! **"
+	}
+	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+	{
+		"default"		"** Bahamut is going to cast Mega Flare !! Shoot !! **"
+		"ru"		"** Бахамут собирается использовать Мега Вспышку!! Стреляйте!! **"
+	}
+	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
+	{
+		"default"		"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
+		"ru"		"** БАХАМУТ СОБИРАЕТСЯ УНИЧТОЖИТЬ НАС! НЕ ПЕРЕСТАВАЙТЕ СТРЕЛЯТЬ **"
+	}
+	"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
+	{
+		"default"		"**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
+		"ru"		"**Бахамут побежден! ** Уходите! Вверх по лестнице ! **"
+	}
+	"** EXPLOSION IN 120 SECONDS **"
+	{
+		"default"		"** EXPLOSION IN 120 SECONDS **"
+		"ru"		"** ВЗРЫВ ЧЕРЕЗ 120 СЕКУНД **"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"default"		"** A player has adquired ULTIMA MATERIA **"
+		"ru"		"** Игрок подобрал материю УЛЬТИМА **"
+	}
+	"** RUN! **"
+	{
+		"default"		"** RUN! **"
+		"ru"		"** БЕГИТЕ! **"
+	}
+	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	{
+		"default"		"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+		"ru"		"** Вы сделали это! Вы прошли ВЫСОКУЮ сложность ** Время для ЭКСТРИМ сложности ** Удачи! ** "
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME << **"
+	{
+		"default"		"**CURRENT DIFFICULTY ** >> EXTREME << **"
+		"ru"		"**ТЕКУЩАЯ СЛОЖНОСТЬ ** >> ЭКСТРИМ << **"
+	}
+	"*** MATERIAS AT LVL 3 ***"
+	{
+		"default"		"*** MATERIAS AT LVL 3 ***"
+		"ru"		"*** МАТЕРИИ 3 УРОВНЯ ***"
+	}
+	"** EXPLOSION IN 130 SECONDS **"
+	{
+		"default"		"** EXPLOSION IN 130 SECONDS **"
+		"ru"		"** ВЗРЫВ ЧЕРЕЗ 130 СЕКУНД **"
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"default"		"**  120 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 120 СЕКУНД **"
+	}
+	"** 30 SECONDS LEFT **"
+	{
+		"default"		"** 30 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 30 СЕКУНД **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"default"		"** 20 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 20 СЕКУНД **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"default"		"** 10 SECONDS LEFT **"
+		"ru"		"**  ОСТАЛОСЬ 10 СЕКУНД **"
+	}
+	"**Nice done! You interrumped Sephiroth s attack**"
+	{
+		"default"		"**Nice done! You interrumped Sephiroth s attack**"
+		"ru"		"**Отличная работа! Вы прервали атаку Сефирота**"
+	}
+	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
+	{
+		"default"		"** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** "
+		"ru"		"** ВЫ СДЕЛАЛИ ЭТО! ВЫ ПРОШЛИ ЭКСТРИМ! ** "
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+	{
+		"default"		"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+		"ru"		"**ТЕКУЩАЯ СЛОЖНОСТЬ ** >> ЭКСТРИМ II << **"
+	}
+	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
+	{
+		"default"		"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
+		"ru"		"** ТАКАЯ ЦВЕТОКОРРЕКЦИЯ ИЗ-зА ЭКСТРИМ СЛОЖНОСТИ ** Напишите mat_colorcorrection 0 если вы хотите отключить это**"
+	}
+	"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
+	{
+		"default"		"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
+		"ru"		"** БАХАМУТ СОБИРАЕТ МАГИЮ ** ПРИГОТОВЬТЕСЬ **"
+	}
+	"** BAHAMUT HAS CAST GRAVITY **"
+	{
+		"default"		"** BAHAMUT HAS CAST GRAVITY **"
+		"ru"		"** БАХАМУТ ИСПОЛЬЗУЕТ ГРАВИТАЦИЮ **"
+	}
+	"** BAHAMUT HAS CAST WIND **"
+	{
+		"default"		"** BAHAMUT HAS CAST WIND **"
+		"ru"		"** БАХАМУТ ИСПОЛЬЗУЕТ ВЕТЕР **"
+	}
+	"** BAHAMUT HAS CAST FIRE! **"
+	{
+		"default"		"** BAHAMUT HAS CAST FIRE! **"
+		"ru"		"** БАХАМУТ ИСПОЛЬЗУЕТ ОГОНЬ! **"
+	}
+	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
+	{
+		"default"		"** BAHAMUT HAS HEALED 300 HIT POINTS**"
+		"ru"		"** БАХАМУТ ИСЦЕЛИЛСЯ НА 300 ХП**"
+	}
+	"** BAHAMUT HAS CAST ELECTRO! **"
+	{
+		"default"		"** BAHAMUT HAS CAST ELECTRO! **"
+		"ru"		"** БАХАМУТ ИСПОЛЬЗУЕТ ЭЛЕКТРИЧЕСТВО! **"
+	}
+	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	{
+		"default"		"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+		"ru"		"** БАХАМУТ МЕРТВ ** УБЕГАЙТЕ **"
+	}
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+	{
+		"default"		"** YOU ARE THE MASTERS OF MAKO REACTOR! ** "
+		"ru"		"** ВЫ МАСТЕРА МАКО РЕАКТОРА! ** "
+	}
+	"** MAP COMPLETED  ** ZM ROUNDS **"
+	{
+		"default"		"** MAP COMPLETED  ** ZM ROUNDS **"
+		"ru"		"** КАРТА ПРОЙДЕНА  ** РАУНД ПРЯТОК ОТ ЗОМБИ **"
+	}
+	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
+	{
+		"default"		"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
+		"ru"		"** ЭТО РАУНД ПРЯТОК ОТ ЗОМБИ ** НАЙДИТЕ МЕСТО И ЗАЩИЩАЙТЕСЬ ** НЕ ПЫТАЙТЕСЬ ПРОЙТИ КАРТУ КАК ОБЫЧНО **"
+	}
+	"** HUMAN VICTORY IN 4 MINUTES **"
+	{
+		"default"		"** HUMAN VICTORY IN 4 MINUTES **"
+		"ru"		"** ЛЮДИ ПОБЕДЯТ ЧЕРЕЗ 4 МИНУТЫ **"
+	}
+	"** HUMAN VICTORY IN 3 MINUTES **"
+	{
+		"default"		"** HUMAN VICTORY IN 3 MINUTES **"
+		"ru"		"** ЛЮДИ ПОБЕДЯТ ЧЕРЕЗ 3 МИНУТЫ **"
+	}
+	"** HUMAN VICTORY IN 2 MINUTES **"
+	{
+		"default"		"** HUMAN VICTORY IN 2 MINUTES **"
+		"ru"		"** ЛЮДИ ПОБЕДЯТ ЧЕРЕЗ 2 МИНУТЫ **"
+	}
+	"** HUMAN VICTORY IN 1 MINUTES **"
+	{
+		"default"		"** HUMAN VICTORY IN 1 MINUTES **"
+		"ru"		"** ЛЮДИ ПОБЕДЯТ ЧЕРЕЗ 1 МИНУТЫ **"
+	}
+	"** HUMAN VICTORY IN 20 SECONDS **"
+	{
+		"default"		"** HUMAN VICTORY IN 20 SECONDS **"
+		"ru"		"** ЛЮДИ ПОБЕДЯТ ЧЕРЕЗ 20 СЕКУНД **"
+	}
+}
