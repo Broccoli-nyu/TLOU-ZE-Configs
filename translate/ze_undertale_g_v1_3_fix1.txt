@@ -1,0 +1,825 @@
+"Chat"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"default"		"*** Map by Airvulpes ***"
+		"ru"		"*** Карта создана Airvulpes | Перевод от Tales&Stories Team и Zone of Games. Адаптация для CSGO - Broccoli ***"
+	}
+	"Yo !"
+	{
+		"default"		"Yo !"
+		"ru"		"Йо!"
+	}
+	"Are you sneaking out to see her ,  too ?"
+	{
+		"default"		"Are you sneaking out to see her ,  too ?"
+		"ru"		"Ты тоже улизнул сюда, чтобы увидеть её?"
+	}
+	"Awesome..."
+	{
+		"default"		"Awesome..."
+		"ru"		"Потрясно..."
+	}
+	"She's the coolest, right !?"
+	{
+		"default"		"She's the coolest, right !?"
+		"ru"		"Она наикрутейшая, да?!"
+	}
+	"I wanna be just like her when I grow up..."
+	{
+		"default"		"I wanna be just like her when I grow up..."
+		"ru"		"Я хочу быть таким же как она, когда вырасту..."
+	}
+	"Hey, don't tell my parents I'm here."
+	{
+		"default"		"Hey, don't tell my parents I'm here."
+		"ru"		"Эй, не говори моим родителям что я здесь."
+	}
+	"Ha ha."
+	{
+		"default"		"Ha ha."
+		"ru"		"Ха-ха."
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"default"		"*** Hold 20 seconds ***"
+		"ru"		"*** Держитесь 20 секунд ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"default"		"*** 5 seconds left ***"
+		"ru"		"*** Осталось 5 секунд ***"
+	}
+	"Yo...  did you see the way she was staring at you... ?"
+	{
+		"default"		"Yo...  did you see the way she was staring at you... ?"
+		"ru"		"Йо... ты видел, как она на тебя смотрела?.."
+	}
+	"That..."
+	{
+		"default"		"That..."
+		"ru"		"Это..."
+	}
+	"... was AWESOME !"
+	{
+		"default"		"... was AWESOME !"
+		"ru"		"... было КРУТО!"
+	}
+	"I'm SOOOO jealous !"
+	{
+		"default"		"I'm SOOOO jealous !"
+		"ru"		"Я ТА-А-АК завидую!"
+	}
+	"She was just standing there waiting FOREVER , and then you just ... !!!"
+	{
+		"default"		"She was just standing there waiting FOREVER , and then you just ... !!!"
+		"ru"		"Она ждала здесь кого-то целую ВЕЧНОСТЬ, а потом ты просто!!!..."
+	}
+	"C'mon ! "
+	{
+		"default"		"C'mon ! "
+		"ru"		"Погнали!"
+	}
+	"Let's go watch her beat up some bad guys !"
+	{
+		"default"		"Let's go watch her beat up some bad guys !"
+		"ru"		"Посмотрим, как она побьет плохих ребят!"
+	}
+	"*** 10 seconds left ***"
+	{
+		"default"		"*** 10 seconds left ***"
+		"ru"		"*** Осталось 10 секунд ***"
+	}
+	"Yo..."
+	{
+		"default"		"Yo..."
+		"ru"		"Йо..."
+	}
+	"did you see that !?"
+	{
+		"default"		"did you see that !?"
+		"ru"		"Поверить не могу"
+	}
+	"Undyne just ..."
+	{
+		"default"		"Undyne just ..."
+		"ru"		"Андайн только что..."
+	}
+	"... TOUCHED ME !"
+	{
+		"default"		"... TOUCHED ME !"
+		"ru"		"... ТРОНУЛА МЕНЯ!"
+	}
+	"I'm never washing my face ever again ... !"
+	{
+		"default"		"I'm never washing my face ever again ... !"
+		"ru"		"Я больше никогда не буду мыть свое лицо!.."
+	}
+	"Man , are you unlucky ."
+	{
+		"default"		"Man , are you unlucky ."
+		"ru"		"Вот же тебе не повезло."
+	}
+	"If you were standing just a LITTLE bit to the left ... !"
+	{
+		"default"		"If you were standing just a LITTLE bit to the left ... !"
+		"ru"		"Стой бы ты хоть чуточку левее!.."
+	}
+	"Yo , don't worry !"
+	{
+		"default"		"Yo , don't worry !"
+		"ru"		"Йо, не волнуйся!"
+	}
+	"I'm sure we'll see her again !"
+	{
+		"default"		"I'm sure we'll see her again !"
+		"ru"		"Я уверен, мы увидим её снова!"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"default"		"*** Hold 10 seconds ***"
+		"ru"		"*** Держитесь 10 секунд ***"
+	}
+	"*** Hold 40 seconds ***"
+	{
+		"default"		"*** Hold 40 seconds ***"
+		"ru"		"*** Держитесь 40 секунд ***"
+	}
+	"Yo , you got an umbrella ?"
+	{
+		"default"		"Yo , you got an umbrella ?"
+		"ru"		"Йо, ты раздобыл зонт?"
+	}
+	"Awesome !"
+	{
+		"default"		"Awesome !"
+		"ru"		"Классно!"
+	}
+	"Let's go !"
+	{
+		"default"		"Let's go !"
+		"ru"		"Пошли!"
+	}
+	"Man , Undyne is sooooooo cool ."
+	{
+		"default"		"Man , Undyne is sooooooo cool ."
+		"ru"		"Чувак, Андайн такаааая крутая."
+	}
+	"She beats up bad guys and NEVER loses ."
+	{
+		"default"		"She beats up bad guys and NEVER loses ."
+		"ru"		"Она колотит плохих ребят и НИКОГДА не проигрывает."
+	}
+	"If I was a human , I would wet the bed every night ..."
+	{
+		"default"		"If I was a human , I would wet the bed every night ..."
+		"ru"		"Если бы я был человеком, я бы мочился в кровать каждую ночь.."
+	}
+	"... knowing she was gonna beat me up !"
+	{
+		"default"		"... knowing she was gonna beat me up !"
+		"ru"		"... зная, что она собирается поколотить меня!"
+	}
+	"Ha ha ."
+	{
+		"default"		"Ha ha ."
+		"ru"		"Ха-ха."
+	}
+	"So, one time ."
+	{
+		"default"		"So, one time ."
+		"ru"		"О, однажды."
+	}
+	"We had a school project where we had to take care of flowers ."
+	{
+		"default"		"We had a school project where we had to take care of flowers ."
+		"ru"		"Нам дали школьный проект, где мы должны были позаботиться о цветке."
+	}
+	"The king - we had to call him Mr. Dreemurr - volunteered to donate his own flowers ."
+	{
+		"default"		"The king - we had to call him Mr. Dreemurr - volunteered to donate his own flowers ."
+		"ru"		"Король - мы должны обращаться к нему "Мр. Дриимурр" - пожертвовал свои собственные цветы."
+	}
+	"He ended up coming to school and teaching the class about responsibility and stuff ."
+	{
+		"default"		"He ended up coming to school and teaching the class about responsibility and stuff ."
+		"ru"		"Он пришел в школу и рассказал нашему классу об ответственности и всём таком."
+	}
+	"That got me thinking ..."
+	{
+		"default"		"That got me thinking ..."
+		"ru"		"Что заставило меня задуматься..."
+	}
+	"YO ! How COOL would it be if UNDYNE came to school !?"
+	{
+		"default"		"YO ! How COOL would it be if UNDYNE came to school !?"
+		"ru"		"Йо! Как было бы КРУТО, если бы АНДАЙН пришла в школу?!"
+	}
+	"She could beat up ALL the teachers !!"
+	{
+		"default"		"She could beat up ALL the teachers !!"
+		"ru"		"Она могла бы побить ВСЕХ учителей!!"
+	}
+	"Ummm, maybe she wouldn't beat up the teachers ..."
+	{
+		"default"		"Ummm, maybe she wouldn't beat up the teachers ..."
+		"ru"		"Мммм, возможно она бы не стала бить учителей..."
+	}
+	"She's too cool to ever hurt an innocent person !"
+	{
+		"default"		"She's too cool to ever hurt an innocent person !"
+		"ru"		"Она слишком крута, чтобы бить невиновных!"
+	}
+	"Yo , this ledge is way too steep ..."
+	{
+		"default"		"Yo , this ledge is way too steep ..."
+		"ru"		"Йо, этот уступ слишком высокий..."
+	}
+	"Yo , you wanna see Undyne , right ... ?"
+	{
+		"default"		"Yo , you wanna see Undyne , right ... ?"
+		"ru"		"Йо, ты хочешь увидеть Андайн, да?.."
+	}
+	"Climb on my shoulders ."
+	{
+		"default"		"Climb on my shoulders ."
+		"ru"		"Взберись на мои плечи."
+	}
+	"Owww ..."
+	{
+		"default"		"Owww ..."
+		"ru"		"Оууу..."
+	}
+	"Yo , try being a little less rough , haha."
+	{
+		"default"		"Yo , try being a little less rough , haha."
+		"ru"		"Йо, пытаюсь быть не таким грубым, хаха."
+	}
+	"Anyway ,I'll look for another way through ."
+	{
+		"default"		"Anyway ,I'll look for another way through ."
+		"ru"		"Неважно, я поищу другой путь."
+	}
+	"Later !"
+	{
+		"default"		"Later !"
+		"ru"		"Увидимся!"
+	}
+	"FOOL !"
+	{
+		"default"		"FOOL !"
+		"ru"		"ГЛУПЕЦ!"
+	}
+	"You think you can hurt me ???"
+	{
+		"default"		"You think you can hurt me ???"
+		"ru"		"Думаешь, можешь ранить МЕНЯ???"
+	}
+	"I am a ghost that lives inside a DUMMY ."
+	{
+		"default"		"I am a ghost that lives inside a DUMMY ."
+		"ru"		"Я - призрак, живущий внутри МАНЕКЕНА."
+	}
+	"My cousin used to live inside a DUMMY , too . Until..."
+	{
+		"default"		"My cousin used to live inside a DUMMY , too . Until..."
+		"ru"		"Мой родственник тоже жил внутри МАНЕКЕНА. Пока..."
+	}
+	"YOU CAME ALONG !"
+	{
+		"default"		"YOU CAME ALONG !"
+		"ru"		"НЕ ПРИШЕЛ ТЫ!"
+	}
+	"Not only did YOUR actions cause them to leave thier home ..."
+	{
+		"default"		"Not only did YOUR actions cause them to leave thier home ..."
+		"ru"		"Мало того, что ТВОИ действия заставили его покинуть свой дом..."
+	}
+	"But now all of thier neighbors are gone , too !"
+	{
+		"default"		"But now all of thier neighbors are gone , too !"
+		"ru"		"Но теперь, все его соседи тоже исчезли!"
+	}
+	"Despicable ."
+	{
+		"default"		"Despicable ."
+		"ru"		"Гадко."
+	}
+	"Despicable !"
+	{
+		"default"		"Despicable !"
+		"ru"		"Гадко!"
+	}
+	"DESPICABLE !!!"
+	{
+		"default"		"DESPICABLE !!!"
+		"ru"		"Гадко!!!"
+	}
+	"You're the worst person I've ever met !"
+	{
+		"default"		"You're the worst person I've ever met !"
+		"ru"		"Ты самая худшая особа, которую я встречал!"
+	}
+	"I've NEVER been more mad !!!"
+	{
+		"default"		"I've NEVER been more mad !!!"
+		"ru"		"НИКОГДА ещё я не был так зол!!!"
+	}
+	"Guooooohhhh !!!!"
+	{
+		"default"		"Guooooohhhh !!!!"
+		"ru"		"У-у-о-о-о-ох-х-х!!!!"
+	}
+	"My mannequin levels are going off the CHARTS !!!"
+	{
+		"default"		"My mannequin levels are going off the CHARTS !!!"
+		"ru"		"Уровень моего оманекенивания просто ЗАШКАЛИВАЕТ!!!"
+	}
+	"... ?"
+	{
+		"default"		"... ?"
+	}
+	"This ... This feeling ... ?"
+	{
+		"default"		"This ... This feeling ... ?"
+		"ru"		"Это... Это чувство?.."
+	}
+	"Eureka ."
+	{
+		"default"		"Eureka ."
+		"ru"		"Эврика."
+	}
+	"Eureka !"
+	{
+		"default"		"Eureka !"
+		"ru"		"Эврика!"
+	}
+	"EUREKA !!!"
+	{
+		"default"		"EUREKA !!!"
+		"ru"		"Эврика!!!"
+	}
+	"Human . That moment of unbridled emotion ."
+	{
+		"default"		"Human . That moment of unbridled emotion ."
+		"ru"		"Человек. Этот момент безудержимых эмоций."
+	}
+	"It allowed me to finally fuse with my body !"
+	{
+		"default"		"It allowed me to finally fuse with my body !"
+		"ru"		"Он наконец позволил мне слиться с моим телом!"
+	}
+	"I'm finally corporeal now ! My lifelong dream , realized !"
+	{
+		"default"		"I'm finally corporeal now ! My lifelong dream , realized !"
+		"ru"		"Теперь я полностью осязаем! Моя заветная мечта осуществилась!"
+	}
+	"In return , I guess I won't stomp you ."
+	{
+		"default"		"In return , I guess I won't stomp you ."
+		"ru"		"В ответ, я думаю, что не буду топтать тебя."
+	}
+	"How's that sound ?"
+	{
+		"default"		"How's that sound ?"
+		"ru"		"Как тебе это?"
+	}
+	"Behind you ."
+	{
+		"default"		"Behind you ."
+		"ru"		"Позади тебя."
+	}
+	"..."
+	{
+		"default"		"..."
+	}
+	"Seven ."
+	{
+		"default"		"Seven ."
+		"ru"		"Семь."
+	}
+	"Seven human souls ."
+	{
+		"default"		"Seven human souls ."
+		"ru"		"Семь человеческих душ."
+	}
+	"With the power of seven human souls ,"
+	{
+		"default"		"With the power of seven human souls ,"
+		"ru"		"С силой семи человеческих душ наш король..."
+	}
+	"King ASGORE Dreemurr ... "
+	{
+		"default"		"King ASGORE Dreemurr ... "
+		"ru"		"Король АЗГОР Дриимурр..."
+	}
+	"... will become a god ."
+	{
+		"default"		"... will become a god ."
+		"ru"		"... станет богом."
+	}
+	"With that power . ASGORE can finally shatter the barrier ."
+	{
+		"default"		"With that power . ASGORE can finally shatter the barrier ."
+		"ru"		"С этой силой АЗГОР наконец разрушит барьер."
+	}
+	"He will finally take the surface back from humanity ..."
+	{
+		"default"		"He will finally take the surface back from humanity ..."
+		"ru"		"Он наконец заберет обратно поверхность у человечества..."
+	}
+	"And give them back the suffering and pain that we have endured ."
+	{
+		"default"		"And give them back the suffering and pain that we have endured ."
+		"ru"		"И отплатит им за боль и страдания, что мы пережили."
+	}
+	"Understand , human ?"
+	{
+		"default"		"Understand , human ?"
+		"ru"		"Смекаешь, человек?"
+	}
+	"This is your only chance at redemption ."
+	{
+		"default"		"This is your only chance at redemption ."
+		"ru"		"Это твой единственный шанс на искупление."
+	}
+	"Give up your soul ..."
+	{
+		"default"		"Give up your soul ..."
+		"ru"		"Отдай свою душу..."
+	}
+	"Or I'll tear it from your body ."
+	{
+		"default"		"Or I'll tear it from your body ."
+		"ru"		"Или я вырву её из твоего тела."
+	}
+	"Undyne !!! I'll help you fight !!!"
+	{
+		"default"		"Undyne !!! I'll help you fight !!!"
+		"ru"		"Андайн!!! Я помогу тебе сражаться!!!"
+	}
+	"YO !!!!"
+	{
+		"default"		"YO !!!!"
+		"ru"		"ЙО!!!!"
+	}
+	"You did it !!! Undyne is RIGHT in front of you !!!"
+	{
+		"default"		"You did it !!! Undyne is RIGHT in front of you !!!"
+		"ru"		"У тебя вышло!!! Андайн прямо перед тобой!!!"
+	}
+	"You've got front row seats to her fight !!!"
+	{
+		"default"		"You've got front row seats to her fight !!!"
+		"ru"		"Ты прямо в первом ряду на её битве!!!"
+	}
+	"... wait ."
+	{
+		"default"		"... wait ."
+		"ru"		"... погодите."
+	}
+	"Who's she fighting ???"
+	{
+		"default"		"Who's she fighting ???"
+		"ru"		"А с кем она сражается???"
+	}
+	"H-hey !"
+	{
+		"default"		"H-hey !"
+		"ru"		"Э-эй!"
+	}
+	"You aren't gonna tell my parents about this , are you ?"
+	{
+		"default"		"You aren't gonna tell my parents about this , are you ?"
+		"ru"		"Ты же не расскажешь моим родителям об этом, да?"
+	}
+	"Yo ."
+	{
+		"default"		"Yo ."
+		"ru"		"Йо."
+	}
+	"Undyne told me to stay away from you ."
+	{
+		"default"		"Undyne told me to stay away from you ."
+		"ru"		"Андайн сказала мне держаться подальше от тебя."
+	}
+	"She said you ..."
+	{
+		"default"		"She said you ..."
+		"ru"		"Она сказала что ты..."
+	}
+	"You hurt a lot of people ."
+	{
+		"default"		"You hurt a lot of people ."
+		"ru"		"Что ты делаешь другим больно."
+	}
+	"But , yo , that's not true , right !?"
+	{
+		"default"		"But , yo , that's not true , right !?"
+		"ru"		"Но, йо, это же неправда?!"
+	}
+	"... yo ..."
+	{
+		"default"		"... yo ..."
+		"ru"		"... йо ..."
+	}
+	"Why won't you answer me ?"
+	{
+		"default"		"Why won't you answer me ?"
+		"ru"		"Почему ты не хочешь отвечать мне?"
+	}
+	"A ... a ... and what's with that weird expression ... ?"
+	{
+		"default"		"A ... a ... and what's with that weird expression ... ?"
+		"ru"		"И... и... что за странное выражение лица?.."
+	}
+	"Oh ... Oh man ..."
+	{
+		"default"		"Oh ... Oh man ..."
+		"ru"		"Ох... Вот блин..."
+	}
+	"( Man , my h-heart's pounding right out of my chest ... )"
+	{
+		"default"		"( Man , my h-heart's pounding right out of my chest ... )"
+		"ru"		"(Чувак, моё с-сердце выскакивает прямо из моей груди...)"
+	}
+	"( ... what would Undyne do ? )"
+	{
+		"default"		"( ... what would Undyne do ? )"
+		"ru"		"(... Что бы сделала Андайн?)"
+	}
+	"( ... )"
+	{
+		"default"		"( ... )"
+	}
+	"Yo ..."
+	{
+		"default"		"Yo ..."
+		"ru"		"Йо..."
+	}
+	"Y-you'd b-better st-stop r-right where you are ..."
+	{
+		"default"		"Y-you'd b-better st-stop r-right where you are ..."
+		"ru"		"С-стой г-где с-стоишь..."
+	}
+	"Cause if you w-wanna hurt anyone else ... you're ..."
+	{
+		"default"		"Cause if you w-wanna hurt anyone else ... you're ..."
+		"ru"		"Ведь если ты х-хочешь ранить кого-нибудь ещё... тебе..."
+	}
+	"You're gonna have to get through me , first ."
+	{
+		"default"		"You're gonna have to get through me , first ."
+		"ru"		"Тебе придется пройти через меня."
+	}
+	"A ... and ... and ..."
+	{
+		"default"		"A ... and ... and ..."
+		"ru"		"И... и... и..."
+	}
+	"Undyne ... You're ... You're hurt ..."
+	{
+		"default"		"Undyne ... You're ... You're hurt ..."
+		"ru"		"Андайн... Ты... Ты ранена..."
+	}
+	"Hurt ? It's nothing ."
+	{
+		"default"		"Hurt ? It's nothing ."
+		"ru"		"Ранена? Это пустяк."
+	}
+	"Next time , listen when I tell you to leave , okay ?"
+	{
+		"default"		"Next time , listen when I tell you to leave , okay ?"
+		"ru"		"В следующий раз слушайся, когд я говорю тебе уходить, хорошо?"
+	}
+	"Undyne ... I ..."
+	{
+		"default"		"Undyne ... I ..."
+		"ru"		"Андайн... Я..."
+	}
+	"I'll take care of this !"
+	{
+		"default"		"I'll take care of this !"
+		"ru"		"Я позабочусь об этом!"
+	}
+	"Get out of here !"
+	{
+		"default"		"Get out of here !"
+		"ru"		"Убирайся отсюда!"
+	}
+	"... heh ... It's nothing ..."
+	{
+		"default"		"... heh ... It's nothing ..."
+		"ru"		"... ха... это пустяк ..."
+	}
+	"No ... s-somehow , with just one hit ..."
+	{
+		"default"		"No ... s-somehow , with just one hit ..."
+		"ru"		"Нет... Каким-то образом, всего с одного удара..."
+	}
+	"I'm already ..."
+	{
+		"default"		"I'm already ..."
+		"ru"		"Я уже..."
+	}
+	"Already ..."
+	{
+		"default"		"Already ..."
+		"ru"		"Уже..."
+	}
+	"D ... damn it ..."
+	{
+		"default"		"D ... damn it ..."
+		"ru"		"Ч... черт..."
+	}
+	"Papyrus ... Alphys ... ASGORE ..."
+	{
+		"default"		"Papyrus ... Alphys ... ASGORE ..."
+		"ru"		"Папирус... Альфис... АЗГОР..."
+	}
+	"Just like that , I ..."
+	{
+		"default"		"Just like that , I ..."
+		"ru"		"Вот так просто, я..."
+	}
+	"I've failed you ."
+	{
+		"default"		"I've failed you ."
+		"ru"		"Я подвела вас."
+	}
+	"No ..."
+	{
+		"default"		"No ..."
+		"ru"		"Нет..."
+	}
+	"My body ... It feels like it's splitting apart ."
+	{
+		"default"		"My body ... It feels like it's splitting apart ."
+		"ru"		"Мое тело... Такое чувство, будто оно разваливается на части."
+	}
+	"Like any instant ... I'll scatter into a million pieces ."
+	{
+		"default"		"Like any instant ... I'll scatter into a million pieces ."
+		"ru"		"Будто в любой момент... Я рассыплюсь на миллион кусочков."
+	}
+	"But ..."
+	{
+		"default"		"But ..."
+		"ru"		"Но..."
+	}
+	"Deep , deep in my soul ."
+	{
+		"default"		"Deep , deep in my soul ."
+		"ru"		"Глубоко, глубоко в моей душе."
+	}
+	"There's a burning feeling I can't describe ."
+	{
+		"default"		"There's a burning feeling I can't describe ."
+		"ru"		"Есть жгучее чувство, которое я не могу описать."
+	}
+	"A burning feeling that WON'T let me die ."
+	{
+		"default"		"A burning feeling that WON'T let me die ."
+		"ru"		"Жгучее чувство, которое НЕ ПОЗВОЛИТ мне умереть."
+	}
+	"This isn't just about monsters anymore , is it ?"
+	{
+		"default"		"This isn't just about monsters anymore , is it ?"
+		"ru"		"Дело уже не только в монстрах, не так ли?"
+	}
+	"If you get past me , you'll ..."
+	{
+		"default"		"If you get past me , you'll ..."
+		"ru"		"Если ты пройдешь через меня, ты..."
+	}
+	"You'll destroy them all , won't you ?"
+	{
+		"default"		"You'll destroy them all , won't you ?"
+		"ru"		"Ты уничтожишь их всех, да?"
+	}
+	"Monster ... Zombie ... Everyone ..."
+	{
+		"default"		"Monster ... Zombie ... Everyone ..."
+		"ru"		"Монстров... Зомби... Всех..."
+	}
+	"Everyone's hopes . Everyone's dreams . Vanquished in an instant ."
+	{
+		"default"		"Everyone's hopes . Everyone's dreams . Vanquished in an instant ."
+		"ru"		"Надежды каждого. Мечты каждого. Уничтожишь их в одно мгновение."
+	}
+	"But I WON'T let you do that ."
+	{
+		"default"		"But I WON'T let you do that ."
+		"ru"		"Но я НЕ ПОЗВОЛЮ тебе сделать этого."
+	}
+	"Right now ,everyone in the world ..."
+	{
+		"default"		"Right now ,everyone in the world ..."
+		"ru"		"Прямо сейчас, каждое существо в мире..."
+	}
+	"I can feel their hearts beating as one ."
+	{
+		"default"		"I can feel their hearts beating as one ."
+		"ru"		"Я чувствую как их сердца бьются в унисон."
+	}
+	"And we all have ONE goal ."
+	{
+		"default"		"And we all have ONE goal ."
+		"ru"		"И у всех нас есть ОДНА цель."
+	}
+	"To defeat YOU ."
+	{
+		"default"		"To defeat YOU ."
+		"ru"		"Победить ТЕБЯ."
+	}
+	"Human , No WHATEVER you are ."
+	{
+		"default"		"Human , No WHATEVER you are ."
+		"ru"		"Человек. Нет, ЧЕМ БЫ ты не был."
+	}
+	"For the sake of the whole world ..."
+	{
+		"default"		"For the sake of the whole world ..."
+		"ru"		"Ради всего мира..."
+	}
+	"I , UNDYNE , will strike you down !"
+	{
+		"default"		"I , UNDYNE , will strike you down !"
+		"ru"		"Я, АНДАЙН, одолею тебя!"
+	}
+	"You're gonna have to try a little harder than THAT ."
+	{
+		"default"		"You're gonna have to try a little harder than THAT ."
+		"ru"		"Тебе следует попытаться сделать нечто большее, чем ЭТО."
+	}
+	"Damn it ..."
+	{
+		"default"		"Damn it ..."
+		"ru"		"Вот черт..."
+	}
+	"So even THAT power ... It wans't enough ... ?"
+	{
+		"default"		"So even THAT power ... It wans't enough ... ?"
+		"ru"		"Даже ТАКОЙ силы... Не было достаточно?.."
+	}
+	"Heh ..."
+	{
+		"default"		"Heh ..."
+		"ru"		"Ха..."
+	}
+	"Hehehehe ..."
+	{
+		"default"		"Hehehehe ..."
+		"ru"		"Ха-ха-ха..."
+	}
+	"If you ..."
+	{
+		"default"		"If you ..."
+		"ru"		"Если ты..."
+	}
+	"If you think I'm gonna give up hope , you're wrong ."
+	{
+		"default"		"If you think I'm gonna give up hope , you're wrong ."
+		"ru"		"Если ты думаешь, что я потеряю надежду, то ты ошибаешься."
+	}
+	"Cause I've ... Got my friend behind me ."
+	{
+		"default"		"Cause I've ... Got my friend behind me ."
+		"ru"		"Потому что меня... Меня прикрывают мои друзья."
+	}
+	"Alphys told me that she would watch me fight you ..."
+	{
+		"default"		"Alphys told me that she would watch me fight you ..."
+		"ru"		"Альфис сказала мне, что будет наблюдать за нашей с тобой битвой..."
+	}
+	"And if anything went wrong , she would ... evacuate everyone ."
+	{
+		"default"		"And if anything went wrong , she would ... evacuate everyone ."
+		"ru"		"И если что-то пойдет не так, она... эвакуирует всех."
+	}
+	"By now she's called ASGORE and told him to absorb the 6 human SOULs ."
+	{
+		"default"		"By now she's called ASGORE and told him to absorb the 6 human SOULs ."
+		"ru"		"Она уже позвонила АЗГОРУ и сказала ему поглотить 6 человеческих ДУШ."
+	}
+	"And with that power ..."
+	{
+		"default"		"And with that power ..."
+		"ru"		"И с этой силой..."
+	}
+	"This world will live on ... !"
+	{
+		"default"		"This world will live on ... !"
+		"ru"		"Мир будет продолжать жить!.."
+	}
+	"*** Hold 30 seconds ***"
+	{
+		"default"		"*** Hold 30 seconds ***"
+		"ru"		"*** Держитесь 30 секунд ***"
+	}
+	"*** 20 seconds left ***"
+	{
+		"default"		"*** 20 seconds left ***"
+		"ru"		"*** Держитесь 20 секунд ***"
+	}
+}
