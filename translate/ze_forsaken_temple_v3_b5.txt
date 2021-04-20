@@ -3,129 +3,561 @@
 	"** WARM UP - 60 SEC **"
 	{
 		"default"		"** WARM UP - 60 SEC **"
+		"ru"		"** РАЗМИНКА - 60 СЕК **"
 	}
 	"** WARM UP - 50 SEC **"
 	{
 		"default"		"** WARM UP - 50 SEC **"
+		"ru"		"** РАЗМИНКА - 50 СЕК **"
 	}
 	"** WARM UP - 40 SEC **"
 	{
 		"default"		"** WARM UP - 40 SEC **"
+		"ru"		"** РАЗМИНКА - 40 СЕК **"
 	}
 	"** TIP: one player must touch the closed door to trigger **"
 	{
 		"default"		"** TIP: one player must touch the closed door to trigger **"
+		"ru"		"** СОВЕТ: Один игрок должен прикоснуться к закрытой двери, чтобы вызвать триггер **"
 	}
 	"** WARM UP - 30 SEC **"
 	{
 		"default"		"** WARM UP - 30 SEC **"
+		"ru"		"** РАЗМИНКА - 30 СЕК **"
 	}
 	"** TIP: most zombie teleports are quick so do not overdefend! **"
 	{
 		"default"		"** TIP: most zombie teleports are quick so do not overdefend! **"
+		"ru"		"** СОВЕТ: Большинство зомби-телепортов срабатывают быстро, так что не переусердствуйте в обороне! **"
 	}
 	"** WARM UP - 20 SEC **"
 	{
 		"default"		"** WARM UP - 20 SEC **"
+		"ru"		"** РАЗМИНКА - 20 СЕК **"
 	}
 	"** TIP: search for key items when the console tells you to do so **"
 	{
 		"default"		"** TIP: search for key items when the console tells you to do so **"
+		"ru"		"** СОВЕТ: Ищите ключевые предметы, когда консоль говорит вам сделать это **"
 	}
 	"** WARM UP - 10 SEC **"
 	{
 		"default"		"** WARM UP - 10 SEC **"
+		"ru"		"** РАЗМИНКА - 10 СЕК **"
 	}
 	"** Admin room is located behind the spawn **"
 	{
 		"default"		"** Admin room is located behind the spawn **"
+		"ru"		"** Админ-комната находится за спавном **"
 	}
 	"** Let's begin the adventure! **"
 	{
 		"default"		"** Let's begin the adventure! **"
+		"ru"		"** Начинаем приключение! **"
 	}
 	"** STAGE 1: Underground **"
 	{
 		"default"		"** STAGE 1: Underground **"
+		"ru"		"** УРОВЕНЬ 1: Подземелье **"
 	}
 	"** Left fence is breaking in 30s **"
 	{
 		"default"		"** Left fence is breaking in 30s **"
+		"ru"		"** Решётка слева откроется через 30сек **"
 	}
 	"** Door is opening in 40s **"
 	{
 		"default"		"** Door is opening in 40s **"
+		"ru"		"** Дверь откроется через 40сек **"
 	}
 	"** Find and press TWO buttons **"
 	{
 		"default"		"** Find and press TWO buttons **"
+		"ru"		"** Найдите и нажмите ДВЕ кнопки **"
 	}
 	"** Button 1 pressed **"
 	{
 		"default"		"** Button 1 pressed **"
+		"ru"		"** Кнопка 1 нажата **"
 	}
 	"** Button 2 pressed **"
 	{
 		"default"		"** Button 2 pressed **"
+		"ru"		"** Кнопка 2 нажата **"
 	}
 	"** Nicely done **"
 	{
 		"default"		"** Nicely done **"
+		"ru"		"** Хорошая работа **"
 	}
 	"** Door is opening in 20s **"
 	{
 		"default"		"** Door is opening in 20s **"
+		"ru"		"** Дверь откроется через 20сек **"
 	}
 	"** Door is opening in 35s **"
 	{
 		"default"		"** Door is opening in 35s **"
+		"ru"		"** Дверь откроется через 35сек **"
 	}
 	"** It's seems the door is locked **"
 	{
 		"default"		"** It's seems the door is locked **"
+		"ru"		"** Кажется, дверь заперта. **"
 	}
 	"** Hint: key item owner must touch the locked door **"
 	{
 		"default"		"** Hint: key item owner must touch the locked door **"
+		"ru"		"** Подсказка: владелец ключа должен прикоснуться к запертой двери **"
 	}
 	"** Use the key to unlock it **"
 	{
 		"default"		"** Use the key to unlock it **"
+		"ru"		"** Используйте ключ, чтобы открыть её **"
 	}
 	"** Nicely done! The door is going to unlock! **"
 	{
 		"default"		"** Nicely done! The door is going to unlock! **"
+		"ru"		"** Хорошая работа! Дверь готовится к открытию! **"
 	}
 	"** JUMP! **"
 	{
 		"default"		"** JUMP! **"
+		"ru"		"** ПРЫГАЙТЕ! **"
 	}
 	"** Door is opening in 25s **"
 	{
 		"default"		"** Door is opening in 25s **"
+		"ru"		"** Дверь откроется через 25сек **"
 	}
 	"** Door is closing in 10s **"
 	{
 		"default"		"** Door is closing in 10s **"
+		"ru"		"** Дверь откроется через 10сек **"
 	}
 	"** Divine Tears - crouch **"
 	{
 		"default"		"** Divine Tears - crouch **"
+		"ru"		"** Божественные Слезы - сядьте **"
 	}
 	"** Ricochet - jump **"
 	{
 		"default"		"** Ricochet - jump **"
+		"ru"		"** Рикошет - Прыгните **"
+	}
+	"** Ricochet **"
+	{
+		"default"		"** Ricochet **"
+		"ru"		"** Рикошет **"
 	}
 	"** Vampire - stop shooting **"
 	{
 		"default"		"** Vampire - stop shooting **"
+		"ru"		"** Вампиризм - не стреляйте **"
 	}
 	"** Boss defeated **"
 	{
 		"default"		"** Boss defeated **"
+		"ru"		"** Босс побежден **"
 	}
 	"** Retreat! **"
 	{
 		"default"		"** Retreat! **"
+		"ru"		"** Отступайте! **"
+	}
+	"** Door is opening in 30s **"
+	{
+		"default"		"** Door is opening in 30s **"
+		"ru"		"** Дверь откроется через 30сек **"
+	}
+	"** Air-strike is incoming **"
+	{
+		"default"		"** Air-strike is incoming **"
+		"ru"		"** Авиаудар приближается **"
+	}
+	"** Survive 60s **"
+	{
+		"default"		"** Survive 60s **"
+		"ru"		"** Выживайте в течение 60сек **"
+	}
+	"** Kill all weakened zombies **"
+	{
+		"default"		"** Kill all weakened zombies **"
+		"ru"		"** Убейте всех ослабленных зомби **"
+	}
+	"** MOVING ON TO STAGE 2 **"
+	{
+		"default"		"** MOVING ON TO STAGE 2 **"
+		"ru"		"** ПЕРЕХОДИМ НА УРОВЕНЬ 2 **"
+	}
+	"** STAGE 2: Investigation **"
+	{
+		"default"		"** STAGE 2: Investigation **"
+		"ru"		"** УРОВЕНЬ 2: Расследование **"
+	}
+	"** Right fence is breaking in 30s **"
+	{
+		"default"		"** Right fence is breaking in 30s **"
+		"ru"		"** Решётка справа откроется через 30сек **"
+	}
+	"** Gate is opening in 25s **"
+	{
+		"default"		"** Gate is opening in 25s **"
+		"ru"		"** Ворота откроются через 25сек **"
+	}
+	"** It seems.. left flame, right fruit.. ? **"
+	{
+		"default"		"** It seems.. left flame, right fruit.. ? **"
+		"ru"		"** Кажется.. пламя слева, фрукт справа.. ? **"
+	}
+	"** Door is opening in 10s **"
+	{
+		"default"		"** Door is opening in 10s **"
+		"ru"		"** Дверь откроется через 10сек **"
+	}
+	"** Find two key items!! **"
+	{
+		"default"		"** Find two key items!! **"
+		"ru"		"** Найдите два ключевых предмета!! **"
+	}
+	"** ADMIN SELECTED STAGE 2 **"
+	{
+		"default"		"** ADMIN SELECTED STAGE 2 **"
+		"ru"		"** АДМИН ВЫБРАЛ УРОВЕНЬ 2 **"
+	}
+	"** ADMIN SELECTED ZM MODE **"
+	{
+		"default"		"** ADMIN SELECTED ZM MODE **"
+		"ru"		"** АДМИН ВЫБРАЛ ЗОМБИ-РЕЖИМ **"
+	}
+	"** ZM MODE **"
+	{
+		"default"		"** ZM MODE **"
+		"ru"		"** ЗОМБИ-РЕЖИМ **"
+	}
+	"** Do not follow ZE path! Survive until nuke! **"
+	{
+		"default"		"** Do not follow ZE path! Survive until nuke! **"
+		"ru"		"** Не пытайтесь пройти карту как обычно! Просто продержитесь до взрыва! **"
+	}
+	"** 270 SECONDS LEFT **"
+	{
+		"default"		"** 270 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 270 СЕКУНД **"
+	}
+	"** Nicely done! You got the correct combination! **"
+	{
+		"default"		"** Nicely done! You got the correct combination! **"
+		"ru"		"** Хорошая работа! Вы использовали правильную комбинацию! **"
+	}
+	"** Pit is opening in 20s **"
+	{
+		"default"		"** Pit is opening in 20s **"
+		"ru"		"** Яма откроется через 20сек **"
+	}
+	"** Incorrect combination! The pit will open SLOWER!! **"
+	{
+		"default"		"** Incorrect combination! The pit will open SLOWER!! **"
+		"ru"		"** Неправильная комбинация! Яма будет открываться МЕДЛЕННЕЕ!! **"
+	}
+	"** Pit is opening in 40s **"
+	{
+		"default"		"** Pit is opening in 40s **"
+		"ru"		"** Яма откроется через 40сек **"
+	}
+	"** Defend 20s **"
+	{
+		"default"		"** Defend 20s **"
+		"ru"		"** Защищайтесь 20сек **"
+	}
+	"** Boss enrage in THREE minutes **"
+	{
+		"default"		"** Boss enrage in THREE minutes **"
+		"ru"		"** Босс впадет в ярость через ТРИ минуты **"
+	}
+	"** Tumult - use heal **"
+	{
+		"default"		"** Tumult - use heal **"
+		"ru"		"** Буйство - используйте исцеление **"
+	}
+	"** Servant - defend zombies from now **"
+	{
+		"default"		"** Servant - defend zombies from now **"
+		"ru"		"** Слуга - защищайтесь от зомби **"
+	}
+	"** Weight of the Land - move away **"
+	{
+		"default"		"** Weight of the Land - move away **"
+		"ru"		"** Масса Земли - отойдите **"
+	}
+	"** Boss defeated! RUN! **"
+	{
+		"default"		"** Boss defeated! RUN! **"
+		"ru"		"** Босс побежден! БЕГИТЕ! **"
+	}
+	"** Gate is opening in 40s **"
+	{
+		"default"		"** Gate is opening in 40s **"
+		"ru"		"** Ворота откроются через 40сек **"
+	}
+	"** Rock is breaking in 10s **"
+	{
+		"default"		"** Rock is breaking in 10s **"
+		"ru"		"** Камень сломается через 10сек **"
+	}
+	"** Press TWO buttons on both sides **"
+	{
+		"default"		"** Press TWO buttons on both sides **"
+		"ru"		"** Нажмите ДВЕ кнопки по обеим сторонам **"
+	}
+	"** Vortex **"
+	{
+		"default"		"** Vortex **"
+		"ru"		"** Вихрь **"
+	}
+	"** Weight of the Land **"
+	{
+		"default"		"** Weight of the Land **"
+		"ru"		"** Масса Земли **"
+	}
+	"** Sink **"
+	{
+		"default"		"** Sink **"
+		"ru"		"** Потопление **"
+	}
+	"** Door is opening in 40s *"
+	{
+		"default"		"** Door is opening in 40s *"
+		"ru"		"** Дверь откроется через 40сек *"
+	}
+	"** Door is opening in 15s **"
+	{
+		"default"		"** Door is opening in 15s **"
+		"ru"		"** Дверь откроется через 15сек *"
+	}
+	"** Helicopter is leaving 10s **"
+	{
+		"default"		"** Helicopter is leaving 10s **"
+		"ru"		"** Вертолет улетит через 10сек **"
+	}
+	"** MOVING ON TO STAGE 3 **"
+	{
+		"default"		"** MOVING ON TO STAGE 3 **"
+		"ru"		"** ПЕРЕХОДИМ НА УРОВЕНЬ 3 **"
+	}
+	"** STAGE 3: Escape **"
+	{
+		"default"		"** STAGE 3: Escape **"
+		"ru"		"** УРОВЕНЬ 3: Спасение **"
+	}
+	"** Find another key item!! **"
+	{
+		"default"		"** Find another key item!! **"
+		"ru"		"** Найдите ещё один ключевой предмет!! **"
+	}
+	"** Temple door is opening soon **"
+	{
+		"default"		"** Temple door is opening soon **"
+		"ru"		"** Дверь храма скоро откроется **"
+	}
+	"** You must defend until the door opens **"
+	{
+		"default"		"** You must defend until the door opens **"
+		"ru"		"** Вы должны защищаться до тех пор, пока дверь не откроется **"
+	}
+	"** Fixing the door. Keep defending! **"
+	{
+		"default"		"** Fixing the door. Keep defending! **"
+		"ru"		"** Чиним дверь. Продолжайте защищаться! **"
+	}
+	"** Someone got baited... **"
+	{
+		"default"		"** Someone got baited... **"
+		"ru"		"** Кто-то попался... **"
+	}
+	"** The door will open soon **"
+	{
+		"default"		"** The door will open soon **"
+		"ru"		"** Дверь скоро откроется **"
+	}
+	"** Hang on... Keep defending! **"
+	{
+		"default"		"** Hang on... Keep defending! **"
+		"ru"		"** Продолжайте защищаться! **"
+	}
+	"** Just a little bit more... **"
+	{
+		"default"		"** Just a little bit more... **"
+		"ru"		"** Еще чуть-чуть... **"
+	}
+	"** Maze exit is opening in 35s **"
+	{
+		"default"		"** Maze exit is opening in 35s **"
+		"ru"		"** Выход из лабиринта откроется через 35сек **"
+	}
+	"** Elevator is leaving in 20s **"
+	{
+		"default"		"** Elevator is leaving in 20s **"
+		"ru"		"** Лифт уедет через 20сек **"
+	}
+	"** Zombie items are temporary disabled **"
+	{
+		"default"		"** Zombie items are temporary disabled **"
+		"ru"		"** Зомби-материи временно отключены **"
+	}
+	"** Dancing Claw **"
+	{
+		"default"		"** Dancing Claw **"
+		"ru"		"** Танцующий Коготь **"
+	}
+	"** Vampire **"
+	{
+		"default"		"** Vampire **"
+		"ru"		"** Вампиризм **"
+	}
+	"** Swallow **"
+	{
+		"default"		"** Swallow **"
+		"ru"		"** Притягивание **"
+	}
+	"** Force **"
+	{
+		"default"		"** Force **"
+		"ru"		"** Отталкивание **"
+	}
+	"** Divine Tears **"
+	{
+		"default"		"** Divine Tears **"
+		"ru"		"** Божественные Слезы **"
+	}
+	"** Zombie items can be used again **"
+	{
+		"default"		"** Zombie items can be used again **"
+		"ru"		"** Зомби-материи снова активированы **"
+	}
+	"** Maze exit is opening in 10s **"
+	{
+		"default"		"** Maze exit is opening in 10s **"
+		"ru"		"** Выход из лабиринта откроется через 10сек **"
+	}
+	"** Exit door is opening in 10s **"
+	{
+		"default"		"** Exit door is opening in 10s **"
+		"ru"		"** Дверь откроется через 10сек **"
+	}
+	"** DODGE THE LASERS AND KILL THE BOSS **"
+	{
+		"default"		"** DODGE THE LASERS AND KILL THE BOSS **"
+		"ru"		"** УБЕЙТЕ БОССА УКЛОНЯЯСЬ ОТ ЛАЗЕРОВ **"
+	}
+	"** HE IS DEAD! RUN FOR YOUR LYFE! **"
+	{
+		"default"		"** HE IS DEAD! RUN FOR YOUR LYFE! **"
+		"ru"		"** ОН УМЕР! БЕГИТЕ, ЕСЛИ ХОТИТЕ ЖИТЬ! **"
+	}
+	"** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **"
+	{
+		"default"		"** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **"
+		"ru"		"** Все те, кто зашел на босса и пережил лазеры в течение 5 секунд, получили 1000 очков **"
+	}
+	"** GO LEFT **"
+	{
+		"default"		"** GO LEFT **"
+		"ru"		"** ИДИТЕ НАЛЕВО **"
+	}
+	"** KILL IT BEFORE IT KILLS YOU **"
+	{
+		"default"		"** KILL IT BEFORE IT KILLS YOU **"
+		"ru"		"** УБЕЙТЕ ЕГО, ПОКА ОН НЕ УБИЛ ВАС **"
+	}
+	"** GET TO THE HELICOPTER NOW! **"
+	{
+		"default"		"** GET TO THE HELICOPTER NOW! **"
+		"ru"		"** БЫСТРЕЕ ЗАЛЕЗАЙТЕ В ВЕРТОЛЕТ! **"
+	}
+	"** YOU HAVE BEATEN THE MAP **"
+	{
+		"default"		"** YOU HAVE BEATEN THE MAP **"
+		"ru"		"** ВЫ ПРОШЛИ КАРТУ **"
+	}
+	"** 240 SECONDS LEFT **"
+	{
+		"default"		"** 240 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 240 СЕКУНД **"
+	}
+	"** 180 SECONDS LEFT **"
+	{
+		"default"		"** 180 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 180 СЕКУНД **"
+	}
+	"** 120 SECONDS LEFT **"
+	{
+		"default"		"** 120 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 120 СЕКУНД **"
+	}
+	"** 60 SECONDS LEFT **"
+	{
+		"default"		"** 60 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 60 СЕКУНД **"
+	}
+	"** 30 SECONDS LEFT **"
+	{
+		"default"		"** 30 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 30 СЕКУНД **"
+	}
+	"** 15 SECONDS LEFT **"
+	{
+		"default"		"** 15 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 15 СЕКУНД **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"default"		"** 10 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 10 СЕКУНД **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"default"		"** 5 SECONDS LEFT **"
+		"ru"		"** ОСТАЛОСЬ 5 СЕКУНД **"
+	}
+	"** Nuke is incoming **"
+	{
+		"default"		"** Nuke is incoming **"
+		"ru"		"** Взрыв приближается **"
+	}
+	"** Thanks for playing **"
+	{
+		"default"		"** Thanks for playing **"
+		"ru"		"** Спасибо за игру **"
+	}
+	"** ADMIN SELECTED STAGE 1 **"
+	{
+		"default"		"** ADMIN SELECTED STAGE 1 **"
+		"ru"		"** АДМИН ВЫБРАЛ УРОВЕНЬ 1 **"
+	}
+	"** Helicopter is infected **"
+	{
+		"default"		"** Helicopter is infected **"
+		"ru"		"** Вертолет заражен **"
+	}
+	"** ROUND FAIL **"
+	{
+		"default"		"** ROUND FAIL **"
+		"ru"		"** РАУНД ПРОИГРАН **"
+	}
+	"** Landslide - avoid red platform **"
+	{
+		"default"		"** Landslide - avoid red platform **"
+		"ru"		"** Оползень - избегайте красной части платформы **"
+	}
+	"** Boss enrage! You are too slow! **"
+	{
+		"default"		"** Boss enrage! You are too slow! **"
+		"ru"		"** Босс в ярости! Слишком медленно! **"
+	}
+	"** ADMIN SELECTED STAGE 3 **"
+	{
+		"default"		"** ADMIN SELECTED STAGE 3 **"
+		"ru"		"** АДМИН ВЫБРАЛ УРОВЕНЬ 3 **"
 	}
 }

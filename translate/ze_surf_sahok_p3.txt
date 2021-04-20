@@ -3,21 +3,51 @@
 	"**The door will open in 45 seconds. Cover!!**"
 	{
 		"default"		"**The door will open in 45 seconds. Cover!!**"
+		"ru"		"**Дверь откроется через 45 секунд. Держитесь!!**"
 	}
 	"**Door is open 10 sec**"
 	{
 		"default"		"**Door is open 10 sec**"
+		"ru"		"**Дверь откроется через 10 сек**"
 	}
 	"**Elevator is leaving in 35s**"
 	{
 		"default"		"**Elevator is leaving in 35s**"
+		"ru"		"**Лифт уедет через 35сек**"
 	}
 	"**Elevator is leaving in 5s**"
 	{
 		"default"		"**Elevator is leaving in 5s**"
+		"ru"		"**Лифт уедет через 5сек**"
 	}
 	"**Boat will arrive in 30 seconds**"
 	{
 		"default"		"**Boat will arrive in 30 seconds**"
+		"ru"		"**Лодка прибудет через 30 секунд**"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"default"		"** Boss Fight in 10s **"
+		"ru"		"** Битва с Боссом через 10сек **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"default"		"** Boss Fight in 5s **"
+		"ru"		"** Битва с Боссом через 5сек **"
+	}
+	"** Nades do more damage **"
+	{
+		"default"		"** Nades do more damage **"
+		"ru"		"** Гранаты наносят больше урона **"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"default"		"** Boss is dead - Escape ! **"
+		"ru"		"** Босс умер - Спасайтесь! **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"default"		"**The door will open in 30 seconds. Cover!!**"
+		"ru"		"**Дверь откроется через 30 секунд. Держитесь!!**"
 	}
 }
