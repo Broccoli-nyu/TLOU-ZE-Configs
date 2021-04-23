@@ -1,319 +1,633 @@
-"Chat"
+"chat"
 {
 	">> IDEA: Sienestaja <<"
 	{
 		"default"		">> IDEA: Sienestaja <<"
+		"ru"		">> ИДЕЯ: Sienestaja <<"
 	}
 	">> Map by TaskuVaras <<"
 	{
 		"default"		">> Map by TaskuVaras <<"
+		"ru"		">> Карта создана TaskuVaras <<"
 	}
 	">> Fixed by Moltard <<"
 	{
 		"default"		">> Fixed by Moltard <<"
+		"ru"		">> Исправлена Moltard <<"
 	}
 	"[Special Thanks to: Muro#[A] FT]"
 	{
 		"default"		"[Special Thanks to: Muro#[A] FT]"
+		"ru"		"[Отдельная благодарность: Muro#[A] FT]"
 	}
 	">> WARMUP ROUND <<"
 	{
 		"default"		">> WARMUP ROUND <<"
+		"ru"		">> РАЗМИНОЧНЫЙ РАУНД <<"
 	}
 	">> 40 SECONDS LEFT <<"
 	{
 		"default"		">> 40 SECONDS LEFT <<"
+		"ru"		">> ОСТАЛОСЬ 40 СЕКУНД <<"
 	}
 	">> 30 SECONDS LEFT <<"
 	{
 		"default"		">> 30 SECONDS LEFT <<"
+		"ru"		">> ОСТАЛОСЬ 30 СЕКУНД <<"
 	}
 	">> 20 SECONDS LEFT <<"
 	{
 		"default"		">> 20 SECONDS LEFT <<"
+		"ru"		">> ОСТАЛОСЬ 20 СЕКУНД <<"
 	}
 	">> 10 SECONDS LEFT <<"
 	{
 		"default"		">> 10 SECONDS LEFT <<"
+		"ru"		">> ОСТАЛОСЬ 10 СЕКУНД <<"
 	}
 	">> WARMUP ROUND END <<"
 	{
 		"default"		">> WARMUP ROUND END <<"
+		"ru"		">> РАЗМИНКА ОКОНЧЕНА <<"
 	}
 	">> LEVEL: FLAT GRASS <<"
 	{
 		"default"		">> LEVEL: FLAT GRASS <<"
+		"ru"		">> УРОВЕНЬ: ПЛОСКАЯ ТРАВА <<"
 	}
 	">> PLAYER HAS PICKED UP ICE <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP ICE <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ЛЕД <<"
 	}
 	"*** WAIT TILL THAT WALL BREAKS ***"
 	{
 		"default"		"*** WAIT TILL THAT WALL BREAKS ***"
+		"ru"		"*** ПОДОЖДИТЕ, ПОКА СТЕНА СЛОМАЕТСЯ ***"
 	}
 	"*** WALL IS BROKEN RUUUUUUN!! ***"
 	{
 		"default"		"*** WALL IS BROKEN RUUUUUUN!! ***"
+		"ru"		"*** СТЕНА СЛОМАЛАСЬ, БЕГИТЕ!! ***"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP 6 MINES <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ 6 МИН <<"
 	}
 	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
 	{
 		"default"		"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+		"ru"		"*** ПОДОЖДИТЕ, ПОКА БОМБА НЕ СЛОМАЕТ ЭТИ ДОСКИ ***"
 	}
 	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
 	{
 		"default"		"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+		"ru"		"*** ДОСКИ СЛОМАНЫ, БЕГИТЕ!! ***"
 	}
 	"*** Leaf 1 leaving in 7 seconds ***"
 	{
 		"default"		"*** Leaf 1 leaving in 7 seconds ***"
+		"ru"		"*** Лист 1 уплывет через 7 секунд ***"
 	}
 	"*** Leaf 2 leaving in 7 seconds ***"
 	{
 		"default"		"*** Leaf 2 leaving in 7 seconds ***"
+		"ru"		"*** Лист 2 уплывет через 7 секунд ***"
 	}
 	">> HOLD FOR 30 seconds <<"
 	{
 		"default"		">> HOLD FOR 30 seconds <<"
+		"ru"		">> ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 30 СЕКУНД <<"
 	}
 	">> ALL 6 MINES USED <<"
 	{
 		"default"		">> ALL 6 MINES USED <<"
+		"ru"		">> ВСЕ 6 МИН ИСПОЛЬЗОВАНЫ <<"
 	}
 	">> 5 more seconds <<"
 	{
 		"default"		">> 5 more seconds <<"
+		"ru"		">> Ещё 5 секунд <<"
 	}
 	">> GO! GO! GO! <<"
 	{
 		"default"		">> GO! GO! GO! <<"
+		"ru"		">> Бегите! <<"
 	}
 	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP GRAVITY <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ГРАВИТАЦИЮ <<"
 	}
 	"*** OH NO Its an EVIL BUTTERFLY ***"
 	{
 		"default"		"*** OH NO Its an EVIL BUTTERFLY ***"
+		"ru"		"*** О НЕТ, ЭТО ЗЛАЯ БАБОЧКА ***"
 	}
 	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
 	{
 		"default"		"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+		"ru"		"*** СТРЕЛЯЙТЕ ПО НЕЙ, ПОКА НЕ СТАЛО СЛИШКОМ ПОЗДНО!! ***"
 	}
 	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
 	{
 		"default"		"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+		"ru"		"*** БАБОЧКА УМЕРЛА, СПАСЕНИЕ ПРИБЛИЖАЕТСЯ ***"
 	}
 	">> BUTTERFLY LEAVING IN 10 seconds <<"
 	{
 		"default"		">> BUTTERFLY LEAVING IN 10 seconds <<"
+		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 10 СЕКУНД <<"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
 		"default"		">> LEVEL COMPLETED!! <<"
+		"ru"		">> УРОВЕНЬ ПРОЙДЕН!! <<"
 	}
 	">> LEVEL: BIG TREE <<"
 	{
 		"default"		">> LEVEL: BIG TREE <<"
+		"ru"		">> УРОВЕНЬ: БОЛЬШОЕ ДЕРЕВО <<"
 	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP HEAL <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ИСЦЕЛЕНИЕ <<"
 	}
 	"*** HOLD FOR 10 seconds ***"
 	{
 		"default"		"*** HOLD FOR 10 seconds ***"
+		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 10 СЕКУНД ***"
 	}
 	"*** HOLD FOR 20 seconds ***"
 	{
 		"default"		"*** HOLD FOR 20 seconds ***"
+		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 20 СЕКУНД ***"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP EARTH <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ЗЕМЛЮ <<"
 	}
 	"*** HOLD FOR 40 seconds ***"
 	{
 		"default"		"*** HOLD FOR 40 seconds ***"
+		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 40 СЕКУНД ***"
 	}
 	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ БЕСКОНЕЧНЫЕ ПАТРОНЫ <<"
 	}
 	"*** HOLD FOR 5 seconds ***"
 	{
 		"default"		"*** HOLD FOR 5 seconds ***"
+		"ru"		"*** ДЕРЖИТЕСЬ ЕЩЕ 5 СЕКУНД ***"
 	}
 	"*** GO GO GO!!!! ***"
 	{
 		"default"		"*** GO GO GO!!!! ***"
+		"ru"		"*** БЕГИТЕ!!!! ***"
 	}
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"default"		"*** ELEVATOR LEAVING IN 20 seconds ***"
+		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 20 СЕКУНД ***"
 	}
 	"*** ELEVATOR LEAVING IN 10 seconds ***"
 	{
 		"default"		"*** ELEVATOR LEAVING IN 10 seconds ***"
+		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 10 СЕКУНД ***"
 	}
 	"*** ELEVATOR LEAVING IN 5 seconds ***"
 	{
 		"default"		"*** ELEVATOR LEAVING IN 5 seconds ***"
+		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 5 СЕКУНД ***"
 	}
 	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
 	{
 		"default"		">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+		"ru"		">> ЭТО ЗЛОЙ ПИКАЧУ, СТРЕЛЯЙТЕ В НЕГО!!!!!!!!!! <<"
 	}
 	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
 	{
 		"default"		">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+		"ru"		">> ЛЮДИ ВЫЙДИТЕ ИЗ ЛИФТА, ИНАЧЕ ВЫ БУДЕТЕ НАКАЗАНЫ <<"
 	}
 	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
 	{
 		"default"		">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+		"ru"		">> ПИКАЧУ ИСПОЛЬЗУЕТ УДАР МОЛНИИ, ПРОДОЛЖАЙТЕ СТРЕЛЯТЬ!!!!!!!!!! <<"
 	}
 	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	{
 		"default"		"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+		"ru"		"*** ПИКАЧУ МЕРТВ!! БЕГИТЕ К СПАСИТЕЛЬНОЙ БАБОЧКЕ ***"
 	}
 	">> BUTTERFLY LEAVING IN 15 seconds <<"
 	{
 		"default"		">> BUTTERFLY LEAVING IN 15 seconds <<"
+		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 15 СЕКУНД <<"
 	}
 	">> LEVEL: HELL <<"
 	{
 		"default"		">> LEVEL: HELL <<"
+		"ru"		">> УРОВЕНЬ: АД <<"
 	}
 	">> PLAYER HAS PICKED UP WIND <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP WIND <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ВЕТЕР <<"
 	}
 	"*** HOLD FOR 30 seconds ***"
 	{
 		"default"		"*** HOLD FOR 30 seconds ***"
+		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 30 СЕКУНД ***"
 	}
 	"*** DOOR IS OPEN! RUUUN! ***"
 	{
 		"default"		"*** DOOR IS OPEN! RUUUN! ***"
+		"ru"		"*** ДВЕРЬ ОТКРЫТА! БЕГИТЕ! ***"
 	}
 	">> PLAYER HAS PICKED UP FIRE <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP FIRE <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ОГОНЬ <<"
 	}
 	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
 	{
 		"default"		">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+		"ru"		">> ВАМ НУЖЕН КЛЮЧ ДЛЯ ОТКРЫТИЯ ЭТОГО ЗАМКА <<"
 	}
 	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
 	{
 		"default"		">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+		"ru"		">> НАВЕРНОЕ ОН ГДЕ-ТО В КОРОБКАХ, НАХОДЯЩИХСЯ В БОКОВЫХ КОМНАТАХ <<"
 	}
 	"*** PLAYER FOUND A KEY ***"
 	{
 		"default"		"*** PLAYER FOUND A KEY ***"
+		"ru"		"*** ИГРОК НАШЕЛ КЛЮЧ ***"
 	}
 	"*** OH NO!! ITS SATAN!! ***"
 	{
 		"default"		"*** OH NO!! ITS SATAN!! ***"
+		"ru"		"*** О НЕТ!! ЭТО САТАНА!! ***"
 	}
 	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
 	{
 		"default"		"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+		"ru"		"*** СТРЕЛЯЙТЕ В НЕГО ИЛИ ВЫ НАВСЕГДА СТАНЕТЕ ЕГО РАБАМИ!! ***"
 	}
 	"*** THROW GRENADES TO KILL IT EASIER ***"
 	{
 		"default"		"*** THROW GRENADES TO KILL IT EASIER ***"
+		"ru"		"*** КИДАЙТЕ ГРАНАТЫ, ЧТОБЫ ПРОЩЕ ЕГО УБИТЬ ***"
 	}
 	"*** SATAN IS PREPARING TO ATTACK ***"
 	{
 		"default"		"*** SATAN IS PREPARING TO ATTACK ***"
+		"ru"		"*** САТАНА ГОТОВИТСЯ К АТАКЕ ***"
 	}
 	"*** SATAN IS ATTACKING ***"
 	{
 		"default"		"*** SATAN IS ATTACKING ***"
+		"ru"		"*** САТАНА АТАКУЕТ ***"
 	}
 	"*** KEEP SHOOTING ***"
 	{
 		"default"		"*** KEEP SHOOTING ***"
+		"ru"		"*** ПРОДОЛЖАЙТЕ СТРЕЛЯТЬ ***"
 	}
 	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	{
 		"default"		"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+		"ru"		"*** САТАНА РАНЕН, ВЫ МОЖЕТЕ СПОКОЙНО ПОКИНУТЬ АД ***"
 	}
 	">> WAIT FOR 10 SECONDS <<"
 	{
 		"default"		">> WAIT FOR 10 SECONDS <<"
+		"ru"		">> ЖДИТЕ ЕЩЁ 10 СЕКУНД <<"
 	}
 	">> LEVEL COMPLETED <<"
 	{
 		"default"		">> LEVEL COMPLETED <<"
+		"ru"		">> УРОВЕНЬ ПРОЙДЕН <<"
 	}
 	">> EXTREME MODE ADDED <<"
 	{
 		"default"		">> EXTREME MODE ADDED <<"
+		"ru"		">> ДОБАВЛЕН ЭКСТРА.РЕЖИМ <<"
 	}
 	">> BOSSES ON LEVEL II <<"
 	{
 		"default"		">> BOSSES ON LEVEL II <<"
+		"ru"		">> БОССЫ УРОВНЯ 2 <<"
 	}
 	"*** HOLD FOR ABOUT 30 SECONDS ***"
 	{
 		"default"		"*** HOLD FOR ABOUT 30 SECONDS ***"
+		"ru"		"*** ДЕРЖИТЕСЬ ОКОЛО 30 СЕКУНД ***"
 	}
 	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
 	{
 		"default"		"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+		"ru"		"*** ИДИТЕ И НАЖМИТЕ 2 КНОПКИ ОДНОВРЕМЕННО, ЧТОБЫ ПРОЙТИ ДАЛЬШЕ ***"
 	}
 	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
 	{
 		"default"		"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+		"ru"		"*** ХОРОШЕНЬКО ЗАЩИЩАЙТЕСЬ В ТЕЧЕНИЕ 10 СЕКУНД ***"
 	}
 	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
 	{
 		"default"		">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+		"ru"		">> ДИКИЙ ДИТТО ПОЯВЛЯЕТСЯ, СТРЕЛЯЙТЕ В НЕГО!!!!!!!!!! <<"
 	}
 	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
 	{
 		"default"		">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+		"ru"		">> ДИКИЙ ДИТТО ИСПОЛЬЗУЕТ ТРАНСФОРМАЦИЮ!!!!!!!!! <<"
 	}
 	">> DITTO IS USING SEED ATTACK <<"
 	{
 		"default"		">> DITTO IS USING SEED ATTACK <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ЗЕРНОВУЮ АТАКУ <<"
 	}
 	">> DITTO IS USING FLAMETHROWER <<"
 	{
 		"default"		">> DITTO IS USING FLAMETHROWER <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ОГНЕМЕТ <<"
 	}
 	">> DITTO IS USING WATER... SOMETHING <<"
 	{
 		"default"		">> DITTO IS USING WATER... SOMETHING <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ВОДНОЕ... ЧТО-ТО <<"
 	}
 	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
 	{
 		"default"		">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ УДАР МОЛНИИ, ПЛЫВИТЕ В БЕЗОПАСНОЕ МЕСТО <<"
 	}
 	">> DITTO IS USING SOMETHING... FUNNY? <<"
 	{
 		"default"		">> DITTO IS USING SOMETHING... FUNNY? <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ЧТО-ТО... ВЕСЕЛОЕ? <<"
 	}
 	">> AND IT'S NOT VERY EFFECTIVE!!!! <<"
 	{
 		"default"		">> AND IT'S NOT VERY EFFECTIVE!!!! <<"
+		"ru"		">> И ЭТО НЕ ОЧЕНЬ ЭФФЕКТИВНО!!!! <<"
 	}
 	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 	{
 		"default"		">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+		"ru"		">> ДИКИЙ ДИТТО ПОБЕЖДЕН, БЕГИТЕ!!!!!!!!! <<"
 	}
 	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
 	{
 		"default"		">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+		"ru"		">> ЗЛОЙ ПИКАЧУ БЛОКИРУЕТ ПУТЬ !! <<"
 	}
 	">> BUTTERFLY LEAVING IN 30 seconds <<"
 	{
 		"default"		">> BUTTERFLY LEAVING IN 30 seconds <<"
+		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 30 СЕКУНД <<"
+	}
+	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ АБСОЛЮТНОЕ ОРУЖИЕ <<"
+	}
+	"*** OH NO!! ITS DRAGON!! ***"
+	{
+		"default"		"*** OH NO!! ITS DRAGON!! ***"
+		"ru"		"*** О НЕТ!! ЭТО ДРАКОН!! ***"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE ***"
+	{
+		"default"		"*** SHOOT IT BEFORE ITS TOO LATE ***"
+		"ru"		"*** СТРЕЛЯЙТЕ В НЕГО, ПОКА НЕ СТАЛО СЛИШКОМ ПОЗДНО ***"
+	}
+	"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"default"		"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+		"ru"		"*** ДРАКОН РАНЕН, ВЫ МОЖЕТЕ СПОКОЙНО ПОКИНУТЬ АД ***"
+	}
+	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+	{
+		"default"		">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+		"ru"		">> ЗАЩИЩАЙТЕ СВОЮ ДЕРЕВНЮ В ТЕЧЕНИЕ 30 СЕКУНД <<"
+	}
+	">> You have succesfully saved Shroomforest <<"
+	{
+		"default"		">> You have succesfully saved Shroomforest <<"
+		"ru"		">> Вы успешно спасли Шрумфорест <<"
+	}
+	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+	{
+		"default"		">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+		"ru"		">> РАЗБЛОКИРОВАН НОВЫЙ УРОВЕНЬ В АДМИН.КОМНАТЕ <<"
+	}
+	">> LEVEL: CHOOSING LEVEL <<"
+	{
+		"default"		">> LEVEL: CHOOSING LEVEL <<"
+		"ru"		">> УРОВЕНЬ: ВЫБОР УРОВНЯ <<"
+	}
+	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+	{
+		"default"		"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+		"ru"		"*** ДОБЕГИТЕ ДО ТЕЛЕПОРТА В АДМИН.КОМНАТУ ***"
+	}
+	"*** YOU CAN CHOOSE LEVEL AND MODE ***"
+	{
+		"default"		"*** YOU CAN CHOOSE LEVEL AND MODE ***"
+		"ru"		"*** ВЫ МОЖЕТЕ ВЫБРАТЬ УРОВЕНЬ И РЕЖИМ ***"
+	}
+	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"default"		"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+		"ru"		"*** У ВАС ЕСТЬ 60 СЕКУНД ДЛЯ ЭТОГО, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+	}
+	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"default"		"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		"ru"		"*** У ВАС ЕСТЬ 45 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+	}
+	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"default"		"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		"ru"		"*** У ВАС ЕСТЬ 30 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+	}
+	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"default"		"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		"ru"		"*** У ВАС ЕСТЬ 15 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+	}
+	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"default"		"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		"ru"		"*** У ВАС ЕСТЬ 10 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+	}
+	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"default"		"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+		"ru"		"*** У ВАС ЕСТЬ 5 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+	}
+	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+		"ru"		">> ИГРОК ВЫБРАЛ УРОВЕНЬ: НОВОЕ НАЧАЛО <<"
+	}
+	">> NUKE INCOMING IN 5 SECONDS <<"
+	{
+		"default"		">> NUKE INCOMING IN 5 SECONDS <<"
+		"ru"		">> ВЗРЫВ ПРОИЗОЙДЕТ ЧЕРЕЗ 5 СЕКУНД <<"
+	}
+	">> LEVEL: A NEW BEGINNING <<"
+	{
+		"default"		">> LEVEL: A NEW BEGINNING <<"
+		"ru"		">> УРОВЕНЬ: НОВОЕ НАЧАЛО <<"
+	}
+	"*** THE ELEVATOR WILL FALL DOWN !!! ***"
+	{
+		"default"		"*** THE ELEVATOR WILL FALL DOWN !!! ***"
+		"ru"		"*** ЛИФТ УПАДЕТ !!! ***"
+	}
+	"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
+	{
+		"default"		"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
+		"ru"		"*** ЗАЙДИТЕ ВНУТРЬ ИЛИ ВЫ ОКАЖЕТЕСЬ В ЛОВУШКЕ !! ***"
+	}
+	">> IT LOOK LIKE A NEW PLACE ... <<"
+	{
+		"default"		">> IT LOOK LIKE A NEW PLACE ... <<"
+		"ru"		">> ПОХОЖЕ НА НОВОЕ МЕСТО ... <<"
+	}
+	">> A WILD PIKACHU IS WAITING FOR US !! <<"
+	{
+		"default"		">> A WILD PIKACHU IS WAITING FOR US !! <<"
+		"ru"		">> ДИКИЙ ПИКАЧУ ЖДАЛ НАС !! <<"
+	}
+	">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
+	{
+		"default"		">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
+		"ru"		">> ЛЮДИ, ВЫЙДИТЕ ИЗ ЛИФТА И СРАЖАЙТЕСЬ !! <<"
+	}
+	"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
+	{
+		"default"		"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
+		"ru"		"*** ПИКАЧУ ПАДАЕТ. ДЕРЖИТЕСЬ ОТ НЕГО ПОДАЛЬШЕ ***"
+	}
+	"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
+	{
+		"default"		"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
+		"ru"		"*** ЭТО МЕСТО БУДЕТ НАШЕЙ НОВОЙ ДЕРЕВНЕЙ ***"
+	}
+	"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
+	{
+		"default"		"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
+		"ru"		"*** НАЙДИТЕ СПОСОБ ЗАКРЫТЬ ДОСТУП ИЗ ЛИФТА ***"
+	}
+	"*** DONT LET ANY ZOMBIE ENTER !! ***"
+	{
+		"default"		"*** DONT LET ANY ZOMBIE ENTER !! ***"
+		"ru"		"*** НЕ ПОЗВОЛЯЙТЕ НИ ОДНОМУ ЗОМБИ ПРОЙТИ !! ***"
+	}
+	">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
+	{
+		"default"		">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ЗУБЧАТЫЙ МЕХАНИЗМ <<"
+	}
+	">> GOOD JOB <<"
+	{
+		"default"		">> GOOD JOB <<"
+		"ru"		">> ХОРОШАЯ РАБОТА <<"
+	}
+	">> THE GRID SHOULD START TO CLOSE <<"
+	{
+		"default"		">> THE GRID SHOULD START TO CLOSE <<"
+		"ru"		">> РЕШЕТКА ДОЛЖНА НАЧАТЬ ЗАКРЫВАТЬСЯ <<"
+	}
+	">> You have successfully saved our new village <<"
+	{
+		"default"		">> You have successfully saved our new village <<"
+		"ru"		">> Вы успешно спасли нашу новую деревню <<"
+	}
+	">> Congratulation ! <<"
+	{
+		"default"		">> Congratulation ! <<"
+		"ru"		">> Поздравляем ! <<"
+	}
+	">> You beat the map ! <<"
+	{
+		"default"		">> You beat the map ! <<"
+		"ru"		">> Вы прошли карту ! <<"
+	}
+	">> Play ShroomForest2 to continue the adventure <<"
+	{
+		"default"		">> Play ShroomForest2 to continue the adventure <<"
+		"ru"		">> Сыграйте в ShroomForest2 для продолжения истории <<"
+	}
+	">> Quick ZM Mod <<"
+	{
+		"default"		">> Quick ZM Mod <<"
+		"ru"		">> Быстрый Зомби-режим<<"
+	}
+	">> Find a place to hold and survive 1 minute and 30 seconds! <<"
+	{
+		"default"		">> Find a place to hold and survive 1 minute and 30 seconds! <<"
+		"ru"		">> Найдите место и продержитесь в течение 1 минуты и 30 секунд! <<"
+	}
+	">> Map will reset after this current round <<"
+	{
+		"default"		">> Map will reset after this current round <<"
+		"ru"		">> Карта будет сброшена после этого раунда <<"
+	}
+	">> 60 seconds left <<"
+	{
+		"default"		">> 60 seconds left <<"
+		"ru"		">> Осталось 60 секунд <<"
+	}
+	">> 5 seconds left <<"
+	{
+		"default"		">> 5 seconds left <<"
+		"ru"		">> Осталось 5 секунд <<"
+	}
+	">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
+		"ru"		">> ИГРОК ВЫБРАЛ: ПЛОСКАЯ ТРАВА <<"
+	}
+	">> RESTARTING ROUND IN 5 SECONDS <<"
+	{
+		"default"		">> RESTARTING ROUND IN 5 SECONDS <<"
+		"ru"		">> ПЕРЕЗАПУСК РАУНДА ЧЕРЕЗ 5 СЕКУНД <<"
+	}
+	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
+		"ru"		">> ИГРОК ВЫБРАЛ: БОЛЬШОЕ ДЕРЕВО <<"
+	}
+	">> PLAYER HAS CHOSEN: HELL NORMAL <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN: HELL NORMAL <<"
+		"ru"		">> ИГРОК ВЫБРАЛ: АД <<"
+	}
+	">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
+		"ru"		">> ИГРОК ВЫБРАЛ: ПЛОСКАЯ ТРАВА - ЭКСТРИМ <<"
+	}
+	">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
+		"ru"		">> ИГРОК ВЫБРАЛ: БОЛЬШОЕ ДЕРЕВО - ЭКСТРИМ <<"
+	}
+	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
+	{
+		"default"		">> PLAYER HAS CHOSEN: HELL EXTREME <<"
+		"ru"		">> ИГРОК ВЫБРАЛ: АД - ЭКСТРИМ <<"
 	}
 }
