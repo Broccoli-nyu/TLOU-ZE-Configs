@@ -18,7 +18,7 @@
 	"** TIP: one player must touch the closed door to trigger **"
 	{
 		"default"		"** TIP: one player must touch the closed door to trigger **"
-		"ru"		"** СОВЕТ: Один игрок должен прикоснуться к закрытой двери, чтобы вызвать триггер **"
+		"ru"		"** СОВЕТ: Один игрок должен прикоснуться к закрытой двери, чтобы дать триггер **"
 	}
 	"** WARM UP - 30 SEC **"
 	{
@@ -28,7 +28,7 @@
 	"** TIP: most zombie teleports are quick so do not overdefend! **"
 	{
 		"default"		"** TIP: most zombie teleports are quick so do not overdefend! **"
-		"ru"		"** СОВЕТ: Большинство зомби-телепортов срабатывают быстро, так что не переусердствуйте в обороне! **"
+		"ru"		"** СОВЕТ: Большинство зомби телепортов срабатывают быстро, так что не переусердствуйте в обороне! **"
 	}
 	"** WARM UP - 20 SEC **"
 	{
@@ -63,12 +63,12 @@
 	"** Left fence is breaking in 30s **"
 	{
 		"default"		"** Left fence is breaking in 30s **"
-		"ru"		"** Решётка слева откроется через 30сек **"
+		"ru"		"** Решётка слева сломается через 30с **"
 	}
 	"** Door is opening in 40s **"
 	{
 		"default"		"** Door is opening in 40s **"
-		"ru"		"** Дверь откроется через 40сек **"
+		"ru"		"** Дверь откроется через 40с **"
 	}
 	"** Find and press TWO buttons **"
 	{
@@ -93,12 +93,12 @@
 	"** Door is opening in 20s **"
 	{
 		"default"		"** Door is opening in 20s **"
-		"ru"		"** Дверь откроется через 20сек **"
+		"ru"		"** Дверь откроется через 20с **"
 	}
 	"** Door is opening in 35s **"
 	{
 		"default"		"** Door is opening in 35s **"
-		"ru"		"** Дверь откроется через 35сек **"
+		"ru"		"** Дверь откроется через 35с **"
 	}
 	"** It's seems the door is locked **"
 	{
@@ -118,7 +118,7 @@
 	"** Nicely done! The door is going to unlock! **"
 	{
 		"default"		"** Nicely done! The door is going to unlock! **"
-		"ru"		"** Хорошая работа! Дверь готовится к открытию! **"
+		"ru"		"** Хорошая работа! Дверь скоро откроется! **"
 	}
 	"** JUMP! **"
 	{
@@ -128,12 +128,12 @@
 	"** Door is opening in 25s **"
 	{
 		"default"		"** Door is opening in 25s **"
-		"ru"		"** Дверь откроется через 25сек **"
+		"ru"		"** Дверь откроется через 25с **"
 	}
 	"** Door is closing in 10s **"
 	{
 		"default"		"** Door is closing in 10s **"
-		"ru"		"** Дверь откроется через 10сек **"
+		"ru"		"** Дверь откроется через 10с **"
 	}
 	"** Divine Tears - crouch **"
 	{
@@ -143,7 +143,7 @@
 	"** Ricochet - jump **"
 	{
 		"default"		"** Ricochet - jump **"
-		"ru"		"** Рикошет - Прыгните **"
+		"ru"		"** Рикошет - прыгните **"
 	}
 	"** Ricochet **"
 	{
@@ -168,17 +168,17 @@
 	"** Door is opening in 30s **"
 	{
 		"default"		"** Door is opening in 30s **"
-		"ru"		"** Дверь откроется через 30сек **"
+		"ru"		"** Дверь откроется через 30с **"
 	}
 	"** Air-strike is incoming **"
 	{
 		"default"		"** Air-strike is incoming **"
-		"ru"		"** Авиаудар приближается **"
+		"ru"		"** Скоро будет авиаудар **"
 	}
 	"** Survive 60s **"
 	{
 		"default"		"** Survive 60s **"
-		"ru"		"** Выживайте в течение 60сек **"
+		"ru"		"** Выживайте в течение 60с **"
 	}
 	"** Kill all weakened zombies **"
 	{
@@ -198,22 +198,22 @@
 	"** Right fence is breaking in 30s **"
 	{
 		"default"		"** Right fence is breaking in 30s **"
-		"ru"		"** Решётка справа откроется через 30сек **"
+		"ru"		"** Решётка справа сломается через 30с **"
 	}
 	"** Gate is opening in 25s **"
 	{
 		"default"		"** Gate is opening in 25s **"
-		"ru"		"** Ворота откроются через 25сек **"
+		"ru"		"** Ворота откроются через 25с **"
 	}
 	"** It seems.. left flame, right fruit.. ? **"
 	{
 		"default"		"** It seems.. left flame, right fruit.. ? **"
-		"ru"		"** Кажется.. пламя слева, фрукт справа.. ? **"
+		"ru"		"** Кажется... пламя слева, фрукт справа... ? **"
 	}
 	"** Door is opening in 10s **"
 	{
 		"default"		"** Door is opening in 10s **"
-		"ru"		"** Дверь откроется через 10сек **"
+		"ru"		"** Дверь откроется через 10с **"
 	}
 	"** Find two key items!! **"
 	{
@@ -228,12 +228,12 @@
 	"** ADMIN SELECTED ZM MODE **"
 	{
 		"default"		"** ADMIN SELECTED ZM MODE **"
-		"ru"		"** АДМИН ВЫБРАЛ ЗОМБИ-РЕЖИМ **"
+		"ru"		"** АДМИН ВЫБРАЛ РЕЖИМ ЗОМБИ **"
 	}
 	"** ZM MODE **"
 	{
 		"default"		"** ZM MODE **"
-		"ru"		"** ЗОМБИ-РЕЖИМ **"
+		"ru"		"** РЕЖИМ ЗОМБИ **"
 	}
 	"** Do not follow ZE path! Survive until nuke! **"
 	{
@@ -263,12 +263,12 @@
 	"** Pit is opening in 40s **"
 	{
 		"default"		"** Pit is opening in 40s **"
-		"ru"		"** Яма откроется через 40сек **"
+		"ru"		"** Яма откроется через 40с **"
 	}
 	"** Defend 20s **"
 	{
 		"default"		"** Defend 20s **"
-		"ru"		"** Защищайтесь 20сек **"
+		"ru"		"** Защищайтесь 20с **"
 	}
 	"** Boss enrage in THREE minutes **"
 	{
@@ -298,12 +298,12 @@
 	"** Gate is opening in 40s **"
 	{
 		"default"		"** Gate is opening in 40s **"
-		"ru"		"** Ворота откроются через 40сек **"
+		"ru"		"** Ворота откроются через 40с **"
 	}
 	"** Rock is breaking in 10s **"
 	{
 		"default"		"** Rock is breaking in 10s **"
-		"ru"		"** Камень сломается через 10сек **"
+		"ru"		"** Камень сломается через 10с **"
 	}
 	"** Press TWO buttons on both sides **"
 	{
@@ -328,17 +328,17 @@
 	"** Door is opening in 40s *"
 	{
 		"default"		"** Door is opening in 40s *"
-		"ru"		"** Дверь откроется через 40сек *"
+		"ru"		"** Дверь откроется через 40с **"
 	}
 	"** Door is opening in 15s **"
 	{
 		"default"		"** Door is opening in 15s **"
-		"ru"		"** Дверь откроется через 15сек *"
+		"ru"		"** Дверь откроется через 15с **"
 	}
 	"** Helicopter is leaving 10s **"
 	{
 		"default"		"** Helicopter is leaving 10s **"
-		"ru"		"** Вертолет улетит через 10сек **"
+		"ru"		"** Вертолет улетит через 10с **"
 	}
 	"** MOVING ON TO STAGE 3 **"
 	{
@@ -393,7 +393,7 @@
 	"** Maze exit is opening in 35s **"
 	{
 		"default"		"** Maze exit is opening in 35s **"
-		"ru"		"** Выход из лабиринта откроется через 35сек **"
+		"ru"		"** Выход из лабиринта откроется через 35с **"
 	}
 	"** Elevator is leaving in 20s **"
 	{
@@ -403,7 +403,7 @@
 	"** Zombie items are temporary disabled **"
 	{
 		"default"		"** Zombie items are temporary disabled **"
-		"ru"		"** Зомби-материи временно отключены **"
+		"ru"		"** Способности у зомби временно отключены **"
 	}
 	"** Dancing Claw **"
 	{
@@ -438,17 +438,17 @@
 	"** Maze exit is opening in 10s **"
 	{
 		"default"		"** Maze exit is opening in 10s **"
-		"ru"		"** Выход из лабиринта откроется через 10сек **"
+		"ru"		"** Выход из лабиринта откроется через 10с **"
 	}
 	"** Exit door is opening in 10s **"
 	{
 		"default"		"** Exit door is opening in 10s **"
-		"ru"		"** Дверь откроется через 10сек **"
+		"ru"		"** Выход откроется через 10с **"
 	}
 	"** DODGE THE LASERS AND KILL THE BOSS **"
 	{
 		"default"		"** DODGE THE LASERS AND KILL THE BOSS **"
-		"ru"		"** УБЕЙТЕ БОССА УКЛОНЯЯСЬ ОТ ЛАЗЕРОВ **"
+		"ru"		"** УКЛОНЯЙТЕСЬ ОТ ЛАЗЕРОВ И УБЕЙТЕ БОССА **"
 	}
 	"** HE IS DEAD! RUN FOR YOUR LYFE! **"
 	{
@@ -458,7 +458,7 @@
 	"** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **"
 	{
 		"default"		"** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **"
-		"ru"		"** Все те, кто зашел на босса и пережил лазеры в течение 5 секунд, получили 1000 очков **"
+		"ru"		"** Все, кто зашел на босса и пережил лазеры в течение 5 секунд, получили 1000 очков **"
 	}
 	"** GO LEFT **"
 	{
@@ -523,7 +523,7 @@
 	"** Nuke is incoming **"
 	{
 		"default"		"** Nuke is incoming **"
-		"ru"		"** Взрыв приближается **"
+		"ru"		"** Сейчас всё взорвётся! **"
 	}
 	"** Thanks for playing **"
 	{
