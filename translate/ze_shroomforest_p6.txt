@@ -58,7 +58,7 @@
 	">> PLAYER HAS PICKED UP ICE <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP ICE <<"
-		"ru"		">> ИГРОК ПОДОБРАЛ ЛЕД <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ЛЁД <<"
 	}
 	"*** WAIT TILL THAT WALL BREAKS ***"
 	{
@@ -88,17 +88,17 @@
 	"*** Leaf 1 leaving in 7 seconds ***"
 	{
 		"default"		"*** Leaf 1 leaving in 7 seconds ***"
-		"ru"		"*** Лист 1 уплывет через 7 секунд ***"
+		"ru"		"*** Лист 1 уплывёт через 7 секунд ***"
 	}
 	"*** Leaf 2 leaving in 7 seconds ***"
 	{
 		"default"		"*** Leaf 2 leaving in 7 seconds ***"
-		"ru"		"*** Лист 2 уплывет через 7 секунд ***"
+		"ru"		"*** Лист 2 уплывёт через 7 секунд ***"
 	}
 	">> HOLD FOR 30 seconds <<"
 	{
 		"default"		">> HOLD FOR 30 seconds <<"
-		"ru"		">> ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 30 СЕКУНД <<"
+		"ru"		">> ПРОДЕРЖИТЕСЬ В ТЕЧЕНИЕ 30 секунд <<"
 	}
 	">> ALL 6 MINES USED <<"
 	{
@@ -113,7 +113,7 @@
 	">> GO! GO! GO! <<"
 	{
 		"default"		">> GO! GO! GO! <<"
-		"ru"		">> Бегите! <<"
+		"ru"		">> БЕГИТЕ! <<"
 	}
 	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
@@ -123,7 +123,7 @@
 	"*** OH NO Its an EVIL BUTTERFLY ***"
 	{
 		"default"		"*** OH NO Its an EVIL BUTTERFLY ***"
-		"ru"		"*** О НЕТ, ЭТО ЗЛАЯ БАБОЧКА ***"
+		"ru"		"*** О НЕТ, Это ЗЛАЯ БАБОЧКА ***"
 	}
 	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
 	{
@@ -133,12 +133,12 @@
 	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
 	{
 		"default"		"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
-		"ru"		"*** БАБОЧКА УМЕРЛА, СПАСЕНИЕ ПРИБЛИЖАЕТСЯ ***"
+		"ru"		"*** БАБОЧКА УМЕРЛА, СКОРО ПРИБУДЕТ СПАСЕНИЕ ***"
 	}
 	">> BUTTERFLY LEAVING IN 10 seconds <<"
 	{
 		"default"		">> BUTTERFLY LEAVING IN 10 seconds <<"
-		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 10 СЕКУНД <<"
+		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 10 секунд <<"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
@@ -158,12 +158,12 @@
 	"*** HOLD FOR 10 seconds ***"
 	{
 		"default"		"*** HOLD FOR 10 seconds ***"
-		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 10 СЕКУНД ***"
+		"ru"		"*** ПРОДЕРЖИТЕСЬ В ТЕЧЕНИЕ 10 секунд ***"
 	}
 	"*** HOLD FOR 20 seconds ***"
 	{
 		"default"		"*** HOLD FOR 20 seconds ***"
-		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 20 СЕКУНД ***"
+		"ru"		"*** ПРОДЕРЖИТЕСЬ В ТЕЧЕНИЕ 20 секунд ***"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
@@ -173,7 +173,7 @@
 	"*** HOLD FOR 40 seconds ***"
 	{
 		"default"		"*** HOLD FOR 40 seconds ***"
-		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 40 СЕКУНД ***"
+		"ru"		"*** ПРОДЕРЖИТЕСЬ В ТЕЧЕНИЕ 40 секунд ***"
 	}
 	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
@@ -183,7 +183,7 @@
 	"*** HOLD FOR 5 seconds ***"
 	{
 		"default"		"*** HOLD FOR 5 seconds ***"
-		"ru"		"*** ДЕРЖИТЕСЬ ЕЩЕ 5 СЕКУНД ***"
+		"ru"		"*** ПРОДЕРЖИТЕСЬ ЕЩЕ 5 секунд ***"
 	}
 	"*** GO GO GO!!!! ***"
 	{
@@ -193,17 +193,17 @@
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"default"		"*** ELEVATOR LEAVING IN 20 seconds ***"
-		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 20 СЕКУНД ***"
+		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 20 секунд ***"
 	}
 	"*** ELEVATOR LEAVING IN 10 seconds ***"
 	{
 		"default"		"*** ELEVATOR LEAVING IN 10 seconds ***"
-		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 10 СЕКУНД ***"
+		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 10 секунд ***"
 	}
 	"*** ELEVATOR LEAVING IN 5 seconds ***"
 	{
 		"default"		"*** ELEVATOR LEAVING IN 5 seconds ***"
-		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 5 СЕКУНД ***"
+		"ru"		"*** ЛИФТ УЕДЕТ ЧЕРЕЗ 5 секунд ***"
 	}
 	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
 	{
@@ -213,7 +213,7 @@
 	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
 	{
 		"default"		">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
-		"ru"		">> ЛЮДИ ВЫЙДИТЕ ИЗ ЛИФТА, ИНАЧЕ ВЫ БУДЕТЕ НАКАЗАНЫ <<"
+		"ru"		">> ЛЮДИ, ВЫЙДИТЕ ИЗ ЛИФТА, ИНАЧЕ ВЫ БУДЕТЕ НАКАЗАНЫ <<"
 	}
 	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
 	{
@@ -223,12 +223,12 @@
 	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	{
 		"default"		"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
-		"ru"		"*** ПИКАЧУ МЕРТВ!! БЕГИТЕ К СПАСИТЕЛЬНОЙ БАБОЧКЕ ***"
+		"ru"		"*** ПИКАЧУ МЕРТВ!! БЕГИТЕ К СПАСАТЕЛЬНОЙ БАБОЧКЕ ***"
 	}
 	">> BUTTERFLY LEAVING IN 15 seconds <<"
 	{
 		"default"		">> BUTTERFLY LEAVING IN 15 seconds <<"
-		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 15 СЕКУНД <<"
+		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 15 секунд <<"
 	}
 	">> LEVEL: HELL <<"
 	{
@@ -243,7 +243,7 @@
 	"*** HOLD FOR 30 seconds ***"
 	{
 		"default"		"*** HOLD FOR 30 seconds ***"
-		"ru"		"*** ДЕРЖИТЕСЬ В ТЕЧЕНИЕ 30 СЕКУНД ***"
+		"ru"		"*** ПРОДЕРЖИТЕСЬ В ТЕЧЕНИЕ 30 секунд ***"
 	}
 	"*** DOOR IS OPEN! RUUUN! ***"
 	{
@@ -263,7 +263,7 @@
 	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
 	{
 		"default"		">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
-		"ru"		">> НАВЕРНОЕ ОН ГДЕ-ТО В КОРОБКАХ, НАХОДЯЩИХСЯ В БОКОВЫХ КОМНАТАХ <<"
+		"ru"		">> ОН, НАВЕРНО, ГДЕ-ТО В КОРОБКАХ, НАХОДЯЩИХСЯ В БОКОВЫХ КОМНАТАХ <<"
 	}
 	"*** PLAYER FOUND A KEY ***"
 	{
@@ -283,7 +283,7 @@
 	"*** THROW GRENADES TO KILL IT EASIER ***"
 	{
 		"default"		"*** THROW GRENADES TO KILL IT EASIER ***"
-		"ru"		"*** КИДАЙТЕ ГРАНАТЫ, ЧТОБЫ ПРОЩЕ ЕГО УБИТЬ ***"
+		"ru"		"*** КИДАЙТЕ ГРАНАТЫ, ВАМ БУДЕТ ПРОЩЕ ЕГО УБИТЬ ***"
 	}
 	"*** SATAN IS PREPARING TO ATTACK ***"
 	{
@@ -318,27 +318,27 @@
 	">> EXTREME MODE ADDED <<"
 	{
 		"default"		">> EXTREME MODE ADDED <<"
-		"ru"		">> ДОБАВЛЕН ЭКСТРА.РЕЖИМ <<"
+		"ru"		">> ДОБАВЛЕН УСЛОЖНЁННЫЙ РЕЖИМ <<"
 	}
 	">> BOSSES ON LEVEL II <<"
 	{
 		"default"		">> BOSSES ON LEVEL II <<"
-		"ru"		">> БОССЫ УРОВНЯ 2 <<"
+		"ru"		">> БОССЫ СТАЛИ 2 УРОВНЯ <<"
 	}
 	"*** HOLD FOR ABOUT 30 SECONDS ***"
 	{
 		"default"		"*** HOLD FOR ABOUT 30 SECONDS ***"
-		"ru"		"*** ДЕРЖИТЕСЬ ОКОЛО 30 СЕКУНД ***"
+		"ru"		"*** ПРОДЕРЖИТЕСЬ ОКОЛО 30 СЕКУНД ***"
 	}
 	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
 	{
 		"default"		"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
-		"ru"		"*** ИДИТЕ И НАЖМИТЕ 2 КНОПКИ ОДНОВРЕМЕННО, ЧТОБЫ ПРОЙТИ ДАЛЬШЕ ***"
+		"ru"		"*** НАЖМИТЕ 2 КНОПКИ ОДНОВРЕМЕННО, ЧТОБЫ ПРОЙТИ ДАЛЬШЕ ***"
 	}
 	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
 	{
 		"default"		"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
-		"ru"		"*** ХОРОШЕНЬКО ЗАЩИЩАЙТЕСЬ В ТЕЧЕНИЕ 10 СЕКУНД ***"
+		"ru"		"*** ОТЛИЧНО, ПРОДЕРЖИТЕСЬ ЕЩЁ 10 СЕКУНД ***"
 	}
 	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
 	{
@@ -363,7 +363,7 @@
 	">> DITTO IS USING WATER... SOMETHING <<"
 	{
 		"default"		">> DITTO IS USING WATER... SOMETHING <<"
-		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ВОДНОЕ... ЧТО-ТО <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ЧТО-ТО... ВОДНОЕ  <<"
 	}
 	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
 	{
@@ -373,7 +373,7 @@
 	">> DITTO IS USING SOMETHING... FUNNY? <<"
 	{
 		"default"		">> DITTO IS USING SOMETHING... FUNNY? <<"
-		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ЧТО-ТО... ВЕСЕЛОЕ? <<"
+		"ru"		">> ДИТТО ИСПОЛЬЗУЕТ ЧТО-ТО... ВЕСЁЛОЕ? <<"
 	}
 	">> AND IT'S NOT VERY EFFECTIVE!!!! <<"
 	{
@@ -393,12 +393,12 @@
 	">> BUTTERFLY LEAVING IN 30 seconds <<"
 	{
 		"default"		">> BUTTERFLY LEAVING IN 30 seconds <<"
-		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 30 СЕКУНД <<"
+		"ru"		">> БАБОЧКА УЛЕТИТ ЧЕРЕЗ 30 секунд <<"
 	}
 	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
-		"ru"		">> ИГРОК ПОДОБРАЛ АБСОЛЮТНОЕ ОРУЖИЕ <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ УЛЬТИМАТИВНОЕ ОРУЖИЕ <<"
 	}
 	"*** OH NO!! ITS DRAGON!! ***"
 	{
@@ -423,7 +423,7 @@
 	">> You have succesfully saved Shroomforest <<"
 	{
 		"default"		">> You have succesfully saved Shroomforest <<"
-		"ru"		">> Вы успешно спасли Шрумфорест <<"
+		"ru"		">> Вы успешно спасли Грибной Лес <<"
 	}
 	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
 	{
@@ -448,32 +448,32 @@
 	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"default"		"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
-		"ru"		"*** У ВАС ЕСТЬ 60 СЕКУНД ДЛЯ ЭТОГО, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+		"ru"		"*** У ВАС ЕСТЬ 60 СЕКУНД ДЛЯ ЭТОГО, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЁТ ВЗРЫВ ***"
 	}
 	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"default"		"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
-		"ru"		"*** У ВАС ЕСТЬ 45 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+		"ru"		"*** У ВАС ЕСТЬ 45 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЁТ ВЗРЫВ ***"
 	}
 	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"default"		"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
-		"ru"		"*** У ВАС ЕСТЬ 30 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+		"ru"		"*** У ВАС ЕСТЬ 30 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЁТ ВЗРЫВ ***"
 	}
 	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"default"		"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
-		"ru"		"*** У ВАС ЕСТЬ 15 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+		"ru"		"*** У ВАС ЕСТЬ 15 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЁТ ВЗРЫВ ***"
 	}
 	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"default"		"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
-		"ru"		"*** У ВАС ЕСТЬ 10 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+		"ru"		"*** У ВАС ЕСТЬ 10 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЁТ ВЗРЫВ ***"
 	}
 	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
 		"default"		"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
-		"ru"		"*** У ВАС ЕСТЬ 5 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЕТ ВЗРЫВ ***"
+		"ru"		"*** У ВАС ЕСТЬ 5 СЕКУНД, ПРЕЖДЕ ЧЕМ ПРОИЗОЙДЁТ ВЗРЫВ ***"
 	}
 	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
 	{
@@ -483,7 +483,7 @@
 	">> NUKE INCOMING IN 5 SECONDS <<"
 	{
 		"default"		">> NUKE INCOMING IN 5 SECONDS <<"
-		"ru"		">> ВЗРЫВ ПРОИЗОЙДЕТ ЧЕРЕЗ 5 СЕКУНД <<"
+		"ru"		">> ВЗРЫВ ПРОИЗОЙДЁТ ЧЕРЕЗ 5 СЕКУНД <<"
 	}
 	">> LEVEL: A NEW BEGINNING <<"
 	{
@@ -493,7 +493,7 @@
 	"*** THE ELEVATOR WILL FALL DOWN !!! ***"
 	{
 		"default"		"*** THE ELEVATOR WILL FALL DOWN !!! ***"
-		"ru"		"*** ЛИФТ УПАДЕТ !!! ***"
+		"ru"		"*** ЛИФТ УПАДЁТ !!! ***"
 	}
 	"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
 	{
@@ -528,7 +528,7 @@
 	"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
 	{
 		"default"		"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
-		"ru"		"*** НАЙДИТЕ СПОСОБ ЗАКРЫТЬ ДОСТУП ИЗ ЛИФТА ***"
+		"ru"		"*** НАЙДИТЕ СПОСОБ ЗАКРЫТЬ ПРОХОД К ЛИФТУ ***"
 	}
 	"*** DONT LET ANY ZOMBIE ENTER !! ***"
 	{
@@ -538,7 +538,7 @@
 	">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
 	{
 		"default"		">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
-		"ru"		">> ИГРОК ПОДОБРАЛ ЗУБЧАТЫЙ МЕХАНИЗМ <<"
+		"ru"		">> ИГРОК ПОДОБРАЛ ШЕСТЕРЁНКУ <<"
 	}
 	">> GOOD JOB <<"
 	{
@@ -548,7 +548,7 @@
 	">> THE GRID SHOULD START TO CLOSE <<"
 	{
 		"default"		">> THE GRID SHOULD START TO CLOSE <<"
-		"ru"		">> РЕШЕТКА ДОЛЖНА НАЧАТЬ ЗАКРЫВАТЬСЯ <<"
+		"ru"		">> РЕШЕТКА СЕЙЧАС НАЧНЁТ ЗАКРЫВАТЬСЯ <<"
 	}
 	">> You have successfully saved our new village <<"
 	{
@@ -573,7 +573,7 @@
 	">> Quick ZM Mod <<"
 	{
 		"default"		">> Quick ZM Mod <<"
-		"ru"		">> Быстрый Зомби-режим<<"
+		"ru"		">> Быстрый режим Зомби<<"
 	}
 	">> Find a place to hold and survive 1 minute and 30 seconds! <<"
 	{

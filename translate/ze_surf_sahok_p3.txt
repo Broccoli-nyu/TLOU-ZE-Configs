@@ -13,12 +13,12 @@
 	"**Elevator is leaving in 35s**"
 	{
 		"default"		"**Elevator is leaving in 35s**"
-		"ru"		"**Лифт уедет через 35сек**"
+		"ru"		"**Лифт уедет через 35с**"
 	}
 	"**Elevator is leaving in 5s**"
 	{
 		"default"		"**Elevator is leaving in 5s**"
-		"ru"		"**Лифт уедет через 5сек**"
+		"ru"		"**Лифт уедет через 5с**"
 	}
 	"**Boat will arrive in 30 seconds**"
 	{
@@ -28,12 +28,12 @@
 	"** Boss Fight in 10s **"
 	{
 		"default"		"** Boss Fight in 10s **"
-		"ru"		"** Битва с Боссом через 10сек **"
+		"ru"		"** Битва с Боссом через 10с **"
 	}
 	"** Boss Fight in 5s **"
 	{
 		"default"		"** Boss Fight in 5s **"
-		"ru"		"** Битва с Боссом через 5сек **"
+		"ru"		"** Битва с Боссом через 5с **"
 	}
 	"** Nades do more damage **"
 	{
