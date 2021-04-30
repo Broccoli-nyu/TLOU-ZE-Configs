@@ -573,7 +573,7 @@
 	">> Quick ZM Mod <<"
 	{
 		"default"		">> Quick ZM Mod <<"
-		"ru"		">> Быстрый режим Зомби<<"
+		"ru"		">> Быстрый режим Зомби <<"
 	}
 	">> Find a place to hold and survive 1 minute and 30 seconds! <<"
 	{
@@ -583,7 +583,7 @@
 	">> Map will reset after this current round <<"
 	{
 		"default"		">> Map will reset after this current round <<"
-		"ru"		">> Карта будет сброшена после этого раунда <<"
+		"ru"		">> Прогресс на карте будет сброшен после этого раунда <<"
 	}
 	">> 60 seconds left <<"
 	{
